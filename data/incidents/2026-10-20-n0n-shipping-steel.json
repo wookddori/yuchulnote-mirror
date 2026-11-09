@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "조직이 10월 13일 공격, 10월 20일 유출 사이트에 일부 자료 게시했다고 주장(기사 기재). 진위는 기사에서 확인되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "12곳 동시 공격 주장, 협상 기한 19일(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "유출 사이트에 다운로드 가능한 자료 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "사업계획·선박일정·계약 자료",
+ "leaked_items_text": "철강사: 업무 자료, 소프트웨어 구성요소 등. 해운사: 사업 계획, 실적, 수출 데이터, 선박 일정 등 엑셀 파일. 일부 샘플에 업무용 이메일 주소와 계좌번호 포함이라는 보도도 있음(기사 기재)",
+ "notices": [],
+ "org_name": "국내 해운·철강 기업 12곳(N0n 랜섬웨어 조직 주장)",
+ "reported_date": "2026-10-20",
+ "response_text": "HMM은 유출이 없었다는 입장. 싸이버로지텍은 고객사 솔루션 망이 분리되어 문제없다고 설명(기사 기재)",
+ "scale_short": "12곳(조직 주장)",
+ "scale_text": "12곳 대상, 공개분은 전체 반출 데이터의 첫 번째 공개분이라고 조직 주장(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-20-n0n-shipping-steel",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "국내 해운·철강사 12곳 공격했던 해커, 탈취 데이터 공개",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=146549"
+  },
+  {
+   "publisher": "현대경제신문",
+   "title": "랜섬웨어 조직 N0n, 해운사 내부자료 공개 IT 공급망 보안 경고등",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=264259"
+  }
+ ],
+ "target_text": "국내 철강, 해운·항만 기업 12곳(기사 기재)",
+ "title": "랜섬웨어 조직 N0n, 해운·철강 기업 12곳 탈취 자료 공개",
+ "updated_at": "2026-11-09T09:55:55Z"
+}

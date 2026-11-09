@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-22",
+ "confirmed_text": "10월 19일 오후 관리자 사이트 비정상 접근 발생, 22일 사과문으로 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "관리자 사이트 비정상 접근 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "사과문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·아이디·연락처·이메일",
+ "leaked_items_text": "이름, 아이디, 휴대전화번호, 집전화번호, 직장 전화번호, 이메일 주소(기사 기재)",
+ "notices": [],
+ "org_name": "코베이옥션",
+ "reported_date": "2026-10-22",
+ "response_text": "접근 정보 차단, 보안 조치와 조사 진행, 의심 문자 주의 및 비밀번호 변경 당부(기사 기재)",
+ "scale_short": "회원 전체 목록(인원 미공개)",
+ "scale_text": "회원정보 전체 목록 조회, 인원 수는 기사에 없음. 외부 반출 여부 조사 중(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-22-kobay-auction",
+ "sources": [
+  {
+   "publisher": "뉴스티앤티",
+   "title": "대형 쇼핑몰, 금융권에 이어 코베이옥션도 뚫렸다",
+   "url": "https://www.newstnt.com/news/articleView.html?idxno=724489"
+  }
+ ],
+ "target_text": "회원(기사 기재)",
+ "title": "관리자 사이트 비정상 접근으로 회원정보 목록 조회",
+ "updated_at": "2026-11-09T09:55:56Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-23",
+ "confirmed_text": "10월 23일 불법 침입 확인 후 차단, 10월 25일 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-21",
+   "date_text": "10.21~10.23",
+   "label": "회원정보 DB 외부 접근 가능했던 기간(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "불법 침입 확인 및 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-25",
+   "date_text": "10.25",
+   "label": "공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·검사 이용내역 등",
+ "leaked_items_text": "개인: 아이디, 암호화된 비밀번호, 이름, 연락처, 이메일, 주소, 생년월일. 기업·기관: 기업명, 사업자등록번호, 주소, 전화번호. 검사 신청·이용 내역, 검사지 배송 정보. 주민등록번호는 수집하지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "림스연구소",
+ "reported_date": "2026-11-02",
+ "response_text": "악성파일 삭제, 침입 경로 차단, 접속 비밀번호 교체, 취약점 보완, KISA 등 신고, 접근 기록 분석(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "영향 인원 비공개, 실제 반출 흔적은 확인되지 않았고 범위 조사 중(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-02-lims-institute",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "림스연구소 해킹 확인, 회원 개인 정보·검사 이용 정보 유출 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209242"
+  }
+ ],
+ "target_text": "개인 회원, 기업·기관 회원(기사 기재)",
+ "title": "홈페이지 취약점 통한 외부 접근, 회원정보 유출 가능성",
+ "updated_at": "2026-11-09T09:55:53Z"
+}

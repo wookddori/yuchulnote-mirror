@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-27",
+ "confirmed_text": "10월 27일 허위 결제 전액 취소와 접근 차단, KISA 신고, 10월 30일 고객사에 서면 답변(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-27",
+   "date_text": "10.27",
+   "label": "허위 결제 취소, 접근 차단, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "고객사에 서면 답변 발송(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "담당자 정보·마스킹 카드정보",
+ "leaked_items_text": "담당자 이름, 이메일, 전화번호, 직책, 주소, 마스킹된 카드번호와 카드사 정보, 청구 정보. 법인카드 포함. 전체 카드번호 조회 시도는 모두 실패했다고 회사 설명(기사 기재)",
+ "notices": [],
+ "org_name": "고위드",
+ "reported_date": "2026-11-02",
+ "response_text": "허위 결제 전액 취소, 비정상 IP·취약 API 경로·결제 기능 차단, KISA 신고. 외부 기관 추가 조사 중, 보상안은 11월 중 확정 예정(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 고객사 수와 허위 결제 총액은 기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-11-02-gowith",
+ "sources": [
+  {
+   "publisher": "수원일보",
+   "title": "고객사 허위 결제·카드정보 유출 관련 고위드 침해사고",
+   "url": "https://www.suwonilbo.kr/view.html?id=L261102154710ca98"
+  }
+ ],
+ "target_text": "구글 워크스페이스 구독 서비스 고객사 담당자(기사 기재)",
+ "title": "취약 API·관리자 계정 악용, 허위 결제 및 카드정보 유출",
+ "updated_at": "2026-11-09T09:55:54Z"
+}

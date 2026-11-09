@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2024년 4월 인천영업센터에서 가맹점 대표자 정보가 카드모집인에게 넘어간 사실 드러남(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.04",
+   "label": "인천영업센터 가맹점 대표자 정보 유출 드러남(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.03",
+   "label": "개인정보보호위원회 과징금 134억5100만원 부과(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04",
+   "label": "금감원 신용정보법 위반 여부 중심 제재 수위 검토, 결정 전(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "가맹점 대표자 개인정보",
+ "leaked_items_text": "가맹점 대표자 개인정보, 카드모집인에게 전달되어 동의 없이 마케팅에 활용(기사 기재)",
+ "notices": [],
+ "org_name": "우리카드",
+ "reported_date": "2026-04-13",
+ "response_text": "개인정보 반출 시 이중 승인 절차 도입, 성과보수 체계에 정보보호 항목 반영(기사 기재). 금감원이 신용정보법 위반 여부 중심으로 제재 수위 검토 중이며 결정은 나오지 않음(기사 기재)",
+ "scale_short": "약 7만5천명",
+ "scale_text": "약 7만5000명(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-04-13-woori-card",
+ "sources": [
+  {
+   "publisher": "토요경제",
+   "title": "카드사 제재 도미노 현실화…롯데 이어 우리·신한까지 줄줄이",
+   "url": "https://sateconomy.co.kr/news/view/1065571925287389"
+  }
+ ],
+ "target_text": "가맹점 대표자(기사 기재)",
+ "title": "가맹점 대표자 정보 카드모집인 유출, 금감원 제재 검토",
+ "updated_at": "2026-11-09T09:55:51Z"
+}

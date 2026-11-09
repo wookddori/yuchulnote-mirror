@@ -103,11 +103,18 @@ a:focus-visible, button:focus-visible, input:focus-visible {
 .minstats b { color: var(--fg); font-weight: 800; margin-left: 3px; }
 .fresh-time { font-size: 13px; }
 /* 제목 오른쪽에 요약 수치를 두고(넓은 화면), 좁은 화면에서는 제목 아래로 내려 왼쪽 정렬한다. */
-.hero-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 24px; margin: 0 0 14px; }
+.hero-head { display: flex; flex-wrap: wrap; align-items: flex-end; justify-content: space-between; gap: 8px 20px; margin: 0 0 14px; }
 .hero-head h1 { flex: 1 1 300px; margin: 0; }
-.hero-head .minstats { flex: 0 1 auto; justify-content: flex-end; text-align: right; margin: 0; gap: 4px 16px; line-height: 1.5; }
-.hero-head .fresh-time { flex-basis: 100%; }
-@media (max-width: 560px) {
+.hero-head .minstats { flex: 0 1 auto; justify-content: flex-end; text-align: right; margin: 0; gap: 2px 14px; line-height: 1.5; font-size: 13px; }
+.hero-head .minstats > span { white-space: nowrap; }
+.hero-head .fresh-time { flex-basis: 100%; font-size: 12px; }
+/* 데스크톱·태블릿(700px 이상)에서는 제목과 요약 수치가 항상 한 줄에 놓이게 한다. 제목은 줄바꿈하지 않는다. */
+@media (min-width: 700px) {
+  .hero-head { flex-wrap: nowrap; }
+  .hero-head h1 { flex: 0 0 auto; font-size: 20px; white-space: nowrap; }
+  .hero-head .minstats { flex: 1 1 auto; min-width: 0; }
+}
+@media (max-width: 699px) {
   .hero-head .minstats { justify-content: flex-start; text-align: left; flex-basis: 100%; }
 }
 

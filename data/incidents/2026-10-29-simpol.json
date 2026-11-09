@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-22",
+ "confirmed_text": "10월 22일 무단 스크립트 삽입 확인, 10월 23일 홈페이지 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "무단 스크립트 삽입 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "홈페이지 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "개인정보 유출 정황은 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "심폴",
+ "reported_date": "2026-10-29",
+ "response_text": "악성코드 제거, 접근권한 변경, KISA 신고, 정밀 점검 중. 이용자에게 캐시 삭제·비밀번호 변경 등 안내(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "영향 범위와 규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-29-simpol",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 국내 최대 식물 전문 쇼핑몰 심폴 해킹 피해…악성 스크립트 삽입",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209170"
+  }
+ ],
+ "target_text": "쇼핑몰 이용자(기사 기재)",
+ "title": "쇼핑몰 웹사이트에 악성 스크립트 무단 삽입",
+ "updated_at": "2026-11-09T09:55:54Z"
+}

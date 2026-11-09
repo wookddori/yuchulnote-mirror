@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "랜섬웨어 조직의 주장만 있으며 사실 확인 전(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-05",
+   "date_text": "11.05",
+   "label": "인크랜섬이 유출 사이트에 두 기업 게시(조직 주장, 기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.06",
+   "label": "보안뉴스 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "계정·내부망·인증서 등(조직 주장)",
+ "leaked_items_text": "조직 주장: 사용자 계정 679개, 컴퓨터 계정 784개, 내부망 구성, 산업제어 접속 정보, 계약·견적 자료, 전자인증서, 여권·운전면허 이미지, 직원 주민등록번호 등(기사 기재). 기사는 주장의 진위를 확인하지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "파낙스 그룹·욱성화학",
+ "reported_date": "2026-11-06",
+ "response_text": "욱성화학 관계자는 관련 내용을 들은 바 없다고 답함. 파낙스 그룹 입장은 기사에 없음(기사 기재)",
+ "scale_short": "미공개(조직 주장)",
+ "scale_text": "조직이 샘플 이미지 18건 게시, 전체 규모는 기사에 없음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-06-pax-group-uksung-chemical",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "[단독] 랜섬웨어 조직 인크랜섬, 파낙스 그룹·욱성화학 해킹 주장",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147079"
+  }
+ ],
+ "target_text": "욱성화학 및 파낙스 그룹 계열 도메인 6개 등(조직 주장, 기사 기재)",
+ "title": "랜섬웨어 조직 인크랜섬, 파낙스 그룹·욱성화학 해킹 주장",
+ "updated_at": "2026-11-09T09:55:51Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "랜섬웨어 조직의 주장 단계이며 침해 경로는 확인되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "n0n이 대상 기업 38곳 공개 주장, 협상 시한 19일 제시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "해운·항만업계 영향 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "업무 문서 샘플(진위 미확인)",
+ "leaked_items_text": "유출 자료의 종류와 양은 확인되지 않음. 공개 샘플은 2009년부터 2026년 8월 작성 문서 포함, 진위 미확인(기사 기재)",
+ "notices": [],
+ "org_name": "싸이버로지텍·글로벌엔씨(GNC)",
+ "reported_date": "2026-10-28",
+ "response_text": "KISA가 피해 기업에 안내, 구체 대응은 답변 어렵다는 입장. 싸이버로지텍은 고객사 솔루션 망이 분리되어 문제없다고 설명(기사 기재)",
+ "scale_short": "38곳 대상 주장",
+ "scale_text": "n0n은 18개국 해운·항만 기업 38곳을 대상으로 주장, 요구 금액 합계 12억2000만 달러(조직 주장, 기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-28-cyberlogitec-gnc",
+ "sources": [
+  {
+   "publisher": "데일리로그",
+   "title": "싸이버로지텍·GNC 해킹 파장 어디까지…비상 걸린 해운·항만업계",
+   "url": "http://www.dailylog.co.kr/news/articleView.html?idxno=26854"
+  },
+  {
+   "publisher": "현대경제신문",
+   "title": "랜섬웨어 조직 N0n, 해운사 내부자료 공개 IT 공급망 보안 경고등",
+   "url": "http://www.finomy.com/news/articleView.html?idxno=264259"
+  }
+ ],
+ "target_text": "해운·항만 물류 IT업체 싸이버로지텍과 협력사 GNC, 고객사(기사 기재)",
+ "title": "랜섬웨어 조직 n0n, 해운·항만 IT업체 관련 자료 공개 주장",
+ "updated_at": "2026-11-09T09:55:55Z"
+}

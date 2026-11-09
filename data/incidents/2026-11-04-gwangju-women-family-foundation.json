@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "10월 28일 침해 정황 통보, 10월 30일 홈페이지 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13~10.20",
+   "label": "반출 정황이 확인된 기간(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "재단에 침해 정황 통보(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "홈페이지 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주민번호·계좌·소득정보 등",
+ "leaked_items_text": "서버 보관 항목: 이름, 생년월일, 주민등록번호, 연락처, 계좌번호, 주소, 이메일, 성별, 소득정보. 보관 항목 전부가 유출된 것은 아님(기사 기재)",
+ "notices": [],
+ "org_name": "광주여성가족재단",
+ "reported_date": "2026-11-04",
+ "response_text": "더존비즈온이 피해 서버 종료, 해외 IP 차단, 관계기관 신고. 재단은 2차 피해 주의 안내, 대상 특정 시 개별 통지 예정(기사 기재)",
+ "scale_short": "조사 중",
+ "scale_text": "실제 유출 여부와 대상, 규모는 확인되지 않아 조사 중. 데이터는 암호화되어 있었고 키 유출 정황은 없다고 설명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-04-gwangju-women-family-foundation",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "광주여성가족재단, 주민번호·소득 정보 유출 공지",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209308"
+  }
+ ],
+ "target_text": "재단 업무 정보 보관 대상자(기사 기재)",
+ "title": "백업서버 침해로 주민등록번호·소득 정보 유출 가능성 공지",
+ "updated_at": "2026-11-09T09:55:52Z"
+}

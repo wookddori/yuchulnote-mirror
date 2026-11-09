@@ -1,0 +1,39 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "최근 외부 해킹 시도 확인, 정확한 시점은 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-05",
+   "date_text": "11.05",
+   "label": "해킹 시도 사실 및 금융당국 신고 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미확인",
+ "leaked_items_text": "유출 여부와 범위는 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "AIG손해보험",
+ "reported_date": "2026-11-05",
+ "response_text": "금융당국에 신고, 경위와 유출 범위 조사 중(기사 기재). 외부 그룹웨어 솔루션이 경로로 지목되었다고 일부 매체가 보도(기사 기재)",
+ "scale_short": "파악 중",
+ "scale_text": "피해 규모 파악 중(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-05-aig-insurance",
+ "sources": [
+  {
+   "publisher": "아주경제",
+   "title": "AIG손보에서도 해킹 시도…금융당국 신고",
+   "url": "https://www.ajunews.com/view/20261105181855310"
+  },
+  {
+   "publisher": "데일리브리핑",
+   "title": "AIG손보, 해킹 관련 금융당국에 신고 피해 규모는 파악 중",
+   "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=7222"
+  }
+ ],
+ "target_text": "대상은 기사에 없음",
+ "title": "외부 해킹 시도 확인, 금융당국 신고",
+ "updated_at": "2026-11-09T09:55:52Z"
+}
