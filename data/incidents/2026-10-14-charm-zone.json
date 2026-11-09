@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 2일 직원이 고객 정보를 유출했다고 보도됨, 14일 유출 정황 후속 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "고객 정보 25만건 유출, 직원 소행으로 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-14",
+   "date_text": "10.14",
+   "label": "매각을 앞둔 시점의 유출 정황 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 정보",
+ "leaked_items_text": "고객 정보(항목은 제목에 없음, 기사 기재)",
+ "notices": [],
+ "org_name": "참존",
+ "reported_date": "2026-10-02",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "25만건",
+ "scale_text": "25만건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-14-charm-zone",
+ "sources": [
+  {
+   "publisher": "엠디투데이",
+   "title": "[단독] 참존화장품 고객 정보 25만건 털렸다… 직원이 유출",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=617206"
+  },
+  {
+   "publisher": "EBN",
+   "title": "[단독] '청개구리' 참존, 고객 정보 유출 정황…매각 앞두고 '돌발 변수'",
+   "url": "https://www.ebn.co.kr/news/articleView.html?idxno=1727739"
+  }
+ ],
+ "target_text": "고객(기사 기재)",
+ "title": "고객 정보 유출 정황, 매각 앞두고 보도",
+ "updated_at": "2026-11-09T12:40:56Z"
+}

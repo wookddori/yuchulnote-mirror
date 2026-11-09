@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 27일 랜섬웨어 조직이 정보 유출을 주장했다고 보도됨, 진위 여부는 확인 중(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-27",
+   "date_text": "07.27",
+   "label": "랜섬웨어 조직의 유출 주장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "넥슨",
+ "reported_date": "2026-07-27",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-07-27-nexon-ransom-claim",
+ "sources": [
+  {
+   "publisher": "디일렉",
+   "title": "랜섬웨어 조직, 넥슨 겨냥 정보 유출 주장…진위 여부에 촉각",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=60077"
+  },
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 넥슨 해킹 주장한 랜섬웨어 조직…소스코드에 '가짜데이터' 흔적",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=551861"
+  }
+ ],
+ "target_text": "넥슨(기사 기재)",
+ "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중",
+ "updated_at": "2026-11-09T12:41:03Z"
+}

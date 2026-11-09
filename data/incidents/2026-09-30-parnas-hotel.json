@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 30일 리워즈 회원 정보 유출이 보도됨, 10월 1일 공식 사과(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "리워즈 회원 정보 유출 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-01",
+   "date_text": "10.01",
+   "label": "공식 사과, 개보위·KISA 신고 및 조사 착수(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "회원·예약 정보",
+ "leaked_items_text": "회원 정보, 예약 정보(기사 기재)",
+ "notices": [],
+ "org_name": "파르나스호텔",
+ "reported_date": "2026-09-30",
+ "response_text": "개인정보보호위원회·KISA 신고, 관계기관과 조사 중, 사칭 결제 주의 안내(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-30-parnas-hotel",
+ "sources": [
+  {
+   "publisher": "뉴스핌",
+   "title": "파르나스호텔, 회원정보 유출에 공식 사과…\"관계기관과 사태 조사중\"",
+   "url": "https://www.newspim.com/news/view/20261001000949"
+  },
+  {
+   "publisher": "뉴스1",
+   "title": "파르나스 호텔, 회원 정보 유출…개보위·KISA 조사 착수",
+   "url": "https://www.news1.kr/industry/distribution/6307570"
+  }
+ ],
+ "target_text": "리워즈 회원(기사 기재)",
+ "title": "리워즈 회원 정보 유출, 개보위·KISA 신고",
+ "updated_at": "2026-11-09T12:40:58Z"
+}

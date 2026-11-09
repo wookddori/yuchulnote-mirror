@@ -1,13 +1,13 @@
 {
- "content_hash": "4bd15fe9f7a848d48d097d9d1c5bbed1ec800cfeb7d4ea5bfdf7abe5cd9e294a",
- "incident_count": 226,
- "last_checked_at": "2026-11-09T11:00:00Z",
+ "content_hash": "b18df649db76ac5ddf023350c0a0c0fd14a787b85aebbfbfef301650ad51949d",
+ "incident_count": 260,
+ "last_checked_at": "2026-11-09T12:00:00Z",
  "schema_version": 1,
  "sector_counts": {
-  "finance": 42,
-  "it": 16,
-  "public": 54,
-  "service": 114
+  "finance": 46,
+  "it": 18,
+  "public": 60,
+  "service": 136
  },
  "target": "public"
 }

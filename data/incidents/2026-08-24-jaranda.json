@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 8월 24일 자녀 정보와 공동현관 비밀번호 등 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-24",
+   "date_text": "08.24",
+   "label": "스타트업 개인정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "자녀 정보·공동현관 비번",
+ "leaked_items_text": "자녀 정보, 공동현관 비밀번호 등(기사 기재)",
+ "notices": [],
+ "org_name": "자란다 등 스타트업",
+ "reported_date": "2026-08-24",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-24-jaranda",
+ "sources": [
+  {
+   "publisher": "조선비즈",
+   "title": "자녀 정보 부터 공동현관 비번까지 털렸다…자란다 등 스타트업 개인 정보",
+   "url": "https://biz.chosun.com/industry/business-venture/2026/08/24/3CLQ7HFGMVDGBBRGJ7APQSPVDI/"
+  }
+ ],
+ "target_text": "이용자와 자녀(기사 기재)",
+ "title": "자녀 정보·공동현관 비번 등 개인정보 유출",
+ "updated_at": "2026-11-09T12:41:01Z"
+}

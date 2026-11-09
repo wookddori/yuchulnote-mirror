@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 4월 15일 랜섬웨어 공격으로 주문·출고가 지연됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-04-15",
+   "date_text": "04.15",
+   "label": "랜섬웨어 공격, 주문·출고 지연 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "국제약품",
+ "reported_date": "2026-04-15",
+ "response_text": "전산장애 발생 후 복구(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-15-kukje-pharm",
+ "sources": [
+  {
+   "publisher": "마이데일리",
+   "title": "랜섬웨어 공격에 제약사도 피해…주문·출고 지연",
+   "url": "https://www.mydaily.co.kr/page/view/2026041514293320976"
+  },
+  {
+   "publisher": "뉴시스",
+   "title": "일부 제약사에 '랜섬웨어 공격'…\"전산장애 발생후 복구\"",
+   "url": "https://www.newsis.com/view/NISX20260415_0003592117"
+  }
+ ],
+ "target_text": "국제약품 전산(기사 기재)",
+ "title": "랜섬웨어 공격, 주문·출고 지연",
+ "updated_at": "2026-11-09T12:41:06Z"
+}

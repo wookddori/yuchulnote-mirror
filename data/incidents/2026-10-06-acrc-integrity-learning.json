@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 6일 청렴권익배움터 이용자 10만여명 정보 유출이 보도됨, 외주업체 서버 해킹으로 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-06",
+   "date_text": "10.06",
+   "label": "청렴권익배움터 이용자 10만여명 정보 유출 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-08",
+   "date_text": "10.08",
+   "label": "2차 피해 예방 대응 입장 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "아이디·비밀번호 등",
+ "leaked_items_text": "아이디, 비밀번호 등(기사 기재)",
+ "notices": [],
+ "org_name": "국민권익위원회",
+ "reported_date": "2026-10-06",
+ "response_text": "2차 피해 예방과 재발 방지 노력 발표(기사 기재)",
+ "scale_short": "10만여명",
+ "scale_text": "10만여명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-06-acrc-integrity-learning",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "권익위 해킹 피해…'청렴권익배움터' 이용자 10만여명 개인 정보 유출",
+   "url": "https://www.newsis.com/view/NISX20261006_0003816392"
+  },
+  {
+   "publisher": "노컷뉴스",
+   "title": "권익위 \"10만 명 정보 유출…2차 피해 예방·재방방지 노력\"",
+   "url": "https://www.nocutnews.co.kr/news/6588941"
+  }
+ ],
+ "target_text": "청렴권익배움터 이용자(기사 기재)",
+ "title": "청렴권익배움터 해킹, 이용자 10만여명 정보 유출",
+ "updated_at": "2026-11-09T12:40:57Z"
+}

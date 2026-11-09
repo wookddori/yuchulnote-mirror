@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 16일 4만명 정보 유출이 4개월간 인지되지 않았다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-16",
+   "date_text": "07.16",
+   "label": "4개월간 미인지 상태의 정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "개인정보",
+ "leaked_items_text": "개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "뉴지스탁",
+ "reported_date": "2026-07-16",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "4만명",
+ "scale_text": "4만명(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-07-16-newgstock",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "뉴지스탁, 4만명 정보 유출 '4달간 깜깜이'…내부통제 '구멍'",
+   "url": "https://zdnet.co.kr/view/?no=20260716104346"
+  }
+ ],
+ "target_text": "뉴지스탁 이용자(기사 기재)",
+ "title": "4만명 정보 유출, 4달간 미인지",
+ "updated_at": "2026-11-09T12:41:04Z"
+}

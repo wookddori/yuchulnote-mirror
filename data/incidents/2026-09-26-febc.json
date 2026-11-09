@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 26일 후원 시스템 해킹 피해가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-26",
+   "date_text": "09.26",
+   "label": "후원자 시스템 해킹 정황 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·연락처 등",
+ "leaked_items_text": "성명, 연락처 등(기사 기재)",
+ "notices": [],
+ "org_name": "극동방송",
+ "reported_date": "2026-09-26",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-26-febc",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "해커 표적 된 라디오 방송... 극동방송 후원 시스템 해킹 피해",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=146045"
+  },
+  {
+   "publisher": "국제뉴스",
+   "title": "[속보] 극동방송 후원자 시스템 해킹 정황… 성명·연락처 등 유출 가능성",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3706081"
+  }
+ ],
+ "target_text": "후원자(기사 기재)",
+ "title": "후원자 시스템 해킹, 개인정보 유출 가능성",
+ "updated_at": "2026-11-09T12:40:58Z"
+}

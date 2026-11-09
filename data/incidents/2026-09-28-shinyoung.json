@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 28일 대규모 해킹 주장이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-28",
+   "date_text": "09.28",
+   "label": "해킹 주장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "회장 메일 등",
+ "leaked_items_text": "회장 메일 등(기사 기재)",
+ "notices": [],
+ "org_name": "신영(자동차 부품사)",
+ "reported_date": "2026-09-28",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-28-shinyoung",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "\"회장님 메일도 탈탈 털었다\"…車부품사 '신영', 대규모 해킹 주장에 몸살",
+   "url": "https://www.ddaily.co.kr/page/view/2026092907585735106"
+  }
+ ],
+ "target_text": "회장 메일 등(기사 기재)",
+ "title": "대규모 해킹 주장, 회장 메일 포함",
+ "updated_at": "2026-11-09T12:40:59Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 6월 29일 랜섬웨어 조직의 3.27TB 내부자료 유출 주장이 보도됨, 두산밥캣은 외부 전문가와 조사 중이라고 밝힘(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-29",
+   "date_text": "06.29",
+   "label": "랜섬웨어 피해, 내부자료 유출 주장 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-06-30",
+   "date_text": "06.30",
+   "label": "외부 전문가와 조사 중이라고 밝힘(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부자료",
+ "leaked_items_text": "내부자료(기사 기재)",
+ "notices": [],
+ "org_name": "두산밥캣",
+ "reported_date": "2026-06-29",
+ "response_text": "외부 전문가와 조사 중(기사 기재)",
+ "scale_short": "3.27TB(주장)",
+ "scale_text": "3.27TB(주장, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-06-29-doosan-bobcat",
+ "sources": [
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 두산밥캣, 랜섬웨어 피해 의혹…3.27TB 내부자료 유출 주장",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=551130"
+  },
+  {
+   "publisher": "e-science",
+   "title": "두산밥캣, 랜섬웨어 조직 공격 주장에 \"외부 전문가와 조사 중\"",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=131196"
+  }
+ ],
+ "target_text": "내부자료(기사 기재)",
+ "title": "랜섬웨어 피해, 3.27TB 내부자료 유출 주장",
+ "updated_at": "2026-11-09T12:41:05Z"
+}

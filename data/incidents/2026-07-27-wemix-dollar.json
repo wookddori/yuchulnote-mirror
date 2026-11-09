@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 27일 스테이블코인 비정상 발행과 76~77억원 규모 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-27",
+   "date_text": "07.27",
+   "label": "스테이블코인 비정상 발행 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-07-28",
+   "date_text": "07.28",
+   "label": "위메이드 브릿지 전면 중단 발표 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "스테이블코인 약 77억원",
+ "leaked_items_text": "스테이블코인 76~77억원어치(기사 기재)",
+ "notices": [],
+ "org_name": "위메이드(위믹스)",
+ "reported_date": "2026-07-27",
+ "response_text": "브릿지 전면 중단(기사 기재)",
+ "scale_short": "약 77억원",
+ "scale_text": "76~77억원 규모(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-07-27-wemix-dollar",
+ "sources": [
+  {
+   "publisher": "KBS",
+   "title": "가상화폐 ‘위믹스’ 또 해킹…77억 원대 스테이블코인 유출",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8621093"
+  },
+  {
+   "publisher": "이코노미뉴스",
+   "title": "위믹스달러 또 해킹...76억원대 유출, 위메이드 “브릿지 전면 중단”",
+   "url": "https://www.m-economynews.com/news/article.html?no=69152"
+  }
+ ],
+ "target_text": "위믹스달러 발행 권한(기사 기재)",
+ "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출",
+ "updated_at": "2026-11-09T12:41:03Z"
+}

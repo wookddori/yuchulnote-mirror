@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 6일 계정 침해로 접속 중단이 장기화됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-06",
+   "date_text": "10.06",
+   "label": "계정 침해, 접속 중단 장기화 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "솜노트",
+ "reported_date": "2026-10-06",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-06-somnote",
+ "sources": [
+  {
+   "publisher": "파이낸셜리뷰",
+   "title": "\"중요한 메모 다 있는데\"…솜노트 계정 침해에 접속 중단 장기화",
+   "url": "http://www.financialreview.co.kr/news/articleView.html?idxno=45316"
+  }
+ ],
+ "target_text": "솜노트 이용자 계정(기사 기재)",
+ "title": "계정 침해로 서비스 접속 중단 장기화",
+ "updated_at": "2026-11-09T12:40:57Z"
+}

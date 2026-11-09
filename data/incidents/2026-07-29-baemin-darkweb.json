@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 29일 딥웹에서 해커가 이용자 4200만명 정보 판매를 주장했다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-29",
+   "date_text": "07.29",
+   "label": "딥웹 판매 주장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이용자 정보",
+ "leaked_items_text": "이용자 정보(기사 기재)",
+ "notices": [],
+ "org_name": "우아한형제들",
+ "reported_date": "2026-07-29",
+ "response_text": "우아한형제들 입장은 제목에서 확인되지 않음",
+ "scale_short": "4200만명(주장)",
+ "scale_text": "4200만명(해커 주장, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-07-29-baemin-darkweb",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 딥웹에 해커 \"배민 이용자 4,200만명 정보 판매\" 주장…우아한형제들",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=207829"
+  }
+ ],
+ "target_text": "배달의민족 이용자(기사 기재)",
+ "title": "배민 이용자 4200만명 정보 판매 주장",
+ "updated_at": "2026-11-09T12:41:02Z"
+}

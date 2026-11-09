@@ -1,0 +1,34 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 11일 브레보 계정 침해로 34만7000명에게 피싱 메일이 발송됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-11",
+   "date_text": "09.11",
+   "label": "브레보 계정 침해, 피싱 메일 발송 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이메일 주소",
+ "leaked_items_text": "이메일 주소(추정, 제목에 명시 없음)",
+ "notices": [],
+ "org_name": "트레저",
+ "reported_date": "2026-09-11",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "34.7만명",
+ "scale_text": "34만7000명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-11-treasure-brevo",
+ "sources": [
+  {
+   "publisher": "토큰포스트",
+   "title": "트레저 34만7000명에 피싱 메일…브레보 계정 침해",
+   "url": "https://www.tokenpost.kr/news/blockchain/406556"
+  }
+ ],
+ "target_text": "트레저 이용자(기사 기재)",
+ "title": "피싱 메일, 브레보 계정 침해로 34만7천명 대상",
+ "updated_at": "2026-11-09T12:41:00Z"
+}

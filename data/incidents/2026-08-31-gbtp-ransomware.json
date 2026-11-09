@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 8월 31일 랜섬웨어 공격이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-31",
+   "date_text": "08.31",
+   "label": "랜섬웨어 공격 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "경북테크노파크",
+ "reported_date": "2026-08-31",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-08-31-gbtp-ransomware",
+ "sources": [
+  {
+   "publisher": "KBS",
+   "title": "경북TP ‘랜섬웨어’ 공격…공공기관 보안 강화해야",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8651186"
+  }
+ ],
+ "target_text": "경북테크노파크(기사 기재)",
+ "title": "랜섬웨어 공격",
+ "updated_at": "2026-11-09T12:41:01Z"
+}

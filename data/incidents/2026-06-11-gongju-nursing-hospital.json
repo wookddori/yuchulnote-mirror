@@ -1,0 +1,34 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 6월 11일 환자 동의 없이 의료기록이 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-11",
+   "date_text": "06.11",
+   "label": "의료기록 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "의료기록",
+ "leaked_items_text": "의료기록(기사 기재)",
+ "notices": [],
+ "org_name": "공주 요양병원",
+ "reported_date": "2026-06-11",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-06-11-gongju-nursing-hospital",
+ "sources": [
+  {
+   "publisher": "위키트리",
+   "title": "[단독] 공주 요양병원, 환자 동의 없이 의료기록 유출",
+   "url": "https://www.wikitree.co.kr/articles/1140875"
+  }
+ ],
+ "target_text": "환자(기사 기재)",
+ "title": "환자 동의 없이 의료기록 유출",
+ "updated_at": "2026-11-09T12:41:05Z"
+}

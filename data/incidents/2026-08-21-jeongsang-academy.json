@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 8월 21일 회원 정보 26만건 유출과 경찰 수사의뢰가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-21",
+   "date_text": "08.21",
+   "label": "회원 정보 유출, 경찰 수사의뢰 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "회원 정보",
+ "leaked_items_text": "회원 정보(기사 기재)",
+ "notices": [],
+ "org_name": "정상어학원",
+ "reported_date": "2026-08-21",
+ "response_text": "경찰에 수사 의뢰(기사 기재)",
+ "scale_short": "26만건",
+ "scale_text": "26만건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-21-jeongsang-academy",
+ "sources": [
+  {
+   "publisher": "머니투데이",
+   "title": "정상어학원 회원 정보 26만건 털렸다…경찰에 수사의뢰",
+   "url": "https://www.mt.co.kr/society/2026/08/21/2026082122482277344"
+  }
+ ],
+ "target_text": "회원(기사 기재)",
+ "title": "회원 정보 26만건 유출, 경찰 수사의뢰",
+ "updated_at": "2026-11-09T12:41:02Z"
+}

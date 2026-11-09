@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 15일 다크웹에 고객 정보 67만건 판매 게시글이 올라왔다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-15",
+   "date_text": "07.15",
+   "label": "다크웹 판매 게시글 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 정보",
+ "leaked_items_text": "고객 정보(기사 기재)",
+ "notices": [],
+ "org_name": "현대H몰",
+ "reported_date": "2026-07-15",
+ "response_text": "현대홈쇼핑 입장은 제목에서 확인되지 않음",
+ "scale_short": "67만건(게시글)",
+ "scale_text": "67만건(게시글 기준, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-07-15-hyundai-hmall",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 다크웹에 현대H몰 고객 정보 67만건 판매 게시글 올라와",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=207602"
+  }
+ ],
+ "target_text": "현대H몰 고객(기사 기재)",
+ "title": "고객정보 67만건 다크웹 판매 게시",
+ "updated_at": "2026-11-09T12:41:04Z"
+}

@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 23일 첨단장비업계 랜섬웨어 피해가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-23",
+   "date_text": "09.23",
+   "label": "랜섬웨어 피해 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "SFA엔지니어링 외 첨단장비업체",
+ "reported_date": "2026-09-23",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-09-23-sfa-engineering",
+ "sources": [
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 첨단장비업계 잇단 랜섬웨어 피해 의혹…SFA엔지니어링 이어 하이",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=553674"
+  }
+ ],
+ "target_text": "SFA엔지니어링 등 첨단장비업체(기사 기재)",
+ "title": "잇따른 랜섬웨어 피해 보도",
+ "updated_at": "2026-11-09T12:40:59Z"
+}

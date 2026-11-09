@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 18일 학원 해킹과 학생·학부모 정보 유출 가능성이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-18",
+   "date_text": "09.18",
+   "label": "학원 해킹, 정보 유출 가능성 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-09-22",
+   "date_text": "09.22",
+   "label": "최선어학원 예약시스템도 해킹 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "학생·학부모 개인정보",
+ "leaked_items_text": "학생·학부모 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "생각하는황소·최선어학원",
+ "reported_date": "2026-09-18",
+ "response_text": "보이스피싱 주의 안내(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-18-thinking-bull",
+ "sources": [
+  {
+   "publisher": "연합뉴스",
+   "title": "수학학원 '생각하는황소' 해킹…\"학생·학부모 정보 유출 가능성\"",
+   "url": "https://www.yna.co.kr/view/AKR20260918137600530?input=1195m"
+  },
+  {
+   "publisher": "일요신문",
+   "title": "자녀·부모 정보 한꺼번에…생각하는황소·최선어학원 예약시스템 뚫렸다",
+   "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512850"
+  }
+ ],
+ "target_text": "학생, 학부모(기사 기재)",
+ "title": "학원 예약시스템 해킹, 학생·학부모 정보 유출 가능성",
+ "updated_at": "2026-11-09T12:40:59Z"
+}

@@ -1,0 +1,34 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 13일 비공개 문서 2천건이 챗GPT에 입력됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "비공개 문서 2천건 챗GPT 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "비공개 문서",
+ "leaked_items_text": "비공개 문서(기사 기재)",
+ "notices": [],
+ "org_name": "식품의약품안전처",
+ "reported_date": "2026-10-13",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "2천건",
+ "scale_text": "2천건(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-13-mfds-chatgpt",
+ "sources": [
+  {
+   "publisher": "아주경제",
+   "title": "식약처 비공개 문서 2천건, 챗GPT에 뚫렸다",
+   "url": "https://www.ajunews.com/view/20261013143209570"
+  }
+ ],
+ "target_text": "식약처 비공개 문서(기사 기재)",
+ "title": "비공개 문서 2천건 챗GPT 유출 보도",
+ "updated_at": "2026-11-09T12:40:56Z"
+}
