@@ -1,7 +1,7 @@
 {
- "content_hash": "d294f10ba4a2409dff38711dd307b2351c023c15de01363d0d57df77011ef274",
+ "content_hash": "8eb9f136e375eab2c09a8e3b67eb933daf2c2f96321d6607ad50023e39b8d7fc",
  "incident_count": 260,
- "last_checked_at": "2026-11-09T21:00:00Z",
+ "last_checked_at": "2026-11-09T23:00:00Z",
  "schema_version": 1,
  "sector_counts": {
   "finance": 46,
