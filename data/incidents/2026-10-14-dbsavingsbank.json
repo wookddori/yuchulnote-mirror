@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "침해 확인일은 기사에 없음. 10월 14일 금융당국 집계에 포함(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-14",
+   "date_text": "10.14",
+   "label": "금융당국 집계에 포함, 회사는 해킹 시도를 차단했고 일반 고객정보 유출은 없었다고 설명(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-16",
+   "date_text": "10.16",
+   "label": "뉴스1이 개인정보 142명 유출 추정 보도(전재 페이지 제목 기준)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인 중",
+ "leaked_items_text": "회사는 일반 고객정보 유출은 없었다고 설명(10월 14일 기사 기재). 유출 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "DB저축은행",
+ "reported_date": "2026-10-14",
+ "response_text": "해킹 시도가 보안시스템에 의해 차단됐다고 설명, 비정상 조회·접근 차단, 불량 IP 차단, 거래집중 모니터링 시행, 해킹 시도에 이용된 소수 관련인에게 안내(기사 기재)",
+ "scale_short": "회사 유출 없음 설명, 142명 추정 보도",
+ "scale_text": "회사는 유출 없음으로 설명(10월 14일 기사). 10월 16일 뉴스1 보도 제목은 142명 유출 추정(전재 페이지에 본문이 없어 근거는 확인하지 못함)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-14-dbsavingsbank",
+ "sources": [
+  {
+   "publisher": "파이낸셜뉴스",
+   "title": "'고객정보 10만건 유출' 금융사 해킹 사고 16개사 확인",
+   "url": "https://www.fnnews.com/news/202610141843588283"
+  },
+  {
+   "publisher": "스톡허브(뉴스1 전재)",
+   "title": "\"신청도 안 했는데 대출 조회\"…DB저축銀, 개인정보 142명 유출 추정",
+   "url": "https://stockhub.kr/news/news_725bb553268a"
+  }
+ ],
+ "target_text": "대출 조회 관련 고객(10월 16일 보도 제목 기준, 본문 미확인)",
+ "title": "해킹 시도 관련 고객 정보 유출 여부 보도가 엇갈림",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

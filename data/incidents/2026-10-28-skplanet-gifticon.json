@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "10월 28일 오후 6시 40분께 외부의 비정상 접근 정황을 확인하고 차단(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "외부 비정상 접근 확인·차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "전체 기프티콘 고객에게 유출 가능성 안내 문자(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-03",
+   "date_text": "11.03",
+   "label": "일부 고객에게 개인정보 미유출 확인 문자(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호·이메일·환급계좌 등",
+ "leaked_items_text": "이름, 전화번호, 이메일, 구매 쿠폰 일련번호, 환급계좌 등이 유출됐을 가능성(기사 기재)",
+ "notices": [],
+ "org_name": "SK플래닛",
+ "reported_date": "2026-10-29",
+ "response_text": "10월 29일 전체 기프티콘 고객에게 유출 가능성 문자 안내, 11월 3일 일부 고객에게 유출되지 않은 것으로 확인됐다는 후속 문자(기사 기재). 유출 확인 기프티콘 폐기 후 재발송과 피해 시 전액 보상 방침이 10월 30일 기사에 있으나 11월 4일 기사에는 해당 설명이 없음.",
+ "scale_short": "미공개",
+ "scale_text": "규모 미공개(집계 중, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-28-skplanet-gifticon",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "SK플래닛 기프티콘 개인정보 유출…이름·번호·환급계좌까지",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343159"
+  },
+  {
+   "publisher": "스마트투데이",
+   "title": "\"개인정보 유출 우려\" 경고 SK플래닛…닷새 뒤 \"유출 안 됐다\" 통보",
+   "url": "https://www.smarttoday.co.kr/ko-kr/articles/113441"
+  }
+ ],
+ "target_text": "일부 기프티콘 이용자(유출 가능성, 기사 기재)",
+ "title": "기프티콘 서비스 외부 비정상 접근으로 이용자 정보 유출 가능성",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

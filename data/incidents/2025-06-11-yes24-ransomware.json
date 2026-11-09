@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "6월 랜섬웨어 감염으로 약 5일간 서비스 장애, 회사는 주요 데이터 유출·유실이 없다고 발표(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "6월",
+   "label": "랜섬웨어 감염, 서비스 약 5일 중단(기사 기재)"
+  },
+  {
+   "date_iso": "2024-06-12",
+   "date_text": "6.12",
+   "label": "사과문 발표(기사 기재)"
+  },
+  {
+   "date_iso": "2024-06-16",
+   "date_text": "6.16",
+   "label": "1차 보상안 발표(기사 기재)"
+  },
+  {
+   "date_iso": "2024-06-17",
+   "date_text": "6.17",
+   "label": "2차 보상안 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "유출 없음으로 회사 발표",
+ "leaked_items_text": "회사는 주요 데이터 유출이 없다고 발표(기사 기재)",
+ "notices": [],
+ "org_name": "예스24",
+ "reported_date": "2025-06-11",
+ "response_text": "서버 백업으로 복구, 6월 12일 사과문 발표, 6월 16~17일 보상안(반품·포인트·공연 티켓 환불·상품권 등) 발표(기사 기재). KISA 현장조사 진행(기사 기재)",
+ "scale_short": null,
+ "scale_text": "규모는 기사에 없음. 정부 설명상 업무망·서비스망·백업망이 모두 감염(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-06-11-yes24-ransomware",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "예스24 또 속였나? 1차 해킹 때 백업망도 랜섬웨어 감염",
+   "url": "https://zdnet.co.kr/view/?no=20250814162307"
+  }
+ ],
+ "target_text": "예스24 이용자(기사 기재)",
+ "title": "랜섬웨어 감염으로 서비스 장기 중단(1차, 6월)",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

@@ -1,0 +1,54 @@
+{
+ "category": "unknown",
+ "confirmed_date": "2026-08-06",
+ "confirmed_text": "2026년 8월 6일 외부기관 제보로 인지, 7일 공개. 유출 시점은 2025년 9월 2일로 기재(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.09.02",
+   "label": "유출 시점으로 기재(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.06",
+   "label": "외부기관 제보로 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.07",
+   "label": "유출 사실 공개(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.10",
+   "label": "당 대표 직무대행 공식 사과(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·이름·이메일 등",
+ "leaked_items_text": "회원 아이디, 이름, 암호화된 비밀번호, 이메일 주소(기사 기재)",
+ "notices": [],
+ "org_name": "더불어민주당(블루웨이브)",
+ "reported_date": "2026-08-10",
+ "response_text": "경찰·개인정보보호위원회 신고, 한국인터넷진흥원 보안 점검 요청, 내부 조사 지시, 전체 시스템 점검 예정(기사 기재). 당 측은 커뮤니티 DB가 당원관리·온라인 투표 시스템과 물리적으로 분리됐다고 설명(기사 기재)",
+ "scale_short": "17,088명",
+ "scale_text": "17,088명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-08-10-democratic-party-bluewave",
+ "sources": [
+  {
+   "publisher": "프레시안",
+   "title": "민주당, 당원 개인정보 유출 사과",
+   "url": "https://www.pressian.com/pages/articles/2026081012091313032"
+  },
+  {
+   "publisher": "미디어스",
+   "title": "민주당, 당원 개인정보 1.7만건 유출에 사과드린다",
+   "url": "https://www.mediaus.co.kr/news/articleView.html?idxno=317789"
+  }
+ ],
+ "target_text": "당원 커뮤니티 블루웨이브 회원 17,088명(기사 기재)",
+ "title": "당원 커뮤니티 블루웨이브 회원정보 약 1.7만 명 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

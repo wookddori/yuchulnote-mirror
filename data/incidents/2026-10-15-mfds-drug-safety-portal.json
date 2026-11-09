@@ -1,0 +1,44 @@
+{
+ "category": "unknown",
+ "confirmed_date": "2026-10-12",
+ "confirmed_text": "10월 12일 0시경 비정상 접근으로 임상시험 정보 유출 확인, 13일 새벽 접근 차단(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "비정상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "접근 차단, 국정감사에서 문제 제기(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-14",
+   "date_text": "10.14",
+   "label": "홈페이지 사과문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·휴대전화·이메일",
+ "leaked_items_text": "이름, 휴대전화번호, 이메일(기사 기재)",
+ "notices": [],
+ "org_name": "식품의약품안전처(의약품안전나라)",
+ "reported_date": "2026-10-15",
+ "response_text": "시스템 검증 기능 강화, 추가 취약점 점검, 개인정보위 신고, 전담 상담센터 운영, 10월 14일 홈페이지 사과문 게시(기사 기재). 로그인 없이 비공개 문서를 내려받을 수 있는 웹 취약점이 있었다고 기사에 있음",
+ "scale_short": null,
+ "scale_text": "식약처 사과문 기준 1195명분. 국감에서 국회의원 측은 문서 2672건 확보를 주장(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-15-mfds-drug-safety-portal",
+ "sources": [
+  {
+   "publisher": "데일리팜",
+   "title": "국감서 뚫린 의약품안전나라…식약처, 개인정보 유출 사과",
+   "url": "https://new.dailypharm.com/user/news/343462?REFERER=NP"
+  }
+ ],
+ "target_text": "임상시험 관련 담당자 등(기사 기재)",
+ "title": "의약품안전나라 임상시험 정보 비정상 접근으로 1195명 정보 유출, 사과문 게시",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-27",
+ "confirmed_text": "10월 22~23일 외부 공격자가 ERP에 무단 접속, 10월 27일 회사 인지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22~23",
+   "label": "탈취 계정으로 ERP 무단 접속(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-27",
+   "date_text": "10.27",
+   "label": "회사가 사고 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "홈페이지에 사과문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 연락처·주문정보, 주민번호·계좌",
+ "leaked_items_text": "고객: 성명, 전화번호, 배송지 주소, 주문 정보. 과거 임직원·거래처: 주민등록번호, 사업자등록번호, 계좌번호 등(기사 기재)",
+ "notices": [],
+ "org_name": "브이티코스메틱",
+ "reported_date": "2026-10-31",
+ "response_text": "공격자 접속 차단, 전체 계정 비밀번호 변경, 2차 인증·접속 모니터링 강화, 홈페이지 사과문, 개인정보위·한국인터넷진흥원·수사기관 신고(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "전체 피해 인원과 대상별 규모는 기사에 없음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-31-vt-cosmetic",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "브이티코스메틱 해킹…고객·퇴직 임직원·거래처 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209215"
+  },
+  {
+   "publisher": "위메이크뉴스",
+   "title": "브이티코스메틱, 퇴사자 계정에 뚫렸다…주민번호·계좌번호까지 유출",
+   "url": "https://wemakenews.co.kr/news/view.php?no=26720"
+  }
+ ],
+ "target_text": "고객, 과거 임직원, 개인사업자 거래처(기사 기재)",
+ "title": "탈취된 임직원 계정으로 ERP 접속, 고객·퇴직 임직원·거래처 정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

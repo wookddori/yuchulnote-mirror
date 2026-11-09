@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-02",
+ "confirmed_text": "9월 27일 오전 6시 37분부터 24분간 침해, 10월 2일 오후 5시 8분 인지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-27",
+   "date_text": "09.27",
+   "label": "해킹 공격 24분간 발생(기사 기재: 오전 6시 37분부터)"
+  },
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "회사 인지(기사 기재: 오후 5시 8분)"
+  },
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07",
+   "label": "사고보고서 기반 보도"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "모집인 개인정보 일부",
+ "leaked_items_text": "모집인의 일부 개인정보. 비공개 주민등록번호가 유출된 정황이 있다고 보도(정황, 기사 기재)",
+ "notices": [],
+ "org_name": "현대캐피탈",
+ "reported_date": "2026-10-07",
+ "response_text": "금융보안원 협조로 해킹 IP 접근 이력을 확인하는 과정에서 파악(기사 기재). 신고·차단·고객 안내는 기사에 없음.",
+ "scale_short": "모집인 146명",
+ "scale_text": "주택대출 모집인 146명(기사 기재). 회사는 고객 피해는 없는 것으로 보고했다고 기사에 적힘",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-09-27-hyundai-capital",
+ "sources": [
+  {
+   "publisher": "데일리안",
+   "title": "해킹당하고도 몰랐다…웰컴저축은행·현대캐피탈, 닷새 뒤에야 인지",
+   "url": "https://www.dailian.co.kr/news/view/1698564"
+  }
+ ],
+ "target_text": "주택대출 모집인(기사 기재)",
+ "title": "주택대출 모집인 정보 조회 사이트 침해",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

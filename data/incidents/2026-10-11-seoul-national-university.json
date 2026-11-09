@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "서울대가 국회 의원실에 제출한 연도별 해킹 피해 자료 기준 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2021",
+   "label": "악성 프로그램으로 개인정보 점검시스템 침투, 1130명 정보 유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024",
+   "label": "산하 연구소 무단 접근, 2건 유출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-11",
+   "date_text": "10.11",
+   "label": "연도별 해킹 피해 현황 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·이메일·이력서 등",
+ "leaked_items_text": "2021년 이름·이메일 등 1130명분, 2024년 연구원 2명의 약력·이력서 파일(기사 기재)",
+ "notices": [],
+ "org_name": "서울대학교",
+ "reported_date": "2026-10-11",
+ "response_text": "서버 보안 점검, 웹 취약점 점검 자동화 도입, 교육부·국가정보원 협력 강화(기사 기재)",
+ "scale_short": "피해 28건·1132건",
+ "scale_text": "6년간 해킹 피해 28건, 유출 1132건(기사별로 건 또는 명으로 표기)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-11-seoul-national-university",
+ "sources": [
+  {
+   "publisher": "YTN",
+   "title": "서울대, 6년간 28차례 해킹 피해...1,132명 개인정보 유출",
+   "url": "https://www.ytn.co.kr/_ln/0103_202610112235131513"
+  },
+  {
+   "publisher": "내일신문",
+   "title": "서울대도 해킹…6년간 개인정보 1132건 유출",
+   "url": "https://www.naeil.com/news/read/604731"
+  }
+ ],
+ "target_text": "교직원, 학생, 산하 연구소 연구원(기사 기재)",
+ "title": "6년간 해킹 피해 28건, 개인정보 1132건 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

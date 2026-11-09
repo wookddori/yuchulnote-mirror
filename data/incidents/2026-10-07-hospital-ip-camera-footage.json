@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "국회의원실이 경찰에 고소장을 제출했고 충북경찰청이 수사 중. 개별 의료기관의 침해 경위는 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07~08",
+   "label": "영상 유포 사실과 경찰 고소 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "진료실·탈의실 영상",
+ "leaked_items_text": "진료·환복 영상(기사 기재)",
+ "notices": [],
+ "org_name": "병원 IP카메라(서울 산부인과 등 의료기관)",
+ "reported_date": "2026-10-07",
+ "response_text": "경찰이 최초 유포자 수사와 재게시자 추적 계획. 해당 의료기관의 보안 조치는 기사에 없음(기사 기재)",
+ "scale_short": "영상 약 80건",
+ "scale_text": "약 80건 중 21건이 서울 산부인과 1곳의 영상. 촬영·게시 시점은 기사에 없음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-07-hospital-ip-camera-footage",
+ "sources": [
+  {
+   "publisher": "대한보건뉴스",
+   "title": "은행·플랫폼 이어 병원 CCTV까지...해킹 공포 의료현장 덮쳤다",
+   "url": "https://www.bosa.co.kr/news/articleView.html?idxno=3013485"
+  },
+  {
+   "publisher": "메디칼포커스",
+   "title": "은행ㆍ플랫폼 이어 병원 CCTV까지, 의료현장에도 해킹 공포 확산",
+   "url": "http://www.newsmp.com/news/articleView.html?idxno=258576"
+  }
+ ],
+ "target_text": "산부인과·성형외과·재활의학과 등 의료기관 진료실·탈의실 촬영 대상자(기사 기재)",
+ "title": "병원 IP카메라 영상 약 80건 해외 사이트 유포",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

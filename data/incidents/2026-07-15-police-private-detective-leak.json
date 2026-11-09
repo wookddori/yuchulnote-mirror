@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": "2026-07-15",
+ "confirmed_text": "7월 15일 수원지검이 경찰관 2명과 사설탐정 3명을 기소(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.06",
+   "label": "경감이 수배 정보를 조회해 사설탐정에 전달(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.15",
+   "label": "수원지검 기소(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "수배 정보·차적·범죄경력 조회",
+ "leaked_items_text": "형사사법정보시스템 조회 수배 정보, 차적조회·범죄수사경력조회 등 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "경찰(사설탐정 수배·개인정보 제공)",
+ "reported_date": "2026-07-15",
+ "response_text": "검찰이 보완수사로 대가 수수 확인 후 기소, 한 경찰관은 직위해제(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피고인 5명, 피해자 수는 기사에 없음(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-15-police-private-detective-leak",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "사설탐정에 정보유출·금품 수수한 경찰 2명, 檢 보완수사로 기소",
+   "url": "https://www.newsis.com/view/NISX20260715_0003710723"
+  },
+  {
+   "publisher": "일요신문",
+   "title": "돈 받고 사설탐정과 거래까지…경찰 내부망 개인정보 유출 왜 반복되나",
+   "url": "https://ilyo.co.kr/?ac=article_view&entry_id=512768"
+  }
+ ],
+ "target_text": "지명수배자 및 조회 대상자(기사 기재)",
+ "title": "현직 경찰관 2명, 사설탐정에 수배 정보 제공하고 금품 수수해 기소",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

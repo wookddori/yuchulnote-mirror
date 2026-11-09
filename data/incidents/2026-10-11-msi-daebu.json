@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-02-13",
+ "confirmed_text": "2월 13일부터 3월 23일까지 해커가 데이터베이스와 업무 시스템에 접근(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-02-13",
+   "date_text": "2.13~3.23",
+   "label": "직원 PC 악성코드 감염 후 내부 시스템 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-11",
+   "date_text": "10.11",
+   "label": "해커의 다크웹 판매 협박 및 금감원 제재 절차 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-01",
+   "date_text": "11.01",
+   "label": "신규 대출 취급 중단, 매각 협상 난항 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "개인신용정보",
+ "leaked_items_text": "고객 개인신용정보. 세부 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "MSI대부",
+ "reported_date": "2026-10-11",
+ "response_text": "금융감독원 제재 절차 진행 중. 신규 대출 취급 중단, 매각 추진(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-11-msi-daebu",
+ "sources": [
+  {
+   "publisher": "서울경제",
+   "title": "해킹 당한 MSI대부, 매물로 나와",
+   "url": "https://www.sedaily.com/article/20100189"
+  },
+  {
+   "publisher": "서울경제",
+   "title": "해킹 피해 MSI대부, 신규 대출 취급 중단…매각도 난항",
+   "url": "https://www.sedaily.com/article/20108742"
+  }
+ ],
+ "target_text": "대부업체 고객(기사 기재)",
+ "title": "직원 PC 악성코드 감염으로 고객 개인신용정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

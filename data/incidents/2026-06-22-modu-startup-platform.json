@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-06-15",
+ "confirmed_text": "6월 15일 1차 합격자 발표 당일 비공개 정보 접근 시도 확인. 협력사(AI 솔루션 지원 업체)의 비정상 접근으로 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-15",
+   "date_text": "06.15",
+   "label": "합격자 발표 당일 비공개 정보 접근 시도 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-18",
+   "date_text": "06.18",
+   "label": "창업진흥원, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-22",
+   "date_text": "06.22",
+   "label": "중기부 장관 사과문 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이메일·아이디어 요약·심사평",
+ "leaked_items_text": "이메일 주소, 창업 아이디어 요약 정보, 심사평. 실명·휴대전화번호·신청서 상세 아이디어는 유출 미확인이라고 중기부 설명(기사 기재)",
+ "notices": [],
+ "org_name": "모두의 창업 플랫폼",
+ "reported_date": "2026-06-22",
+ "response_text": "접근 경로 차단, 외부 전문기관과 침해 조사 진행, KISA 신고(6월 18일), 장관 사과, 영업비밀 원본증명 무상 지원 등 보호대책 발표, 2차 선발 일정 연기(기사 기재)",
+ "scale_short": "약 5,000명",
+ "scale_text": "1차 합격자 약 5,000명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-06-22-modu-startup-platform",
+ "sources": [
+  {
+   "publisher": "YTN",
+   "title": "협력사가 모두의 창업 해킹...뻥 뚫린 정부 보안망",
+   "url": "https://www.ytn.co.kr/_ln/0102_202606221953317943"
+  },
+  {
+   "publisher": "중소기업뉴스",
+   "title": "'모두의 창업' 해킹…아이디어도 털렸다",
+   "url": "http://www.smedaily.co.kr/news/articleView.html?idxno=359038"
+  }
+ ],
+ "target_text": "1차 합격자 약 5,000명(기사 기재)",
+ "title": "협력사 경유 비정상 접근으로 합격자 이메일·아이디어 요약 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

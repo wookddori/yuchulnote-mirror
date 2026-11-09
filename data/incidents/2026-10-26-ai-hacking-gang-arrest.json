@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-26",
+ "confirmed_text": "서울경찰청 사이버수사과가 총책을 구속 송치하고 일당 6명을 불구속 조사 중이라고 10월 26일 밝힘(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.09",
+   "label": "범행 시작(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.06",
+   "label": "피해업체 진정으로 수사 시작(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-15",
+   "date_text": "10.15",
+   "label": "총책 체포(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "총책 구속 송치(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-26",
+   "date_text": "10.26",
+   "label": "경찰 수사 결과 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "개인정보 820만건·기업 내부자료",
+ "leaked_items_text": "개인정보 820만건(이름, 주민등록번호, 전화번호, 주소 등)과 기업 내부 자료(기사 기재)",
+ "notices": [],
+ "org_name": "AI 활용 해킹 조직(경찰 검거)",
+ "reported_date": "2026-10-26",
+ "response_text": "피해업체 진정으로 6월 수사 시작, 10월 15일 총책 체포, 10월 23일 구속 송치, 개인정보 회수, 다크웹 유출 등 2차 피해 여부 수사 중(기사 기재)",
+ "scale_short": "820만건, 약 90곳",
+ "scale_text": "약 90곳 피해, 이 중 60곳은 AI 활용 침해, 38곳에 협박 이메일로 3억 6천만원 요구(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-26-ai-hacking-gang-arrest",
+ "sources": [
+  {
+   "publisher": "내일신문",
+   "title": "AI 사용 해킹·유출, 국내서 첫 검거",
+   "url": "https://www.naeil.com/news/read/606451"
+  },
+  {
+   "publisher": "MBC",
+   "title": "820만 건 정보 유출 ‥인터넷 보고 AI 해킹 독학",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860935_37012.html"
+  }
+ ],
+ "target_text": "학원, 병원, 골프장, 대학교, 대기업 계열사, 보험사, 상조회사 등 약 90곳(기사 기재)",
+ "title": "생성형 AI 활용 해킹으로 약 90곳 침해, 개인정보 820만건 유출 후 검거",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

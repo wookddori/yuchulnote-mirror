@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-08-14",
+ "confirmed_text": "8월 14일 학교가 이상 징후를 탐지하고 공격 IP 차단(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-11",
+   "date_text": "08.11",
+   "label": "외부 비인가 IP가 무작위 대입 방식으로 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-14",
+   "date_text": "08.14",
+   "label": "이상 징후 탐지, 공격 IP 차단, 기관 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-15",
+   "date_text": "08.15",
+   "label": "서울경찰청 사이버수사과 입건 전 조사 착수(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·소속·연락처·암호화 비번",
+ "leaked_items_text": "성명, 소속, 이메일, 휴대전화번호, 암호화된 비밀번호. 학교는 고유식별정보·민감정보·학사정보 미유출로 설명(기사 기재)",
+ "notices": [],
+ "org_name": "서강대학교",
+ "reported_date": "2026-08-16",
+ "response_text": "공격 IP·서버 네트워크 차단, 접속 제한, 개인정보보호위원회·교육부 신고, 포렌식 조사 진행(기사 기재). 서울경찰청 사이버수사과 입건 전 조사(기사 기재)",
+ "scale_short": "약 18만 건",
+ "scale_text": "약 18만 건(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-08-16-sogang-university",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "박근혜도 털린 서강대 개인정보 해킹 사건…경찰, 입건 전 조사",
+   "url": "https://www.newsis.com/view/NISX20260816_0003751052"
+  },
+  {
+   "publisher": "대전일보",
+   "title": "'박근혜 전 대통령 포함' 서강대 해킹에 개인정보 18만 건 유출",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2294723"
+  }
+ ],
+ "target_text": "재학생, 졸업생, 교직원 등 과거 구성원 포함(기사 기재)",
+ "title": "서버 무작위 대입 공격으로 구성원 개인정보 약 18만 건 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

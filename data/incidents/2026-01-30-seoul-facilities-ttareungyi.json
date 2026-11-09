@@ -1,0 +1,64 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2024-06-29",
+ "confirmed_text": "2024년 6월 28~29일 서버 보안 취약점을 이용한 무단 접근. 2026년 1월 27일 경찰로부터 유출 정황 통보, 1월 30일 공개(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.06.28~29",
+   "label": "서버 보안 취약점을 이용한 무단 접근(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.07.18",
+   "label": "보안업체가 유출 정황 보고서 제출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.27",
+   "label": "경찰로부터 유출 의심 정황 통보(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.30",
+   "label": "공단이 사고 사실 공개(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.24",
+   "label": "피해자 23명, 1인당 위자료 30만 원 청구 손해배상 소송 제기(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.15",
+   "label": "국회 행정안전위원회 서울시 국정감사에서 보고·통지 시점 관련 문제 제기(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "연락처·생년월일·주소 등",
+ "leaked_items_text": "회원 아이디, 휴대전화번호, 생년월일, 성별, 체중, 이메일, 주소, 보호자 연락처 등. 항목은 개인별로 상이(기사 기재)",
+ "notices": [],
+ "org_name": "서울시설공단(따릉이)",
+ "reported_date": "2026-01-30",
+ "response_text": "수사 의뢰, 피해자에게 5천 원 상당 따릉이 30일 이용권 지급(사용률 0.38%), 보고 의무를 이행하지 않은 실무자 경찰 수사 의뢰(기사 기재)",
+ "scale_short": "약 462만 명",
+ "scale_text": "약 462만 명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-30-seoul-facilities-ttareungyi",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "이광희 의원, 따릉이 462만 명 개인정보 유출 대응 질타",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208921"
+  },
+  {
+   "publisher": "뉴스핌",
+   "title": "'따릉이 개인정보 유출' 서울시설공단 상대 손배소, 오는 11월 첫 변론",
+   "url": "https://www.newspim.com/news/view/20261022001043"
+  }
+ ],
+ "target_text": "따릉이 회원, 통지 대상 약 462만 명(기사 기재)",
+ "title": "따릉이 서버 무단 접근으로 회원 약 462만 명 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

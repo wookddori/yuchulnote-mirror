@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-02",
+ "confirmed_text": "9월 27일 오후 5시 9분께 침해 발생, 10월 2일 오후 4시 4분께 인지(금융당국 제출 사고보고서 기반 보도)",
+ "events": [
+  {
+   "date_iso": "2026-09-27",
+   "date_text": "09.27",
+   "label": "침해 발생(기사 기재: 오후 5시 9분께)"
+  },
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "회사 인지, IP 차단, 공격 종료(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-05",
+   "date_text": "10.05",
+   "label": "법인 고객정보 유출 첫 보도"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "법인명·대표자명·연락처 등",
+ "leaked_items_text": "법인 인터넷뱅킹 아이디, 법인명, 대표자 이름, 업무 연락처, 휴대전화번호, 이메일 주소(기사 기재)",
+ "notices": [],
+ "org_name": "웰컴저축은행",
+ "reported_date": "2026-10-05",
+ "response_text": "금융보안원 공유 IP 정보로 자체 점검 중 확인, 10월 2일 해당 IP 차단, 금융당국 보고(기사 기재). 고객 안내는 기사에 없음.",
+ "scale_short": "약 2,300건",
+ "scale_text": "전체 2,370건 중 개인정보 포함 데이터 약 2,299건 추정, 정보주체 기준 규모는 추후 재보고 예정(기사 기재). 10월 5일 기사는 약 2,200건으로 보도",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-09-27-welcome-savings-bank",
+ "sources": [
+  {
+   "publisher": "데일리안",
+   "title": "해킹당하고도 몰랐다…웰컴저축은행·현대캐피탈, 닷새 뒤에야 인지",
+   "url": "https://www.dailian.co.kr/news/view/1698564"
+  },
+  {
+   "publisher": "데일리안",
+   "title": "웰컴저축은행도 해킹 피해…법인 고객정보 2200건 유출",
+   "url": "https://www.dailian.co.kr/news/view/1697861"
+  }
+ ],
+ "target_text": "법인 고객(기사 기재)",
+ "title": "법인 고객 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

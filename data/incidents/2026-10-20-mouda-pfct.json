@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-09-27",
+ "confirmed_text": "9월 27일 두 업체가 공격을 받았고 9월 28일 침해를 인지했다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-27",
+   "date_text": "9.27",
+   "label": "두 업체 공격 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-28",
+   "date_text": "9.28",
+   "label": "침해 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "유출 규모 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주민등록번호 등",
+ "leaked_items_text": "피에프씨테크놀로지스는 주민등록번호 등 개인정보, 모우다 항목은 기사에 명시되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "모우다·피에프씨테크놀로지스",
+ "reported_date": "2026-10-20",
+ "response_text": "피에프씨테크놀로지스는 공격 당일 탐지하고 다음 날 금융당국에 신고, 모우다는 신고를 마침. 신고 일자는 기사별로 상이(기사 기재). 일부 IP가 다른 은행 공격과 겹치나 연관성은 입증되지 않았다고 기사에 있음",
+ "scale_short": null,
+ "scale_text": "잠정 합계 약 1만 9214명이며 업체별 인원은 기사별로 상이(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-20-mouda-pfct",
+ "sources": [
+  {
+   "publisher": "서울경제",
+   "title": "은행보다 먼저 해킹…온투업체 모우다 고객 정보 1만 9000건 유출",
+   "url": "https://www.sedaily.com/article/20103984"
+  },
+  {
+   "publisher": "아주경제",
+   "title": "온투업체 2곳서 고객 정보 1만9000명 유출",
+   "url": "https://www.ajunews.com/view/20261020161936158"
+  }
+ ],
+ "target_text": "온라인투자연계금융업체 고객(기사 기재)",
+ "title": "온투업체 2곳 웹 취약점 공격으로 고객 정보 약 1만 9천 명 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

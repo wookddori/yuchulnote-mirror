@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "17일쯤 사이버 공격을 받았다고 학교가 밝힘(기사 기재, 월 표기 없음). 학교의 확인·공지 날짜는 기사에 없음",
+ "events": [
+  {
+   "date_iso": "2026-10-17",
+   "date_text": "10.17",
+   "label": "등록금 수납관리시스템에 사이버 공격(기사 기재: 17일쯤)"
+  },
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "5천여 명 개인정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·학번·수납액·가상계좌",
+ "leaked_items_text": "이름, 학번, 등록금 수납액, 가상계좌 등(기사 기재)",
+ "notices": [],
+ "org_name": "국립부경대학교",
+ "reported_date": "2026-10-29",
+ "response_text": "차단·신고·안내는 기사에 없음",
+ "scale_short": "5,108명",
+ "scale_text": "5,108명(학교 자체 파악, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-17-pknu-tuition-system",
+ "sources": [
+  {
+   "publisher": "KNN",
+   "title": "부경대 등록금 시스템 해킹, 5천여 명 개인정보 유출",
+   "url": "https://news.knn.co.kr/news/article/193774"
+  }
+ ],
+ "target_text": "학생과 직원(기사 기재)",
+ "title": "등록금 수납관리시스템 해킹으로 학생·직원 정보 유출",
+ "updated_at": "2026-11-08T15:50:55Z"
+}

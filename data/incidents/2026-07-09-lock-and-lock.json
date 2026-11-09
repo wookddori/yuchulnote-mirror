@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-07-08",
+ "confirmed_text": "개인정보위가 7월 8일 회의에서 과징금 5억 300만원 의결, 2024년 4월 메일서버 취약점으로 침입 후 5월 말 회원 DB 유출(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.4",
+   "label": "메일서버 취약점으로 내부 시스템 침입(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.5말",
+   "label": "회원 DB 유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.11",
+   "label": "파일서버에서 업무 파일과 임직원 정보 재유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.7.8",
+   "label": "개인정보위 제재 의결(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·주소, 임직원 식별정보",
+ "leaked_items_text": "회원 성명·전화번호·주소, 임직원 주민등록번호·운전면허 정보·계좌사본 등(기사 기재)",
+ "notices": [],
+ "org_name": "락앤락",
+ "reported_date": "2026-07-09",
+ "response_text": "개인정보위가 과징금 5억 300만원, 과태료 540만원 부과, 위반 사실 공표 명령(기사 기재). 2022년 공개 취약점 미조치, 관리자 계정 비밀번호 동일 사용, 고유식별정보 미암호화, 파기 기한 초과 49,466건 등이 위반으로 지적됨(기사 기재)",
+ "scale_short": null,
+ "scale_text": "회원 약 130만 명, 임직원 정보 1111건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-07-09-lock-and-lock",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "락앤락, 개인정보 130만 명 유출…과징금 5억 300만 원",
+   "url": "https://www.news1.kr/it-science/security-hacking/6223418"
+  },
+  {
+   "publisher": "글로벌이코노믹",
+   "title": "개인정보위, 130만 명 정보 유출 락앤락에 과징금 5억 원 부과",
+   "url": "https://www.globale.co.kr/news/articleView.html?idxno=39271"
+  }
+ ],
+ "target_text": "일반 회원 약 130만 명과 임직원 1111명(기사 기재)",
+ "title": "해킹으로 회원 약 130만 명 정보 유출, 개인정보위 과징금 5억원",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

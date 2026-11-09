@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 유심 해킹 사고 관련 개인정보위 처분 후 소송 단계. 사고 발생일은 읽은 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "일자 미상",
+   "label": "개인정보위, 과징금 1,347억 9,100만원·과태료 960만원 부과(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.19",
+   "label": "SK텔레콤, 서울행정법원에 과징금 취소소송 제기(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.20",
+   "label": "개인정보분쟁조정위 1인당 30만원 조정안 불수용, 소비자분쟁조정위 1인당 10만원 안은 검토 중으로 보도(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.09.16",
+   "label": "과징금 취소소송 재판 시작, 선고는 2027년 1월 말 예정(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "휴대전화번호·IMSI·유심 인증키 등 25종",
+ "leaked_items_text": "휴대전화번호, 가입자식별번호(IMSI), 유심 인증키 등 25종(기사 기재)",
+ "notices": [],
+ "org_name": "SK텔레콤",
+ "reported_date": "2026-01-19",
+ "response_text": "개인정보위가 과징금 1,347억 9,100만원, 과태료 960만원 부과. 회사는 서울행정법원에 과징금 취소소송 제기. 유심 무료 교체와 고객 보상에 약 5000억원 지출, 정보보호 7000억원 추가 투자 계획 밝힘(기사 기재)",
+ "scale_short": "2,324만 4,649명",
+ "scale_text": "이용자 2,324만 4,649명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-19-sk-telecom-usim",
+ "sources": [
+  {
+   "publisher": "디지털투데이",
+   "title": "'유심 해킹' SKT, 1348억 과징금 불복…행정소송 제기",
+   "url": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=622297"
+  },
+  {
+   "publisher": "디일렉",
+   "title": "SKT, 1348억 과징금 소송전 돌입",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=51094"
+  },
+  {
+   "publisher": "뉴스1",
+   "title": "'유심 해킹' 1300억대 과징금 소송 시작…SKT 측 피해 가능성 없어",
+   "url": "https://www.news1.kr/society/court-prosecution/6294330"
+  }
+ ],
+ "target_text": "SK텔레콤 이용자(기사 기재)",
+ "title": "유심 정보 유출 사고 및 과징금 취소소송",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

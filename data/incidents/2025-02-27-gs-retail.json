@@ -1,0 +1,64 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-02-27",
+ "confirmed_text": "2025년 2월 27일 GS리테일이 홈쇼핑 사이트 유출 사실 공지(기사 기재). 2026년 8월 개인정보위가 과징금 처분(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.12.26~2025.01.04",
+   "label": "GS25 대상 대량 로그인 공격 기간, 2025년 1월 4일 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.06.21~2025.02.13",
+   "label": "GS샵 대상 같은 수법의 공격 기간(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.02.27",
+   "label": "GS샵 유출 사실 공지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.26",
+   "label": "개인정보위 전체회의에서 과징금 의결(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "날짜 기사에 없음",
+   "label": "추가 확인된 1,599명에게 법정 72시간을 넘겨 통지한 점이 처분 사유에 포함(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·주소 등",
+ "leaked_items_text": "이름, 성별, 생년월일, 연락처, 주소, 이메일 등. 최초 보도에서는 아이디, 개인통관고유부호 등 10개 항목 언급. 멤버십 포인트·결제정보는 미포함(기사 기재)",
+ "notices": [],
+ "org_name": "GS리테일",
+ "reported_date": "2025-02-27",
+ "response_text": "공격 IP 차단, 홈쇼핑 계정 로그인 잠금, 본인확인 강화, 비밀번호 변경 안내(기사 기재). 개인정보위가 과징금 약 128억 3,600만원, 과태료 300만원, 시정명령, 처분 공표 부과(기사 기재)",
+ "scale_short": "약 166만명",
+ "scale_text": "처분 기준 약 166만명(GS샵 1,581,025명, GS25 79,128명). 최초 보도는 홈쇼핑 약 158만건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-02-27-gs-retail",
+ "sources": [
+  {
+   "publisher": "YTN",
+   "title": "GS리테일, 편의점 이어 홈쇼핑도 해킹... 개인정보 158만 건 유출",
+   "url": "https://www.ytn.co.kr/_ln/0102_202502272249576533"
+  },
+  {
+   "publisher": "경향신문",
+   "title": "해킹당한 GS리테일, 편의점 이어 홈쇼핑 고객 정보도 털렸다",
+   "url": "https://www.khan.co.kr/article/202502272057015"
+  },
+  {
+   "publisher": "잡포스트",
+   "title": "GS리테일, 166만 명 개인정보 유출…개보위 과징금 128억 철퇴",
+   "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226892"
+  }
+ ],
+ "target_text": "GS샵 회원, GS25 회원(기사 기재)",
+ "title": "GS샵·GS25 대량 로그인 시도로 회원정보 유출, 개인정보위 과징금",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

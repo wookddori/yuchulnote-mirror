@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-07",
+ "confirmed_text": "10월 6일 KISA 통보, 여의도순복음교회는 10월 7일 개인정보 노출 확인 발표(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-06",
+   "date_text": "10.06",
+   "label": "KISA가 두 교회에 침해 정황 통보(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07",
+   "label": "여의도순복음교회 조사 결과 발표(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-08",
+   "date_text": "10.08",
+   "label": "AI 도구 활용 여부는 확정되지 않았다고 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·변경이력",
+ "leaked_items_text": "여의도순복음교회: 성도정보 변경이력 파일에 이름, 생년월일, 변경 내용(주민번호 변경 2629건, 전화번호 3964건, 주소 7202건 포함)(기사 기재)",
+ "notices": [],
+ "org_name": "대형교회 2곳(여의도순복음교회·사랑의교회)",
+ "reported_date": "2026-10-08",
+ "response_text": "여의도순복음교회: 악성파일 삭제, 외부 접속 차단, 비밀번호 변경, 외부 점검. 사랑의교회: 비상대책팀 구성, 관계기관 신고(기사 기재)",
+ "scale_short": "최대 85만 명(교회 설명)",
+ "scale_text": "여의도순복음교회는 해당 파일에 최대 85만명분이라고 설명, 보안업체 분석 자료에는 교인정보 약 96만 건, 사랑의교회는 교인정보 약 8만9천 명으로 거론되며 확정 여부는 조사 중(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-08-large-churches",
+ "sources": [
+  {
+   "publisher": "IT데일리",
+   "title": "AI 해킹 의심, 종교계까지…대형 교회서 최대 85만명 개인정보 유출 가능성",
+   "url": "https://www.itdaily.kr/news/articleView.html?idxno=242076"
+  },
+  {
+   "publisher": "기독교신문",
+   "title": "대형교회 해킹 정황…교인정보 보호 비상",
+   "url": "http://www.pckworld.com/article.php?aid=11240892878"
+  }
+ ],
+ "target_text": "교인(기사 기재)",
+ "title": "대형교회 2곳 해킹 정황, 교인 정보 유출 여부 조사",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

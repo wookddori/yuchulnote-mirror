@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-30",
+ "confirmed_text": "10월 30일 유출 확인 및 대응 착수, 침해사고 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28~29",
+   "label": "무단 접근으로 개인정보 유출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "유출 확인, KISA 침해사고 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "보상 시작, 개인정보위 신고 완료(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·주소·e쿠폰 핀번호",
+ "leaked_items_text": "이름, 아이디, e쿠폰 핀번호, 휴대전화번호, 이메일, 주소. 로그인 비밀번호는 유출되지 않았다고 회사 설명(기사 기재)",
+ "notices": [],
+ "org_name": "지마켓",
+ "reported_date": "2026-11-02",
+ "response_text": "비인가 접근 경로 차단, 보안 점검·모니터링 강화, 보유 상품권 핀번호 순차 교체, KISA 신고(10.30)와 개인정보위 신고(11.01), 수사기관 신고. 유출 확인 고객에게 스마일캐시 1만원 지급, e쿠폰 무단 사용 피해는 전액 보상(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 고객 수는 기사에 없음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-02-gmarket",
+ "sources": [
+  {
+   "publisher": "톱스타뉴스",
+   "title": "지마켓, 개인정보 유출 사고 수습 나섰다…고객 보상 캐시 1만원 지급",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16265959"
+  }
+ ],
+ "target_text": "유출이 확인된 고객(기사 기재)",
+ "title": "외부 서비스 API 취약점 악용 비인가 접근으로 고객 정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

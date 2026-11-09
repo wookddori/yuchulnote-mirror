@@ -1,0 +1,39 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "8월 31일 대전 동구청장이 기자회견에서 유출 사실을 밝히고 사과. 유출 시점과 경위는 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-31",
+   "date_text": "08.31",
+   "label": "동구청장 기자회견, 사과 및 위탁 계약 법적 검토 착수 방침(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·연락처·주소 등",
+ "leaked_items_text": "이름, 생년월일, 연락처, 주소, 학교·학년, 로그인 아이디 등(기사 기재)",
+ "notices": [],
+ "org_name": "글로벌 드림캠퍼스(대전 동구)",
+ "reported_date": "2026-08-31",
+ "response_text": "구청장 사과, 한국인터넷진흥원 등 관계기관 조사, 조사 결과에 따른 계약 해지 포함 법적 검토, 교육청 중심 운영 전환 검토(기사 기재)",
+ "scale_short": "637명",
+ "scale_text": "637명(학생 420명, 학부모 217명)(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-08-31-daejeon-donggu-dream-campus",
+ "sources": [
+  {
+   "publisher": "대전일보",
+   "title": "개인정보 유출 드림캠퍼스…대전 동구 민간위탁 해지·교육청 이관",
+   "url": "https://www.daejonilbo.com/news/articleView.html?idxno=2297851"
+  },
+  {
+   "publisher": "국제뉴스",
+   "title": "황인호 동구청장, 글로벌 드림캠퍼스 개인정보 유출 사과",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3679569"
+  }
+ ],
+ "target_text": "학생 420명, 학부모 217명(기사 기재)",
+ "title": "위탁 운영업체에서 학생·학부모 637명 개인정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-04-30",
+ "confirmed_text": "4월 30일경 이력서 미리보기 페이지에서 해킹 시도 감지, 차단 과정에서 유출 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-04-30",
+   "date_text": "04.30",
+   "label": "이상 접근 감지 및 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2025-05-01",
+   "date_text": "05.01",
+   "label": "개인정보보호위원회 신고, 피해 회원 이메일 안내(기사 기재)"
+  },
+  {
+   "date_iso": "2024-05-20",
+   "date_text": "05.20",
+   "label": "10만원 상당 보상 방안 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·이메일",
+ "leaked_items_text": "이름, 연락처, 이메일 등. 아이디와 비밀번호는 유출되지 않았다고 회사가 밝힘(기사 기재)",
+ "notices": [],
+ "org_name": "알바몬",
+ "reported_date": "2025-05-04",
+ "response_text": "계정과 IP 차단, 취약점 보완, 5월 1일 개인정보보호위원회 자진 신고, 이메일 개별 안내, 실시간 모니터링 강화(기사 기재). 회원이 선택하는 10만원 상당 보상 제공(기사 기재)",
+ "scale_short": "2만2473건",
+ "scale_text": "이력서 2만2473건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-05-04-albamon",
+ "sources": [
+  {
+   "publisher": "YTN",
+   "title": "알바몬도 해킹, 이력서 2만2천 건 개인정보 유출",
+   "url": "https://www.ytn.co.kr/_ln/0103_202505040205508801"
+  },
+  {
+   "publisher": "톱스타뉴스",
+   "title": "해킹 피해 알바몬, 개인정보 유출 보상 10만 원",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=15671628"
+  }
+ ],
+ "target_text": "임시저장 이력서를 가진 회원(기사 기재)",
+ "title": "해킹으로 임시저장 이력서 개인정보 유출",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

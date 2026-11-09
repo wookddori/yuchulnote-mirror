@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-04-11",
+ "confirmed_text": "2025년 3월 13일~25일 티머니 카드&페이 웹사이트에 대량 로그인 시도, 개인정보위가 4월 11일 유출 신고 접수(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.03.13~25",
+   "label": "크리덴셜 스터핑 공격 발생, 약 9천 개 이상 IP 사용(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.04.11",
+   "label": "개인정보위 유출 신고 접수(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.28",
+   "label": "개인정보위 과징금 의결(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.29",
+   "label": "처분 결과 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·이메일·연락처·주소",
+ "leaked_items_text": "이름, 이메일 주소, 휴대폰 번호, 주소(기사 기재)",
+ "notices": [],
+ "org_name": "티머니",
+ "reported_date": "2026-01-29",
+ "response_text": "개인정보위가 과징금 5억 3400만원 부과, 홈페이지 공표와 재발방지 대책 시정명령. 대량 로그인 등 이상 징후에 대한 침입 탐지·차단 안전조치 미흡이 위반 내용(기사 기재)",
+ "scale_short": "5.1만 명",
+ "scale_text": "51,691명. 4,131개 계정에서 잔여 T마일리지가 선물하기 기능으로 탈취됨(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-29-tmoney",
+ "sources": [
+  {
+   "publisher": "한국경제",
+   "title": "티머니 5만명 개인정보 유출 5억원대 과징금 부과",
+   "url": "https://www.hankyung.com/article/2026012922557"
+  },
+  {
+   "publisher": "인터넷뉴스(INTN)",
+   "title": "개인정보위, 개인정보 유출 티머니에 과징금 5억3400만원 부과",
+   "url": "http://www.intn.co.kr/news/articleView.html?idxno=2048783"
+  }
+ ],
+ "target_text": "티머니 카드&페이 이용자(기사 기재)",
+ "title": "크리덴셜 스터핑으로 이용자 5만여 명 정보 유출, 과징금 5억 3400만원",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

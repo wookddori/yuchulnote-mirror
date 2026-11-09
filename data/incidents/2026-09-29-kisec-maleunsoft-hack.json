@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "위탁 운영사 서버에 19~20일 불법 접근, 22일 유출 사실 인지(기사 기재, 월 표기 없음)",
+ "events": [
+  {
+   "date_iso": "2026-09-19",
+   "date_text": "09.19",
+   "label": "위탁 운영사 서버 불법 접근 시작(기사 기재: 19~20일, 월은 보도일 기준)"
+  },
+  {
+   "date_iso": "2026-09-22",
+   "date_text": "09.22",
+   "label": "위탁 운영사가 유출 사실 인지, IP 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-29",
+   "date_text": "09.29",
+   "label": "스팸 메시지 발송 확인 등 보도"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·성명·연락처·암호화된 비밀번호",
+ "leaked_items_text": "아이디, 성명, 이메일, 주소, 암호화된 비밀번호, 전화번호 등 8개 항목(기사 기재, 기사에 6개 항목만 나열)",
+ "notices": [],
+ "org_name": "한국정보보호교육센터",
+ "reported_date": "2026-09-29",
+ "response_text": "가입 고객에게 유출 사실 안내, 해커 IP 차단 등 기술적 조치, 관계기관 신고, 동일 비밀번호 사용 사이트의 비밀번호 변경 권고(기사 기재). 기관 명의를 도용한 스팸 메시지 발송이 확인됐다고 센터가 밝힘(기사 기재).",
+ "scale_short": "미공개",
+ "scale_text": "센터가 유출 회원 수를 밝히지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-29-kisec-maleunsoft-hack",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "KISA 보안교육 맡긴 곳도 털렸다…사칭 문자까지",
+   "url": "https://biz.sbs.co.kr/amp/article/20000337297"
+  }
+ ],
+ "target_text": "온라인교육 사이트 가입 고객(기사 기재)",
+ "title": "온라인교육 사이트 위탁 운영사(맑은소프트) 해킹으로 고객 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

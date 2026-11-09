@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-11-04",
+ "confirmed_text": "11월 4일 홈페이지 공지로 아마데우스 시스템 일부 항공예약 정보 유출 정황 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "NH여행 홈페이지 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-05",
+   "date_text": "11.05",
+   "label": "보안뉴스 등에서 대한항공·아시아나항공·진에어 피해도 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "항공예약번호(PNR)",
+ "leaked_items_text": "일부 고객의 항공예약번호(PNR), 추가 항목은 확인 중(기사 기재)",
+ "notices": [],
+ "org_name": "NH농협여행",
+ "reported_date": "2026-11-04",
+ "response_text": "피해 고객 확인 중, 피싱 주의 당부, 손해배상청구·분쟁조정 신청 안내(데일리시큐 기재). 아마데우스 계정 로그인 인증정보를 이용한 비인가 접근으로 파악, 시점은 2023년 8월~2026년 9월 사이로 조사 중(기사 기재).",
+ "scale_short": "미공개",
+ "scale_text": "피해 규모는 공개되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-04-nh-nonghyup-travel",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "NH농협여행, 항공예약 개인정보 유출 가능성 공지…아마데우스 시스템 해킹",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209309"
+  },
+  {
+   "publisher": "보안뉴스",
+   "title": "아마데우스 유출 NH여행으로 피해 확산... 고객 항공예약번호 유출",
+   "url": "http://www.boannews.com/news/articleView.html?idxno=147014"
+  }
+ ],
+ "target_text": "NH여행 항공예약 고객 중 일부(기사 기재)",
+ "title": "아마데우스 시스템 비인가 접근으로 항공예약번호 유출 안내",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

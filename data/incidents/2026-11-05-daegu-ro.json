@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-01",
+ "confirmed_text": "10월 31일 운영 서버 보안사고 발생, 운영사는 11월 1일 정황 인지(이투데이 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-31",
+   "date_text": "10.31",
+   "label": "대구로 운영 서버 보안사고 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "운영사 인지, 대구경찰청 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-05",
+   "date_text": "11.05",
+   "label": "언론 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "가맹점 계좌번호·접속 계정",
+ "leaked_items_text": "가맹점 계좌번호 약 2만5천개, 시스템 접속 아이디·비밀번호 약 250명분(기사별로 대상 표기 상이)(기사 기재)",
+ "notices": [],
+ "org_name": "대구시 공공배달앱 대구로",
+ "reported_date": "2026-11-05",
+ "response_text": "운영사 인성데이타 경찰 신고, 신규 가맹 가입 중단, KISA 통지(기사 기재). 금전 피해는 확인되지 않았다고 보도(헤럴드경제 기재). KISA와 사이버수사대 경위 조사 중(기사 기재).",
+ "scale_short": "계좌번호 약 2.5만개",
+ "scale_text": "계좌번호 약 2만5천개, 접속 계정 약 250명분(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-05-daegu-ro",
+ "sources": [
+  {
+   "publisher": "이투데이",
+   "title": "대구 공공배달앱 대구로 해킹...계좌번호 2만5천여개 노출",
+   "url": "https://www.etoday.co.kr/news/view/2644865"
+  },
+  {
+   "publisher": "헤럴드경제",
+   "title": "대구 공공배달앱 대구로 해킹… 개인정보 2만 5000여개 유출",
+   "url": "https://biz.heraldcorp.com/article/10927712"
+  }
+ ],
+ "target_text": "가맹점주 및 시스템 접속 계정(기사 기재)",
+ "title": "운영 서버 해킹으로 가맹점 계좌번호 등 노출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

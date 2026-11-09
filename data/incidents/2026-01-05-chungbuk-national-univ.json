@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-01-05",
+ "confirmed_text": "1월 5일 교육부 사이버안전센터가 대학에 유출 사실 통보, 대학은 홈페이지에 공개된 게시물 외 민감 정보는 없다고 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.12.23~2026.01.05",
+   "label": "한국 웹사이트 대상 공격 시기로 보도(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.05",
+   "label": "교육부 사이버안전센터 통보, 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "게시물·작성자 정보 일부",
+ "leaked_items_text": "공지사항 게시물(게시일, 작성자명, 암호화된 비밀번호, 작성자 IP, 이메일 항목이 샘플에 포함)(기사 기재)",
+ "notices": [],
+ "org_name": "충북대학교(수의과대학)",
+ "reported_date": "2026-01-05",
+ "response_text": "대학이 점검 후 취약점 조치 예정이라고 밝힘(기사 기재)",
+ "scale_short": "건수 미공개",
+ "scale_text": "충북대 건수는 기사에 없음, 해커 주장 피해 사이트는 국내 소규모 웹사이트 17곳(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-05-chungbuk-national-univ",
+ "sources": [
+  {
+   "publisher": "지디넷코리아",
+   "title": "[단독] 충북대 등 소규모 웹사이트 17곳 연쇄 해킹",
+   "url": "https://zdnet.co.kr/view/?no=20260105134654"
+  },
+  {
+   "publisher": "충북일보",
+   "title": "충북대 수의학과대학 해킹 피해",
+   "url": "https://www.ccdn.co.kr/news/articleView.html?idxno=1057336"
+  }
+ ],
+ "target_text": "충북대 수의과대학 홈페이지 게시물 작성자(기사 기재)",
+ "title": "수의과대학 웹사이트 해킹, 해커가 다크웹 포럼에 판매 게시",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

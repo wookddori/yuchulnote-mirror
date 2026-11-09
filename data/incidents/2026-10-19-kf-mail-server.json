@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-19",
+ "confirmed_text": "7월 29일 외부 공격 발생, 10월 19일 메일시스템 침해 정황 확인, 10월 22일 공지(기사 기재, 연도·월은 게시일 기준)",
+ "events": [
+  {
+   "date_iso": "2026-07-29",
+   "date_text": "07.29",
+   "label": "보안 취약점을 악용한 외부 공격 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "메일시스템 침해 정황 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "재단이 침해 사실과 대응을 밝힘(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이메일 주소·성명·전화번호(등록 정보)",
+ "leaked_items_text": "서버에 등록된 이메일 주소 약 22만7천 건, 이 중 구독자 성명 약 18만7천 건, 전화번호 약 5천500건. 실제 유출 범위는 조사 중(기사 기재)",
+ "notices": [],
+ "org_name": "한국국제교류재단",
+ "reported_date": "2026-10-22",
+ "response_text": "해당 서버 즉시 차단, 개인정보보호위원회 신고와 등록된 메일 대상자 통지, 관계기관과 정밀 조사, 시스템 전반 점검, KF사이버안전센터 피해 신고 창구 운영(기사 기재)",
+ "scale_short": "등록 약 22만7천 건",
+ "scale_text": "서버에 등록된 이메일 주소 약 22만7천 건(실제 유출 규모는 정밀 조사 중, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-19-kf-mail-server",
+ "sources": [
+  {
+   "publisher": "연합뉴스(한민족센터 게재)",
+   "title": "한국국제교류재단, 개인정보 22만여건 담긴 메일 서버 해킹",
+   "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1428309"
+  }
+ ],
+ "target_text": "홍보 메일 수신용 서버에 등록된 대상자(기사 기재)",
+ "title": "홍보 메일 수신용 서버 외부 공격 침해 정황",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

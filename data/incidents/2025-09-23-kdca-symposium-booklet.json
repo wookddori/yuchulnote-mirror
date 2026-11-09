@@ -1,0 +1,39 @@
+{
+ "category": "insider",
+ "confirmed_date": "2025-06-26",
+ "confirmed_text": "2025년 6월 25일 심포지엄 발표 자료 준비 과정에서 개인정보를 지우지 않고 인쇄한 자료집이 배포됨, 다음 날 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.06.25",
+   "label": "자료집 배포(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.06.26",
+   "label": "유출 확인 및 회수(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·의심 질환명·검사 결과",
+ "leaked_items_text": "이름, 의심 질환명, 검사 결과(기사 기재)",
+ "notices": [],
+ "org_name": "질병관리청",
+ "reported_date": "2025-09-23",
+ "response_text": "자료집 회수, 환자 개별 연락, 개인정보위 신고(기사 기재)",
+ "scale_short": "10명",
+ "scale_text": "환자 10명, 자료집 100부(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-09-23-kdca-symposium-booklet",
+ "sources": [
+  {
+   "publisher": "쿠키뉴스",
+   "title": "질병청서도 올해 개인정보 유출, 이름·BMI 담긴 문자 오발송",
+   "url": "https://www.kukinews.com/article/view/kuk202509240010"
+  }
+ ],
+ "target_text": "환자 10명(기사 기재)",
+ "title": "희귀질환 심포지엄 자료집에 환자 10명 정보 포함 배포",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

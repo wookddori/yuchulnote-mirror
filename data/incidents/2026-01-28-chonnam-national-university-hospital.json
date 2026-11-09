@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-01-26",
+ "confirmed_text": "1월 26일 오전 영상 저장·판독 시스템 관리 서버 공격(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-26",
+   "date_text": "01.26",
+   "label": "랜섬웨어 공격, 원격 판독 불가로 촬영실 이동 필요(기사 기재)"
+  },
+  {
+   "date_iso": "2026-01-26",
+   "date_text": "01.26",
+   "label": "당일 오후 복구(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 없음(병원 설명)",
+ "leaked_items_text": "병원은 환자 개인정보 유출이 없었다고 설명(기사 기재)",
+ "notices": [],
+ "org_name": "전남대병원",
+ "reported_date": "2026-01-28",
+ "response_text": "서버 접속 차단, 악성파일 삭제로 같은 날 오후 복구. 수술·진료 차질 없었다고 병원이 밝힘. 원인과 경위 조사 중(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-28-chonnam-national-university-hospital",
+ "sources": [
+  {
+   "publisher": "메디칼투데이",
+   "title": "전남대병원, 랜섬웨어 공격으로 영상검사 시스템 마비, 하루 만에 복구",
+   "url": "http://www.mdtoday.co.kr/news/articleViewRedirect.html?oldNo=1065605960713404"
+  }
+ ],
+ "target_text": "병원 영상 저장·전송 시스템(기사 기재)",
+ "title": "랜섬웨어 공격으로 영상검사 시스템 장애, 당일 복구",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

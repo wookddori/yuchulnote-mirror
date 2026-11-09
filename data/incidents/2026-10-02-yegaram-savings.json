@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 30일(기사 기재, 발생일인지 확인일인지 구분 불명)",
+ "events": [
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "고객 정보가 포함된 서버에 신원 미상 접근 정황 확인(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·생년월일·연락처 등",
+ "leaked_items_text": "성명, 생년월일, 연락처 등(기사 기재)",
+ "notices": [],
+ "org_name": "예가람저축은행",
+ "reported_date": "2026-10-02",
+ "response_text": "대표이사 명의 사과문 게시, 관련 서비스 중단과 외부 IP 차단, 보안 모니터링 강화, 당국 신고, 고객센터 운영(기사 기재)",
+ "scale_short": "약 4만 명 추정",
+ "scale_text": "약 4만 명으로 추정, 정확한 규모는 은행이 확인 중(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-02-yegaram-savings",
+ "sources": [
+  {
+   "publisher": "헤럴드경제",
+   "title": "보도",
+   "url": "https://www.heraldk.com/article/2026100223411430366"
+  }
+ ],
+ "target_text": "고객(기사 기재)",
+ "title": "고객 정보 서버 접근으로 정보 유출",
+ "updated_at": "2026-11-08T10:47:21Z"
+}

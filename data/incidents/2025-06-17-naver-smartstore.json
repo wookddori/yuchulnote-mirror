@@ -1,0 +1,39 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "다크웹 게시 사실이 보도됨. 네이버는 외부 크롤링 가능성이 높다고 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-17",
+   "date_text": "06.17",
+   "label": "다크웹 매물 게시 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2024-06-18",
+   "date_text": "06.18",
+   "label": "네이버가 해킹이 아니며 유출 없다고 입장 표명(제목 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "상호·이메일·이름·생년월일·전화번호",
+ "leaked_items_text": "상호명, 업종, 이메일, 판매자 이름, 생년월일, 휴대전화번호. 주민등록번호와 비밀번호는 미포함으로 전해짐(기사 기재)",
+ "notices": [],
+ "org_name": "네이버 스마트스토어",
+ "reported_date": "2025-06-17",
+ "response_text": "네이버는 캡차 도입과 페이지 주소 무작위 문자 삽입으로 크롤링 차단 중이라고 밝힘(기사 기재)",
+ "scale_short": "약 73만명",
+ "scale_text": "약 73만 2323명 정보 게시, 샘플 2000명 이상 공개(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-06-17-naver-smartstore",
+ "sources": [
+  {
+   "publisher": "아시아경제",
+   "title": "네이버 스마트스토어 판매자 73만명 정보, 다크웹서 매물로",
+   "url": "https://view.asiae.co.kr/article/2025061708560486714"
+  }
+ ],
+ "target_text": "스마트스토어 판매자, 상당수는 폐업 판매자(기사 기재)",
+ "title": "스마트스토어 판매자 정보 약 73만건 다크웹 매물 게시",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-20",
+ "confirmed_text": "10월 20일 밤 아마데우스로부터 통보(기사 기재, 정확한 시각은 기사에 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "아마데우스로부터 유출 사실 통보(기사 기재: 20일 밤)"
+  },
+  {
+   "date_iso": "2026-10-24",
+   "date_text": "10.24",
+   "label": "고객 안내 메일 발송, 언론 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "예약 관련 정보",
+ "leaked_items_text": "예약 관련 정보. 결제는 별도 시스템이라 결제 정보는 제외됐고 자체 DB 침해 정황은 없다고 회사가 설명(기사 기재)",
+ "notices": [],
+ "org_name": "아시아나항공",
+ "reported_date": "2026-10-24",
+ "response_text": "보안 강화 조치 실시, 고객에게 유출 사실과 사과를 담은 메일 발송, 추가 내역 파악 시 재안내 예정(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모 미공개(조사 중, 기사 기재). 유출 시점은 2023년 8월~2026년 9월로 추정(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-20-asiana-amadeus",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "대한항공·아시아나 예약·발권 시스템 운영사 정보 유출",
+   "url": "https://biz.sbs.co.kr/amp/article/20000341910"
+  },
+  {
+   "publisher": "지디넷코리아",
+   "title": "대한항공·아시아나, 개인정보 유출 확인…IT 협력사가 '구멍'",
+   "url": "https://zdnet.co.kr/view?no=20261024111553"
+  }
+ ],
+ "target_text": "일부 고객(기사 기재)",
+ "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

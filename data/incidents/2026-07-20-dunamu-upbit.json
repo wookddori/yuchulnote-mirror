@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-11-27",
+ "confirmed_text": "2025년 11월 27일 오전 4시 42분~5시 36분 약 54분간 솔라나 네트워크 자산이 외부 지갑으로 이동(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.11.27",
+   "label": "해킹 발생(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.20",
+   "label": "금감원 검사의견서 발송 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "솔라나 네트워크 가상자산",
+ "leaked_items_text": "개인정보가 아닌 가상자산 탈취 사고. 피해 자산 약 445억원 규모(기사 기재)",
+ "notices": [],
+ "org_name": "두나무(업비트)",
+ "reported_date": "2026-07-20",
+ "response_text": "약 26억원 동결 후 회수 진행, 회원 손실분 회사 자산으로 보전(기사 기재). 금감원이 검사의견서를 발송하고 제재 절차 진행, 이후 제재심의위원회와 금융위 의결 예정(기사 기재). 신고·공지 시점 등을 점검 중(기사 기재)",
+ "scale_short": "약 445억원",
+ "scale_text": "약 445억원, 회원 손실분 약 386억원은 회사가 보전(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-07-20-dunamu-upbit",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "금감원, 445억 해킹 두나무 제재 착수",
+   "url": "https://www.ddaily.co.kr/page/view/2026072016360492556"
+  },
+  {
+   "publisher": "더퍼블릭",
+   "title": "금감원, 업비트 해킹 사고 제재 착수 두나무에 검사의견서 발송",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=311802"
+  }
+ ],
+ "target_text": "업비트 운영사 보유 자산 및 회원 손실분(기사 기재)",
+ "title": "업비트 솔라나 자산 약 445억원 해킹, 금감원 제재 절차 착수",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

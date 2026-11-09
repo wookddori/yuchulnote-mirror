@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "랜섬웨어 조직 아누비스가 6월 16일 새벽 다크웹 블로그에 자료 게시. 유출 여부는 확인되지 않은 공격 조직 주장 단계, 회사 입장은 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-16",
+   "date_text": "06.16",
+   "label": "랜섬웨어 조직이 다크웹에 자료 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "재무·인사·품질·거래처 문서(주장)",
+ "leaked_items_text": "공격 조직 주장 기준 재무 자료, 직원 신분증·급여·인사 문서, 판매·품질 보고서, 협력사·고객사 문서 등(기사 기재)",
+ "notices": [],
+ "org_name": "코미코",
+ "reported_date": "2026-06-17",
+ "response_text": "회사 공식 입장과 신고 여부는 기사에 없음(기사 기재)",
+ "scale_short": "약 32MB 공개(주장)",
+ "scale_text": "약 32MB 문건이 공개됐다고 보도됨. 전체 규모는 기사에 없음(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-06-17-komico",
+ "sources": [
+  {
+   "publisher": "서울경제TV",
+   "title": "랜섬웨어에 뚫린 韓 코미코…K-반도체 기술 유출 가능성",
+   "url": "https://www.sentv.co.kr/article/view/sentv202606170083"
+  },
+  {
+   "publisher": "뉴스저널리즘",
+   "title": "[단독] 반도체 세정 기업 코미코, 해킹 피해",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=550855"
+  }
+ ],
+ "target_text": "반도체 장비 부품 세정·코팅 상장사 코미코(기사 기재)",
+ "title": "랜섬웨어 조직이 내부 문건 확보 주장, 다크웹 게시",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

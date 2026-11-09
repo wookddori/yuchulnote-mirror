@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "2026년 10월 28일 개인정보위 전체회의에서 과징금 의결(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.03",
+   "label": "SQL 인젝션 취약점을 통한 유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.28",
+   "label": "개인정보위 과징금 의결(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "아이디·비밀번호·이름 등",
+ "leaked_items_text": "아이디, 비밀번호, 이름, 휴대전화번호, 생년월일(기사 기재)",
+ "notices": [],
+ "org_name": "영훈의료재단(대전선병원·유성선병원)",
+ "reported_date": "2026-10-29",
+ "response_text": "개인정보위가 과징금 6억 3,000만원, 주기적 취약점 점검·개선 시정명령 부과. 웹방화벽 미설치, 비밀번호 암호화 방식 문제가 처분 사유에 포함(기사 기재)",
+ "scale_short": "18만 8,481명",
+ "scale_text": "188,481명, 2024년 3월 유출(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-29-younghun-medical-foundation",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "대교·영훈의료재단 해킹으로 개인정보 84만여 명 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209167"
+  }
+ ],
+ "target_text": "대전선병원·유성선병원 이용자(기사 기재)",
+ "title": "SQL 인젝션 취약점으로 개인정보 18만여명 유출, 개인정보위 과징금",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

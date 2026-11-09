@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-08-27",
+ "confirmed_text": "8월 27일 비정상 접근 발생, 8월 30일 회사 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-27",
+   "date_text": "08.27",
+   "label": "주문조회 API에 비정상 외부 접근 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-30",
+   "date_text": "08.30",
+   "label": "회사 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·배송정보",
+ "leaked_items_text": "이름 단독 138,841건, 이름·이메일·휴대전화번호·배송정보 21,011건. 결제정보·아이디·비밀번호는 미포함(기사 기재)",
+ "notices": [],
+ "org_name": "29CM(무신사)",
+ "reported_date": "2026-08-31",
+ "response_text": "접근 경로 차단, 개별 안내, 조회 페이지 운영 예정, KISA 자진 신고(기사 기재)",
+ "scale_short": "약 16만건",
+ "scale_text": "약 159,852건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-31-29cm",
+ "sources": [
+  {
+   "publisher": "더퍼블릭",
+   "title": "29CM 개인정보 16만건 유출…유통업계 보안 구멍 또 도마 위",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=316963"
+  },
+  {
+   "publisher": "KPI뉴스",
+   "title": "무신사, 몸집 키우기만 몰두하다 보안 뒷전…15만건 개인정보 유출",
+   "url": "https://www.kpinews.kr/newsView/1065598463097315"
+  }
+ ],
+ "target_text": "29CM 고객(기사 기재)",
+ "title": "주문조회 API 비정상 접근으로 고객정보 약 16만건 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

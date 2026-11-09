@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "국정감사에서 직원이 2년 이상 가입자·피부양자 정보를 외부에 넘기고 억대 대가를 받았고 7월 파면되었다고 공개됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "7월",
+   "label": "해당 직원 파면(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-16",
+   "date_text": "10.16",
+   "label": "국정감사에서 사실 공개, 피해자 미통보 상황 확인(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "가입자 개인정보(항목 미공개)",
+ "leaked_items_text": "가입자·피부양자 개인정보, 세부 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "국민건강보험공단",
+ "reported_date": "2026-10-16",
+ "response_text": "7월 파면, 수사 진행 중(기사 기재). 파면 후 약 3개월이 지나도록 피해자 통보는 이뤄지지 않았다고 국감에서 확인됨(기사 기재)",
+ "scale_short": null,
+ "scale_text": "인원은 기사에 없음. 공단은 피해자 특정이 안 됐다고 설명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-16-nhis-employee-data-sale",
+ "sources": [
+  {
+   "publisher": "한국일보",
+   "title": "건보 직원, 가입자 정보 넘기고 억대 챙겨 파면",
+   "url": "https://www.hankookilbo.com/news/article/A2026101618470001679?did=NA"
+  },
+  {
+   "publisher": "일요신문 계열 ppss",
+   "title": "개인정보 팔린 건보공단, 수사의뢰서 유출 의혹엔 누가 답하나",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=315955"
+  }
+ ],
+ "target_text": "건강보험 가입자 및 피부양자(기사 기재)",
+ "title": "직원이 가입자·피부양자 정보를 외부에 제공해 대가 수수, 파면",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

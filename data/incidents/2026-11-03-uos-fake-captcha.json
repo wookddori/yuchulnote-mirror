@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-03",
+ "confirmed_text": "11월 3일 오전 인지, 오후 2시 조치 후 화면 미노출(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "가짜 인증 화면 첫 노출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "학교 인지 및 긴급 공지, 화면 차단(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 없음(학교 설명), 감염 미확인",
+ "leaked_items_text": "개인정보 유출은 현재까지 없다고 학교 설명. PC 감염 여부는 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "서울시립대",
+ "reported_date": "2026-11-03",
+ "response_text": "긴급 공지로 화면 따르지 말 것, 실행한 경우 네트워크 차단·백업·포맷·다른 기기에서 비밀번호 변경 안내. 학생·교직원 PC 포맷 지원. 삽입 경위는 조사 중(기사 기재)",
+ "scale_short": "감염 규모 미공개",
+ "scale_text": "감염 건수는 기사에 없음. 10월 30일 오후부터 화면이 나타난 것으로 기재(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-03-uos-fake-captcha",
+ "sources": [
+  {
+   "publisher": "SBS",
+   "title": "서울시립대 홈페이지에 악성코드 유도 화면…나흘 만에 인지",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008829048&plink=ORI"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "로봇이 아닙니다 인증하니 악성코드…서울시립대 긴급 공지",
+   "url": "https://www.mt.co.kr/society/2026/11/03/2026110320193349159"
+  }
+ ],
+ "target_text": "홈페이지 방문자(학생·교직원 등)(기사 기재)",
+ "title": "홈페이지에 가짜 로봇 인증 화면 노출, 악성코드 감염 유도",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

@@ -1,0 +1,59 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-06-30",
+ "confirmed_text": "6월 30일 은행이 유출 인지 후 접근 차단, 7월 3일 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.09",
+   "label": "외주 개발 프로젝트 시작(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.09경",
+   "label": "수탁사 직원이 외부 개발자 플랫폼에 자료 링크 노출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.06.30",
+   "label": "은행이 유출 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.03",
+   "label": "유출 공지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.06",
+   "label": "해킹 시도는 막았으나 외주업체 직원 과실로 유출됐다고 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "닉네임·연계정보(CI)",
+ "leaked_items_text": "서비스 닉네임, 연계정보(CI). 계좌번호·비밀번호·주민등록번호·연락처·주소·거래내역은 포함되지 않았다고 설명(기사 기재)",
+ "notices": [],
+ "org_name": "우리은행",
+ "reported_date": "2026-07-07",
+ "response_text": "접근 차단, 이상거래 모니터링 강화, 피싱 주의 안내(기사 기재). 금감원이 외주 관리 점검을 요구했고 개인정보위가 조사 중이며 최종 결과는 발표되지 않음(기사 기재)",
+ "scale_short": "1만7551건",
+ "scale_text": "17,551건(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-07-07-woori-bank",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "우리은행 고객정보 1만7551건 유출은 해킹 아닌 외주 개발 과정의 관리 문제",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=207480"
+  },
+  {
+   "publisher": "국민일보",
+   "title": "우리은행 해킹 막았지만 외주업체 과실로 고객 정보 유출",
+   "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000020405&cp=nv"
+  }
+ ],
+ "target_text": "우리은행 NFT 관련 서비스 이용자(기사 기재)",
+ "title": "외주 개발 수탁사 직원 보관 자료로 고객 연계정보 1만7551건 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

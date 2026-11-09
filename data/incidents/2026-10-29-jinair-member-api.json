@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "10월 28일 확인, 10월 29일 홈페이지 공지(공지 인용 기사 기재, 연월은 기사 게시일 기준)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "회원정보 조회 API에 대한 외부 공격 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "홈페이지에 유출 사실 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·성명·생년월일·연락처 등",
+ "leaked_items_text": "아이디, 성명, 생년월일, 성별, 국적, 휴대전화번호, 이메일 주소, 최근 로그인 일시. 비밀번호·금융정보·결제 내역은 포함되지 않았다고 회사가 설명(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 1,
+   "original_url": null,
+   "posted_date": "2026-10-29",
+   "round": "1차",
+   "summary": "유출 규모와 항목, 조치 사항을 홈페이지에 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "진에어",
+ "reported_date": "2026-10-29",
+ "response_text": "공격 IP 차단, 공격 통로로 확인된 시스템 접근 전면 차단 후 삭제, 개인정보보호위원회 신고 등 안전 조치, 출처 불분명한 링크·첨부파일 주의 안내. 부정 사용 사례는 확인되지 않았다고 회사가 설명(기사 기재). 조사는 진행 중.",
+ "scale_short": "1,454명",
+ "scale_text": "회원 1,454명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-29-jinair-member-api",
+ "sources": [
+  {
+   "publisher": "경향신문",
+   "title": "대한항공·아시아나항공 이어···진에어, 해킹공격으로 1454명 개인회원 정보 유출",
+   "url": "https://khan.co.kr/article/202610291909001"
+  }
+ ],
+ "target_text": "개인회원(기사 기재)",
+ "title": "회원정보 조회 API 외부 공격으로 회원 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "침해 사실은 확인되지 않음. 8월 17일 Panzer가 다크웹 유출 사이트에 게시(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-17",
+   "date_text": "08.17",
+   "label": "Panzer가 다크웹 유출 사이트에 DL이앤씨 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-02",
+   "date_text": "09.02",
+   "label": "침투 주장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미공개",
+ "leaked_items_text": "유출 항목은 기사에 없음. 보안업체가 관련 도메인 스틸러 로그 17건 확인(기사 기재)",
+ "notices": [],
+ "org_name": "DL이앤씨",
+ "reported_date": "2026-09-02",
+ "response_text": "기사 작성 시점까지 회사 홈페이지에 공지 없음, 회사 공식 답변 보도 없음(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "자료 용량·파일 수 등 규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-02-dl-enc",
+ "sources": [
+  {
+   "publisher": "더투데이",
+   "title": "신생 해커조직 DL이앤씨 뚫었다…내부 계정 탈취 정황도",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=89336"
+  }
+ ],
+ "target_text": "DL이앤씨(기사 기재)",
+ "title": "랜섬웨어 조직 Panzer 침투 주장, 침해 여부 미확인",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-29",
+ "confirmed_text": "10월 23일 새벽 유출 발생, 10월 29일 회사 확인, 10월 30일 홈페이지 안내(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "유출 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "회사가 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "홈페이지 안내문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "신분증·계좌번호 등 증빙서류",
+ "leaked_items_text": "신분증 사본(성명, 주민등록번호, 주소 등), 여권번호, 외국인등록번호, 예금주명·은행명·계좌번호, 계약서·청구서 정보. 송금 거래내역, 회원 DB, 비밀번호는 제외(기사 기재)",
+ "notices": [],
+ "org_name": "모인(모인비즈플러스)",
+ "reported_date": "2026-11-01",
+ "response_text": "침입 경로 차단, 접근 권한 교체, 개인정보보호위원회·KISA·금융감독원 신고, 외부 전문기관 원인 분석, 신분증 재발급 등 안내(기사 기재)",
+ "scale_short": "약 1,400명",
+ "scale_text": "약 1,400명(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-01-moin-bizplus",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "모인 기업용 해외송금 서비스 해킹…약 1,400명 증빙서류 개인 정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209225"
+  },
+  {
+   "publisher": "뉴스토마토",
+   "title": "해외송금 핀테크 모인, 개인정보 유출",
+   "url": "http://www.newstomato.com/ReadNews.aspx?inflow=N&no=1318850"
+  }
+ ],
+ "target_text": "모인비즈플러스 고객이 2023년 10월 19일 이전 제출한 증빙서류(기사 기재)",
+ "title": "기업용 해외송금 서비스 해킹으로 증빙서류 약 1,400명 정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

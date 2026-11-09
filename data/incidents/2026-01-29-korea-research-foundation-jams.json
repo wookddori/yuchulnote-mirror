@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-06-06",
+ "confirmed_text": "2025년 6월 6일 JAMS 비밀번호 찾기 기능의 취약점을 이용한 접근으로 개인정보 열람(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.06.06",
+   "label": "해커가 JAMS 취약점을 이용해 접근(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.06.12",
+   "label": "한국연구재단 유출 통지, 일부 항목 누락(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.06.17",
+   "label": "JAMS 회원 명의 도용 발생(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.28",
+   "label": "개인정보위 전체회의 의결, 01.29 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·이메일·전화번호·계좌번호 등 44개 항목",
+ "leaked_items_text": "이름, 아이디, 이메일, 전화번호, 계좌번호 등 44개 항목. 주민번호 116건은 비고란 입력분이 노출(기사 기재)",
+ "notices": [],
+ "org_name": "한국연구재단",
+ "reported_date": "2026-01-29",
+ "response_text": "개인정보위가 과징금 7억 300만원, 과태료 480만원 부과. 취약점 점검, 누락 항목 포함 재통지, 결정 내용 1년 게시 명령(기사 기재)",
+ "scale_short": "약 12만명",
+ "scale_text": "약 12만명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-29-korea-research-foundation-jams",
+ "sources": [
+  {
+   "publisher": "시민일보",
+   "title": "'12만명 정보 유출' 한국연구재단 과징금 7억300만원",
+   "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291183955114"
+  }
+ ],
+ "target_text": "JAMS 회원(연구자) 약 12만명(기사 기재)",
+ "title": "논문투고심사시스템(JAMS) 해킹, 연구자 12만명 정보 유출 및 과징금 부과",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

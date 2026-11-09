@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-18",
+ "confirmed_text": "10월 18일 기준 교육부 조사에서 비정상 로그인 또는 비밀번호 무단 변경 피해 계정 111,052개 확인, 실제 외부 유출 여부와 접근 범위는 확인되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07",
+   "label": "교육부가 시도교육청에 현황 조사 실시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-14",
+   "date_text": "10.14",
+   "label": "전남광주 학교 계정 비밀번호 무단 변경 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-16",
+   "date_text": "10.16",
+   "label": "전남광주 교육청 누리집 안내문 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-18",
+   "date_text": "10.18",
+   "label": "교육부 조사 집계 기준일(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "계정·비밀번호·이름 등",
+ "leaked_items_text": "지역별로 계정, 비밀번호, 이름, 학년·반, 학교명 등이 수집된 항목으로 기재(기사 기재)",
+ "notices": [],
+ "org_name": "전국 학교·교육청(학교 구글 계정)",
+ "reported_date": "2026-10-16",
+ "response_text": "교육부와 시도교육청 조사, 해당 계정 비활성화, 비밀번호 변경 안내(기사 기재)",
+ "scale_short": "계정 11만 1천여 개",
+ "scale_text": "피해 계정 111,052개(전체 4,532,766개 중 약 2.4%), 대전 74,246, 서울 35,500, 전남 811, 경기 367, 광주 128(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-16-school-google-accounts",
+ "sources": [
+  {
+   "publisher": "금강일보",
+   "title": "학교 구글 계정 탈취 11만 건 넘어... 개인정보 유출 가능성도",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188075"
+  }
+ ],
+ "target_text": "온라인 수업용 구글 워크스페이스 계정 사용 학교(기사 기재)",
+ "title": "학교 구글 계정 11만여 개 비정상 로그인·비밀번호 변경 피해",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 17일 해커그룹이 다크웹에 게시, 10월 18일 KISA 침해사고 신고 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-10-17",
+   "date_text": "10.17",
+   "label": "해커그룹 다크웹 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2024-10-18",
+   "date_text": "10.18",
+   "label": "KISA 침해사고 신고 보도, 회사 입장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객정보·구성정보·소스코드 등(주장)",
+ "leaked_items_text": "해커 주장 기준 고객 정보, 네트워크 구성, 인사·결제 자료, 소스코드, API 키 등(기사 기재)",
+ "notices": [],
+ "org_name": "SK쉴더스",
+ "reported_date": "2025-10-17",
+ "response_text": "회사는 허니팟 시스템만 침해됐다고 설명. KISA 신고 보도(기사 기재)",
+ "scale_short": "24GB(공격자 주장)",
+ "scale_text": "공격자 주장 24GB. 진위는 검증되지 않음(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-10-17-sk-shieldus",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] SK쉴더스 해킹해 24GB 내부 데이터 확보…신생 해커그룹",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=201475"
+  },
+  {
+   "publisher": "한스경제",
+   "title": "보안기업도 털렸다...SK쉴더스 정보 유출 정황",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=783988"
+  }
+ ],
+ "target_text": "고객사 및 내부 자료(기사 기재)",
+ "title": "해커그룹이 내부 데이터 24GB 확보 주장",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

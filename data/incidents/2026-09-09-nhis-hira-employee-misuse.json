@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "방송 보도와 국회 의원실 제출 징계 자료로 직원의 무단 열람·외부 제공 사례가 공개됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-08",
+   "date_text": "9.8",
+   "label": "방송에서 단독 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-09-14",
+   "date_text": "9.14",
+   "label": "의원실 제출 징계사유 자료 기반 후속 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주소·인적사항·보수월액 등",
+ "leaked_items_text": "주소 변동 내역, 성명·주민번호·보수월액 등 조회·제공 사례(기사 기재). 개인정보 206개 항목을 관리한다고 기사에 있음",
+ "notices": [],
+ "org_name": "건강보험공단·건강보험심사평가원",
+ "reported_date": "2026-09-09",
+ "response_text": "공단은 업무 화면 접근 강화와 개인정보 모니터링 정비를 단기 조치로 추진한다고 밝힘(기사 기재). 징계는 파면, 해임, 정직, 감봉, 견책 등 사례별로 상이(기사 기재). 심평원 직원 1명은 구속 송치(기사 기재)",
+ "scale_short": null,
+ "scale_text": "최근 5년 피해자 468명, 관련 비위 33건, 정직 이상 중징계 17건. 한 사례에서 119명 정보를 대부업자에 제공(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-09-09-nhis-hira-employee-misuse",
+ "sources": [
+  {
+   "publisher": "더퍼블릭",
+   "title": "건강보험공단 개인정보 유출 복마전",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=318101"
+  },
+  {
+   "publisher": "경향신문",
+   "title": "동료 정보 유출해 대부업체에서 돈 빌리기도…건보공단·심평원 직원",
+   "url": "https://www.khan.co.kr/article/202609140947001"
+  }
+ ],
+ "target_text": "건강보험 가입자·피부양자 및 직원 개인정보(기사 기재)",
+ "title": "직원의 가입자 정보 사적 열람·외부 제공 사례 공개",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

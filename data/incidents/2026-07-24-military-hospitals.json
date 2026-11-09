@@ -1,0 +1,44 @@
+{
+ "category": "unknown",
+ "confirmed_date": "2026-04-01",
+ "confirmed_text": "2026년 4월 의무사령부 보안 점검 중 2025년 11~12월 무단 접속 식별(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.11~12",
+   "label": "통신 포트가 열린 상태에서 IP 우회 방식 비인가 접속(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04",
+   "label": "의무사령부 보안 점검 중 식별, 시스템 운용 중단(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.24",
+   "label": "유출 정황 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·성별·나이·의료영상",
+ "leaked_items_text": "이름, 성별, 나이, 엑스레이·CT·MRI 등 영상정보 가능성(기사 기재)",
+ "notices": [],
+ "org_name": "국군병원(의무사령부 예하 6개 군 병원)",
+ "reported_date": "2026-07-24",
+ "response_text": "식별 후 해당 시스템 운용 중단, 재발 방지 대책 시행 예정. 비인가자 신원과 접근된 환자 정보는 특정하지 못했다고 국방부가 밝힘(기사 기재)",
+ "scale_short": "약 8GB",
+ "scale_text": "약 8GB 분량 정보에 접근, 인원 규모는 읽은 기사에 없음(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-24-military-hospitals",
+ "sources": [
+  {
+   "publisher": "YTN",
+   "title": "군 병원 의료 정보 유출 정황...비인가자 접속 식별",
+   "url": "https://www.ytn.co.kr/_ln/0101_202607241433241396"
+  }
+ ],
+ "target_text": "6개 군 병원 모바일 의료영상저장전송체계 관련 환자 정보(기사 기재)",
+ "title": "모바일 의료영상 시스템 비인가 접속, 약 8GB 정보 유출 정황",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

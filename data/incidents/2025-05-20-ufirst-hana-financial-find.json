@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2025-05-20",
+ "confirmed_text": "2025년 5월 20일 금융감독원이 금융보안원 점검 결과 발표(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.04",
+   "label": "국가정보원이 일부 대리점 침해 정황 최초 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.05.20",
+   "label": "금감원 점검 결과 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "개인정보·일부 보험정보",
+ "leaked_items_text": "일반 개인정보. 유퍼스트 고객 128명은 보험종류, 보험사, 증권번호, 보험료 등 신용정보 포함(기사 기재)",
+ "notices": [],
+ "org_name": "유퍼스트·하나금융파인드(GA)",
+ "reported_date": "2025-05-20",
+ "response_text": "금감원이 개별 통지 및 2차 피해 예방 요구, 신용정보 유출 대리점 현장검사 예정, 보험사 12곳 추가 검증 예정(기사 기재)",
+ "scale_short": "1,107명",
+ "scale_text": "총 1,107명(유퍼스트 908명, 하나금융파인드 199명)(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2025-05-20-ufirst-hana-financial-find",
+ "sources": [
+  {
+   "publisher": "이코노미톡뉴스",
+   "title": "[진단] 보험대리점 해킹 사고 1107명 개인정보 유출 …스미싱 주의",
+   "url": "http://www.economytalk.kr/news/articleView.html?idxno=407340"
+  },
+  {
+   "publisher": "내일신문",
+   "title": "GA 해킹 사고로 고객·설계사 1107명 정보 유출",
+   "url": "https://www.naeil.com/news/read/548505"
+  }
+ ],
+ "target_text": "보험대리점 고객, 임직원·설계사(기사 기재)",
+ "title": "보험대리점 2곳 해킹으로 1,107명 개인정보 유출",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

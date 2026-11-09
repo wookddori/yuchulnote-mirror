@@ -1,0 +1,34 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "라이더 실적조회 사이트의 개인정보 폴더가 로그인 없이 웹 주소 조작만으로 접근 가능했음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-15",
+   "date_text": "10.15",
+   "label": "노출 사실 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호",
+ "leaked_items_text": "라이더 이름, 전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "배달대행 라이더 실적조회 사이트(운영업체 미공개)",
+ "reported_date": "2026-10-15",
+ "response_text": "운영업체나 기관의 후속 조치는 기사에 없음",
+ "scale_short": null,
+ "scale_text": "약 201명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-15-rider-performance-site",
+ "sources": [
+  {
+   "publisher": "SBS",
+   "title": "해킹 도구 없이도 접근…배달 앱 라이더 201명 개인정보 털렸다",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008799023&plink=ORI"
+  }
+ ],
+ "target_text": "배달앱 라이더(기사 기재). 배달의민족은 해당 사이트가 자사 서비스가 아니며 위수탁 관계도 없다고 밝힘(기사 기재)",
+ "title": "로그인 없이 접근 가능한 라이더 정보 폴더로 201명 정보 노출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

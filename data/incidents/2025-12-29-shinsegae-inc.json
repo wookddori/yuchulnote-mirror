@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-12-24",
+ "confirmed_text": "12월 24일 인트라넷 점검 중 유출 사실 확인, 12월 26일 KISA 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-12-24",
+   "date_text": "12.24",
+   "label": "인트라넷 점검 중 유출 사실 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2025-12-26",
+   "date_text": "12.26",
+   "label": "KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.2.5",
+   "label": "수사당국의 북한 연관 정황 분석 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "사번·부서·일부 이름",
+ "leaked_items_text": "사번, 일부 이름, 소속 부서, IP 주소 등(기사 기재)",
+ "notices": [],
+ "org_name": "신세계I&C(신세계그룹)",
+ "reported_date": "2025-12-29",
+ "response_text": "비밀번호 변경 및 의심 이메일 주의 사내 공지, 경찰 수사 협조, 보안 강화 진행(기사 기재). 2월 보도에서 수사당국이 북한 연관 정황을 분석 중이라고 전했으며 해커는 특정되지 않았다고 회사가 밝힘(기사 기재)",
+ "scale_short": null,
+ "scale_text": "약 8만여 명(잠정)(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-12-29-shinsegae-inc",
+ "sources": [
+  {
+   "publisher": "마이데일리",
+   "title": "신세계, 8만명 정보 유출 인지 이틀 후 신고",
+   "url": "https://www.mydaily.co.kr/page/view/2025122916552371501"
+  },
+  {
+   "publisher": "디지털데일리",
+   "title": "직원 8만명 정보 유출한 신세계…원인 미궁",
+   "url": "https://www.ddaily.co.kr/page/view/2025122915095180317"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "신세계 임직원 정보 유출, 북한 해킹조직 연루 수사",
+   "url": "https://www.mt.co.kr/industry/2026/02/05/2026020420090423078"
+  }
+ ],
+ "target_text": "신세계그룹 본사 및 협력사 직원(기사 기재). 고객 정보는 유출되지 않았다고 회사가 밝힘(기사 기재)",
+ "title": "내부 인트라넷 무단 접속으로 임직원·협력사 직원 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

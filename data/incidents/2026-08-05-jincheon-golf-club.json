@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-07-27",
+ "confirmed_text": "7월 27일 신원 미상 외부인의 비정상 시스템 접근 확인, 7월 30일 회원에게 유출 통지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-27",
+   "date_text": "7.27",
+   "label": "비정상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-07-30",
+   "date_text": "7.30",
+   "label": "회원 대상 유출 통지 및 사과문 발송(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-05",
+   "date_text": "8.5",
+   "label": "홈페이지 임시 차단 종료 예정일(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·연락처 등",
+ "leaked_items_text": "회원번호, 성명, 생년월일, 주소, 회사명, ID, 휴대전화번호, 유선전화번호, 이메일 등 10여 개 항목. 데이터는 암호화 저장되어 원문 확인이 어렵다고 설명(기사 기재)",
+ "notices": [],
+ "org_name": "진천 C골프장(충북)",
+ "reported_date": "2026-08-05",
+ "response_text": "KISA·개인정보위·경찰 신고, 홈페이지 임시 차단과 웹방화벽 설치, 피싱·스미싱 및 비밀번호 변경 안내, 경찰 수사 착수(기사 기재)",
+ "scale_short": null,
+ "scale_text": "고객 9만여 명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-05-jincheon-golf-club",
+ "sources": [
+  {
+   "publisher": "골프인",
+   "title": "충북 진천 C골프장 해킹 고객 9만여명 정보 유출",
+   "url": "http://www.golfin.co.kr/news/articleView.html?idxno=7879"
+  }
+ ],
+ "target_text": "골프장 회원(고객)(기사 기재)",
+ "title": "외부인 비정상 접근으로 회원 약 9만 명 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,54 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2023년 9월 경찰이 단체 대표에게 유출 사실 통보(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2023.9.15",
+   "label": "경찰이 단체에 SD카드 정보 유출 통보(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2023.10",
+   "label": "경찰이 사건을 개인정보위에 이첩(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.3",
+   "label": "통일부가 해당 단체를 2026년 민간 통일사업 운영기관으로 선정(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.7.8",
+   "label": "단체가 정보주체 통지 및 신고(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.8",
+   "label": "개인정보위 법 위반 확인, 과태료 720만원 부과(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·주민번호·주소 등",
+ "leaked_items_text": "이름, 주민등록번호, 주소, 연락처, 탈북 연도, 탈북 전 거주지·직업(기사 기재)",
+ "notices": [],
+ "org_name": "북한발전연구원(탈북민 정보 유출 단체)",
+ "reported_date": "2026-10-20",
+ "response_text": "2026년 7월 8일 정보주체 통지·신고, 8월 개인정보위 과태료 720만원 부과, 통일부는 개인정보 절차를 더 챙기겠다고 설명(기사 기재)",
+ "scale_short": "131명",
+ "scale_text": "탈북민 131명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-20-north-korea-development-institute",
+ "sources": [
+  {
+   "publisher": "세계일보",
+   "title": "[단독] 탈북민 131명 정보 유출 한 단체에 통일사업 보조금 준 통일부",
+   "url": "https://www.segye.com/newsView/20261020507381"
+  }
+ ],
+ "target_text": "탈북민 131명(기사 기재)",
+ "title": "탈북민 131명 정보 저장 SD카드 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

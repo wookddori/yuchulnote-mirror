@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-27",
+ "confirmed_text": "10월 27일 오후 5시경 비인가 접근 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-27",
+   "date_text": "10.27",
+   "label": "비인가 접근 확인, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "개인정보위 통지 및 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·이메일·부서·직책",
+ "leaked_items_text": "이름, 휴대전화번호, 회사 이메일, 부서, 직책(기사 기재). 다른 정보 탈취 여부는 확인 중(기사 기재)",
+ "notices": [],
+ "org_name": "한화시스템",
+ "reported_date": "2026-10-30",
+ "response_text": "해당 IP 차단, 발견 당일 KISA 신고, 10월 30일 개인정보위 통지. 회사는 방산 부문과 무관하다고 설명(기사 기재)",
+ "scale_short": "약 1,700명",
+ "scale_text": "ICT 부문 임직원 약 1,700명(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-30-hanwha-systems",
+ "sources": [
+  {
+   "publisher": "한국경제",
+   "title": "한화시스템 ICT 직원 1700명 정보 유출",
+   "url": "https://www.hankyung.com/article/2026103070401"
+  }
+ ],
+ "target_text": "ICT 부문 임직원(기사 기재)",
+ "title": "ICT 부문 서버 외부 접근, 임직원 약 1700명 정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

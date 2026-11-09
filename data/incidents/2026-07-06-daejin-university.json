@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "7월 1일 외부 IP 비정상 접근 확인, 7월 20일 보안업체 조사에서 개인정보 파일 유출 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-01",
+   "date_text": "7.1",
+   "label": "외부 IP 비정상 접근 확인, 차단 및 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2025-07-20",
+   "date_text": "7.20",
+   "label": "보안업체 후속 조사에서 개인정보 파일 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2025-07-23",
+   "date_text": "7.23",
+   "label": "정보주체 대상 통지 문자 발송 시작(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호",
+ "leaked_items_text": "이름, 전화번호, 금융정보는 유출되지 않았다고 학교 설명(기사 기재)",
+ "notices": [],
+ "org_name": "대진대학교",
+ "reported_date": "2026-07-06",
+ "response_text": "접근 차단, 교육부·개인정보위·KISA 신고, 긴급대응반 구성, 7월 23일부터 정보주체 통지, 문자발송시스템 외부 접근 차단(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 조사 중이며 공개되지 않음(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-06-daejin-university",
+ "sources": [
+  {
+   "publisher": "민주신문",
+   "title": "대진대, 교직원 개인정보 유출 …문자발송시스템 겨냥 외부 공격",
+   "url": "http://www.iminju.net/news/articleView.html?idxno=166267"
+  },
+  {
+   "publisher": "인천일보",
+   "title": "포천 대진대, 해킹으로 개인정보 유출 …피해규모 깜깜이",
+   "url": "https://www.incheonilbo.com/news/articleView.html?idxno=1328010"
+  }
+ ],
+ "target_text": "교직원(기사 기재), 학생·외부인 여부는 조사 중(기사 기재)",
+ "title": "문자발송시스템 외부 공격으로 교직원 개인정보 유출",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

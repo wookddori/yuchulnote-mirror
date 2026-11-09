@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "랜섬웨어 조직 엔제로엔이 다크웹 유출 사이트에 게시, 주장은 독립적으로 확인되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "다크웹 게시 사실 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부 재무자료(주장)",
+ "leaked_items_text": "송장, 정산 기록 등 내부 재무 데이터를 확보했다는 조직 측 주장, 파일명 목록 공개(기사 기재)",
+ "notices": [],
+ "org_name": "동국제강",
+ "reported_date": "2026-10-13",
+ "response_text": "회사는 인지하고 대응 중이며 일방적 주장이고 실제 피해는 확인되지 않았다고 설명(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-13-dongkuk-steel-ransomware-claim",
+ "sources": [
+  {
+   "publisher": "엔게티뉴스",
+   "title": "[단독] 동국제강, 해킹 조직 공격 표적에…내부정보 탈취 주장",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=554411"
+  }
+ ],
+ "target_text": "동국제강 내부 재무 자료(기사 기재)",
+ "title": "랜섬웨어 조직이 다크웹에 피해 기업으로 게시, 내부정보 탈취 주장",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "10월 30일 홈페이지에 유출 가능성 안내 공지(기사 기재: 전날, 날짜는 게시일 기준). 실제 유출은 확인되지 않았다고 창비가 밝힘",
+ "events": [
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "더존비즈온 백업서비스 침해사고에 따른 개인정보 유출 가능성 안내 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인 중",
+ "leaked_items_text": "구체적인 항목은 기사에 없음",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 0,
+   "original_url": null,
+   "posted_date": "2026-10-30",
+   "round": "1차",
+   "summary": "더존비즈온 백업서비스 침해사고로 저자·거래처 관계자 정보가 유출됐을 가능성이 있다고 안내했다(기사 기재)."
+  }
+ ],
+ "org_name": "창비",
+ "reported_date": "2026-10-30",
+ "response_text": "홈페이지 공지로 가능성 안내와 사과, 필요한 보호조치 검토, 더존비즈온에 대책 공개 요청 예정(기사 기재)",
+ "scale_short": "미확인",
+ "scale_text": "규모는 기사에 없음. 실제 유출 여부는 확인되지 않음(창비 공지, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-30-changbi-douzone",
+ "sources": [
+  {
+   "publisher": "머니투데이(서플 재게재)",
+   "title": "더존비즈온 해킹에 출판사 '창비'도 여파…\"정보 유출 가능성\"",
+   "url": "https://supple.kr/news/cmvwdpg4xdo0w13pafoqtme5e"
+  }
+ ],
+ "target_text": "창비가 관리하는 저자와 거래처 관계자(기사 기재)",
+ "title": "더존비즈온 백업서비스 침해사고에 따른 개인정보 유출 가능성",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

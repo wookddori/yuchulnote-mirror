@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "발생·인지 날짜는 기사에 없음. 10월 14일 금융위원회 집계에 포함(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-14",
+   "date_text": "10.14",
+   "label": "금융위원회가 침해사고 금융사 16곳 집계에 포함(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인 중",
+ "leaked_items_text": "기사는 접근에 쓰인 이메일·비밀번호가 외부 사이트에서 유출된 것으로 추정된다고 전함. 고팍스에서 유출된 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "스트리미(고팍스)",
+ "reported_date": "2026-10-14",
+ "response_text": "이상거래탐지시스템으로 정황을 포착해 당국에 신고, 구체적인 접근 경로는 조사 중(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모 미공개. 현재까지 고객 자산 피해는 없다고 기사에 적힘",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-14-streami-gopax",
+ "sources": [
+  {
+   "publisher": "MTN 머니투데이방송",
+   "title": "금융사 해킹 가상자산거래소로 확산…고팍스·프라뱅도 포함",
+   "url": "https://news.mtn.co.kr/article/2026101423081739211"
+  }
+ ],
+ "target_text": "고객 계정(기사 기재)",
+ "title": "외부 유출 추정 계정 정보로 고객 계정 접근 시도",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

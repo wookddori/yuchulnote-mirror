@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-20",
+ "confirmed_text": "2026년 10월 12일 01시 26분부터 해킹 정황, 10월 20일 16시 10분께 처음 인지(공지 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "해킹으로 개인정보를 조회·추출한 정황 시작(공지 기재)"
+  },
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "회사가 이상행위를 처음 인지, 접속 차단(공지 기재)"
+  },
+  {
+   "date_iso": "2026-11-05",
+   "date_text": "11.05",
+   "label": "개인정보 유출 등 가능성 안내 공지 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이메일·암호화된 비밀번호·로그인 정보",
+ "leaked_items_text": "회원 아이디(이메일 주소), 암호화된 비밀번호, 회원 등급 정보, 로그인 세션 정보(IP 주소·브라우저 정보·로그인 시각). 실제 유출 여부와 항목은 조사 결과에 따라 달라질 수 있음(공지 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 16,
+   "original_url": null,
+   "posted_date": "2026-11-05",
+   "round": "1차",
+   "summary": "유출 가능성 항목, 최대 영향 인원, 대응 조치와 문의처를 안내했다."
+  }
+ ],
+ "org_name": "블록미디어",
+ "reported_date": "2026-11-05",
+ "response_text": "해당 계정과 접근 경로 차단, 로그 보전, 홈페이지 취약점 점검·보완, 추가 피해 모니터링, 뉴스레터 서비스 일시 중단, 회원에게 비밀번호 변경 권고(공지 기재). 수사기관 신고 여부는 공지에 기재 없음.",
+ "scale_short": "최대 3,124명",
+ "scale_text": "아이디·암호화된 비밀번호 최대 3,124명, 로그인 세션 정보 최대 2,772명(공지 기재, 유출 대상자 특정 곤란)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-05-blockmedia-homepage",
+ "sources": [
+  {
+   "publisher": "블록미디어",
+   "title": "[공지] 개인정보 유출 등 가능성 안내",
+   "url": "https://www.blockmedia.co.kr/%ea%b3%b5%ec%a7%80-%ea%b0%9c%ec%9d%b8%ec%a0%95%eb%b3%b4-%ec%9c%a0%ec%b6%9c-%eb%93%b1-%ea%b0%80%eb%8a%a5%ec%84%b1-%ec%95%88%eb%82%b4"
+  }
+ ],
+ "target_text": "블록미디어 독자로 가입한 회원 전체에 가능성 통지(공지 기재)",
+ "title": "홈페이지 회원 정보 유출 가능성",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

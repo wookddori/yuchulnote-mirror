@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 4월 위탁업체의 네트워크 저장장치 해킹(머니투데이·전북일보 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.04",
+   "label": "위탁업체 NAS 해킹(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.12.14",
+   "label": "개인정보 배상보험 미가입 보도(전북일보 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.26",
+   "label": "개인정보보호위원회 처분 및 행정심판 청구 계획 보도(머니투데이 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "기사에 없음",
+ "leaked_items_text": "구체적 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "농촌진흥청",
+ "reported_date": "2025-12-14",
+ "response_text": "개인정보보호위원회가 농진청에 과징금 1억6800만원과 시정 권고, 농업과학원에 과징금 2310만원과 시정명령, 축산과학원에 시정명령 처분(머니투데이 기재). 농진청의 행정심판 청구 계획 보도(기사 제목 기재)",
+ "scale_short": "약 48만건",
+ "scale_text": "약 48만건(전북일보 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-12-14-rural-development-administration",
+ "sources": [
+  {
+   "publisher": "전북일보",
+   "title": "해킹사고 농촌진흥청 개인정보 배상보험 전무",
+   "url": "https://www.jjan.kr/article/20251214500374"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "같은 해킹, 다른 처분, 개인정보위 제재 원칙 시험대",
+   "url": "https://www.mt.co.kr/tech/2026/10/26/2026102609255786288"
+  }
+ ],
+ "target_text": "농촌진흥청, 국립농업과학원, 국립축산과학원 위탁 개인정보(머니투데이 기재)",
+ "title": "위탁업체 NAS 해킹으로 개인정보 유출, 개인정보위 과징금",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

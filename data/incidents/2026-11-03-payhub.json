@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 28일 금융감독원 현장점검 착수, 11월 3일 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "금융감독원 현장점검 시작(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "무단 이체 및 점검 연장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "정산자금 약 2억원",
+ "leaked_items_text": "개인정보 유출 여부는 기사에 없음. 가맹점 정산자금 약 2억원 무단 이체(기사 기재)",
+ "notices": [],
+ "org_name": "페이허브",
+ "reported_date": "2026-11-03",
+ "response_text": "회사가 최근 금융권 해킹 관련 IP 접속 여부를 점검하다 무단 이체 확인, 금감원 현장점검 진행, 금융보안원 조사 중(기사 기재)",
+ "scale_short": "약 2억원",
+ "scale_text": "약 2억원(기사 기재). 다른 매체는 5억원으로 보도(기사 미확인)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-03-payhub",
+ "sources": [
+  {
+   "publisher": "이데일리",
+   "title": "PG사 페이허브, 해킹으로 2억원 유출…금감원 현장점검",
+   "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06048326645642112"
+  }
+ ],
+ "target_text": "가맹점 정산자금(기사 기재)",
+ "title": "결제대행사 해킹으로 정산자금 약 2억원 무단 이체",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-12",
+ "confirmed_text": "10월 10일 발생, 10월 12일 인지, 10월 13일 당국 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-10",
+   "date_text": "10.10",
+   "label": "연휴 중 정보 유출 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "새마을금고 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "당국 신고(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주소·계좌번호·잔액 등",
+ "leaked_items_text": "이름, 암호화된 주민등록번호, 집 주소, 계좌번호, 잔액 등(개인별로 다름, 기사 기재)",
+ "notices": [],
+ "org_name": "새마을금고",
+ "reported_date": "2026-10-14",
+ "response_text": "10월 13일 당국 신고(기사 기재). 이번 건의 차단·고객 안내·보상은 기사에 없음. 공격 IP는 중국·태국·한국 3곳으로 잠정 확인(기사 기재).",
+ "scale_short": "약 400명",
+ "scale_text": "약 400명(유출 정황 파악, 기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-10-mg-saemaul",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "새마을금고도 털렸다…2금융권으로 번지는 해킹 사태",
+   "url": "https://biz.sbs.co.kr/amp/article/20000339856"
+  }
+ ],
+ "target_text": "고객(기사 기재)",
+ "title": "고객 정보 유출 정황",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

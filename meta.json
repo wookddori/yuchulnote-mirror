@@ -1,0 +1,13 @@
+{
+ "content_hash": "d70671c1f9603d3395f1ee39c4ef3b235962f5127744fa2755c3224502a698da",
+ "incident_count": 214,
+ "last_checked_at": "2026-11-09T09:00:00Z",
+ "schema_version": 1,
+ "sector_counts": {
+  "finance": 40,
+  "it": 13,
+  "public": 53,
+  "service": 108
+ },
+ "target": "public"
+}

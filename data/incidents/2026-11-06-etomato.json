@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-03",
+ "confirmed_text": "11월 3일 회사가 유출 확인, 11월 6일 회원 통지(기사 기재). 공격 시점은 기사별로 7월·9월 또는 8월 21~22일로 달라 미확정",
+ "events": [
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "회사가 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.06",
+   "label": "회원 통지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·휴대전화번호·이메일 등",
+ "leaked_items_text": "이름 또는 닉네임, 휴대전화번호, 이메일 주소, 주소·우편번호(가입 시 입력한 회원)(기사 기재). 다른 기사에는 이름과 휴대폰 번호로 기재",
+ "notices": [],
+ "org_name": "이토마토(뉴스토마토 계열)",
+ "reported_date": "2026-11-06",
+ "response_text": "침투 경로 차단, KISA 침해사고 신고, 개인정보위 유출 의심 신고, 수사기관 신고·내부 조사 진행, 비밀번호 변경 안내(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 회원 수는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-06-etomato",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "이토마토 해킹으로 회원 개인정보 유출, 뉴스토마토·토마토TV 로그인 취약점 이용",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209348"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "뉴스토마토 계열 이토마토도 해킹 피해",
+   "url": "https://www.mt.co.kr/tech/2026/11/06/2026110614501639655"
+  }
+ ],
+ "target_text": "이토마토 회원(기사 기재)",
+ "title": "로그인 화면 취약점 이용 해킹으로 회원 개인정보 유출",
+ "updated_at": "2026-11-08T23:41:34Z"
+}

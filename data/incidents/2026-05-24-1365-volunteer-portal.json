@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-05-19",
+ "confirmed_text": "2026년 5월 19일 외부 공격으로 유출 발생, 행안부 발표 당시 930명(기사 기재). 9월 국정감사 관련 보도에서 피해자 8785명으로 늘었다고 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-19",
+   "date_text": "05.19",
+   "label": "외부 공격 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-05-21",
+   "date_text": "05.21",
+   "label": "행안부 사과문 게재(기사 기재)"
+  },
+  {
+   "date_iso": "2026-05-24",
+   "date_text": "05.24",
+   "label": "930명 유출 발표(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "07",
+   "label": "행안부 정정 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2025-09-29",
+   "date_text": "09.29",
+   "label": "피해자 8785명 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·생년월일·연락처·CI 등",
+ "leaked_items_text": "성명, 생년월일, 휴대폰 번호, 연계정보(CI), 중복가입확인정보(DI), 아이디 등. 주민등록번호와 민감정보는 유출되지 않았다고 설명(기사 기재)",
+ "notices": [],
+ "org_name": "1365 자원봉사포털",
+ "reported_date": "2026-05-24",
+ "response_text": "공격 IP 차단, 관리자 페이지 다운로드 기능 차단, 취약점 점검, 해외 접속 경로 차단 예정, 피해 이용자 개별 안내(기사 기재). 행안부가 7월 정정 신고를 했고 개인정보위가 이후 조사(기사 기재)",
+ "scale_short": "930명에서 8785명으로 정정",
+ "scale_text": "최초 발표 930명, 이후 보도 8785명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-05-24-1365-volunteer-portal",
+ "sources": [
+  {
+   "publisher": "한국일보",
+   "title": "정부 운영 1365 자원봉사포털 930명 개인정보 유출",
+   "url": "https://www.hankookilbo.com/news/article/A2026052416400002671?did=NA"
+  },
+  {
+   "publisher": "세계일보",
+   "title": "1365 자원봉사포털 개인정보 유출 8785명, 당초 신고의 11배",
+   "url": "https://www.segye.com/newsView/20260929506577?OutUrl=naver"
+  }
+ ],
+ "target_text": "1365 자원봉사포털 이용자(기사 기재)",
+ "title": "외부 공격으로 이용자 개인정보 유출, 피해 인원 930명에서 8785명으로 정정",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

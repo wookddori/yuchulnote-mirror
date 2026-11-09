@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "회사가 8월 초 공격을 인지, 내부 정보 일부 유출은 확인(기사 기재). 고객 정보 포함 여부는 기사 간 설명이 다르고 확정되지 않음",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.08 초",
+   "label": "회사가 랜섬웨어 공격 인지 후 신고(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.08.18",
+   "label": "해커 조직이 다크웹에 자료 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부 문서(고객정보는 확인 중)",
+ "leaked_items_text": "해커 측은 고객 이름, 생년월일, 주소, 계좌, 이메일 등이라고 주장하고, 회사는 공개된 샘플이 회의 자료·품의 서류라고 설명(기사 기재)",
+ "notices": [],
+ "org_name": "웰컴금융그룹",
+ "reported_date": "2025-08-19",
+ "response_text": "한국인터넷진흥원 신고센터와 금융당국에 신고, 다른 계열사 피해 여부 점검(기사 기재). 웰컴저축은행은 서버가 분리되어 피해가 없다고 설명(기사 기재)",
+ "scale_short": "해커 주장 약 1TB",
+ "scale_text": "해커 측 주장 약 1.024TB, 파일 약 132만 개이며 회사가 확인한 수치는 아님(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2025-08-19-welcome-financial-group",
+ "sources": [
+  {
+   "publisher": "뉴스후플러스",
+   "title": "예스24, SGI 이어 웰컴금융 해킹, 대부업체 내부자료 유출",
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=37268"
+  },
+  {
+   "publisher": "TJB",
+   "title": "예스24, SGI 이어 웰컴금융에도 해킹 공격, 1TB 규모 탈취 주장",
+   "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/82087"
+  }
+ ],
+ "target_text": "계열 대부업체 웰릭스에프앤아이대부(기사 기재)",
+ "title": "계열 대부업체 랜섬웨어 공격, 내부 정보 유출",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-16",
+ "confirmed_text": "2026년 10월 16일 외부 접근 확인(기사 기재: 지난 16일)",
+ "events": [
+  {
+   "date_iso": "2026-10-16",
+   "date_text": "10.16",
+   "label": "멤버십 시스템 외부 접근 확인, 오후 9시 36분 홈페이지 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-18",
+   "date_text": "10.18",
+   "label": "고객에게 문자메시지 통보(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "공식 입장문 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·비밀번호·이름·연락처 등",
+ "leaked_items_text": "아이디, 비밀번호, 이름, 생년월일, 전화번호, 주소, 이메일, 중복가입확인정보(DI), 서비스 이용 관련 정보(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 0,
+   "original_url": null,
+   "posted_date": "2026-10-16",
+   "round": "1차",
+   "summary": "멤버십 시스템 외부 접근으로 고객 정보 유출을 확인했다고 홈페이지에 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "할리스",
+ "reported_date": "2026-10-19",
+ "response_text": "16일 홈페이지 공지, 18일 고객 문자 통보, 한국인터넷진흥원 신고, 19일 공식 입장문 발표(기사 기재)",
+ "scale_short": "약 276만 건",
+ "scale_text": "약 276만 건(회사가 한국인터넷진흥원에 신고한 규모, 건수 단위, 정확한 규모는 추가 확인 중, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-19-hollys-membership",
+ "sources": [
+  {
+   "publisher": "서울신문",
+   "title": "보도",
+   "url": "https://www.seoul.co.kr/news/newsView.php?id=20261019500264"
+  }
+ ],
+ "target_text": "2009년부터 2020년 2월 11일 이내 누적 고객 데이터로 추정, 중복 회원 포함(기사 기재)",
+ "title": "멤버십 시스템 외부 접근으로 고객 정보 유출",
+ "updated_at": "2026-11-08T10:47:21Z"
+}

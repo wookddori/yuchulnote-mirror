@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-09-02",
+ "confirmed_text": "9월 2일 학생 제보로 확인, 9월 5일 교육청 발표(토큰포스트 기재)",
+ "events": [
+  {
+   "date_iso": "2025-09-02",
+   "date_text": "09.02",
+   "label": "학생 제보로 무단 접속 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2025-09-05",
+   "date_text": "09.05",
+   "label": "교육청 발표 및 대응본부 설치(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "명렬표·수행평가 성적",
+ "leaked_items_text": "명렬표(이름, 반, 번호)와 1학기 수행평가 성적(기사 기재)",
+ "notices": [],
+ "org_name": "제주 중학교",
+ "reported_date": "2025-09-05",
+ "response_text": "교육청과 교육부 신고, 피해자 통보, 자료 삭제, 전 계정 비밀번호 변경, 총괄대응본부 설치, 도내 학교에 계정 관리 강화 공문(기사 기재). 외부 유포 흔적은 확인되지 않았다고 교육청이 밝힘(기사 기재)",
+ "scale_short": "개인정보 약 400건",
+ "scale_text": "개인정보 약 400건, 성적 정보 약 200건(대한경제 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-09-05-jeju-middle-school",
+ "sources": [
+  {
+   "publisher": "대한경제",
+   "title": "제주 중학생, 교사 계정 무단 접속, 400명 개인정보·성적 유출",
+   "url": "https://www.dt.co.kr/article/12016218"
+  },
+  {
+   "publisher": "토큰포스트",
+   "title": "제주 중학생, 교사 계정 해킹해 400명 개인정보 유출",
+   "url": "https://www.tokenpost.kr/news/society/283254"
+  }
+ ],
+ "target_text": "같은 학년 학생들(기사 기재)",
+ "title": "학생의 교사 계정 무단 접속으로 학생 정보·수행평가 성적 유출",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

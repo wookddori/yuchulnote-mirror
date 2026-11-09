@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-01-01",
+ "confirmed_text": "2025년 1월 직원 업무용 PC 악성코드 감염 후 DB 서버 계정 정보 확보, 대량 유출(기사 기재). 개인정보보호위원회가 4월 과징금 부과(기사 기재).",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.01",
+   "label": "직원 업무용 PC 악성코드 감염, 유출 발생(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04",
+   "label": "개인정보위 과징금 11억9,700만원, 과태료 1,320만원 부과(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.06",
+   "label": "국정감사에서 보상 관련 질의(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·혼인이력·재산 등",
+ "leaked_items_text": "이름, 주소, 암호화된 주민등록번호, 생년월일, 연락처, 키·몸무게, 혼인 이력, 직업, 학력, 종교, 이혼 사유, 연수입, 재산 등. 일부 회원은 계좌 잔고와 부동산 보유 자료 포함(기사 기재).",
+ "notices": [],
+ "org_name": "듀오",
+ "reported_date": "2026-04-27",
+ "response_text": "개인정보위가 과징금 11억9,700만원, 과태료 1,320만원 부과, 피해 회원 통지와 재발 방지 조치 명령(기사 기재). 회사는 피싱 예방보험 가입과 포인트·쿠폰 지급을 안내, 대표는 국정감사에서 실제 피해 확인 시 보상 의사 밝힘(기사 기재). 보유기간 5년 경과 정보 29만8,566건 미파기 확인(기사 기재).",
+ "scale_short": "42만7,464명",
+ "scale_text": "정회원 42만7,464명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-27-duo",
+ "sources": [
+  {
+   "publisher": "세계일보",
+   "title": "설마 내 계좌 잔고도 노출됐나?…듀오 해킹, 43만명 자산 정보까지 털렸다",
+   "url": "https://www.segye.com/newsView/20260427502655?OutUrl=naver"
+  },
+  {
+   "publisher": "뉴스후플러스",
+   "title": "듀오, 42만명 이혼 사유·前 배우자 이름 유출",
+   "url": "https://www.newswhoplus.com/news/articleView.html?idxno=71410"
+  }
+ ],
+ "target_text": "듀오 정회원(기사 기재)",
+ "title": "직원 PC 악성코드 감염으로 회원 정보 유출, 과징금 부과",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

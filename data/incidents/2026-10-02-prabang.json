@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 2일 외부 비인가자가 비정상적인 방법으로 정보 유출(기사 기재: 지난 2일, 연·월은 게시일 기준). 인지일은 기사에 없음",
+ "events": [
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "외부 비인가자의 이용자 정보 유출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-14",
+   "date_text": "10.14",
+   "label": "금융위원회 긴급 상황대응 회의에서 침해사고 금융사 16곳에 포함(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·연락처·주소 등",
+ "leaked_items_text": "이름, 성별, 국적, 생년월일, 연락처, 주소, 직장 등 12개 항목(기사 기재, 기사에는 7개만 나열)",
+ "notices": [],
+ "org_name": "프라뱅",
+ "reported_date": "2026-10-14",
+ "response_text": "비상대응체계 가동, 해당 IP 차단, 비정상 접근 모니터링, 홈페이지 취약점 점검과 보완(기사 기재). 당국 신고 여부는 기사에 없음.",
+ "scale_short": "20명",
+ "scale_text": "이용자 20명(기사 기재). 다른 보도는 다른 수치를 전함",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-02-prabang",
+ "sources": [
+  {
+   "publisher": "MTN 머니투데이방송",
+   "title": "금융사 해킹 가상자산거래소로 확산…고팍스·프라뱅도 포함",
+   "url": "https://news.mtn.co.kr/article/2026101423081739211"
+  }
+ ],
+ "target_text": "이용자(기사 기재)",
+ "title": "외부 비인가자 접근으로 이용자 정보 유출",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

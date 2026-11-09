@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-10-24",
+ "confirmed_text": "2025년 10월 판매자의 정산금 미입금 문의로 내부 조사 착수, 판매자 계정 107개 비밀번호 재설정과 83개 정산계좌 변경 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.10",
+   "label": "판매자 정산금 미입금 문의로 내부 조사(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.10.20",
+   "label": "회사가 정산금과 지연이자 지급(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.10.24",
+   "label": "한국인터넷진흥원에 침해사고 신고(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.01.19",
+   "label": "국회의원실을 통해 신고서 내용 공개(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "정산금 약 86억 원",
+ "leaked_items_text": "개인정보 유출은 확인되지 않았다고 회사가 밝힘. 판매자 정산금 약 860만 달러(약 86억 원)가 변경 계좌로 이동(기사 기재)",
+ "notices": [],
+ "org_name": "알리익스프레스 코리아",
+ "reported_date": "2026-01-21",
+ "response_text": "정산금 전액과 지연이자 지급, 10월 24일 한국인터넷진흥원 신고, 2단계 인증 등 보안 강화(기사 기재). 신고서의 경찰 신고 항목이 예로 기재됐으나 실제 경찰 신고는 확인되지 않았다고 보도(기사 기재)",
+ "scale_short": "정산금 약 86억 원",
+ "scale_text": "판매자 계정 107개 중 83개 정산계좌 변경, 약 86억 원(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-21-aliexpress-korea",
+ "sources": [
+  {
+   "publisher": "이사이언스",
+   "title": "알리익스프레스, 셀러 계좌 해킹…정산금 86억 유출",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=123036"
+  },
+  {
+   "publisher": "한국일보 계열 스포츠한국",
+   "title": "알리익스프레스 해킹에 플랫폼 불신 확산…'협업 리스크' 시험대",
+   "url": "https://sports.hankooki.com/news/articleView.html?idxno=6922840"
+  }
+ ],
+ "target_text": "알리익스프레스 판매자센터 판매자 계정(기사 기재)",
+ "title": "판매자 계정 탈취로 정산계좌 변경, 정산금 약 86억 원 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

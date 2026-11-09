@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-22",
+ "confirmed_text": "10월 22일 정보통신처 '개인정보 유출 안내' 공지(기사 기재). 침해 발생일·인지일은 기사에 없음",
+ "events": [
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "정보통신처가 개인정보 유출 안내 공지, 오후 1시부터 개인별 항목 확인 가능(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "학번·휴대전화·이메일",
+ "leaked_items_text": "학번, 휴대전화 번호, 이메일, 일부 시스템 관리 정보. 주민등록번호 등 고유식별정보와 민감정보는 포함되지 않은 것으로 알려졌다고 기사에 적힘",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 0,
+   "original_url": null,
+   "posted_date": "2026-10-22",
+   "round": "1차",
+   "summary": "외부 비인가 접근으로 일부 구성원 정보가 유출된 사실을 알리고 개인별 항목 확인 방법을 안내했다(기사 기재)."
+  }
+ ],
+ "org_name": "연세대학교",
+ "reported_date": "2026-10-22",
+ "response_text": "유출 경로 차단, 수사기관에 수사 의뢰, 개인정보 유출 안내 공지와 사과, 홈페이지 공지사항에서 개인별 유출 항목 확인 가능(기사 기재)",
+ "scale_short": "약 1만 명",
+ "scale_text": "1만여 명(기사 기재, 정확한 인원은 기사에 없음)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-22-yonsei-portal",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "연세대 해킹, 학생·졸업 1만여명 개인정보 유출",
+   "url": "https://biz.sbs.co.kr/amp/article/20000341469"
+  }
+ ],
+ "target_text": "재학생·졸업생 등(기사 기재)",
+ "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

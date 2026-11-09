@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 11~12월 비인가 접근이 있었고 2026년 4월 방첩사 보안 점검에서 확인(기사 기재). 외부로 반출됐는지는 확인되지 않았으나 유출 가능성이 있다고 판단(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.11~12",
+   "label": "비인가 접근 발생(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04",
+   "label": "방첩사 보안 점검에서 확인, 운영 중단(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.24",
+   "label": "국방부 경위 설명 및 징계 절차 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "X-ray 영상·성별·연령 등",
+ "leaked_items_text": "성별, 연령, 검사일, X-ray 영상 등(기사 기재)",
+ "notices": [],
+ "org_name": "국방부",
+ "reported_date": "2026-07-24",
+ "response_text": "모바일 PACS 운영 중단, 국방부·사이버작전사령부·방첩사·의무사 합동 조사, 의무사 장교 3명 징계 절차 진행(기사 기재). 열려 있던 통신 포트로 접근한 것으로 설명(기사 기재)",
+ "scale_short": "약 8GB(영상 약 1천 장)",
+ "scale_text": "시스템에 약 115만 건 영상 정보 보관, 약 1천 장(약 8GB) 열람 정황(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-24-mnd-military-pacs",
+ "sources": [
+  {
+   "publisher": "머니투데이",
+   "title": "軍 의료영상시스템 해킹 정황, 국방부 관계자 3명 징계 절차 진행 중",
+   "url": "https://www.mt.co.kr/politics/2026/07/24/2026072418301716707"
+  },
+  {
+   "publisher": "데일리메디",
+   "title": "軍 병원 6곳 의료 정보 해킹 정황, 비정상 접근",
+   "url": "https://www.dailymedi.com/news/news_view.php?wr_id=938721"
+  }
+ ],
+ "target_text": "군 병원 6곳(고양·양주·포천·강릉·구리·대구) 이용 군인과 민간인(기사 기재)",
+ "title": "군 병원 6곳 의료영상시스템(모바일 PACS) 비인가 접근 정황",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

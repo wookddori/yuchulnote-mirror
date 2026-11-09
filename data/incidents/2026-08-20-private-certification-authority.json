@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "경찰이 해킹된 자료를 분석하던 중 주요 인물 정보 포함을 확인, 청와대 서버는 해킹되지 않았다고 경찰 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2026.02",
+   "label": "정보 탈취 시점으로 알려짐(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08.20",
+   "label": "경찰 수사 착수 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호 등",
+ "leaked_items_text": "이름, 전화번호 등 명함 수준의 정보로 기사에 기재(기사 기재)",
+ "notices": [],
+ "org_name": "민간 인증기관(기관명은 기사에 없음)",
+ "reported_date": "2026-08-20",
+ "response_text": "경찰청 국가수사본부가 부산경찰청에 사건 배당, 수사 중. 북한 조직 연관 여부는 단정되지 않음(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-08-20-private-certification-authority",
+ "sources": [
+  {
+   "publisher": "뉴스핌",
+   "title": "민간 인증기관 해킹에 청와대 인사 등 개인정보 유출...경찰 수사 착수",
+   "url": "https://www.newspim.com/news/view/20260820001190"
+  },
+  {
+   "publisher": "세계일보",
+   "title": "인증기관 해킹에… 청와대 인사 개인정보 유출",
+   "url": "https://www.segye.com/newsView/20260820521020?OutUrl=naver"
+  }
+ ],
+ "target_text": "청와대 주요 인사 등 국내 주요 인물(기사 기재)",
+ "title": "민간 인증기관 서버 해킹으로 청와대 인사 등 개인정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

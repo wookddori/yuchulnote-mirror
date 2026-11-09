@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-22",
+ "confirmed_text": "10월 22일 외부 비인가 접근으로 유출 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "외부의 비인가 접근으로 고객 정보 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-25",
+   "date_text": "10.25",
+   "label": "홈페이지 공지와 보도, 사과문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·환불 계좌번호",
+ "leaked_items_text": "이름, 휴대전화 번호, 이메일 주소, 환불 계좌번호(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 3,
+   "original_url": null,
+   "posted_date": "2026-10-25",
+   "round": "1차",
+   "summary": "유출 항목과 대응 조치, 2차 피해 예방 안내를 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "기프티엘(스푼)",
+ "reported_date": "2026-10-25",
+ "response_text": "공격 IP 차단과 시스템 접근 통제 강화, 보안 전문기관·관계 부처 신고, 수사 요청과 공조 수사, 유출 고객에게 문자 개별 통지, DB 접속 모니터링 강화(기사 기재). 계좌정보 악용이 의심되면 계좌정보 통합관리서비스로 점검하라고 안내.",
+ "scale_short": "1만8천여 명(다른 보도)",
+ "scale_text": "10월 25일 기사에는 인원 수가 없음. 다른 보도는 1만8,359명으로 전했으나 이 기사에서는 확인하지 못함",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-22-giftel-spoon",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "롯데 계열 기프티엘, 고객정보 유출…환불 계좌번호도 털렸다",
+   "url": "https://biz.sbs.co.kr/amp/article/20000341966"
+  }
+ ],
+ "target_text": "일부 고객(기사 기재)",
+ "title": "외부 비인가 접근으로 고객 정보 유출",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

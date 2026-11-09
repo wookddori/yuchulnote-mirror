@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "랜섬웨어 조직의 주장이며 실제 침해 여부와 유출 범위는 확인되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-11-17",
+   "date_text": "11.17",
+   "label": "아키라가 다크웹에 게시물 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-18",
+   "date_text": "11.18",
+   "label": "언론 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "임직원 정보·사내 문서(주장)",
+ "leaked_items_text": "임직원 여권·비자·주소·연락처, 계약서, 재무 문서, 연구개발 문서 등이 포함됐다고 조직이 주장(기사 기재)",
+ "notices": [],
+ "org_name": "LG에너지솔루션",
+ "reported_date": "2025-11-18",
+ "response_text": "회사의 공식 입장은 읽은 기사에 없음(기사 기재)",
+ "scale_short": "약 1.7TB(주장)",
+ "scale_text": "기업 문서 약 1.67TB, 데이터베이스 46GB를 확보했다고 주장(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-11-18-lg-energy-solution-akira",
+ "sources": [
+  {
+   "publisher": "디일렉",
+   "title": "해커 아키라, LG에너지솔루션 기업자료 1.6TB 탈취 주장",
+   "url": "http://www.thelec.kr/news/articleView.html?idxno=44051"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "[긴급 속보] 아키라 랜섬웨어 조직, LG에너지솔루션 내부자료 1.7TB 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=202488"
+  }
+ ],
+ "target_text": "미국 공장 관련 임직원·고객·협력사 자료(기사 기재)",
+ "title": "랜섬웨어 조직 아키라, 내부 자료 1.7TB 탈취 주장",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

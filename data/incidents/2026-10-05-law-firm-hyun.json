@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "법무법인이 일부 업무 이메일 계정의 비정상 외부 접근과 이메일 정보 외부 노출 정황을 확인하고 홈페이지에 공지. 다크웹 게시글은 9월 24일경 게시된 것으로 기재(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "09.24경",
+   "label": "다크웹에 이메일 DB 유출 게시글 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-05",
+   "date_text": "10.05",
+   "label": "보도, 법무법인 홈페이지 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이메일 주소·송수신 정보·제목",
+ "leaked_items_text": "이메일 주소, 송수신자 정보, 제목, 업무 관련 정보 가능. 본문·첨부파일·개인정보 유출 여부는 조사 중(기사 기재)",
+ "notices": [],
+ "org_name": "법무법인 현",
+ "reported_date": "2026-10-05",
+ "response_text": "해당 계정 보호조치, 외부 접근 차단, 증거 보존, 외부 전문기관 선임, 한국인터넷진흥원 등 신고(기사 기재)",
+ "scale_short": "주장 247GB(미검증)",
+ "scale_text": "게시자 주장은 247GB 규모이며 검증되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-05-law-firm-hyun",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 법무법인 현 이메일 DB 유출, 다크웹 게시글 올라와",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208733"
+  }
+ ],
+ "target_text": "법무법인 업무 이메일 계정 관련 인원(기사 기재)",
+ "title": "업무 이메일 계정 비정상 접근, 이메일 DB 다크웹 게시",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

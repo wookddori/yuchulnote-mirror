@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "6월 11일 공지로 사고 알림, 깃허브 마스터 계정 키 값 탈취와 5월 9일 최초 침입 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-08",
+   "date_text": "06.08",
+   "label": "보안 사고 가능성 인지 및 차단 조치(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-11",
+   "date_text": "06.11",
+   "label": "홈페이지 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-19",
+   "date_text": "06.19",
+   "label": "계좌번호 등 추가 유출 가능성 회원 안내(기사 기재)"
+  },
+  {
+   "date_iso": "2025-06-26",
+   "date_text": "06.26",
+   "label": "강사·멘토에게 재발방지 대책 공문 발송(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·계좌번호 등",
+ "leaked_items_text": "이름, 이메일, 전화번호, 암호화된 비밀번호, 주소, 직무·직책, 배송 메모, 추가로 은행명·계좌번호·여권번호·카드번호 일부 등. 주민등록번호는 기사별 서술이 달라 확인 중(기사 기재)",
+ "notices": [],
+ "org_name": "데이원컴퍼니(패스트캠퍼스 등)",
+ "reported_date": "2026-06-19",
+ "response_text": "위협 차단과 보완 조치, 사과문 게재, 피해 가능 회원 추가 안내, 주민등록번호 유출 여부 조사(기사 기재). 강사·멘토는 보상 기준과 2차 피해 지원 부재를 지적(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 인원은 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-06-19-dayone-company",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "해킹 당한 데이원컴퍼니, 계좌번호 등 추가 유출 가능성 확인",
+   "url": "https://zdnet.co.kr/view/?no=20260619181015"
+  },
+  {
+   "publisher": "M이코노미",
+   "title": "피해자가 직접 2차 피해 막아라? 데이원컴퍼니, 개인정보 유출사고",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=1385820"
+  }
+ ],
+ "target_text": "패스트캠퍼스, 콜로소, 제로베이스 등 8개 브랜드의 일반 회원, 강사, 기업 고객(기사 기재)",
+ "title": "깃허브 마스터 계정 키 탈취로 개인정보 유출, 계좌번호 등 추가 유출 가능성",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

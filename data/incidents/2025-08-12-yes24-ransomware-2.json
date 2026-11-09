@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-08-11",
+ "confirmed_text": "8월 11일 새벽 4시 30분경 외부 랜섬웨어 공격으로 서비스 접속 불가, 정부 설명상 서비스망만 감염(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-08-11",
+   "date_text": "8.11",
+   "label": "새벽 랜섬웨어 공격, 서비스 중단(기사 기재)"
+  },
+  {
+   "date_iso": "2025-08-11",
+   "date_text": "8.11",
+   "label": "오전 11시 30분경 백업으로 복구(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 기사에 없음",
+ "leaked_items_text": "정보 유출 여부는 기사에 없음",
+ "notices": [],
+ "org_name": "예스24",
+ "reported_date": "2025-08-12",
+ "response_text": "전사 비상대응, 시스템 차단·점검, KISA 신고, 백업 데이터로 오전 11시 30분경 복구(기사 기재). 과기정통부가 2차 사고를 조사 중(기사 기재). 공식 보상안은 결정된 바 없음(기사 기재)",
+ "scale_short": null,
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-08-12-yes24-ransomware-2",
+ "sources": [
+  {
+   "publisher": "세이프타임즈",
+   "title": "두달 만에 또 예스24 해킹으로 사이트 먹통",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=233732"
+  },
+  {
+   "publisher": "ZDNet Korea",
+   "title": "예스24 또 속였나? 1차 해킹 때 백업망도 랜섬웨어 감염",
+   "url": "https://zdnet.co.kr/view/?no=20250814162307"
+  }
+ ],
+ "target_text": "예스24 홈페이지·앱 이용자(기사 기재)",
+ "title": "랜섬웨어 재공격으로 홈페이지·앱 약 7시간 중단(2차, 8월)",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

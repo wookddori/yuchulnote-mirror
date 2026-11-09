@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-01",
+ "confirmed_text": "2026년 10월 1일 사고 발생·발표(기사 기재, 정확한 인지 시각 기재 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-01",
+   "date_text": "10.01",
+   "label": "대출모집인 전용 간편조회 서비스에서 인증을 우회한 비정상 접근으로 정보 유출, 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객명·전화번호·연소득·대출한도",
+ "leaked_items_text": "고객명, 전화번호, 연소득, 대출 산출한도 등 대출 신청 관련 정보. 주민등록번호 66건, 연계정보(CI) 97건 포함(기사 기재)",
+ "notices": [],
+ "org_name": "신한은행",
+ "reported_date": "2026-10-01",
+ "response_text": "고객 손해 전액 보상 방침, 고객 보호조치와 후속 대응에 집중한다고 설명(기사 기재). 금융감독원이 현장조사에 착수해 규모와 경로를 확인 중(기사 기재).",
+ "scale_short": "약 2만5천 명",
+ "scale_text": "약 2만5천 명, 주민등록번호 66건, 연계정보(CI) 97건(기사 기재, 정확한 규모는 금융감독원 현장조사로 확인 중)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-01-shinhanbank-loan-recruiter",
+ "sources": [
+  {
+   "publisher": "파이낸셜뉴스(뉴시스)",
+   "title": "은행 고객 정보유출 사태 '일파만파'",
+   "url": "https://www.fnnews.com/news/202610021526056304"
+  },
+  {
+   "publisher": "헤럴드경제(연합)",
+   "title": "국민·하나·부산은행도 당했다…한국 금융권 해킹 피해 확산",
+   "url": "https://www.heraldk.com/article/2026100204530548027"
+  }
+ ],
+ "target_text": "대출 신청 관련 고객 약 2만5천 명(기사 기재)",
+ "title": "대출모집인 전용 간편조회 서비스 고객 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

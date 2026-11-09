@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-10-17",
+ "confirmed_text": "2025년 7월 중순 침입, 10월 17일 행정안전부 브리핑으로 공식 확인(디지털데일리 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.07 중순",
+   "label": "외부 PC에서 원격근무시스템 경유 업무망 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-17",
+   "date_text": "10.17",
+   "label": "행정안전부 공식 브리핑(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "GPKI 인증서·비밀번호",
+ "leaked_items_text": "공무원 GPKI 인증서와 비밀번호 확보. 개인정보 유출 여부는 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "행정안전부(온나라시스템)",
+ "reported_date": "2025-10-18",
+ "response_text": "행정안전부 브리핑, 국가정보원이 인증서 절취 사례와 공격 방식 분석 중. 배후는 단정할 기술적 증거가 부족하다고 밝힘(기사 기재)",
+ "scale_short": "인증서 650명분",
+ "scale_text": "인증서 650명분 피해 의심(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-10-18-ministry-of-interior-onnara",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "[Weekly Threat] 구멍 뚫린 정부시스템, 해킹 흔적 있지만 해커는 미궁",
+   "url": "https://www.ddaily.co.kr/page/view/2025101717463169076"
+  }
+ ],
+ "target_text": "행정전자서명(GPKI) 인증서 650명분 피해 의심(기사 기재)",
+ "title": "공무원 업무망 온나라시스템 해킹 확인",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

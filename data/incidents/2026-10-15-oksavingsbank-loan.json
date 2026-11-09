@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 12일 비정상 접속 인지(기사 기재, 월 표기 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-11",
+   "date_text": "10.11",
+   "label": "해킹 공격 시작(기사 기재: 11일 오후 8시 44분)"
+  },
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "공격 종료(오전 2시 14분)와 비정상 접속 인지, 의심 IP·접속경로 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "금융감독원 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-15",
+   "date_text": "10.15",
+   "label": "피해 고객 250명으로 확인해 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·생년월일·계좌번호 등",
+ "leaked_items_text": "이름, 생년월일, 휴대전화 번호, 계좌번호, 주소, 이메일, 직장명, 사업자번호, 연 소득, 대출금액(기사 기재)",
+ "notices": [],
+ "org_name": "OK저축은행",
+ "reported_date": "2026-10-15",
+ "response_text": "의심 IP·접속경로 차단, 금융감독원 신고, 피해 고객에게 문자·이메일 통지, 전용 상담창구 운영, 현재까지 추가 이상 징후는 없다고 설명(기사 기재)",
+ "scale_short": "250명(최초 183명)",
+ "scale_text": "250명(최초 파악 183명, 외부 보안 관제업체 2곳 조사 후 15일 변경 발표, 기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-15-oksavingsbank-loan",
+ "sources": [
+  {
+   "publisher": "토요경제",
+   "title": "보도",
+   "url": "https://sateconomy.co.kr/news/view/1065578064176195"
+  }
+ ],
+ "target_text": "홈페이지 대출 신청 서비스를 이용한 고객(기사 기재)",
+ "title": "대출 신청 고객 정보 유출",
+ "updated_at": "2026-11-08T10:47:21Z"
+}

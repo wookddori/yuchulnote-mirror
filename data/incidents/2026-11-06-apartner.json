@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-04",
+ "confirmed_text": "10월 23일 두 차례 파일 반출, 11월 4일 운영사 인지, 11월 6일 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "데이터 내보내기 기능에 두 차례 무단 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "보안 점검 중 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.06",
+   "label": "유출 사실 공개, KISA·경찰 신고(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "휴대전화번호",
+ "leaked_items_text": "휴대전화번호, 성명·주소·주민번호·비밀번호·결제정보는 미포함이라고 회사가 밝힘(기사 기재)",
+ "notices": [],
+ "org_name": "아파트너",
+ "reported_date": "2026-11-06",
+ "response_text": "공격 IP 차단, 관리자 계정 초기화, KISA·경찰 신고, 이용자 통지, 시스템 점검(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "일부 이용자, 인원은 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-06-apartner",
+ "sources": [
+  {
+   "publisher": "전자신문",
+   "title": "아파트 관리 플랫폼 아파트너, 입주민 휴대전화번호 유출",
+   "url": "https://www.etnews.com/20261107000012"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "아파트너 해킹으로 입주민 휴대전화번호 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209347"
+  }
+ ],
+ "target_text": "일부 이용자(기사 기재)",
+ "title": "데이터 내보내기 기능 무단 접근, 입주민 휴대전화번호 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

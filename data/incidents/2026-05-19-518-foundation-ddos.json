@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "재단이 디도스 공격으로 의심하며 경찰에 신고, 원인은 수사로 확인 예정(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "기념일 전 밤",
+   "label": "밤 11시 27분경부터 홈페이지 접속 장애(기사 기재)"
+  },
+  {
+   "date_iso": "2026-05-19",
+   "date_text": "5.19",
+   "label": "피해 신고 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "해당 없음(접속 장애)",
+ "leaked_items_text": "개인정보 유출은 기사에 없음(디도스 의심 사안)",
+ "notices": [],
+ "org_name": "5·18기념재단",
+ "reported_date": "2026-05-19",
+ "response_text": "해당 IP 차단 후 안정화, 광주경찰청 사이버수사대에 신고(기사 기재)",
+ "scale_short": "서버 과부하·접속 장애",
+ "scale_text": "같은 날 120회 이상 접속 시도한 IP 확인(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-05-19-518-foundation-ddos",
+ "sources": [
+  {
+   "publisher": "광주일보",
+   "title": "5·18기념재단, 디도스 공격 의심 신고",
+   "url": "http://www.kjdaily.com/article.php?aid=1779186241678954005"
+  }
+ ],
+ "target_text": "재단 홈페이지(기사 기재)",
+ "title": "홈페이지 접속 장애, 디도스 공격 의심 신고",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

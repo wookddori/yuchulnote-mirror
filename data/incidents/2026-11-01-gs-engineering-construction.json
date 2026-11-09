@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "10월 28일 외부의 비정상 접근 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "외부 비정상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "건설사 해킹 및 스마트홈 보안 관련 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·주소·RF카드 번호 등",
+ "leaked_items_text": "이름, 생년월일, 전화번호, 성별, 이메일, 주소, RF카드 번호, 회원번호, 거주유형, 세대주 여부, 가입 일시, 최종 로그인 IP, 관리자 ID. 비밀번호는 암호화 상태라고 회사 설명. 주민번호·금융정보는 수집하지 않았다고 회사 설명(기사 기재)",
+ "notices": [],
+ "org_name": "GS건설",
+ "reported_date": "2026-11-01",
+ "response_text": "관계기관 즉시 신고, 피해 범위 조사 중. 입주민에게 스미싱·보이스피싱 주의 안내(기사 기재)",
+ "scale_short": "일부 입주민(인원 미공개)",
+ "scale_text": "일부 입주민이라고만 기재, 정확한 인원은 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-01-gs-engineering-construction",
+ "sources": [
+  {
+   "publisher": "디지털타임스",
+   "title": "우리 집, 과연 해킹서 안전할까?… 이름값 못하는 스마트홈의 역설",
+   "url": "https://www.dt.co.kr/article/12092436"
+  }
+ ],
+ "target_text": "자이 아파트 커뮤니티 시설 예약관리시스템 이용 입주민 일부(기사 기재)",
+ "title": "아파트 커뮤니티 예약시스템 외부 비정상 접근, 입주민 정보 유출 가능",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

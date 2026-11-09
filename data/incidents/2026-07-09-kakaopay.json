@@ -1,0 +1,49 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "경기남부경찰청이 7월 6~7일 본사 압수수색, 금감원 의뢰로 3월 수사 착수(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2026.03",
+   "label": "금감원 의뢰로 경찰 수사 착수(기사 기재)"
+  },
+  {
+   "date_iso": "2026-07-06",
+   "date_text": "07.06~07",
+   "label": "경기남부경찰청 본사 압수수색(기사 기재)"
+  },
+  {
+   "date_iso": "2026-07-09",
+   "date_text": "07.09",
+   "label": "압수수색 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "전체 이용자 정보(항목 미공개)",
+ "leaked_items_text": "구체 항목은 기사에 없고 전체 이용자 정보를 제공했다고 기재, 알리페이의 NSF 점수 산출 모델 구축에 쓰였다고 보도(기사 기재)",
+ "notices": [],
+ "org_name": "카카오페이",
+ "reported_date": "2026-07-09",
+ "response_text": "신용정보법·전자금융거래법 위반 혐의로 임직원과 법인 입건(기사 기재). 회사는 적법한 업무 위수탁이라는 입장, 개인정보위 상대 행정소송 1심 패소 후 항소(기사 기재). 기존 제재로 개인정보위 과징금 59억6,800만원, 금감원 과징금 129억7,600만원 등(기사 기재).",
+ "scale_short": "약 4000만명·542억건 혐의",
+ "scale_text": "2018년~2024년 5월 고객 약 4000만명, 542억건 제공 혐의(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-07-09-kakaopay",
+ "sources": [
+  {
+   "publisher": "전자신문",
+   "title": "경찰, 고객정보 유출 혐의 카카오페이 본사 압수수색",
+   "url": "https://www.etnews.com/20260709000382"
+  },
+  {
+   "publisher": "디지털타임스",
+   "title": "경찰, 개인정보 유출 혐의 카카오페이 본사 압수수색",
+   "url": "https://www.dt.co.kr/article/12072108"
+  }
+ ],
+ "target_text": "카카오페이 고객(기사 기재)",
+ "title": "고객 정보 중국 알리페이 제공 혐의로 경찰 본사 압수수색",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

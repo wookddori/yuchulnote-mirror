@@ -1,0 +1,49 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-07-06",
+ "confirmed_text": "7월 6일 해킹 확인 후 개인정보위 신고, 8월 6일 피해자 개별 통보(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-10",
+   "date_text": "06.10",
+   "label": "방화벽 값 오입력으로 외부 접근 가능 상태 시작(기사 기재)"
+  },
+  {
+   "date_iso": "2026-07-06",
+   "date_text": "07.06",
+   "label": "해킹 확인 및 개인정보위 신고, 접근 가능 상태 종료(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-06",
+   "date_text": "08.06",
+   "label": "피해자 개별 통보(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·생년월일·경력 등",
+ "leaked_items_text": "이름, 연락처, 이메일, 소속, 주소, 생년월일, 아이디, 비밀번호, 국가연구자번호, 경력·학력 등. 항목은 피해자별로 다름(기사 기재)",
+ "notices": [],
+ "org_name": "정보통신기획평가원(IITP)",
+ "reported_date": "2026-08-07",
+ "response_text": "7월 6일 신고, 8월 6일 피해자 통보, 2차 피해 주의와 비밀번호 변경 안내, 원인·범위 조사 중(기사 기재)",
+ "scale_short": "미공개(5개 시스템)",
+ "scale_text": "피해자 수는 기사에 없음, 5개 시스템 노출(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-08-07-iitp",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "방화벽 오입력에 뚫린 포트로 침입…IITP, 연구자 정보 대거 유출",
+   "url": "https://www.ddaily.co.kr/page/view/2026080716434991788"
+  },
+  {
+   "publisher": "한국경제",
+   "title": "1.9조 굴리는 국가 R&D 기관 해킹…연구자 개인정보 유출",
+   "url": "https://www.hankyung.com/article/202608069007g"
+  }
+ ],
+ "target_text": "IITP 시스템 이용 연구자 등(기사 기재)",
+ "title": "방화벽 설정 오입력 기간 외부 비정상 접근으로 연구자 정보 유출",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

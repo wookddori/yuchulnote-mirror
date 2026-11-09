@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-02",
+ "confirmed_text": "2026년 10월 2일 유출 정황 확인(공지 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "영업지원시스템 사고 발생(공지 기재)"
+  },
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "유출 정황 확인, 해당 고객에게 휴대폰·이메일 개별 안내"
+  },
+  {
+   "date_iso": "2026-10-03",
+   "date_text": "10.03",
+   "label": "개인(신용)정보 유출 관련 안내 및 사과문 게시"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주민등록번호·고객명·연락처 등",
+ "leaked_items_text": "주민등록번호, 고객명, 주소, 이메일 주소, 전화번호, 휴대폰번호, 직장명(공지 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 1,
+   "original_url": null,
+   "posted_date": "2026-10-03",
+   "round": "1차",
+   "summary": "유출 항목, 확인일, 대응 조치와 고객센터 문의처를 안내했다."
+  }
+ ],
+ "org_name": "하나은행",
+ "reported_date": "2026-10-03",
+ "response_text": "외부 IP 접근 차단, 추가 보안 조치, 24시간 모니터링 강화, 피해구제 지원 절차 마련, 10월 2일 해당 고객에게 휴대폰·이메일 개별 안내(공지 기재)",
+ "scale_short": "89명",
+ "scale_text": "89명(공지 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-03-hanabank-sales-support",
+ "sources": [
+  {
+   "publisher": "하나은행",
+   "title": "개인(신용)정보 유출 관련 안내 및 사과문",
+   "url": "https://www.kebhana.com/cont/news/news01/1528985_115430.jsp"
+  }
+ ],
+ "target_text": "고객 89명(공지 기재)",
+ "title": "영업지원시스템 고객 정보 유출",
+ "updated_at": "2026-11-08T10:47:21Z"
+}

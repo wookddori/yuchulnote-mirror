@@ -1,0 +1,54 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "개인정보보호위원회가 과징금, 과태료, 시정조치 권고를 부과한 사실이 9월 25일 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2017.06~2025.06",
+   "label": "주민등록증 발급 상황 조회 서비스 본인인증 취약점 조치하지 않음(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.04.01",
+   "label": "교육부 연계 민원서류 오발급으로 유출 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.04.11",
+   "label": "정보주체 통지 시작, 인지 후 10일 경과(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.04.18",
+   "label": "국세납세증명서 서식 변경 소스코드를 발급 테스트 없이 적용(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.09.25",
+   "label": "개인정보보호위원회 처분 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "기사에 없음",
+ "leaked_items_text": "항목은 기사에 없음",
+ "notices": [],
+ "org_name": "행정안전부(정부24)",
+ "reported_date": "2026-09-25",
+ "response_text": "과징금·과태료·시정조치 권고 부과, 금액은 기사에 없음(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-09-25-gov24-pipc-sanction",
+ "sources": [
+  {
+   "publisher": "더팩트",
+   "title": "정부24서 개인정보 유출…행안부, 과징금·과태료 제재 받아",
+   "url": "https://news.tf.co.kr/read/life/2369730.htm"
+  }
+ ],
+ "target_text": "정부24 민원서류 발급 이용자(기사 기재)",
+ "title": "정부24 민원서류 오발급 등 개인정보 유출, 과징금·과태료 처분",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

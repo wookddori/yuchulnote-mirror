@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "자체 특별감사에서 업무 목적 없는 조회 확인 후 면직(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "6월",
+   "label": "익명 제보 접수(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "7월",
+   "label": "경찰 수사 의뢰(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-21",
+   "date_text": "10.21",
+   "label": "국정감사 자료로 사건 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "계좌 거래내역",
+ "leaked_items_text": "계좌 거래내역(기사 기재)",
+ "notices": [],
+ "org_name": "카카오뱅크",
+ "reported_date": "2026-10-21",
+ "response_text": "감사 후 면직, 7월 경찰 수사 의뢰(분당서, 8월 성동서로 이송), 임직원 교육 실시. 수사 진행 중(기사 기재)",
+ "scale_short": "계좌 7건 조회",
+ "scale_text": "무단 조회 계좌 7건. 외부 제공 여부와 금전 수수는 감사에서 확인되지 않음(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-21-kakaobank-lookup",
+ "sources": [
+  {
+   "publisher": "뉴스락",
+   "title": "카카오뱅크, 내부통제 도마 위...직원 테더 수수·정보 유출",
+   "url": "http://www.newslock.co.kr/news/articleView.html?idxno=138358"
+  }
+ ],
+ "target_text": "고객 계좌 7건(기사 기재)",
+ "title": "계약직 직원의 고객 계좌 거래내역 무단 조회, 경찰 수사",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-06-05",
+ "confirmed_text": "6월 5일 오후 선관위가 개인정보 유출로 보고 개인정보위에 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-03",
+   "date_text": "06.03",
+   "label": "투표일, 이후 투표소 현장에 남은 전표가 촬영·중계되어 노출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-05",
+   "date_text": "06.05",
+   "label": "선관위가 개인정보위에 유출 신고(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유권자 이름·성별",
+ "leaked_items_text": "유권자 이름, 성별 등이 적힌 선거인명부 대조전표(기사 기재)",
+ "notices": [],
+ "org_name": "중앙선거관리위원회",
+ "reported_date": "2026-06-06",
+ "response_text": "개인정보위가 전표가 외부에 남은 경위와 자료 관리 상황을 확인 중(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "노출된 유권자 수는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-06-06-national-election-commission",
+ "sources": [
+  {
+   "publisher": "m-economynews",
+   "title": "6·3 선거 유권자 개인정보 유출...잠실7동 투표소 대조전표 노출 경위",
+   "url": "https://www.m-economynews.com/news/article.html?no=67733"
+  }
+ ],
+ "target_text": "잠실7동 제2투표소에서 임시 배부된 대조전표 대상 유권자(기사 기재)",
+ "title": "6·3 선거 잠실7동 투표소 대조전표 외부 노출",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

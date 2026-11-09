@@ -1,0 +1,39 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "6월 순방 출국 약 일주일 전 게시되어 약 5개월 노출, 11월 2일 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-09",
+   "date_text": "06.09",
+   "label": "순방 출국, 명단은 출국 약 일주일 전 사이트에 게시된 것으로 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-02",
+   "date_text": "11.02",
+   "label": "KBS 보도 인용 기사로 노출 사실이 알려짐(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "여권번호 등",
+ "leaked_items_text": "개인정보 168명분. 부제 기준 대통령 부부 여권번호 포함, 그 밖의 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "대통령 전용기 탑승자 명단(청와대·외교부)",
+ "reported_date": "2026-11-02",
+ "response_text": "청와대 관계자는 보도 내용을 사전에 인지해 대응 조치를 취했고 외교부 등에서 추가 조치를 할 예정이라고 설명(기사 기재). 신고 기관과 조사 내용은 기사에 없음.",
+ "scale_short": "168명",
+ "scale_text": "168명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-02-presidential-flight-list",
+ "sources": [
+  {
+   "publisher": "뉴스토마토",
+   "title": "대통령 전용기 탑승자 168명 개인정보 유출…청와대 \"사전 인지 후 대응\"",
+   "url": "https://newstomato.com/ReadNews.aspx?no=1319011"
+  }
+ ],
+ "target_text": "전용기 탑승자 168명(기사 기재)",
+ "title": "대통령 순방 전용기 탑승자 168명 개인정보 노출",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

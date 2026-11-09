@@ -1,0 +1,44 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-03-19",
+ "confirmed_text": "3월 19일 홈페이지 공지로 알림. 3월 14일 발생(메디게이트뉴스 기재)",
+ "events": [
+  {
+   "date_iso": "2026-03-14",
+   "date_text": "03.14",
+   "label": "직원 간 메일 발송 중 수신 주소 오입력(메디게이트뉴스 기재)"
+  },
+  {
+   "date_iso": "2026-03-19",
+   "date_text": "03.19",
+   "label": "홈페이지 공지, 개인정보보호위원회와 교육부 신고(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "산모 진료기록",
+ "leaked_items_text": "산과력, 분만 정보, 검사·진단 결과 등 진료 정보(메디게이트뉴스 기재). YTN은 산모 이름, 환자 번호, 체중 등이며 주민등록번호는 없다고 병원이 설명했다고 보도(기사 기재)",
+ "notices": [],
+ "org_name": "서울대병원",
+ "reported_date": "2026-03-20",
+ "response_text": "수신자에게 삭제 요청, 개인정보보호위원회와 교육부 신고, 교육과 발송 전 수신자 확인 절차 강화 약속(기사 기재). YTN은 병원이 미수신을 확인했다고 보도, 메디게이트뉴스는 관계없는 수신자 1명에게 전달됐다고 보도해 기재가 다름",
+ "scale_short": "약 1만6천명",
+ "scale_text": "약 1만6천명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-03-20-seoul-national-university-hospital",
+ "sources": [
+  {
+   "publisher": "메디게이트뉴스",
+   "title": "서울대병원, 메일 오발송으로 1만6000여명 환자 개인정보 유출",
+   "url": "https://www.medigatenews.com/news/2705929882"
+  },
+  {
+   "publisher": "YTN",
+   "title": "서울대병원, 환자 진료기록 메일 유출 미수신 확인",
+   "url": "https://www.ytn.co.kr/_ln/0103_202603200035353667"
+  }
+ ],
+ "target_text": "산부인과 환자 약 1만6천명(기사 기재)",
+ "title": "직원 간 메일 수신자 오입력으로 산과 환자 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

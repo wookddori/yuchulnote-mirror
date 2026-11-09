@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-06-24",
+ "confirmed_text": "6월 24일 시스템 점검 중 확인, 6월 26일 홈페이지 공지, 6월 28일 공개(딜라이트닷넷 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-24",
+   "date_text": "06.24",
+   "label": "점검 중 이상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-26",
+   "date_text": "06.26",
+   "label": "홈페이지 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-28",
+   "date_text": "06.28",
+   "label": "유출 정황 공개(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·이메일 등 8개",
+ "leaked_items_text": "아이디, 암호화된 비밀번호, 이름, 성별, 직책, 회사 전화번호, 휴대전화번호, 이메일 8개 항목(기사 기재)",
+ "notices": [],
+ "org_name": "식품산업협회",
+ "reported_date": "2026-06-28",
+ "response_text": "해당 서버 격리, 공격 IP 차단, 방화벽 강화, 개별 문자 안내, 관계기관 신고 및 조사 협조(기사 기재). 시스템은 에듀테크 업체가 위탁 운영(기사 기재)",
+ "scale_short": "약 11만3천명",
+ "scale_text": "약 11만2728명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-06-28-korea-food-industry-association",
+ "sources": [
+  {
+   "publisher": "딜라이트닷넷",
+   "title": "식품산업협회서 11만3000명 개인정보 유출 정황",
+   "url": "https://www.delighti.co.kr/news/articleView.html?idxno=118264"
+  }
+ ],
+ "target_text": "2026년 상반기 교육 수료자(기사 기재)",
+ "title": "온라인 교육사이트 이용자 약 11만3천명 정보 유출 정황",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-07-07",
+ "confirmed_text": "7월 7일 랜섬웨어 침해사고 신고 접수(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-07-07",
+   "date_text": "07.07",
+   "label": "랜섬웨어 침해사고 신고 접수, 해킹그룹이 다크웹에 피해기업으로 등록(기사 기재)"
+  },
+  {
+   "date_iso": "2025-07-08",
+   "date_text": "07.08",
+   "label": "홈페이지 접속 장애 시작(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미공개",
+ "leaked_items_text": "탈취 데이터 내용은 공개되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "드래곤플라이",
+ "reported_date": "2025-08-11",
+ "response_text": "KISA 기술지원에 동의하지 않아 현장조사 불가, 자체 보안조치. 이용자에게 유출 여부 안내 없음(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음. 홈페이지 한 달 넘게 접속 장애(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-08-11-dragonfly",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "게임사 드래곤플라이, 랜섬웨어에 당했다…KISA 기술지원 거부",
+   "url": "https://www.ddaily.co.kr/page/view/2025081114285148337"
+  },
+  {
+   "publisher": "디지털데일리",
+   "title": "DD퇴근길 랜섬웨어 공격 비상… 예스24 이어 드래곤플라이도",
+   "url": "https://www.ddaily.co.kr/page/view/2025081116263513240"
+  }
+ ],
+ "target_text": "공식 홈페이지와 스페셜포스 게임 사이트(기사 기재)",
+ "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

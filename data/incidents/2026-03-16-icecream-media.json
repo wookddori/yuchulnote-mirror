@@ -1,0 +1,49 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "3월 11일 회사가 유출 사실 확인, 홈페이지에 사과문 게시(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-03-11",
+   "date_text": "03.11",
+   "label": "유출 사실 확인, 사과문 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-03-12",
+   "date_text": "03.12",
+   "label": "교사노조 성명 발표(기사 기재)"
+  },
+  {
+   "date_iso": "2026-03-13",
+   "date_text": "03.13",
+   "label": "교사노조가 교육부·개인정보보호위원회에 조사 요구(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·학교 등",
+ "leaked_items_text": "이름, 생년월일, 성별, 휴대전화번호, 학교 정보(기사 기재)",
+ "notices": [],
+ "org_name": "아이스크림미디어",
+ "reported_date": "2026-03-16",
+ "response_text": "교육부가 2차 피해 대비 학부모 대상 주의 공문 발송, 교사노조가 관계기관에 조사 요구(기사 기재)",
+ "scale_short": "미공개(제목 17만명)",
+ "scale_text": "기사 제목에 교사 17만명 표기, 확정 규모는 본문에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-03-16-icecream-media",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "교사 17만명 어디까지 털렸나…아이스크림 정보 유출 일주일째 깜깜",
+   "url": "https://www.news1.kr/society/education/6102896"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "아이스크림미디어 교사 정보 유출에…교사노조, 권익위에 민원",
+   "url": "https://www.mt.co.kr/policy/2026/03/16/2026031616403743967"
+  }
+ ],
+ "target_text": "교사 회원(기사 기재)",
+ "title": "교사 회원 개인정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

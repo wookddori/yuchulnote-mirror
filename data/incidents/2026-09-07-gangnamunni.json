@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-09-04",
+ "confirmed_text": "9월 4일 상담내역 조회 API 비정상 접근 확인, 9월 7일 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-04",
+   "date_text": "9.04",
+   "label": "상담내역 조회 API 비정상 접근, 경로 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-05",
+   "date_text": "9.05",
+   "label": "다른 경로로 재시도, 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-06",
+   "date_text": "9.06",
+   "label": "경찰 수사 의뢰, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-07",
+   "date_text": "9.07",
+   "label": "홈페이지 공지, 개인정보위 신고(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·상담/시술·결제정보",
+ "leaked_items_text": "이름, 연락처, 이메일, 생년월일, 성별, 상담 병원·시술 정보, 상담 사진, 일부 회원의 시술·결제 내역(기사 기재)",
+ "notices": [],
+ "org_name": "강남언니(힐링페이퍼)",
+ "reported_date": "2026-09-07",
+ "response_text": "접근 경로 차단, 9월 5일 재시도 차단, 9월 6일 경찰 수사 의뢰 및 KISA 신고, 9월 7일 개인정보위 신고, 개별 통지 및 유출 조회 안내, 피싱 주의 안내(기사 기재)",
+ "scale_short": "약 22만 명",
+ "scale_text": "219,665명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-07-gangnamunni",
+ "sources": [
+  {
+   "publisher": "SEN",
+   "title": "강남언니 이용자 22만명 정보 유출…상담 사진·시술 내역까지",
+   "url": "https://www.sentv.co.kr/article/view/sentv202609080010"
+  },
+  {
+   "publisher": "한스경제",
+   "title": "강남언니 해킹... 환자 시술 정보 유출 됐다",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=862934"
+  }
+ ],
+ "target_text": "이용자(국내 약 16만, 일본 약 4.8만 등)(기사 기재)",
+ "title": "상담내역 조회 API 비정상 접근으로 이용자 약 22만 명 정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

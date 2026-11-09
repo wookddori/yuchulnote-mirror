@@ -1,0 +1,49 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "배달의민족은 조직원 위장 취업으로 개인정보를 빼낸 것으로 확인, 그 외 기관은 유출 시도 정황으로 실제 유출 여부 확인 중(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-04-23",
+   "date_text": "04.23",
+   "label": "법원 압수수색 영장 발부(기사 기재)"
+  },
+  {
+   "date_iso": "2026-04-24",
+   "date_text": "04.24",
+   "label": "서울 양천경찰서 압수수색(기사 기재)"
+  },
+  {
+   "date_iso": "2026-04-27",
+   "date_text": "04.27",
+   "label": "수사 확대 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주소·가족관계·차적 정보 등",
+ "leaked_items_text": "주소, 가족관계, 4대보험, 차적조회 정보 등이 홍보 문구에 언급됨, 기관별 확정 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "보복 대행 일당 관련 기관(배달의민족 등)",
+ "reported_date": "2026-04-27",
+ "response_text": "서울 양천경찰서가 4월 24일 압수수색 실시, 임의 제출 자료 분석으로 경위 파악 중(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음, 자료 제출·압수수색 대상 기관 40여 곳(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-27-private-revenge-agency-gang",
+ "sources": [
+  {
+   "publisher": "SBS",
+   "title": "[단독] 정부 기관·은행까지?…사적 보복 정보 유출 수사 확대",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008535206&plink=ORI"
+  },
+  {
+   "publisher": "뉴시스",
+   "title": "경찰, 사적 보복 정보 유출 행안부 등 40여곳 압수수색",
+   "url": "https://www.newsis.com/view/NISX20260427_0003608466"
+  }
+ ],
+ "target_text": "행정안전부, 국토교통부, 국민건강보험공단 등 공공기관, 시중은행 등 금융기관, 통신사, 택배업체(기사 기재)",
+ "title": "보복 대행 일당 개인정보 입수 정황, 공공기관·금융기관 등 40여 곳 압수수색",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

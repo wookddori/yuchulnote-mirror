@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-09-04",
+ "confirmed_text": "2026년 9월 4일 사고 발생, 9월 5일 동일 공격자의 재접근 확인(공지 기재). 공지 게시일은 공지에 표기되지 않음.",
+ "events": [
+  {
+   "date_iso": "2026-09-04",
+   "date_text": "09.04",
+   "label": "상담내역 조회 연동 기능(API)에 비정상 접근, 고객 정보 유출(공지 기재)"
+  },
+  {
+   "date_iso": "2025-09-05",
+   "date_text": "09.05",
+   "label": "동일 공격자가 다른 경로로 재접근 시도, 차단(공지 기재)"
+  },
+  {
+   "date_iso": "2025-09-06",
+   "date_text": "09.06",
+   "label": "관할 경찰서에 수사 의뢰(공지 기재: 6일)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·상담·결제·시술 정보 등",
+ "leaked_items_text": "이름, 연락처, 생년월일·성별, 국가·거주 지역, 소셜로그인 ID, 서비스 이용정보, 상담신청·상담 이용정보, 결제 정보, 시술 정보 등(공지 기재, 고객별로 다름)",
+ "notices": [],
+ "org_name": "힐링페이퍼(강남언니)",
+ "reported_date": "2026-09-04",
+ "response_text": "접근 경로 차단과 긴급 보안 조치, 9월 5일 재접근 경로 차단과 전수 점검, 인증 절차 강화, 한국인터넷진흥원 자진 신고, 경찰 수사 의뢰, 피해 고객 개별 통지, 홈페이지 유출 확인 조회 제공(공지 기재)",
+ "scale_short": "219,665명",
+ "scale_text": "총 219,665명(국내 약 16만 명, 일본 약 4.8만 명, 대만 4,218명, 태국 1,591명, 중국 481명, 기타 5,308명, 공지 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-04-gangnamunni-consult-api",
+ "sources": [
+  {
+   "publisher": "강남언니(힐링페이퍼)",
+   "title": "개인정보 유출 안내 및 사과문",
+   "url": "https://www.gangnamunni.com/discovery/site/stray-prong-71918885"
+  }
+ ],
+ "target_text": "일부 고객(공지 기재)",
+ "title": "상담내역 조회 연동 기능(API) 비정상 접근으로 고객 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

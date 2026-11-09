@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-11-21",
+ "confirmed_text": "2024년 9월 유출 인지, 2025년 9월 고객 통지, 2025년 11월 개인정보보호위원회 처분 발표(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.07~08",
+   "label": "관리자 계정 정보 확보 후 내부망 접속, 자료 반출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.08~09",
+   "label": "메일서버 등에 랜섬웨어 설치로 서버 마비(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.09",
+   "label": "회사가 유출 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.09.29",
+   "label": "고객 통지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.11.21",
+   "label": "개인정보보호위원회 처분 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·주민번호·계좌·범죄·건강정보",
+ "leaked_items_text": "소장, 판결문, 증거서류, 금융거래내역서, 신분증, 진단서 등과 이름, 연락처, 주소, 주민등록번호, 계좌번호, 범죄·건강 관련 정보(기사 기재)",
+ "notices": [],
+ "org_name": "법무법인 로고스",
+ "reported_date": "2025-11-21",
+ "response_text": "개인정보보호위원회가 과징금 5억2300만원, 과태료 600만원, 처분 사실 공표, 안전조치 강화·암호화·파기 지침 수립 시정명령 부과, 회사는 사과 입장(기사 기재)",
+ "scale_short": "소송자료 18만5천 건",
+ "scale_text": "소송자료 185,047건(약 1.6TB), 사건관리 목록 약 4만 4천 건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-11-21-law-firm-logos",
+ "sources": [
+  {
+   "publisher": "경향신문",
+   "title": "1년 전 해킹 당해놓고 SKT 유심해킹 소송?…법무법인 로고스 5억2300...",
+   "url": "https://www.khan.co.kr/article/202511211613001"
+  },
+  {
+   "publisher": "한국경제",
+   "title": "SKT 해킹 소송했던 로고스…개인정보 유출로 5억 과징금",
+   "url": "https://www.hankyung.com/article/2025112183197"
+  }
+ ],
+ "target_text": "법무법인 로고스 의뢰인 및 소송 관계자(기사 기재)",
+ "title": "해킹으로 소송자료 18만여 건 유출, 과징금 5억2300만원",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-12",
+ "confirmed_text": "병원이 10월 11~12일 서버 악성코드 삽입과 해킹 정황 파악. 피해자 규모와 유출 항목은 최종 확인되지 않았다고 병원 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-11",
+   "date_text": "10.11~12",
+   "label": "병원이 서버 악성코드 삽입·해킹 정황 파악(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-25",
+   "date_text": "10.25~30",
+   "label": "피해자 경찰 신고, 병원 상대 고소장 접수, 서울경찰청 사이버수사대로 이관(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "환자 사진 유출 및 협박 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "신체 사진·이름·주소·상담기록",
+ "leaked_items_text": "얼굴·신체 노출 사진, 이름, 주소, 상담 기록 등(기사 기재)",
+ "notices": [],
+ "org_name": "서울 강남 성형외과(병원명은 읽은 기사에 없음)",
+ "reported_date": "2026-11-01",
+ "response_text": "홈페이지 사과문 게시, 관계기관 신고, 피해 범위 확인 중. 피해자가 경찰에 고소장 제출, 경찰 수사(기사 기재)",
+ "scale_short": "규모 미확인",
+ "scale_text": "전체 피해자 수는 기사에 없음. 병원은 5월과 8월에도 개인정보 유출 신고를 한 바 있다고 보도됨(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-01-gangnam-plastic-surgery",
+ "sources": [
+  {
+   "publisher": "머니투데이",
+   "title": "가슴 수술 사진이 왜 남친에게?…강남 성형외과 해킹, 올해만 세 번째",
+   "url": "https://www.mt.co.kr/society/2026/11/01/2026110112531267186"
+  },
+  {
+   "publisher": "뉴시스",
+   "title": "성형외과 해킹으로 유출된 환자 신체 사진…가상자산 요구 협박까지",
+   "url": "https://www.newsis.com/view/NISX20261103_0003852004"
+  },
+  {
+   "publisher": "글로벌이코노믹",
+   "title": "강남 성형외과 해킹당해..여자친구 신체 사진 공개 협박",
+   "url": "https://www.getnews.co.kr/news/articleView.html?idxno=885516"
+  }
+ ],
+ "target_text": "해당 병원 환자(기사 기재)",
+ "title": "병원 서버 해킹으로 환자 신체 사진 등 유출, 가상자산 요구 협박",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

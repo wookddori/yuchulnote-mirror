@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-07-20",
+ "confirmed_text": "외교부는 2월 초 피해를 알았고 7월 20일 공개, 제로데이 취약점 이용 접속으로 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.04~2026.02",
+   "label": "해커가 약 10개월간 시스템에 수시 접속(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.02",
+   "label": "외교부 피해 인지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07.20",
+   "label": "외교부 공개(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·ID·이메일·암호화 비밀번호",
+ "leaked_items_text": "이름, 아이디, 이메일 주소, 암호화된 비밀번호, 소속 부서·직책 등. 주민등록번호·휴대전화번호·주소는 저장되어 있지 않았다고 외교부 설명(기사 기재)",
+ "notices": [],
+ "org_name": "국립외교원",
+ "reported_date": "2026-07-21",
+ "response_text": "해당 시스템 차단, 정밀 조사, 대상자 개별 통지, 대통령실 보고, 온라인 교육은 다른 시스템으로 대체, 사이버 보안 체계 재점검 예정. 공격 주체는 특정되지 않음(기사 기재)",
+ "scale_short": "최대 1만 건",
+ "scale_text": "최대 1만 건 수준이며 중복 이용자 가능성으로 정확한 규모 산정은 어렵다고 외교부 설명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-21-korea-national-diplomatic-academy",
+ "sources": [
+  {
+   "publisher": "서울경제",
+   "title": "전·현직 외교관 정보 1만건 유출…해커 열달이나 활개쳤지만 몰랐다",
+   "url": "https://www.sedaily.com/article/20070156"
+  }
+ ],
+ "target_text": "외교부 직원, 재외공관 공무원, 행정직원, 주재관 등 온라인교육시스템 이용자(기사 기재)",
+ "title": "온라인교육시스템 해킹으로 외교관 등 최대 1만 건 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

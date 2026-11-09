@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "국정원이 개발업체 서버에서 자료를 발견해 인천시에 확인 요청(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-10",
+   "date_text": "09.10",
+   "label": "시가 국정원 통보로 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-11",
+   "date_text": "09.11",
+   "label": "인천시 직원 주민번호 유출 확인 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "직원 주민등록번호·근무부서",
+ "leaked_items_text": "주민등록번호, 2013년 당시 근무부서(기사 기재)",
+ "notices": [],
+ "org_name": "인천시",
+ "reported_date": "2026-09-11",
+ "response_text": "시는 업체에 주민번호를 제공한 사실이 없다고 밝힘(기사 기재). 데이터 삭제, 유출 경로 차단, 비인가 접속 점검, 접속정보 변경, 연락처 확인자 개별 통지와 누리집 공지, 업체 수사 의뢰 방침(기사 기재). 해킹 시점과 반출 범위는 조사 중(기사 기재).",
+ "scale_short": "700여건",
+ "scale_text": "확인 요청 1,074건 중 700여 명이 재직 직원으로 확인, 일부 자료는 실제와 불일치(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-09-11-incheon-city",
+ "sources": [
+  {
+   "publisher": "내일신문",
+   "title": "인천시 직원 주민등록번호 700여건 유출 확인",
+   "url": "https://www.naeil.com/news/read/601963"
+  },
+  {
+   "publisher": "뉴데일리",
+   "title": "인천시 공무원 개인정보 700여건 유출...민간업체 적발",
+   "url": "https://ic.newdaily.co.kr/site/data/html/2026/09/11/2026091100004.html"
+  }
+ ],
+ "target_text": "인천시 전현직 직원(기사 기재)",
+ "title": "위탁 협력 개발업체 서버에서 과거 직원 주민등록번호 700여건 발견",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

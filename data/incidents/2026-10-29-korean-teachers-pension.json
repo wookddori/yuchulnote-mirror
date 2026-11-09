@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-27",
+ "confirmed_text": "10월 27일 공격 확인, 같은 날 서비스 중단 공지. 회원 개인정보 유출 정황은 없다는 입장(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-27",
+   "date_text": "10.27",
+   "label": "사이버공격 확인, 챗봇 서비스 차단(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "직원 이름·사번",
+ "leaked_items_text": "이름, 사번(기사 기재)",
+ "notices": [],
+ "org_name": "한국교직원공제회",
+ "reported_date": "2026-10-29",
+ "response_text": "챗봇 서비스 전면 차단, 보안 체계 강화 방침, 한국인터넷진흥원 등 유관기관 신고(기사 기재)",
+ "scale_short": "일부 직원",
+ "scale_text": "유출 인원은 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-29-korean-teachers-pension",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "한국교직원공제회 챗봇 사이버공격…일부 직원 이름·사번 유출",
+   "url": "https://www.news1.kr/society/education/6336397"
+  }
+ ],
+ "target_text": "일부 직원(기사 기재)",
+ "title": "챗봇 대상 사이버공격으로 일부 직원 이름·사번 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

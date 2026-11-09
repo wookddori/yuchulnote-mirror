@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "1월 10일 사내 시스템 이상 징후, 12일 데이터 외부 유출 정황 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-10",
+   "date_text": "01.10",
+   "label": "사내 일부 시스템 이상 징후 확인, 같은 날 KISA와 수사기관에 알림(기사 기재)"
+  },
+  {
+   "date_iso": "2026-01-12",
+   "date_text": "01.12",
+   "label": "데이터 외부 유출 정황 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-01-13",
+   "date_text": "01.13",
+   "label": "KISA와 개인정보보호위원회에 추가 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2025-01-19",
+   "date_text": "01.19",
+   "label": "경찰청 국가수사본부가 정식 수사 착수(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미확인",
+ "leaked_items_text": "고객 정보 포함 여부 미확인, 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "교원그룹",
+ "reported_date": "2026-01-14",
+ "response_text": "공격자 IP와 외부 접근 차단, 악성파일 삭제, KISA·개인정보보호위원회 신고, 고객 문자 안내, 경찰 정식 수사(기사 기재)",
+ "scale_short": "영향권 약 960만 명(중복 포함)",
+ "scale_text": "계열사 8곳, 서버 800대 중 약 600대 영향권, 주요 서비스 이용자 약 960만 명이 영향권(중복 이용자 포함 수치)(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-14-kyowon-group",
+ "sources": [
+  {
+   "publisher": "부산일보",
+   "title": "교원그룹 해킹 사고, 960만 명 개인정보",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026011418302854010"
+  },
+  {
+   "publisher": "YTN",
+   "title": "경찰, 교원그룹·아시아나·신세계 그룹 해킹 수사 착수",
+   "url": "https://www.ytn.co.kr/_ln/0103_202601191625485492"
+  }
+ ],
+ "target_text": "고객 정보 포함 여부는 조사 중(기사 기재)",
+ "title": "랜섬웨어 피해, 외부 유출 정황 확인 및 고객정보 포함 여부 조사",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

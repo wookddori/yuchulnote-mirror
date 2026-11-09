@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-03-04",
+ "confirmed_text": "2025년 3월 4일 해킹 발생, 3월 5~6일 회사 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.03.04",
+   "label": "홈페이지 공격으로 자료 파일 유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.03.06",
+   "label": "회사 공지 및 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·성별·생년월일·연락처",
+ "leaked_items_text": "이름(닉네임), 성별, 생년월일, 휴대전화번호, 주소 뒷부분(기사 기재)",
+ "notices": [],
+ "org_name": "블랙야크(비와이엔블랙야크)",
+ "reported_date": "2025-03-06",
+ "response_text": "해커 접속 IP와 우회 IP 차단, 홈페이지 취약점 점검·보완, 사과, 개인정보 분쟁조정 신청 안내(기사 기재)",
+ "scale_short": "약 34만 2천 명",
+ "scale_text": "약 342,253명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-03-06-blackyak",
+ "sources": [
+  {
+   "publisher": "국민일보",
+   "title": "블랙야크, 해킹 공격으로 고객 개인정보 34만건 유출",
+   "url": "https://www.kmib.co.kr/article/view.asp?arcid=0027834570&code=61141611&cp=nv"
+  },
+  {
+   "publisher": "국제뉴스",
+   "title": "GS 홈쇼핑 이어 블랙야크 해킹 터졌다...34만 명 개인정보 유출",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3217250"
+  }
+ ],
+ "target_text": "블랙야크 홈페이지 고객(기사 기재)",
+ "title": "홈페이지 해킹으로 고객 개인정보 34만 건 유출",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

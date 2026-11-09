@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "보도일(10월 28일) 전날 확인(기사 기재: 전날, 날짜 표기 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-27",
+   "date_text": "10.27",
+   "label": "사내 모바일 그룹웨어에 외부 비인가자 접근 확인, 기관 신고(기사 기재: 전날)"
+  },
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "언론 보도로 사고 알려짐"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "조사 중",
+ "leaked_items_text": "유출된 개인정보의 종류 조사 중(기사 기재)",
+ "notices": [],
+ "org_name": "빗썸",
+ "reported_date": "2026-10-28",
+ "response_text": "사고 인지 당일 한국인터넷진흥원과 개인정보보호위원회에 신고, 침입 경로·유출 항목·피해 범위 조사 중, 추가 확인 후 공식 입장 발표 예정(기사 기재)",
+ "scale_short": "조사 중",
+ "scale_text": "조사 중(기사 기재, 규모 미공개)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-28-bithumb-groupware",
+ "sources": [
+  {
+   "publisher": "CEOSCOREDAILY",
+   "title": "빗썸, 사내 시스템 해킹으로 개인정보 유출…회원 정보 포함 가능성 조사",
+   "url": "https://m.ceoscoredaily.com/page/view/2026102809373098135"
+  }
+ ],
+ "target_text": "임직원, 거래소 회원 정보 유출 가능성까지 조사 중(기사 기재)",
+ "title": "사내 모바일 그룹웨어 비인가 접근으로 개인정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

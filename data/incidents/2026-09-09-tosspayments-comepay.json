@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "코엠페이먼츠는 8월 30일~9월 1일 공격을 받고 9월 2일 침해를 인지, 토스페이먼츠는 가맹점 연동키 노출로 조회가 발생했다고 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-30",
+   "date_text": "8.30~9.1",
+   "label": "코엠페이먼츠 공격 발생 시간대(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-02",
+   "date_text": "9.2",
+   "label": "코엠페이먼츠 침해 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-09",
+   "date_text": "9.9",
+   "label": "금감원 검사 전환(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "카드번호·결제정보 등",
+ "leaked_items_text": "토스페이먼츠는 구매자 성명, 마스킹 카드번호, 승인번호 등이며 카드 비밀번호·유효기간·CVC는 제외라고 설명. 코엠페이먼츠는 카드번호·유효기간 포함 가능성이 있다고 함. 금융당국 설명과 회사 설명이 다름(기사 기재)",
+ "notices": [],
+ "org_name": "토스페이먼츠·코엠페이먼츠",
+ "reported_date": "2026-09-09",
+ "response_text": "금감원이 현장점검 후 9월 9일부터 검사로 전환. 토스페이먼츠는 부정결제 피해 사례가 확인되지 않았고 고객 통지와 금융당국 보고를 마쳤다고 밝힘(기사 기재)",
+ "scale_short": null,
+ "scale_text": "토스페이먼츠 결제 4131건·정보주체 2671명, 코엠페이먼츠는 범위 미특정(기사 기재). 카드정보 최대 수만 건 보도(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-09-09-tosspayments-comepay",
+ "sources": [
+  {
+   "publisher": "국민일보",
+   "title": "토스, 코엠페이에 해킹 공격… 카드 정보 최대 수만건 유출",
+   "url": "https://www.kmib.co.kr/article/view.asp?arcid=9000010587&cp=nv"
+  },
+  {
+   "publisher": "더퍼블릭",
+   "title": "PG사 잇단 해킹에 금융당국 검사 전환",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=318180"
+  }
+ ],
+ "target_text": "두 PG사 결제 이용자(기사 기재)",
+ "title": "PG사 해킹으로 카드 결제정보 유출, 금감원 검사 전환",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

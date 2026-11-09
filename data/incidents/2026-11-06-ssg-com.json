@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-04",
+ "confirmed_text": "11월 4일 유출 인지, 시스템 API 취약점을 이용한 외부 무단 조회로 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "유출 인지, 보안 조치(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-05",
+   "date_text": "11.05",
+   "label": "한국인터넷진흥원 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.06",
+   "label": "개인정보보호위원회 신고, 고객 개별 통지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·고객번호",
+ "leaked_items_text": "주로 고객 성명, 내부 고객 식별번호(기사 기재)",
+ "notices": [],
+ "org_name": "SSG닷컴",
+ "reported_date": "2026-11-06",
+ "response_text": "보안 조치 추가, 11월 5일 한국인터넷진흥원 신고, 11월 6일 개인정보보호위원회 신고, 고객 개별 통지. 추가 피해 사례는 미확인(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음(회사 미공개)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-06-ssg-com",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "SSG닷컴도 개인정보 뚫렸다…일부 고객 정보 외부 유출",
+   "url": "https://www.ddaily.co.kr/page/view/2026110619345929802"
+  },
+  {
+   "publisher": "MTN",
+   "title": "SSG닷컴도 개인정보 유출 사고 …이름·고객 식별번호 등",
+   "url": "https://news.mtn.co.kr/article/2026110617470822139"
+  }
+ ],
+ "target_text": "일부 고객(기사 기재)",
+ "title": "API 취약점 이용한 외부 무단 조회로 일부 고객 정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

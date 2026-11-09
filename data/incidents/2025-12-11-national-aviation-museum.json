@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "개인정보보호위원회가 12월 10일 과징금 9800만원 의결(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.01.20",
+   "label": "관리자 계정으로 회원 정보 내려받기 후 스미싱 문자 발송, 일자는 국감 보도 기재"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.12.10",
+   "label": "개인정보보호위원회 과징금 9800만원 의결, 12월 11일 발표(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.22",
+   "label": "국정감사에서 후속 피해 확인 방식이 거론됨(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·생년월일 등",
+ "leaked_items_text": "이름, 아이디, 주소, 연락처, 생년월일 등(기사 기재)",
+ "notices": [],
+ "org_name": "국립항공박물관",
+ "reported_date": "2025-12-11",
+ "response_text": "관리자 계정 공유 중단, IP 제한과 2단계 인증 도입, 전화 안내와 전담 상담전화 운영(기사 기재)",
+ "scale_short": "약 1.1만 명",
+ "scale_text": "회원 1만1029명(국감 보도 기재), 12월 보도에는 1만2029명으로 표기되어 기사 간 차이 있음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-12-11-national-aviation-museum",
+ "sources": [
+  {
+   "publisher": "경향신문",
+   "title": "회원 1만여명 이름·주소·연락처 유출한 국립항공박물관…9800만원 과징금",
+   "url": "https://www.khan.co.kr/article/202512111507001"
+  },
+  {
+   "publisher": "아이뉴스24",
+   "title": "국립항공박물관 개인정보 1만1029명 유출…스미싱 후속 피해 확인",
+   "url": "http://www.inews24.com/view/2017790"
+  }
+ ],
+ "target_text": "회원(기사 기재)",
+ "title": "관리자 계정 탈취로 회원 정보 유출, 스미싱 문자 발송",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "지난달 20일경 위탁업체 서버에 외부 침입이 있었다고 10월 7일 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "09.20경",
+   "label": "위탁업체 서버에 외부 침입 후 악성 프로그램 설치(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07",
+   "label": "유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·사번·전화번호",
+ "leaked_items_text": "이름, 사번, 전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "기아 노조(교육 위탁업체)",
+ "reported_date": "2026-10-07",
+ "response_text": "위탁업체가 홈페이지에 사과문 게시, 보안체계 재점검 예정. 노조는 조합원에게 유출 사실 통지(기사 기재)",
+ "scale_short": "약 5,000명",
+ "scale_text": "약 5,000명. 위탁업체 고객 약 20개 기관이 피해를 입었다고 기사에 기재",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-07-kia-union",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "기아 노조원 5000명 개인정보 유출…교육 위탁업체 해킹",
+   "url": "https://www.newsis.com/view/NISX20261007_0003817823"
+  }
+ ],
+ "target_text": "기아 노조 광명 사업장 노조원(기사 기재)",
+ "title": "교육 위탁업체 서버 해킹으로 노조원 개인정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

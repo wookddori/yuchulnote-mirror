@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-30",
+ "confirmed_text": "10월 28~29일 무단 접근, 10월 30일 회사 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "비인가 접근 시작(기사 기재: 28~29일)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "e쿠폰 핀번호 무단 사용 정황으로 확인, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "사과문 발송, 보상 완료, 개인정보보호위원회 신고(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·아이디·e쿠폰 핀번호·연락처",
+ "leaked_items_text": "고객 이름, 아이디, e쿠폰 핀번호, 전화번호, 이메일, 주소. 로그인 비밀번호는 유출되지 않았다고 회사가 설명(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 2,
+   "original_url": null,
+   "posted_date": "2026-11-01",
+   "round": "1차",
+   "summary": "사과문과 안내문을 고객에게 발송하고 사이트에 게시했다(기사 기재)."
+  }
+ ],
+ "org_name": "G마켓",
+ "reported_date": "2026-11-01",
+ "response_text": "e쿠폰 무단 사용 피해는 액면가 기준 전액 보상, 피해 없는 고객에게 스마일캐시 1만 원 지급(11월 1일 보상 완료), 한국인터넷진흥원 신고(10월 30일)와 개인정보보호위원회 신고(11월 1일 오후), 사이버수사대 신고 예정, 상품권 보유 고객 e쿠폰 핀번호 교체 진행(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모 미공개(회사가 밝히지 않음, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-30-gmarket-api",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "G마켓, 개인정보 유출 고객에 1만원…e쿠폰 피해는 전액 배상",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343532"
+  }
+ ],
+ "target_text": "고객(기사 기재, 규모는 회사가 밝히지 않음)",
+ "title": "외부 서비스 API 취약점 악용 비인가 접근으로 고객 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

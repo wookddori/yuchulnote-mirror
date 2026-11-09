@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "교육부 조사에서 비정상 로그인 또는 비밀번호 무단 변경 계정 111,052개 확인, 실제 외부 유출 여부와 접근 범위는 미확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-07",
+   "date_text": "10.07",
+   "label": "교육부 시도교육청 조사 진행(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-18",
+   "date_text": "10.18",
+   "label": "조사 결과 제출 기준일(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "국정감사 자료로 피해 규모 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "계정·비밀번호·이름 등",
+ "leaked_items_text": "계정, 비밀번호(서울은 암호화), 지역별로 이름·학년·반·학교명·학생명 등 유출 가능 항목이 다름(기사 기재)",
+ "notices": [],
+ "org_name": "전국 시도교육청(학교 구글 계정)",
+ "reported_date": "2026-10-20",
+ "response_text": "교육부가 시도교육청 대상 조사 실시, 국정감사에서 원인 규명과 보안체계 마련 촉구(기사 기재)",
+ "scale_short": "계정 약 11만1천개",
+ "scale_text": "111,052개 계정: 대전 74,246, 서울 35,500, 전남 811, 경기 367, 광주 128(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-20-school-google-accounts",
+ "sources": [
+  {
+   "publisher": "금강일보",
+   "title": "학교 구글 계정 탈취 11만 건 넘어... 개인정보 유출 가능성도",
+   "url": "https://www.ggilbo.com/news/articleView.html?idxno=1188075"
+  }
+ ],
+ "target_text": "온라인 수업용 구글 워크스페이스를 쓰는 학교 계정(전체 약 453만개 중 약 2.4%)(기사 기재)",
+ "title": "학교 구글 워크스페이스 계정 11만건 비정상 로그인·비밀번호 변경 피해",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

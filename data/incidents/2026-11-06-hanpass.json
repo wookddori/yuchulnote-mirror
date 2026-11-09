@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-01",
+ "confirmed_text": "11월 1일 오전 4시 38분께 외부 접근 시작, 같은 날 오전 10시께 탐지로 보도. 침입 경로는 API(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "외부 접근 시작 및 탐지, 당일 관계기관 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "피해 고객 대상 사과 및 사고 내용 안내(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "증명서 원본·이름·국적·연락처 등",
+ "leaked_items_text": "소득금액증명·외국인등록사실증명 등 증명서 원본. 한패스 모바일 가입자는 이름, 국적, 전화번호, 결제정보, 주소(기사 기재)",
+ "notices": [],
+ "org_name": "한패스",
+ "reported_date": "2026-11-06",
+ "response_text": "접근 경로 차단, API 키 인증 강화, 개인정보위·KISA·금감원 신고, 11월 3일 피해 고객 통지, 19개 언어 안내, 피싱 주의 안내. 2차 피해는 확인되지 않았다고 보도(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 고객 수는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-06-hanpass",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "한패스 해킹으로 고객 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209335"
+  },
+  {
+   "publisher": "topdaily",
+   "title": "금융권 해킹 확산…국내 해외송금 최대 기업 한패스도 피해",
+   "url": "https://www.topdaily.kr/articles/112759"
+  }
+ ],
+ "target_text": "한패스 고객, 한패스 모바일 가입자(기사 기재)",
+ "title": "API 경유 외부 접근으로 고객 증명서 원본 등 정보 유출",
+ "updated_at": "2026-11-08T23:41:34Z"
+}

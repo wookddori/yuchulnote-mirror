@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-12-29",
+ "confirmed_text": "2025년 12월 29일 민관합동조사단 결과 발표에서 불법 펨토셀을 통한 침해 확인, 정부가 KT 과실로 판단(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.09",
+   "label": "불법 펨토셀을 통한 침해사고 발생(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.12.29",
+   "label": "과기정통부 조사결과 발표, 위약금 면제 조치(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.12",
+   "label": "국정감사에서 방송미디어통신위원회가 사실조사 종료, 심의·의결 준비 중이라고 답변(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.22",
+   "label": "국정감사 자료: 유심 교체 대상 중 미교체 8,004명, 이 중 4,719명은 보호서비스도 미가입(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "IMSI·IMEI·전화번호",
+ "leaked_items_text": "가입자 식별번호(IMSI), 단말기 식별번호(IMEI), 전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "KT",
+ "reported_date": "2025-12-29",
+ "response_text": "정부가 전체 이용자 위약금 면제 조치, 이행계획 점검 예정, 신고 지연·누락에 과태료 부과 방침(기사 기재). 유심 교체 및 보호서비스 안내 진행(기사 기재)",
+ "scale_short": "22,227명, 결제피해 368명",
+ "scale_text": "정보 유출 22,227명, 이 중 368명 무단 소액결제 피해, 합계 약 2억 4,300만원(기사 기재). 서버 94대에서 악성코드 103종 발견(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-12-29-kt",
+ "sources": [
+  {
+   "publisher": "kidd",
+   "title": "과기정통부 KT 침해사고, 회사 과실… KT 전체 이용자 위약금 면제",
+   "url": "https://kidd.co.kr/news/244467"
+  },
+  {
+   "publisher": "1코노미뉴스",
+   "title": "과기정통부, KT 해킹 중대 보안 침해…전 고객 위약금 면제해야",
+   "url": "https://www.1conomynews.co.kr/news/articleView.html?idxno=45954"
+  },
+  {
+   "publisher": "포쓰저널",
+   "title": "[국감] KT 해킹 피해자 4719명, 유심 교체도 보호서비스도 안 했다",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2120265"
+  }
+ ],
+ "target_text": "KT 가입자(기사 기재)",
+ "title": "불법 펨토셀 경유 침해로 가입자 정보 유출·소액결제 피해",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

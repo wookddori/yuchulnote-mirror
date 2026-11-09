@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-07-01",
+ "confirmed_text": "7월 1일 외부 해커 침입, 7월 10일 홈페이지 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-01",
+   "date_text": "07.01",
+   "label": "미상의 해커가 시스템 침입(기사 기재)"
+  },
+  {
+   "date_iso": "2026-07-10",
+   "date_text": "07.10",
+   "label": "홈페이지 공지, 발생 후 약 9일 경과(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "약사·환자 개인정보",
+ "leaked_items_text": "약사: 약국명, 사업자번호, 요양기관기호, 연락처, 생년월일, 이메일, 주소 등. 환자: 이름, 생년월일, 암호화된 주민등록번호, 처방 발급일·번호(기사 기재)",
+ "notices": [],
+ "org_name": "크레소티",
+ "reported_date": "2026-07-10",
+ "response_text": "접근 경로 차단, 시스템 점검·보강, 개인정보위·KISA 신고(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음, 범위 조사 중(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-07-10-cresotti",
+ "sources": [
+  {
+   "publisher": "메디컬투데이",
+   "title": "크레소티, 개인 정보 유출",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=604464"
+  }
+ ],
+ "target_text": "아이스캐너 이용 약사, 팜독 처방전 관련 환자(기사 기재)",
+ "title": "처방전 인식 시스템 해킹으로 약사·환자 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

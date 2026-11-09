@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "9월 6일 일부 사내 서버에서 랜섬웨어 감염과 외부 불법 접근 확인, 실제 유출은 확정되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-06",
+   "date_text": "9.6",
+   "label": "랜섬웨어 감염과 외부 불법 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-09",
+   "date_text": "9.9",
+   "label": "고객 안내 및 언론 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·차량 정보 등(의심)",
+ "leaked_items_text": "유출 의심 항목: 성명, 생년월일, 주소, 휴대폰 번호, 이메일, 차량·계약 정보(기사 기재)",
+ "notices": [],
+ "org_name": "고진모터스",
+ "reported_date": "2026-09-09",
+ "response_text": "서버망 차단, KISA·개인정보위 신고, 전담팀 구성, 고객 안내, 유출 확인 시 재통지 예정(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 고객 수는 공개되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-09-gojin-motors",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 고진모터스 랜섬웨어 감염·외부 불법 접근 확인…고객 개인정보",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208372"
+  },
+  {
+   "publisher": "잡포스트",
+   "title": "아우디 최대 딜러 고진모터스, 서버 랜섬웨어 감염…고객 개인정보 유출",
+   "url": "https://www.job-post.co.kr/news/articleView.html?idxno=226886"
+  }
+ ],
+ "target_text": "고객(기사 기재)",
+ "title": "서버 랜섬웨어 감염과 외부 불법 접근, 고객정보 유출 가능성 조사",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

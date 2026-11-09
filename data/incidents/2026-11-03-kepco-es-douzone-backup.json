@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "11월 2일 홈페이지 안내문 게시, 백업 솔루션 취약점을 이용한 침입과 암호화 데이터 일부 반출 정황 확인, 실제 유출 여부는 미확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-02",
+   "date_text": "11.02",
+   "label": "켑코이에스 홈페이지 안내문 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·주민번호 등",
+ "leaked_items_text": "성명, 소속, 직책, 연락처, 주민등록번호, 사업자등록번호 등 유출 가능 항목(기사 기재)",
+ "notices": [],
+ "org_name": "켑코이에스(수탁사 더존비즈온 백업서버)",
+ "reported_date": "2026-11-03",
+ "response_text": "더존비즈온이 서버 강제 종료와 해외 IP 차단, KISA 신고, 암호화 키 유출 정황은 없다고 설명(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-03-kepco-es-douzone-backup",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "한국전력 출자기업 켑코이에스, 주민등록번호 등 개인정보 유출 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209299"
+  },
+  {
+   "publisher": "비건뉴스",
+   "title": "켑코이에스, 더존 백업서버 침해 관련 개인정보 유출 가능성 안내",
+   "url": "https://www.vegannews.co.kr/news/article.html?no=400410"
+  }
+ ],
+ "target_text": "켑코이에스 관계자(기사 기재)",
+ "title": "더존비즈온 백업서버 침해로 개인정보 유출 가능성 안내",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

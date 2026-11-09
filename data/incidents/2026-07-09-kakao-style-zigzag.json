@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "회사가 외부 공격으로 인한 소스코드 일부 유출 정황을 확인, KISA 신고. 개인정보 유출은 확인되지 않았다고 회사 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "인지 시점",
+   "label": "기사에 지난달 3일 인지, 4일 신고로 기재. 기사 간 표현 차이 있어 원문 대조 필요(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "07.초",
+   "label": "다크웹 포럼에 카카오 관련 소스코드·내부망 접근권 판매 게시글 확인(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "소스코드 일부(개인정보 미확인)",
+ "leaked_items_text": "소스코드 일부. 이용자 개인정보 유출은 확인되지 않았다고 회사 설명(기사 기재)",
+ "notices": [],
+ "org_name": "카카오스타일(지그재그)",
+ "reported_date": "2026-07-09",
+ "response_text": "KISA 신고 및 공조 조사, 추가 취약점 차단 조치(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-07-09-kakao-style-zigzag",
+ "sources": [
+  {
+   "publisher": "뉴시안",
+   "title": "지그재그, 해킹 정황 KISA 신고 후 조사 중…개인정보 유출은 확인 안 돼",
+   "url": "http://www.newsian.co.kr/news/articleView.html?idxno=92023"
+  },
+  {
+   "publisher": "내일신문",
+   "title": "패션 플랫폼 지그재그 해킹 신고",
+   "url": "https://www.naeil.com/news/read/594947"
+  }
+ ],
+ "target_text": "지그재그 운영사 카카오스타일(기사 기재)",
+ "title": "외부 공격으로 소스코드 일부 유출 정황, 개인정보 유출은 미확인",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 21일 외부 공격자의 비정상 접근 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-21",
+   "date_text": "10.21",
+   "label": "외부 공격자 비정상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-24",
+   "date_text": "10.24",
+   "label": "사과 공지 및 언론 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·아이디·주문내역 등",
+ "leaked_items_text": "이름, 아이디, 가입일, 주문내역·공연명 등 거래정보(회원마다 상이), 비밀번호는 항목에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "티켓베이",
+ "reported_date": "2026-10-24",
+ "response_text": "접근 경로 차단, 전체 점검, 인증·접근권한 검증 강화, KISA·개인정보위 신고, 유출 내역 조회 메뉴 제공(기사 기재)",
+ "scale_short": "약 1만6000명",
+ "scale_text": "약 1만6000명, 조사에 따라 변동 가능(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-24-ticketbay",
+ "sources": [
+  {
+   "publisher": "톱스타뉴스",
+   "title": "티켓베이, 회원 약 1만6000명 개인정보 유출…이름·아이디·공연 주문내",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16256641"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "티켓베이 해킹으로 회원 1만6천명 개인정보 유출…공연·주문내역까지",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209054"
+  }
+ ],
+ "target_text": "회원(기사 기재)",
+ "title": "API 비정상 접근으로 회원 약 1만6000명 개인정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

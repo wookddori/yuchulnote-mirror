@@ -1,0 +1,44 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-10-16",
+ "confirmed_text": "10월 16일 원주시가 유출 인지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-16",
+   "date_text": "10.16",
+   "label": "유출 인지, 자료 회수·파기 요청(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "대상자 통지, 관계기관 신고, 직위해제(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주소·연락처",
+ "leaked_items_text": "이름, 주소, 연락처(기사 기재)",
+ "notices": [],
+ "org_name": "원주시",
+ "reported_date": "2026-10-20",
+ "response_text": "사업시행자에 회수·파기 요청, 10월 20일 대상자 통지와 개인정보보호위원회 신고, 공무원 3명 직위해제, 감사와 교육 추진(기사 기재)",
+ "scale_short": "1014명",
+ "scale_text": "시민 1014명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-20-wonju-city",
+ "sources": [
+  {
+   "publisher": "서울경제TV",
+   "title": "원주시, 시민 1014명 개인정보 유출, 공무원 3명 직위해제",
+   "url": "https://www.sentv.co.kr/article/view/sentv202610200183"
+  },
+  {
+   "publisher": "강원일보",
+   "title": "원주 시민 1,014명 개인정보 유출 파장 확산",
+   "url": "https://www.kwnews.co.kr/article/20261021501278"
+  }
+ ],
+ "target_text": "단구지구 지구단위계획 변경 관련 주민의견서 제출 시민(기사 기재)",
+ "title": "주민의견서 비식별 처리 없이 전달해 시민 1014명 정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

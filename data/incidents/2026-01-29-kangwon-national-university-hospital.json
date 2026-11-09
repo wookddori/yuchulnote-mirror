@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-01-26",
+ "confirmed_text": "1월 26일 새벽 4시께 랜섬웨어 감염 등 이상 징후 발견(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-26",
+   "date_text": "01.26",
+   "label": "랜섬웨어 이상 징후 발견(기사 기재)"
+  },
+  {
+   "date_iso": "2026-01-28",
+   "date_text": "01.28",
+   "label": "의료영상시스템 정상 복구(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 미확인",
+ "leaked_items_text": "개인정보 유출 여부는 확인되지 않았고 분석 중(기사 기재)",
+ "notices": [],
+ "org_name": "강원대병원",
+ "reported_date": "2026-01-29",
+ "response_text": "서버 네트워크 분리와 외부 접속 차단, 응급서버 가동으로 진료 차질 방지(기사 기재). 교육부 사이버안전센터, 국정원, 강원경찰청 사이버범죄수사대에 신고(기사 기재). 1월 28일 오후 5시께 정상 복구(기사 기재).",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-29-kangwon-national-university-hospital",
+ "sources": [
+  {
+   "publisher": "강원일보",
+   "title": "강원대병원, 랜섬웨어 공격 의료영상시스템 복구 완료",
+   "url": "https://www.kwnews.co.kr/page/view/2026012917295874794"
+  },
+  {
+   "publisher": "데일리메디",
+   "title": "강원대병원, 랜섬웨어 공격 의료영상시스템 복구",
+   "url": "https://www.dailymedi.com/news/news_view.php?wr_id=933443"
+  }
+ ],
+ "target_text": "의료영상시스템(PACS)(기사 기재)",
+ "title": "랜섬웨어 공격으로 의료영상시스템 장애 후 복구",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

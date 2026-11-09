@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "외부 제보를 받아 점검한 결과 유출을 확인하고 9월 6일 밤 대표이사 명의로 공지(기사 기재, 제보 날짜는 기사에 없음)",
+ "events": [
+  {
+   "date_iso": "2026-09-06",
+   "date_text": "09.06",
+   "label": "대표이사 명의 공지로 유출 확인 사실 공개(기사 기재: 6일 밤)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부식별정보·구매 정보",
+ "leaked_items_text": "내부식별정보(가입 시 내부적으로 생성되는 번호값), 구매타입, 구매 PG사명, 통화 형태, 구매·취소 금액, 구매·환불 일시, 구매 상태. 회사는 이름·연락처 등 직접 식별 정보가 아니라고 설명(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 0,
+   "original_url": null,
+   "posted_date": "2026-09-06",
+   "round": "1차",
+   "summary": "외부 제보로 점검해 일부 고객 개인정보 유출을 확인했다고 대표이사 명의로 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "위버스컴퍼니(위버스)",
+ "reported_date": "2026-09-07",
+ "response_text": "대상 고객에게 법령 기준에 따라 별도 안내, 외부에 노출된 API 점검과 접근 제어 강화, 불법 접근한 외부 행위자에게 개인정보 회수 요청, 법적 대응 예정(기사 기재). 신고 기관은 기사에 없음.",
+ "scale_short": "42만 건",
+ "scale_text": "계정 ID 기준 422,584건(명 수는 기사에 없음, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-06-weverse-purchase-api",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "하이브 팬플랫폼 위버스 개인정보 42만건 유출…\"내부식별정보 피해\"",
+   "url": "https://biz.sbs.co.kr/amp/article/20000333058"
+  }
+ ],
+ "target_text": "유출 대상 고객(범위와 인원은 기사에 없음)",
+ "title": "서비스 보안 취약점으로 고객 개인정보 42만 건 유출",
+ "updated_at": "2026-11-08T15:50:55Z"
+}

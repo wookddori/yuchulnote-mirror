@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "하이브 설명: 9월 12~13일과 10월 3~5일 외부의 비정상 접근(기사 기재, 연도 표기 없음). 하이브 공지 날짜는 기사에 없음",
+ "events": [
+  {
+   "date_iso": "2026-09-12",
+   "date_text": "09.12",
+   "label": "사내 전자결재·비용처리시스템에 외부 비정상 접근 1차(기사 기재: 9월 12~13일)"
+  },
+  {
+   "date_iso": "2026-10-03",
+   "date_text": "10.03",
+   "label": "외부 비정상 접근 2차(기사 기재: 10월 3~5일)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "경찰 입건 전 조사 착수 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주민번호·여권번호·계좌번호 등",
+ "leaked_items_text": "이름, 주민등록번호, 여권번호, 계좌번호, 카드번호, 휴대전화 번호 등이 포함된 것으로 알려졌고, 일부 내부 문서도 유출(기사 기재)",
+ "notices": [],
+ "org_name": "하이브",
+ "reported_date": "2026-11-03",
+ "response_text": "침입에 쓰인 IP와 접속 경로 차단, 한국인터넷진흥원·개인정보보호위원회 신고(기사 기재). 경기남부경찰청이 11월 3일 입건 전 조사에 착수했고 용의자 특정은 아직 없음.",
+ "scale_short": "파악 중",
+ "scale_text": "구체적인 피해 규모는 파악되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-03-hybe-approval-system",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "경찰, 하이브 개인정보 유출 사건 내사",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343931"
+  }
+ ],
+ "target_text": "전·현직 직원과 협력사 관계자(기사 기재)",
+ "title": "사내 전자결재·비용처리시스템 외부 비정상 접근으로 개인정보 유출",
+ "updated_at": "2026-11-08T15:50:55Z"
+}

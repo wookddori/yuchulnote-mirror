@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-08-26",
+ "confirmed_text": "2024년 3월 HD한국조선해양 MDM 서버의 파일 업로드 취약점으로 웹셸 설치 후 HD건설기계 내부 시스템 접속, 개인정보위가 8월 26일 회의에서 제재 의결(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.3",
+   "label": "웹셸 설치 후 내부 업무 시스템 접속(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.8.26",
+   "label": "개인정보위 제재 의결(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.8.27",
+   "label": "처분 결과 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "성명·사번",
+ "leaked_items_text": "성명, 사번(기사 기재)",
+ "notices": [],
+ "org_name": "HD건설기계(HD한국조선해양 경유)",
+ "reported_date": "2026-08-27",
+ "response_text": "개인정보위가 HD건설기계에 과징금 7350만원, HD한국조선해양에 과태료 480만원 부과. 계열사 간 불필요한 접근 허용과 웹 취약점 대응이 미흡했다고 위원회가 판단하고 접근 제한 점검을 권고(기사 기재)",
+ "scale_short": null,
+ "scale_text": "9503명(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-08-27-hd-construction-equipment",
+ "sources": [
+  {
+   "publisher": "블로터",
+   "title": "HD현대 계열사 9500명 정보 유출…과징금·과태료 7830만원",
+   "url": "https://www.bloter.net/news/articleView.html?idxno=671981"
+  },
+  {
+   "publisher": "프라임경제",
+   "title": "9503명 개인정보 유출 HD건설기계에 과징금 7350만원",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=745415"
+  }
+ ],
+ "target_text": "HD건설기계 임직원 및 협력사 직원(기사 기재)",
+ "title": "계열사 서버 경유 무단 접속으로 임직원·협력사 직원 9503명 정보 유출, 과징금·과태료",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

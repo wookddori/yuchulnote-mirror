@@ -1,0 +1,49 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "구글은 직원의 인적 오류로 정보가 노출됐다고 설명(티에프뉴스 기재). 노출 시점은 기사에 없음",
+ "events": [
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "국정감사에서 경위와 대응 질의(티에프뉴스 기재)"
+  },
+  {
+   "date_iso": "2025-10-28",
+   "date_text": "10.28",
+   "label": "여성가족위원회 국감에서 구글코리아 대표 사과 발언(YTN 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "피해자 개인정보",
+ "leaked_items_text": "피해자 개인정보. 구체적 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "구글(구글코리아)",
+ "reported_date": "2026-10-13",
+ "response_text": "구글은 접수 후 24시간 내 차단, 48시간 내 서버 삭제를 주장. 개인정보보호위원회가 정책과 인적 오류 여부를 조사하겠다고 밝힘(티에프뉴스 기재). 10월 28일 국감에서 대표가 개선 의지 표명(YTN 기재)",
+ "scale_short": "확인 34건 언급",
+ "scale_text": "여성인권진흥원 자료 기준 확인된 노출 사례 34건을 의원이 언급, 구글은 정확한 수 조사 중이라 답변(티에프뉴스 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-13-google-korea",
+ "sources": [
+  {
+   "publisher": "더팩트 티에프뉴스",
+   "title": "[2026 국감] 구글, 성범죄 피해자 정보 유출 꼬리 자르기 지적",
+   "url": "https://news.tf.co.kr/read/economy/2375904.htm"
+  },
+  {
+   "publisher": "신아일보",
+   "title": "[2026 국감] 구글 대표 증인대, 성범죄피해자 정보유출 신고절차 질의",
+   "url": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5077199"
+  },
+  {
+   "publisher": "YTN",
+   "title": "구글·듀오 대표, 국감서 개인정보 유출 사과",
+   "url": "https://www.ytn.co.kr/_ln/0101_202610281831409364"
+  }
+ ],
+ "target_text": "성폭력·디지털성범죄 피해자(기사 기재)",
+ "title": "디지털성범죄 피해자 정보 노출, 국정감사에서 경위 질의",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

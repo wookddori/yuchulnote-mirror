@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-22",
+ "confirmed_text": "10월 22일 새벽 외부 비인가 접근을 인지, 10월 23일 유출 공식 인정(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-21",
+   "date_text": "10.21",
+   "label": "해커 조직 n0n이 다크웹에 공격 주장 게시(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "회사가 외부 비인가 접근 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-23",
+   "date_text": "10.23",
+   "label": "회사가 유출 공식 인정 및 사과(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·이메일 주소",
+ "leaked_items_text": "성명, 이메일 주소. 비밀번호는 유출되지 않았다고 회사가 밝힘. 해커 조직 주장 항목은 미확인(기사 기재)",
+ "notices": [],
+ "org_name": "한진정보통신",
+ "reported_date": "2026-10-24",
+ "response_text": "외부 접근 경로 차단, 계정 비밀번호 초기화, 서버 격리, 로그 보전, KISA·개인정보위 신고(기사 기재)",
+ "scale_short": "980명",
+ "scale_text": "회사 확인 980명, 해커 조직 주장은 계정 999개(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-24-hanjin-information-systems",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "한진그룹 IT 서비스 전문기업 한진정보통신 해킹",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209036"
+  },
+  {
+   "publisher": "보안뉴스",
+   "title": "한진정보통신, ITSM 시스템 비인가 접근으로 980명 개인정보 유출",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=146722"
+  }
+ ],
+ "target_text": "ITSM 시스템 이용자(기사 기재)",
+ "title": "ITSM 시스템 비인가 접근으로 이용자 980명 정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

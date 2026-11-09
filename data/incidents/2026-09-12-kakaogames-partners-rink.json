@@ -1,0 +1,68 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-09-14",
+ "confirmed_text": "최초 공격은 9월 12일 오후 10시 44분~13일 오후 7시 37분 사이 추정, 14일 1차 유출 확인, 16일 140명 공지, 20일 추가 유출 파악, 21일 103명 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-12",
+   "date_text": "09.12",
+   "label": "최초 공격 시작 추정(기사 기재: 12일 오후 10시 44분)"
+  },
+  {
+   "date_iso": "2026-09-14",
+   "date_text": "09.14",
+   "label": "1차 유출 사실 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-16",
+   "date_text": "09.16",
+   "label": "이용자 140명 유출 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2025-09-21",
+   "date_text": "09.21",
+   "label": "이용자 103명 추가 유출 공지, 총 243명(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "식별코드·타사 아이디·국가코드",
+ "leaked_items_text": "파트너스: 외부 연동용 타사 식별코드 또는 타사 아이디. RINK: 자사 식별코드와 일부 국가코드. 비밀번호는 포함되지 않았다고 회사가 설명(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 2,
+   "original_url": null,
+   "posted_date": "2026-09-16",
+   "round": "1차",
+   "summary": "외부의 비정상 접근으로 이용자 140명의 정보가 유출됐다고 공지했다(기사 기재)."
+  },
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 7,
+   "original_url": null,
+   "posted_date": "2026-09-21",
+   "round": "추가",
+   "summary": "추가로 103명의 정보가 유출된 사실을 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "카카오게임즈",
+ "reported_date": "2026-09-16",
+ "response_text": "추가 유출 사실을 파악한 뒤 관계기관에 신고하고 이용자에게 공지(기사 기재). 회사는 유출된 코드만으로 개인을 특정하기 어려워 악용 가능성이 낮다고 설명.",
+ "scale_short": "243명",
+ "scale_text": "243명(최초 공지 140명에 추가 확인 103명, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-12-kakaogames-partners-rink",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "카카오게임즈 개인정보 유출 243명으로 확대",
+   "url": "https://biz.sbs.co.kr/amp/article/20000336313"
+  }
+ ],
+ "target_text": "파트너스·RINK 서비스 이용자(기사 기재)",
+ "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

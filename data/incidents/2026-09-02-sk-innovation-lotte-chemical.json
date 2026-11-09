@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-08-27",
+ "confirmed_text": "SK이노베이션은 9월 1일 외부 비인가 접근 흔적 확인을 밝혔고, 롯데케미칼은 8월 27일 비정상 접근 정황을 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-27",
+   "date_text": "8.27",
+   "label": "롯데케미칼 비정상 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-01",
+   "date_text": "9.1",
+   "label": "SK이노베이션 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·부서·연락처·이메일",
+ "leaked_items_text": "SK이노베이션은 회사명, 사번, 이름, 부서, 직위, 연락처, 이메일. 롯데케미칼 항목은 기사에 없음. 주민번호·금융정보 등은 제외라고 회사가 설명(기사 기재)",
+ "notices": [],
+ "org_name": "SK이노베이션·롯데케미칼",
+ "reported_date": "2026-09-02",
+ "response_text": "시스템 외부 접근 차단, 보안 조치, KISA 등 관계기관 신고, 대상자 안내. SK이노베이션은 2차 피해가 확인되지 않았다고 밝힘. 두 건의 공격 주체가 같은지는 확인되지 않음(기사 기재)",
+ "scale_short": null,
+ "scale_text": "규모는 기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-09-02-sk-innovation-lotte-chemical",
+ "sources": [
+  {
+   "publisher": "내일신문",
+   "title": "SK이노베이션·롯데케미칼, 해킹·정보유출",
+   "url": "https://www.naeil.com/news/read/600888"
+  },
+  {
+   "publisher": "비즈니스포스트",
+   "title": "SK이노베이션·롯데케미칼 해킹 정황 확인, 현재까지 2차 피해 없다",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=446196"
+  }
+ ],
+ "target_text": "두 회사 임직원(내부 이용자)(기사 기재)",
+ "title": "사내 시스템 비정상 접근, 임직원 정보 일부 열람",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

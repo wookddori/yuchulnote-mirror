@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "고객 정보는 22일 침해, 26일 홈페이지 공지. 임직원 정보는 19일 침해, 22일 공지(기사 기재, 월은 게시일 기준)",
+ "events": [
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "임직원 정보 조회 기능에 외부 공격자 접근(기사 기재: 19일)"
+  },
+  {
+   "date_iso": "2026-10-22",
+   "date_text": "10.22",
+   "label": "고객 예약자 정보 조회 기능에 비정상 접근, 임직원 정보 유출 별도 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-26",
+   "date_text": "10.26",
+   "label": "고객 정보 침해사고 홈페이지 공지, 사과(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "ID·예약자명·전화번호·구매금액 등",
+ "leaked_items_text": "고객: 회원 ID, 회원번호, 예약자명·이용자명, 전화번호, 이메일, 상품명, 구매금액, 이용일자. 임직원: 이름, 전화번호, 회사 이메일, 사번, 암호화된 내부 시스템 접속용 비밀번호(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 4,
+   "original_url": null,
+   "posted_date": "2026-10-26",
+   "round": "1차",
+   "summary": "고객 예약자 정보 침해 사실과 대상 기간, 유출 항목을 홈페이지에 공지했다(기사 기재)."
+  }
+ ],
+ "org_name": "놀유니버스",
+ "reported_date": "2026-10-26",
+ "response_text": "접근 경로 차단과 취약점 보완, 비정상 접근 탐지·차단 체계 강화, 한국인터넷진흥원 기술 지원 신청, 홈페이지 공지(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모 미공개(침해 경로와 범위를 파악 중이라고 회사가 설명, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-26-noluniverse-interpark",
+ "sources": [
+  {
+   "publisher": "CEOSCOREDAILY",
+   "title": "놀유니버스, 고객·임직원 개인정보 유출 사과…\"보안체계 강화할 것\"",
+   "url": "https://m.ceoscoredaily.com/page/view/2026102615252919411"
+  }
+ ],
+ "target_text": "올해 2월 15일부터 지난달 8일까지 구 인터파크투어에서 국내 숙소를 예약한 고객과 임직원 일부(기사 기재). 항공·해외숙소·투어·티켓·놀(NOL) 서비스 예약은 대상이 아니라고 회사가 설명",
+ "title": "구 인터파크투어 국내 숙소 예약자 정보 조회 기능 침해",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

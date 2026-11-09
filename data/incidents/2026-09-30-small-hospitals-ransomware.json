@@ -1,0 +1,44 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "병원들이 KISA와 한국사회보장정보원에 신고, 감염 경로는 조사 중(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "추석 전",
+   "label": "최초 피해 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "9.30",
+   "label": "동일 랜섬웨어 동시 감염 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "EMR·PACS 장애, 유출 조사 중",
+ "leaked_items_text": "전자의무기록(EMR)과 영상저장전송시스템(PACS) 장애, 환자정보 유출 여부는 조사 중(기사 기재)",
+ "notices": [],
+ "org_name": "중소형 병원 20곳",
+ "reported_date": "2026-09-30",
+ "response_text": "KISA·사회보장정보원이 정보 공유와 별도 조사, 시스템 복구 지원(기사 기재)",
+ "scale_short": "병원 약 20곳",
+ "scale_text": "약 20곳, 사회보장정보원은 확인된 기관이 알려진 것보다 적다고 설명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-09-30-small-hospitals-ransomware",
+ "sources": [
+  {
+   "publisher": "전자신문",
+   "title": "중소형 병원 20곳, 동일 랜섬웨어 동시 감염",
+   "url": "https://www.etnews.com/20260930000326"
+  },
+  {
+   "publisher": "데일리메디",
+   "title": "중소 병원 수십 곳, 랜섬웨어 등 해킹 피해",
+   "url": "https://www.dailymedi.com/news/news_view.php?wr_id=941107"
+  }
+ ],
+ "target_text": "중소형 병원 약 20곳(보도별로 수십 곳 표현도 있음)(기사 기재)",
+ "title": "동일 계열 랜섬웨어 동시 감염, 전자의무기록 등 장애",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

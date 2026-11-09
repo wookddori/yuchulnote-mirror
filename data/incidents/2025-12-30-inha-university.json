@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-12-28",
+ "confirmed_text": "12월 28일 오전 6시 50분께 홈페이지 접속 장애 발생, 랜섬웨어 그룹이 학사정보시스템 해킹 주장(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-12-28",
+   "date_text": "12.28",
+   "label": "홈페이지 접속 장애 약 14시간(기사 기재)"
+  },
+  {
+   "date_iso": "2025-12-29",
+   "date_text": "12.29",
+   "label": "랜섬웨어 그룹 건라가 650GB 탈취 주장(기사 기재)"
+  },
+  {
+   "date_iso": "2025-12-30",
+   "date_text": "12.30",
+   "label": "학교 조사 중 입장 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "범위 미확인(650GB 탈취 주장)",
+ "leaked_items_text": "랜섬웨어 그룹은 내부 자료 650GB 탈취와 구성원 정보 목록 일부 공개를 주장, 유출 범위는 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "인하대학교",
+ "reported_date": "2025-12-30",
+ "response_text": "교육부, KISA, 개인정보보호위원회에 신고(기사 기재). 학교는 조사 중이라고 밝힘(기사 기재). 해커 측이 이메일로 협상 제안(기사 기재).",
+ "scale_short": "파악 중",
+ "scale_text": "650GB는 해커 주장이며 피해 규모는 학교가 파악 중(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-12-30-inha-university",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "인하대 해킹, 내부 정보 650GB 탈취 주장…인하대 조사 중",
+   "url": "https://www.newsis.com/view/NISX20251230_0003459129"
+  },
+  {
+   "publisher": "디지털데일리",
+   "title": "인하대 해킹 랜섬웨어 조직, 650GB 자료 탈취 주장",
+   "url": "https://www.ddaily.co.kr/page/view/2025123009143100831"
+  }
+ ],
+ "target_text": "학사정보시스템 및 대학 구성원 정보(기사 기재)",
+ "title": "랜섬웨어 공격으로 학사정보시스템 피해, 자료 탈취 주장",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

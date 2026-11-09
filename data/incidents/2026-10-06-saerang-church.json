@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "교회가 유출 가능성이 있는 정황을 발견해 비상대책 TF 구성, 관계기관 신고(기사 기재, 날짜는 기사에 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-06",
+   "date_text": "10.06",
+   "label": "보안업체 분석을 인용한 보도, 교회는 신고와 TF 구성을 밝힘(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "교인·임직원 정보",
+ "leaked_items_text": "교인 정보, 임직원 정보(보안업체 분석, 기사 기재)",
+ "notices": [],
+ "org_name": "사랑의교회",
+ "reported_date": "2026-10-06",
+ "response_text": "비상대책 TF 구성, 관계기관 신고, 경위 파악과 추가 피해 방지 조치 진행(기사 기재). 이전에 확보한 것으로 추정되는 계정 정보로 그룹웨어 서버에 접근한 정황이 있다고 기사에 적힘.",
+ "scale_short": "약 8만9천 명(보안업체 분석)",
+ "scale_text": "보안업체 분석 기준 교인 정보 8만9천 명분(추정), 임직원 정보 286건. 교회는 규모를 밝히지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-06-saerang-church",
+ "sources": [
+  {
+   "publisher": "헤럴드경제(연합)",
+   "title": "대형 교회 2곳도 해킹 당했다…교인 정보 100만건 유출 정황",
+   "url": "https://www.heraldk.com/article/2026100615510457182"
+  }
+ ],
+ "target_text": "교인과 임직원(기사 기재)",
+ "title": "그룹웨어 서버 접근으로 교인·임직원 정보 유출 정황",
+ "updated_at": "2026-11-08T15:50:55Z"
+}

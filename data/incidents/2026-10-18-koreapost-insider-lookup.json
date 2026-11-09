@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": "2026-10-08",
+ "confirmed_text": "우정사업본부가 10월 8일 경찰 제공 명단과 조회 기록을 대조해 추가 직원 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-08",
+   "date_text": "10.08",
+   "label": "명단 대조로 추가 직원 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-12",
+   "date_text": "10.12",
+   "label": "징계의결 요구 및 직위해제(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-18",
+   "date_text": "10.18",
+   "label": "혐의자 3명으로 늘어난 사실 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 조회 정보(항목 미공개)",
+ "leaked_items_text": "고객 개인정보 조회 정보, 구체 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "우체국(우정사업본부)",
+ "reported_date": "2026-10-18",
+ "response_text": "포스트넷 접속 권한 회수, 경찰 고발, 10월 12일 징계의결 요구 및 직위해제, 해당 고객 개별 안내(기사 기재). 기존 접속기록 점검은 이상 없음으로 처리됐음(기사 기재)",
+ "scale_short": "고객 1,927명 안내",
+ "scale_text": "연루 직원 3명, 유출 가능성 안내 고객 1,461명에서 1,927명으로 확대(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-18-koreapost-insider-lookup",
+ "sources": [
+  {
+   "publisher": "이데일리",
+   "title": "우체국 개인정보 유출 직원 3명으로…내부점검은 이상없음",
+   "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02194326645614560"
+  }
+ ],
+ "target_text": "우체국 고객(기사 기재)",
+ "title": "직원의 고객 개인정보 무단 조회·유출 혐의자 3명으로 늘어",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

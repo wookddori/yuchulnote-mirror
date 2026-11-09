@@ -1,0 +1,44 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-09-16",
+ "confirmed_text": "9월 10일 통장협의회 회의에서 자료 배부, 9월 16일 시가 인지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-10",
+   "date_text": "09.10",
+   "label": "통장협의회 회의에서 명부 배부(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-16",
+   "date_text": "09.16",
+   "label": "시가 유출 인지, 회수·파기(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-18",
+   "date_text": "09.18",
+   "label": "피해 세대 통지 및 개인정보보호위원회 신고(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·주민번호·주소·전화번호",
+ "leaked_items_text": "성명, 주민등록번호 13자리 전체, 상세 주소, 휴대전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "부천시 원종1동 행정복지센터",
+ "reported_date": "2026-09-18",
+ "response_text": "9월 16일 전량 회수·파기, 9월 17일 37개 동 개인정보 관리 점검, 9월 18일 피해 세대 문자 통지와 개인정보보호위원회 신고, 상담 창구 운영(기사 기재)",
+ "scale_short": "1만7천여명",
+ "scale_text": "8,512세대 1만7,164명, 통장 22명에게 전달(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-09-18-bucheon-wonjong-resident-data",
+ "sources": [
+  {
+   "publisher": "시선뉴스",
+   "title": "부천시, 주민 조사 중 1만7천여명 개인정보 유출 전량 회수·파기",
+   "url": "http://www.sisunnews.co.kr/news/articleView.html?idxno=246390"
+  }
+ ],
+ "target_text": "원종1동 주민 8,512세대 1만7,164명(기사 기재)",
+ "title": "주민등록 사실조사 명부 통장 배부로 주민 1만7천명 정보 노출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

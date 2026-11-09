@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-29",
+ "confirmed_text": "회사가 10월 29일 유출을 밝힘(기사 기재: 지난달 29일), 정확한 해킹 시점은 조사 중",
+ "events": [
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "회사가 외부 해킹으로 정보가 유출됐다고 밝힘(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "언론 보도"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·계좌번호 등",
+ "leaked_items_text": "이름, 연락처, 주소, 계좌번호, 운전면허번호, 주민등록번호(3건). 항목은 건별로 다름(기사 기재)",
+ "notices": [],
+ "org_name": "한양증권",
+ "reported_date": "2026-11-03",
+ "response_text": "외부 접근 차단, 긴급 보안 패치 완료, 관계기관 신고, 대상 고객 개별 안내 예정(기사 기재)",
+ "scale_short": "31건",
+ "scale_text": "31건(고객정보 15건, 임직원 관련 2건, 일반 개인정보 14건), 주민등록번호 포함 3건. 사람 수는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-03-hanyang-securities",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "한양증권도 뚫렸다…주민번호·계좌정보까지 유출",
+   "url": "https://biz.sbs.co.kr/amp/article/20000343888"
+  }
+ ],
+ "target_text": "고객과 임직원(기사 기재)",
+ "title": "외부 그룹웨어 시스템 경유 고객·임직원 정보 유출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

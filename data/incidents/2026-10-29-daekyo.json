@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-28",
+ "confirmed_text": "2026년 10월 28일 개인정보위 전체회의에서 과징금 의결(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.08",
+   "label": "관계사 홈페이지 웹 취약점 경유 1차 유출, 탐지 안내(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.02",
+   "label": "약 6개월 뒤 재유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.28",
+   "label": "개인정보위 과징금 의결(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·생년월일·연락처·CI",
+ "leaked_items_text": "이름, 생년월일, 휴대전화번호, 연계정보(CI)(기사 기재)",
+ "notices": [],
+ "org_name": "대교",
+ "reported_date": "2026-10-29",
+ "response_text": "개인정보위가 과징금 32억 5,500만원, 시정명령, 처분 사실 공표명령 부과(기사 기재)",
+ "scale_short": "약 65만명",
+ "scale_text": "약 65만명, 2024년 8월과 2025년 2월 두 차례 유출(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-29-daekyo",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "대교·영훈의료재단 해킹으로 개인정보 84만여 명 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209167"
+  }
+ ],
+ "target_text": "대교 회원(기사 기재)",
+ "title": "관계사 웹 취약점 경유 개인정보 약 65만명 유출, 개인정보위 과징금",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

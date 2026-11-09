@@ -1,0 +1,49 @@
+{
+ "category": "misconfig",
+ "confirmed_date": "2026-08-05",
+ "confirmed_text": "8월 5일 네이버 검색 결과 등으로 예약 정보 노출 확인. 회사는 시스템 업데이트 중 설정 오류로 검색엔진 접근 제어가 일시 해제됐다고 설명(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-05",
+   "date_text": "08.05",
+   "label": "예약 정보 노출 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-08-07",
+   "date_text": "08.07",
+   "label": "개인정보위 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-16",
+   "date_text": "10.16",
+   "label": "국정감사에서 조사 진행 상황 지적, 회사는 조사 중이라 밝힘(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·여권번호·생년월일·예약번호",
+ "leaked_items_text": "실명, 여권번호, 생년월일, 영문 이름, 예약번호. 여권번호는 마스킹 없이 노출됐다고 보도(기사 기재)",
+ "notices": [],
+ "org_name": "제주항공",
+ "reported_date": "2026-08-12",
+ "response_text": "해당 페이지 차단, 8월 7일 개인정보위 신고, 피해 고객 개별 통지, 여권 재발급 비용 전액 부담, 1인당 10만원 보상(기사 기재)",
+ "scale_short": "100여명",
+ "scale_text": "100여명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-12-jeju-air",
+ "sources": [
+  {
+   "publisher": "CWN",
+   "title": "예약자 개인정보 외부 유출…제주항공, 여권 재발급·보상금 지급까지",
+   "url": "https://www.cwn.kr/news/articleView.html?idxno=52888"
+  },
+  {
+   "publisher": "서울경제TV",
+   "title": "제주항공 여권 정보 유출 조사 지지부진 지적…해킹범도 못잡아",
+   "url": "http://www.srtimes.kr/news/articleView.html?idxno=214914"
+  }
+ ],
+ "target_text": "제주항공 이용 고객 100여명(기사 기재)",
+ "title": "고객 100여명 여권번호 등 예약 정보 외부 노출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

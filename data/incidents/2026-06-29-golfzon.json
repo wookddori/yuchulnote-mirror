@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "기사 기준 유출 시점은 2023년 11월, 외부 랜섬웨어 공격으로 업무망 파일 서버 침해(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2023.11",
+   "label": "랜섬웨어 공격으로 개인정보 유출(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "일자 미상",
+   "label": "개인정보위, 과징금 75억원·과태료 540만원 부과(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.06.29",
+   "label": "소비자 대상 집단 손해배상 소송 제기(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·생년월일·일부 주민번호 등",
+ "leaked_items_text": "이름, 전화번호, 이메일, 생년월일, 아이디. 일부 이용자의 주민등록번호 5,831명, 계좌번호 1,647명(기사 기재)",
+ "notices": [],
+ "org_name": "골프존",
+ "reported_date": "2026-06-29",
+ "response_text": "개인정보위가 과징금 75억원, 과태료 540만원 부과. 2026년 6월 29일 법무법인이 서울중앙지법에 1인당 20만원 손해배상 소송 제기, 참여 피해자 23명, 추가 모집 계획(기사 기재)",
+ "scale_short": "약 221만명",
+ "scale_text": "약 221만명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-06-29-golfzon",
+ "sources": [
+  {
+   "publisher": "서울경제",
+   "title": "[단독] 골프존 개인정보 유출 사태에 소비자 손배 소송 등 집단행동",
+   "url": "https://www.sedaily.com/article/20061389"
+  }
+ ],
+ "target_text": "가입자와 임직원(기사 기재)",
+ "title": "2023년 랜섬웨어 개인정보 유출 관련 소비자 집단 손해배상 소송",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

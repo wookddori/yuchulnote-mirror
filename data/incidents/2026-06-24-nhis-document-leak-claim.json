@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "병원 측이 공단을 상대로 약 1억원 손해배상 소송을 제기, 외부 제공 여부는 확정되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-06-24",
+   "date_text": "6.24",
+   "label": "소송 제기 사실 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-10-16",
+   "date_text": "10.16",
+   "label": "국정감사 관련 보도에서 공단이 제공 사실을 부인하는 입장 유지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "수사의뢰서 등(개인정보 여부 미확인)",
+ "leaked_items_text": "병원과 의료기기 업체 간 금융거래 등 자료가 포함되었다는 원고 측 주장이 있음. 개인정보 포함 여부는 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "국민건강보험공단",
+ "reported_date": "2026-06-24",
+ "response_text": "공단은 언론사나 시민단체에 자료를 제공한 사실이 없다는 입장을 유지. 이 답변은 해당 부서 회신에 근거하며 접속기록 점검은 아니었다고 기사가 전함(기사 기재)",
+ "scale_short": null,
+ "scale_text": "규모는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-06-24-nhis-document-leak-claim",
+ "sources": [
+  {
+   "publisher": "뉴스프리존",
+   "title": "건보공단, 내부 문건 유출 소송 피소",
+   "url": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=696216"
+  },
+  {
+   "publisher": "일요신문 계열 ppss",
+   "title": "개인정보 팔린 건보공단, 수사의뢰서 유출 의혹엔 누가 답하나",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=315955"
+  }
+ ],
+ "target_text": "행정조사 과정에서 작성된 수사의뢰서와 첨부자료(기사 기재)",
+ "title": "행정조사 수사의뢰서 외부 제공 주장 관련 손해배상 소송",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

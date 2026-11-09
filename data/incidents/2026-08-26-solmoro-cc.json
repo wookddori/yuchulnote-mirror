@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-08-20",
+ "confirmed_text": "8월 20일 유출 사실 인지 후 고객에게 통지. 최초 발생 시점은 공개되지 않음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-20",
+   "date_text": "08.20",
+   "label": "유출 사실 인지 및 고객 통지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·연락처·생년월일·이메일·ID",
+ "leaked_items_text": "성명, 휴대전화번호, 생년월일, 이메일, 아이디, IP 등 6개 항목(기사 기재)",
+ "notices": [],
+ "org_name": "솔모로CC(한일레저)",
+ "reported_date": "2026-08-26",
+ "response_text": "관련 IP 차단, 시스템 점검, 침입방지시스템 추가 도입, 24시간 모니터링, 비밀번호 변경 요청, 경찰청 국가수사본부 수사(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "피해 고객 수는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-26-solmoro-cc",
+ "sources": [
+  {
+   "publisher": "국제뉴스",
+   "title": "솔모로CC 개인정보 유출 보도, 비밀번호 변경 안내",
+   "url": "https://www.gukjenews.com/news/articleView.html?idxno=3675046"
+  },
+  {
+   "publisher": "더투데이",
+   "title": "솔모로CC 개인정보 유출 보도, 피해 규모 비공개",
+   "url": "https://www.the-today.com/news/articleView.html?idxno=88988"
+  }
+ ],
+ "target_text": "골프장 웹사이트 고객(기사 기재)",
+ "title": "해킹으로 골프장 회원 개인정보 유출",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "개인정보보호위원회가 5월 13일 전체회의에서 제재 의결, 5월 14일 발표(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-13",
+   "date_text": "05.13",
+   "label": "개인정보보호위원회 전체회의에서 제재 의결(기사 기재)"
+  },
+  {
+   "date_iso": "2026-05-14",
+   "date_text": "05.14",
+   "label": "제재 내용 발표: 접근통제 등 안전조치, 위탁사 관리감독, 통지 기한, 보유기간 경과 정보 파기가 위반 내용(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·이메일",
+ "leaked_items_text": "이름, 휴대전화번호, 이메일 등(기사 기재)",
+ "notices": [],
+ "org_name": "보람상조",
+ "reported_date": "2026-05-14",
+ "response_text": "7개 사업자에 과징금 합계 5억4250만원, 과태료 1140만원, 시정명령과 처분 공표 명령(기사 기재)",
+ "scale_short": "약 2.8만 명",
+ "scale_text": "약 2만 8000명(기사 기재), 해킹 발생 시점은 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-05-14-boram-sangjo",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "해킹에 보람상조 고객 개인정보 탈탈…5.4억원 과징금 제재",
+   "url": "https://www.ddaily.co.kr/page/view/2026051409201433769"
+  },
+  {
+   "publisher": "뉴스cj",
+   "title": "개인정보 위, 2만 8000명 정보 유출 보람상조에 과징금 5억",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3400801"
+  }
+ ],
+ "target_text": "고객(기사 기재)",
+ "title": "홈페이지 SQL 인젝션 공격으로 고객 DB 침입, 과징금 부과",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

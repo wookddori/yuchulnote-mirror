@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-10-21",
+ "confirmed_text": "2025년 10월 21일 해커가 홈페이지에 악성코드를 심어 고객 정보가 유출된 것으로 회사가 확인, 2026년 4월 18일 홈페이지 사과문 공개(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.10.21",
+   "label": "홈페이지 악성코드로 고객 정보 유출 확인(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04.18",
+   "label": "홈페이지 사과문 게시(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04.26",
+   "label": "경찰 수사 사실 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·주소·계정 등",
+ "leaked_items_text": "이름, 생년월일, 성별, 아이디, 비밀번호, 휴대전화번호, 유선전화번호, 이메일, 주소(기사 기재)",
+ "notices": [],
+ "org_name": "리앤리CC(가평 골프장)",
+ "reported_date": "2026-04-27",
+ "response_text": "경찰청 안보수사지휘과 수사 진행, 회사 홈페이지 사과문 게시(기사 기재). 북한 해커 조직 연관 가능성을 두고 수사 중이며 확정되지 않음(기사 기재)",
+ "scale_short": "약 10만 명",
+ "scale_text": "약 10만 명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-27-lee-and-lee-cc",
+ "sources": [
+  {
+   "publisher": "파이낸셜뉴스",
+   "title": "10만명 털렸다 가평 골프장서 개인정보 유출…北 해킹 가능성 제기",
+   "url": "http://www.fnnews.com/news/202604270922378233"
+  }
+ ],
+ "target_text": "가입자 약 10만 명(기사 기재)",
+ "title": "홈페이지 악성코드로 회원 약 10만 명 정보 유출",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "6월 내부 업무관리 시스템 랜섬웨어 감염(이투데이 기재, 연도는 기사에 없음)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "06",
+   "label": "업무관리 시스템 랜섬웨어 감염(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.09.24",
+   "label": "개인정보보호위원회 과태료 의결(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "임직원·거래처 정보",
+ "leaked_items_text": "개인정보가 암호화됨. 일일 백업으로 복구해 이용 불능은 없었다고 함(기사 기재)",
+ "notices": [],
+ "org_name": "아이스트로",
+ "reported_date": "2025-09-25",
+ "response_text": "백업으로 복구. 개인정보보호위원회가 9월 24일 과태료 480만원 의결. 접속 정보 평문 저장, 접속기록 2년 미보관이 사유(이투데이 기재)",
+ "scale_short": "1991명",
+ "scale_text": "1991명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-09-25-aistro",
+ "sources": [
+  {
+   "publisher": "이투데이",
+   "title": "개인정보위, 랜섬웨어 피해 테라스타·아이스트로 제재",
+   "url": "https://www.etoday.co.kr/news/view/2510161"
+  }
+ ],
+ "target_text": "임직원과 거래처 담당자 1991명(기사 기재)",
+ "title": "랜섬웨어 감염, 개인정보위 과태료",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

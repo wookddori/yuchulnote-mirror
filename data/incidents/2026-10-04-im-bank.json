@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 8월 28일 악성코드 감염, 금감원 자료 기준으로 국회 의원실을 통해 공개(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-28",
+   "date_text": "08.28",
+   "label": "악성코드 감염, 취약점을 이용한 FDS 공격(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-04",
+   "date_text": "10.04",
+   "label": "금감원 자료 기반 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 기사에 없음",
+ "leaked_items_text": "정보 유출 여부는 기사에 명시되지 않음, 고객 정보 유출과 대고객 서비스 중단은 보고되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "iM뱅크",
+ "reported_date": "2026-10-04",
+ "response_text": "회사의 개별 대응 조치는 기사에 없음(기사 기재). 감염 인지 시점도 기사에 없음(기사 기재).",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-04-im-bank",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 잇따라",
+   "url": "https://www.newsis.com/view/NISX20261004_0003813921"
+  },
+  {
+   "publisher": "세계비즈",
+   "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 속출",
+   "url": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver"
+  }
+ ],
+ "target_text": "이상거래탐지시스템(FDS)(기사 기재)",
+ "title": "악성코드 감염으로 이상거래탐지시스템 공격 피해",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

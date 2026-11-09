@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-10-26",
+ "confirmed_text": "서울경찰청 사이버수사과가 10월 26일 수사 결과 발표, 총책 구속 송치(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2026.06",
+   "label": "피해 업체 진정으로 수사 착수(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.15",
+   "label": "총책 체포(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.23",
+   "label": "총책 구속 송치(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.26",
+   "label": "경찰 발표(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주민번호·전화·주소 등",
+ "leaked_items_text": "이름, 주민등록번호, 전화번호, 주소 등 개인정보와 사내 자료(기사 기재)",
+ "notices": [],
+ "org_name": "AI 활용 해킹 피해 업체 90여 곳",
+ "reported_date": "2026-10-26",
+ "response_text": "30대 총책 구속 송치, 일당 6명 불구속 조사, 경찰이 탈취 정보 회수, 다크웹 유출 등 추가 범죄 수사 계속(기사 기재)",
+ "scale_short": "820만 건·업체 90여 곳",
+ "scale_text": "개인정보 820만 건, 피해 업체 약 90곳 중 AI 활용 해킹 60곳, 금전 요구 38곳(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-26-ai-hacking-gang",
+ "sources": [
+  {
+   "publisher": "MBC",
+   "title": "820만 건 정보 유출 ‥인터넷 보고 AI 해킹 독학",
+   "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6860935_37012.html"
+  },
+  {
+   "publisher": "내일신문",
+   "title": "AI 사용 해킹·유출, 국내서 첫 검거",
+   "url": "https://www.naeil.com/news/read/606451"
+  }
+ ],
+ "target_text": "보험사, 골프장, 병원, 학원, 대학교 등 약 90개 업체 이용자(기사 기재)",
+ "title": "AI 활용 해킹으로 업체 90여 곳 개인정보 820만 건 유출, 일당 검거",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

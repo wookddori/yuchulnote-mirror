@@ -1,0 +1,69 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "회사는 외부 해킹이 아닌 내부자 조회로 유출된 것으로 설명, 경찰 고발 후 8월 말 검찰 송치, 10월 약식기소(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2023.05~",
+   "label": "전직 직원이 개설한 텔레그램 채널에 개인정보 게시 시작(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.05.18",
+   "label": "텔레그램 공개 채널 게시 사실 알려짐(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.05.19",
+   "label": "CJ그룹 서울경찰청 고발(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.05.21",
+   "label": "경찰 공조로 채널 폐쇄(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.08",
+   "label": "검찰 송치(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.08",
+   "label": "약식기소(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·사진·연락처·직급 등",
+ "leaked_items_text": "이름, 사진, 휴대전화번호, 소속 부서, 직급, 이메일 등(기사 기재)",
+ "notices": [],
+ "org_name": "CJ그룹",
+ "reported_date": "2026-05-19",
+ "response_text": "5월 19일 경찰 고발, 5월 21일 경찰 공조로 채널 폐쇄, 피해 직원 개별 안내·지원, 8월 말 검찰 송치, 10월 8일 개인정보보호법 위반 혐의 약식기소(기사 기재)",
+ "scale_short": "임직원 330여 명",
+ "scale_text": "임직원 330여 명, 해당 텔레그램 채널 구독자 약 2,800명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-05-19-cj-group",
+ "sources": [
+  {
+   "publisher": "MBC",
+   "title": "CJ그룹 여성 임직원 수백 명 개인정보 유출 한 전직 직원 약식기소",
+   "url": "https://imnews.imbc.com/news/2026/society/article/6858530_36918.html"
+  },
+  {
+   "publisher": "인사이트",
+   "title": "해킹 아닌 내부자 였다... CJ 여직원 330명 정보 유출, 직원 1명 특정",
+   "url": "https://www.insight.co.kr/news/555416"
+  },
+  {
+   "publisher": "디지털데일리",
+   "title": "여직원 330명 정보 유출된 CJ그룹…내부 소행 vs 외부 해킹 관건으로",
+   "url": "https://www.ddaily.co.kr/page/view/2026051909493423087"
+  }
+ ],
+ "target_text": "전·현직 임직원 330여 명, 대부분 30대 이하 여성(기사 기재)",
+ "title": "전·현직 여성 임직원 330여 명 정보 텔레그램 게시, 전직 직원 약식기소",
+ "updated_at": "2026-11-08T23:38:04Z"
+}

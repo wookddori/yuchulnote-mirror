@@ -1,0 +1,39 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "11월 3일 센터 공지, 서비스는 9월 30일 종료, 침해는 10월 18일경 발생한 것으로 기재, 실제 유출 여부는 미확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "센터가 서비스 이용 종료(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.03",
+   "label": "센터 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주민번호·계좌 정보",
+ "leaked_items_text": "이름, 연락처, 이메일, 주소, 주민등록번호, 계좌 정보(기사 기재)",
+ "notices": [],
+ "org_name": "서울시육아종합지원센터(더존비즈온 백업서버)",
+ "reported_date": "2026-11-04",
+ "response_text": "더존비즈온이 서버 강제 종료, 해외 IP 차단, KISA 신고, 센터는 결과 공유 요청과 피싱 주의 안내, 암호화 키 유출 정황은 없다고 기재(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-04-seoul-childcare-center-douzone-backup",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "삭제 안 한 백업 데이터, 해킹에 노출 서울시육아종합지원센터 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209307"
+  }
+ ],
+ "target_text": "센터 현직·전직 직원, 강사, 자문·회의 참여자 등(기사 기재)",
+ "title": "서비스 종료 후 삭제하지 않은 백업 데이터 해킹으로 유출 가능성",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

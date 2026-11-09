@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "해킹으로 고객 예치금이 제3자 계좌로 이체됨. 정확한 침입 일자는 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-28",
+   "date_text": "10.28",
+   "label": "금융감독원 현장점검 착수(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-02",
+   "date_text": "11.02",
+   "label": "홈페이지 사과 공지, 접속 차단 및 출금 일시 중단 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 예치금 약 3억원",
+ "leaked_items_text": "고객 예치금 약 3억원. 개인정보 유출을 사과했으나 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "줌펀드",
+ "reported_date": "2026-11-02",
+ "response_text": "홈페이지·앱 접속 차단으로 출금 일시 중단, 금감원·KISA 신고, 금감원 현장점검(10월 28일 착수 보도). 원인과 피해 범위 확인 중(기사 기재)",
+ "scale_short": "예치금 약 3억원",
+ "scale_text": "예치금 약 3억원, 개인정보 피해 인원은 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-02-zoomfund",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "온투업체 줌펀드, 해킹에 고객 예치금 3억 유출…연쇄 해킹 첫 원화 피해",
+   "url": "https://www.newsis.com/view/NISX20261102_0003851730"
+  },
+  {
+   "publisher": "이데일리",
+   "title": "온투업체 줌펀드 해킹 사고…고객 예치금 3억원 유출",
+   "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02912646645642112"
+  }
+ ],
+ "target_text": "온라인투자연계금융업체 줌펀드 고객(기사 기재)",
+ "title": "해킹으로 고객 예치금 약 3억원 이체, 개인정보 유출 사과",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

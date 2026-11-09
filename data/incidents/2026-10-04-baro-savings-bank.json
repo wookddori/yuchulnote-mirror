@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 4월 12일 악성코드 감염, 금감원 자료 기준으로 국회 의원실을 통해 공개(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-04-12",
+   "date_text": "04.12",
+   "label": "악성코드 감염, 임직원 정보 유출(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-04",
+   "date_text": "10.04",
+   "label": "금감원 자료 기반 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "임직원 정보(항목 미공개)",
+ "leaked_items_text": "임직원 정보, 세부 항목은 기사에 없음(기사 기재)",
+ "notices": [],
+ "org_name": "바로저축은행",
+ "reported_date": "2026-10-04",
+ "response_text": "회사의 개별 대응 조치는 기사에 없음. 일반 고객 정보 유출과 서비스 중단은 보고되지 않음(기사 기재).",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-04-baro-savings-bank",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 잇따라",
+   "url": "https://www.newsis.com/view/NISX20261004_0003813921"
+  },
+  {
+   "publisher": "세계비즈",
+   "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 속출",
+   "url": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver"
+  }
+ ],
+ "target_text": "임직원(기사 기재)",
+ "title": "악성코드 감염으로 임직원 정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

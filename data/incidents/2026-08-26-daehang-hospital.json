@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "외부인이 홈페이지 고객 데이터에 무단 접근한 정황 확인, 접근일은 14일로만 기재(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-08-26",
+   "date_text": "08.26",
+   "label": "유출 사실 공지 및 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·상담내역",
+ "leaked_items_text": "이름, 아이디, 생년월일, 휴대전화번호, 이메일, 온라인 상담 신청·문의 내역(기사 기재)",
+ "notices": [],
+ "org_name": "대항병원",
+ "reported_date": "2026-08-26",
+ "response_text": "긴급 조치, 관계기관 신고, 홈페이지 사과문 게재, 의심 연락·링크 주의 당부(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-08-26-daehang-hospital",
+ "sources": [
+  {
+   "publisher": "뉴스로드",
+   "title": "대항병원 환자 이름·전화번호 등 개인정보 해킹",
+   "url": "http://www.newsroad.co.kr/news/articleView.html?idxno=63469"
+  },
+  {
+   "publisher": "데일리메디",
+   "title": "대장항문 전문 대항 병원 해킹… 환자 개인 정보 유출",
+   "url": "https://www.dailymedi.com/news/news_view.php?wr_id=939848"
+  }
+ ],
+ "target_text": "홈페이지 회원·환자(기사 기재)",
+ "title": "홈페이지 해킹으로 환자 개인정보 유출",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

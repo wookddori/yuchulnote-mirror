@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "질병관리청 제보로 노출 인지, 10월 17일 개인정보보호위원회 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-17",
+   "date_text": "10.17",
+   "label": "국립암센터가 개인정보보호위원회에 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "소속 연구자의 깃허브 업로드 경위 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·질환 정보",
+ "leaked_items_text": "성명, 생년월일, 키·몸무게, 나이, 등록번호, 발생 부위(기사 기재)",
+ "notices": [],
+ "org_name": "국립암센터",
+ "reported_date": "2026-10-19",
+ "response_text": "게시물 삭제, 개인정보보호위원회 신고, 개인정보보호위원회가 사실관계 확인 중(기사 기재)",
+ "scale_short": "67명",
+ "scale_text": "참여자 67명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-10-19-national-cancer-center",
+ "sources": [
+  {
+   "publisher": "한국일보",
+   "title": "국립암센터, 구강암 임상 참여자 67명 개인정보 유출",
+   "url": "https://www.hankookilbo.com/news/article/A2026101916390003760?did=NA"
+  },
+  {
+   "publisher": "뉴스1",
+   "title": "국립암센터, 구강암 연구 참여자 개인정보 유출 …개보위 확인 착수",
+   "url": "https://www.news1.kr/bio/welfare-medical/6324990"
+  }
+ ],
+ "target_text": "2009년 구강암 임상연구 참여자(기사 기재)",
+ "title": "구강암 임상연구 참여자 67명 정보 깃허브 노출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

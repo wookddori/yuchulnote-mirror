@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-09-25",
+ "confirmed_text": "9월 25일 외부의 불법 접근 시도 확인, 이후 점검에서 유출 규모 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-25",
+   "date_text": "09.25",
+   "label": "외부 불법 접근 시도 확인, KISA 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "개인정보 1,367건 유출 사실 공지 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·이메일·회사명 등",
+ "leaked_items_text": "이름, 전화번호, 이메일, 회사명, 회사 전화번호, 직책 등. 정책아카데미 신청자는 영문 이름, 회사 전화번호. 일반·VIP 회원 계정과 결제 정보는 해당 없다고 회사 설명(기사 기재)",
+ "notices": [],
+ "org_name": "머니투데이",
+ "reported_date": "2026-10-30",
+ "response_text": "접근 IP 차단, 웹사이트 취약점 점검, KISA 신고, 로그 보존. 개인정보위 조사 중으로 보도(기사 기재)",
+ "scale_short": "1,367건",
+ "scale_text": "1,367건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-30-money-today",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "머니투데이, 9월 해킹으로 개인 정보 1367건 유출 확인",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=146908"
+  },
+  {
+   "publisher": "MBC",
+   "title": "언론사도 해킹 됐다‥머니투데이 개인정보 1천367건 유출",
+   "url": "https://imnews.imbc.com/news/2026/econo/article/6862051_36932.html"
+  }
+ ],
+ "target_text": "프리미엄 경제칼럼 뉴스레터 이용자, the300 정책아카데미 신청자(기사 기재)",
+ "title": "외부 불법 접근으로 뉴스레터 신청자 등 개인정보 1,367건 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

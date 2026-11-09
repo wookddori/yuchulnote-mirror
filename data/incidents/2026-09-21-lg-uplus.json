@@ -1,0 +1,64 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "과기정통부가 APPM 관련 정보가 회사에서 유출된 것으로 확인(기사 기재). 유출 경로와 추가 유출 여부는 서버 재설치·폐기로 확인하지 못함(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.08",
+   "label": "침해 의심 서버 폐기(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.12.09",
+   "label": "과기정통부 경찰 수사 의뢰(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.04",
+   "label": "IMSI 난수 반영 보안체계 도입(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.07",
+   "label": "개인정보위 수사 의뢰 결정(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.09.21",
+   "label": "수사 약 10개월째 진행 중이라고 국회의원실이 공개(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.10.22",
+   "label": "유심 자동 업데이트 시작(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "임직원·협력사 직원 성명·계정",
+ "leaked_items_text": "APPM에 보관된 임직원·협력사 직원의 성명, 계정 정보(기사 기재). 고객 정보 유출 규모는 기사에 없음",
+ "notices": [],
+ "org_name": "LG유플러스",
+ "reported_date": "2026-09-21",
+ "response_text": "한국인터넷진흥원이 침해 정황을 통보한 뒤 관련 서버가 OS 재설치 또는 폐기됨(기사 기재). 과기정통부가 2025년 12월 9일 경찰에 수사 의뢰, 개인정보위도 7월 수사 의뢰 결정(기사 기재). 2026년 4월 IMSI에 난수를 반영하는 보안체계 도입, 10월 20일 기준 가입자 38.4%가 유심 교체 또는 업데이트, 10월 22일 자동 업데이트 시작(기사 기재). 경찰 수사 진행 중(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-09-21-lg-uplus",
+ "sources": [
+  {
+   "publisher": "뉴스워커",
+   "title": "LGU+, 침해 정황 안내 후 서버 OS 재설치 관련 국정감사 자료",
+   "url": "https://www.newsworker.co.kr/news/articleView.html?idxno=505337"
+  },
+  {
+   "publisher": "테크M",
+   "title": "LG유플러스 해킹 사실 여부 관련 국정감사 및 유심 보안 조치",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=156495"
+  }
+ ],
+ "target_text": "임직원 및 협력사 직원(기사 기재)",
+ "title": "내부 서버 접근통제 솔루션(APPM) 정보 유출 및 침해 정황 서버 폐기 수사",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

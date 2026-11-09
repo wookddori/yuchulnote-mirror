@@ -1,0 +1,54 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-06-11",
+ "confirmed_text": "수탁업체가 6월 11일 한국은행에 통보(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-09",
+   "date_text": "05.09~06.08",
+   "label": "온라인 연수 위탁업체 시스템에 외부 침입(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-11",
+   "date_text": "06.11",
+   "label": "수탁업체가 한국은행에 사고 통보(기사 기재)"
+  },
+  {
+   "date_iso": "2026-06-12",
+   "date_text": "06.12",
+   "label": "피해 직원 통지, 개인정보보호위원회 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-28",
+   "date_text": "09.28",
+   "label": "국회 제출 자료를 근거로 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·연락처·소속 등",
+ "leaked_items_text": "성명, 회사명, 이메일, 전화번호, 직급·직무·소속, 암호화된 비밀번호(기사 기재)",
+ "notices": [],
+ "org_name": "한국은행",
+ "reported_date": "2026-09-28",
+ "response_text": "6월 12일 피해 직원 통지 및 개인정보보호위원회 신고(기사 기재)",
+ "scale_short": "186명",
+ "scale_text": "직원 186명(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-09-28-bank-of-korea",
+ "sources": [
+  {
+   "publisher": "아이뉴스24",
+   "title": "한은 해킹 시도 8개월 새 4.5배 급증…직원 186명 정보 유출",
+   "url": "http://www.inews24.com/view/2009524"
+  },
+  {
+   "publisher": "뉴데일리",
+   "title": "직원 186명 정보 털리고 해킹 시도 4.5배↑",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/09/28/2026092800233.html"
+  }
+ ],
+ "target_text": "한국은행 직원 186명(기사 기재)",
+ "title": "외부 연수업체 해킹으로 직원 186명 정보 유출",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

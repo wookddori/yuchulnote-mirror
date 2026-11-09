@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2025-06-23",
+ "confirmed_text": "6월 23일 비정상 접근 인지, 6월 26일 개인정보위 신고(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-23",
+   "date_text": "6.23",
+   "label": "예약내역 조회 기능 비정상 접근 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2025-06-26",
+   "date_text": "6.26",
+   "label": "개인정보위 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2025-07-01",
+   "date_text": "7.01",
+   "label": "글로벌 인터파크 예약 서비스 중단(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "항목 미확인",
+ "leaked_items_text": "유출 항목은 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "인터파크(놀유니버스)",
+ "reported_date": "2025-07-04",
+ "response_text": "외부 접근 차단, 취약점 점검, 모니터링 강화, KISA·개인정보위 신고(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-07-04-interpark-global",
+ "sources": [
+  {
+   "publisher": "엔게이트뉴스",
+   "title": "인터파크, 또 뚫렸다…세 번째 개인정보 유출 정황",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=530278"
+  }
+ ],
+ "target_text": "글로벌 인터파크 예약 이용자(기사 기재)",
+ "title": "글로벌 인터파크 예약내역 조회 기능 비정상 접근",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

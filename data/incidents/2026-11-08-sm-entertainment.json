@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-08",
+ "confirmed_text": "외부 공격자가 전자결재시스템 등 사내 시스템에 비인가 접근해 일부 문서 파일을 빼낸 것으로 확인, 11월 8일 홈페이지 안내문 게시(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "침해 발생 시점으로 한 기사가 기재(기사 기재, 다른 기사에는 시점 없음)"
+  },
+  {
+   "date_iso": "2026-11-08",
+   "date_text": "11.08",
+   "label": "홈페이지 안내문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·계좌·주민번호 등",
+ "leaked_items_text": "이름, 휴대전화번호, 주소, 계좌번호, 주민등록번호, 소속 부서, 직위·직책, 계약서 기재 정보 등(기사 기재)",
+ "notices": [],
+ "org_name": "SM엔터테인먼트(디어유·드림메이커)",
+ "reported_date": "2026-11-08",
+ "response_text": "공격에 쓰인 IP와 접근 경로 차단, 접근 키 교체, 관계기관과 원인·범위 조사, 접근 통제와 모니터링 강화 예정. 현재까지 2차 피해는 확인되지 않았다고 설명(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "유출 인원과 문서 규모는 기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-08-sm-entertainment",
+ "sources": [
+  {
+   "publisher": "제민일보",
+   "title": "SM엔터테인먼트, 외부 해킹으로 임직원 개인정보 유출",
+   "url": "https://www.jemin.com/news/articleView.html?idxno=846478"
+  },
+  {
+   "publisher": "글로벌이코노믹",
+   "title": "SM엔터와 계열사 시스템 해킹, 임직원 식별 정보와 계좌 유출",
+   "url": "https://www.globale.co.kr/news/articleView.html?idxno=41506"
+  }
+ ],
+ "target_text": "SM엔터테인먼트와 일부 계열사(디어유, 드림메이커) 임직원(기사 기재)",
+ "title": "외부 해킹으로 임직원 개인정보 유출",
+ "updated_at": "2026-11-08T23:41:34Z"
+}

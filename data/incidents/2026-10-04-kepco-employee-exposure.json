@@ -1,0 +1,44 @@
+{
+ "category": "unknown",
+ "confirmed_date": "2026-10-01",
+ "confirmed_text": "10월 1일 오후 3시 59분께 노출 인지, 10월 4일 입장문 배포(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-01",
+   "date_text": "10.01",
+   "label": "외부 웹페이지에 직원 개인정보가 노출된 상황 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-02",
+   "date_text": "10.02",
+   "label": "노출 정보 삭제(기사 기재: 2일 자정 무렵)"
+  },
+  {
+   "date_iso": "2026-10-04",
+   "date_text": "10.04",
+   "label": "입장문 배포(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·소속·전화번호",
+ "leaked_items_text": "이름, 소속, 전화번호 등. 주민등록번호 등 고유식별번호와 민감정보는 노출되지 않았다고 회사가 설명(기사 기재)",
+ "notices": [],
+ "org_name": "한국전력공사",
+ "reported_date": "2026-10-04",
+ "response_text": "직원 개인정보 관련 내부 시스템 접속 차단, 웹페이지 운영사에 삭제 요청(10월 2일 자정 무렵 삭제, 인지 후 약 32시간), 직원에게 문자·이메일로 경위와 2차 피해 예방 안내, 비상대응 종합상황실 구성(기사 기재). 피해 신고 시 손해배상 등 구제 절차 예정.",
+ "scale_short": "약 2만4천 명",
+ "scale_text": "직원 약 2만4천 명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-04-kepco-employee-exposure",
+ "sources": [
+  {
+   "publisher": "SBS Biz",
+   "title": "한전 직원 2만4천여명 정보 노출…\"고객정보는 별도 안전 관리\"",
+   "url": "https://biz.sbs.co.kr/amp/article/20000338255"
+  }
+ ],
+ "target_text": "직원 약 2만4천 명(기사 기재). 고객 정보는 포함되지 않았다고 회사가 설명",
+ "title": "외부 웹페이지에 직원 개인정보 노출",
+ "updated_at": "2026-11-08T12:12:08Z"
+}

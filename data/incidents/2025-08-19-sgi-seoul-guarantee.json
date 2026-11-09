@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "고객정보 유출 정황은 확인되지 않았다는 회사 입장(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.07",
+   "label": "랜섬웨어 공격으로 홈페이지 4일간 마비, 대출 등 업무 지연(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.08.05",
+   "label": "랜섬웨어 조직이 다크웹에 13.2TB 탈취 주장 게시, 회사는 유출 정황 미확인이라고 밝힘(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.08.19",
+   "label": "해당 조직이 데이터 공개 예고(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.09.22",
+   "label": "피해 접수 79건 중 24건 인정, 1190만원 보상(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미확인(탈취 주장 13.2TB)",
+ "leaked_items_text": "해킹 조직이 오라클 DB 13.2TB 탈취를 주장, 실제 유출 여부는 기사에 확인되지 않음(기사 기재)",
+ "notices": [],
+ "org_name": "SGI서울보증",
+ "reported_date": "2025-08-19",
+ "response_text": "피해신고센터 운영, 24건 보상, 금융감독원 현장검사 후 결과 분석 중(기사 기재)",
+ "scale_short": "서버 41대·피해접수 79건",
+ "scale_text": "DB 서버 41대 감염, 홈페이지 4일간 마비, 피해 접수 79건 중 24건 1190만원 보상(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2025-08-19-sgi-seoul-guarantee",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "SGI 해킹 랜섬웨어 그룹 13.2TB 데이터 곧 공개",
+   "url": "https://zdnet.co.kr/view/?no=20250819145313"
+  },
+  {
+   "publisher": "SBS",
+   "title": "서울보증, 최근 해킹 피해 79건 중 24 건 인용…1천190만 원 보상",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008269822&plink=ORI"
+  }
+ ],
+ "target_text": "고객 정보 유출 여부 미확인, 서비스 장애 피해 고객 79건 접수(기사 기재)",
+ "title": "랜섬웨어 공격으로 전산 장애, 해킹 조직의 13.2TB 탈취 주장",
+ "updated_at": "2026-11-08T22:32:59Z"
+}

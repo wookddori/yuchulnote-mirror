@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-01-14",
+ "confirmed_text": "1월 14일 외부 비정상 접근·데이터 게시 정황 포착, 한국인터넷진흥원 등 신고. 2월 5일 보도에서 공개된 일부 자료가 자사 데이터임을 회사가 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-14",
+   "date_text": "01.14",
+   "label": "외부 접근 정황 포착, 한국인터넷진흥원 등 신고(기사 기재)"
+  },
+  {
+   "date_iso": "2026-01-16",
+   "date_text": "01.16",
+   "label": "이용자 대상 공지(기사 기재)"
+  },
+  {
+   "date_iso": "2025-02-05",
+   "date_text": "02.05",
+   "label": "공개 자료 일부가 자사 데이터임을 회사가 확인(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·생년월일·사고정보",
+ "leaked_items_text": "이름, 성별, 생년월일, 휴대전화번호, 이메일, 마케팅 수신 동의 여부, 사고 관련 일부 정보와 손해 산정 정보 등(기사 기재)",
+ "notices": [],
+ "org_name": "사고링크",
+ "reported_date": "2026-01-21",
+ "response_text": "외부 접근 경로 점검, 접근 통제 강화, 계정·권한 점검, 보안 취약점 패치, 관계기관 신고(기사 기재)",
+ "scale_short": "주장 약 1만2천건(미확인)",
+ "scale_text": "게시자 주장은 이용자·관리자 데이터 약 1만2천건이며 회사는 전체 동일 유출 여부를 확인하지 못함. 첫 보도는 일부 이용자로만 기재(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-21-sagolink",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "손해사정 플랫폼 사고링크 개인정보 일부 유출",
+   "url": "https://zdnet.co.kr/view/?no=20260120164726"
+  },
+  {
+   "publisher": "디일렉",
+   "title": "사고링크, 고객정보 다크웹 유출 인정...진단서도 털렸다",
+   "url": "https://www.thelec.kr/news/articleView.html?idxno=51992"
+  }
+ ],
+ "target_text": "플랫폼 이용자 및 관리자(기사 기재)",
+ "title": "손해사정 플랫폼 고객정보 다크웹 게시, 일부 자사 데이터 확인",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

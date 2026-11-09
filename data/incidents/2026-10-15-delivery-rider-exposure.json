@@ -1,0 +1,34 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "웹 주소에 경로를 덧붙이면 로그인 없이 열람 가능한 상태 확인(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-15",
+   "date_text": "10.15",
+   "label": "노출 사실 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호",
+ "leaked_items_text": "라이더 이름, 전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "배달대행 업체(라이더 실적 조회 사이트)",
+ "reported_date": "2026-10-15",
+ "response_text": "배달의민족은 해당 사이트가 자사 서비스가 아니며 위수탁 관계도 없다고 밝힘. 운영 업체의 조치 내용은 기사에 없음(기사 기재)",
+ "scale_short": "약 201명",
+ "scale_text": "약 201명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-15-delivery-rider-exposure",
+ "sources": [
+  {
+   "publisher": "SBS",
+   "title": "해킹 도구 없이도 접근…배달 앱 라이더 201명 개인정보 털렸다",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008799023&plink=ORI"
+  }
+ ],
+ "target_text": "배달앱 라이더 약 201명(기사 기재)",
+ "title": "배달 라이더 201명 이름·전화번호 데이터 로그인 없이 열람 가능",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

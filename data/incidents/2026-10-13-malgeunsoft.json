@@ -1,0 +1,54 @@
+{
+ "category": "vendor",
+ "confirmed_date": "2026-09-22",
+ "confirmed_text": "9월 19일 서버 무단 접근, 9월 20일 정보 반출, 9월 22일 스팸 안내로 인지(세이프타임즈 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-19",
+   "date_text": "09.19",
+   "label": "교육 사이트 서버 무단 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-22",
+   "date_text": "09.22",
+   "label": "스팸 발송 안내로 사고 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "개인정보보호위원회 조사 착수(기사 기재)"
+  },
+  {
+   "date_iso": "2026-10-13",
+   "date_text": "10.13",
+   "label": "237만건 유출 신고 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·생년월일 등",
+ "leaked_items_text": "이름, 사번, 전화번호(세이프타임즈). 공감신문은 아이디, 암호화된 비밀번호, 연락처, 이메일, 주소, 생년월일, 본인확인 정보 등이라고 보도(기사 기재)",
+ "notices": [],
+ "org_name": "맑은소프트",
+ "reported_date": "2026-10-13",
+ "response_text": "사과문 발표, 개인정보보호위원회에 세 차례 신고, 9월 30일 조사 착수(세이프타임즈 기재)",
+ "scale_short": "약 237만건",
+ "scale_text": "신고 기준 약 237만건. 권익위 약 10만명, 교육시설안전원 약 4만명, 노조 약 5천명(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-10-13-malgeunsoft",
+ "sources": [
+  {
+   "publisher": "세이프타임즈",
+   "title": "국방부·권익위·기아 노조까지 털렸다, 맑은소프트 해킹 파장",
+   "url": "https://www.safetimes.co.kr/news/articleView.html?idxno=246454"
+  },
+  {
+   "publisher": "공감신문",
+   "title": "맑은소프트 해킹 237만건 유출, 피해기관 20여곳",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=881159"
+  }
+ ],
+ "target_text": "맑은소프트 교육 사이트를 쓰는 국방부, 국민권익위원회, 한국교육시설안전원, 기아 광명공장 노조 등 20여 기관 이용자(기사 기재)",
+ "title": "교육 사이트 서버 해킹으로 개인정보 237만건 유출, 20여 기관 피해",
+ "updated_at": "2026-11-08T23:39:29Z"
+}

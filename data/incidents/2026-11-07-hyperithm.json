@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 30일 비정상 접근 발생, 11월 3일 회사 인지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "업무용 서버 경유 외부 클라우드 저장소 비정상 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-03",
+   "date_text": "11.3",
+   "label": "회사 인지, 서버 정지 및 접근 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.6~7",
+   "label": "홈페이지 공지(매체별 일자 상이)(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·연락처·주민번호·계좌 등",
+ "leaked_items_text": "성명, 소속·직급, 전화번호, 이메일, 메신저 아이디, 주소, 주민등록번호, 은행 계좌정보(대상자마다 상이)(기사 기재)",
+ "notices": [],
+ "org_name": "하이퍼리즘",
+ "reported_date": "2026-11-07",
+ "response_text": "서버 정지, 접근 경로·계정 차단, 관계기관 신고, 법령상 통지 진행, 상담 창구 운영, 직접적 재산 피해는 확인되지 않음(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "유출 인원과 문서 수는 공개되지 않음(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-07-hyperithm",
+ "sources": [
+  {
+   "publisher": "뉴스웨이",
+   "title": "하이퍼리즘, 개인정보 유출 …업무용 서버 무단 접근",
+   "url": "https://www.newsway.co.kr/news/view?ud=2026110711263156439"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "디지털자산 운용사 하이퍼리즘 해킹…주민등록번호·은행 계좌 정보",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209388"
+  }
+ ],
+ "target_text": "행정업무 문서에 정보가 담긴 대상자, 임직원 한정 여부는 확인되지 않음(기사 기재)",
+ "title": "업무용 서버 무단 접근으로 클라우드 문서 속 개인정보 유출",
+ "updated_at": "2026-11-09T03:13:40Z"
+}

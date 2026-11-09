@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2024-07-01",
+ "confirmed_text": "2024년 6월 웹셸 설치, 7월 인지, 9월 고객 통지, 2025년 3월 12일 개인정보위 제재 결정(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2024.06",
+   "label": "웹사이트 파일 업로드 기능 이용한 웹셸 설치(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2024.09",
+   "label": "고객 통지(기사 기재)"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.03.12",
+   "label": "개인정보위 과징금 등 제재 결정(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·생년월일·성별·휴대전화",
+ "leaked_items_text": "이름, 생년월일, 성별, 휴대전화번호(기사 기재)",
+ "notices": [],
+ "org_name": "모두투어네트워크",
+ "reported_date": "2025-03-14",
+ "response_text": "개인정보위가 과징금과 과태료 부과, 홈페이지 공표 명령, 관리 개선 권고(기사 기재)",
+ "scale_short": "약 306만 명",
+ "scale_text": "약 306만 명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-03-14-modetour",
+ "sources": [
+  {
+   "publisher": "데일리팝",
+   "title": "모두투어 306만 명 개인정보 유출 …해커, 웹셸 공격으로 DB 탈취",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=85654"
+  }
+ ],
+ "target_text": "회원 및 비회원(기사 기재)",
+ "title": "웹셸 공격으로 약 306만 명 개인정보 유출, 과징금 부과",
+ "updated_at": "2026-11-09T03:11:35Z"
+}

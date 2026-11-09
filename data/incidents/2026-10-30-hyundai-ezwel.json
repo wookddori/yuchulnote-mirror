@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "10월 29일 오후 9시께 비정상 접근 시도 인지, 10월 30일 홈페이지에 유출 확인 공지(기사 기재, 정확한 확인 날짜는 기사에 없음)",
+ "events": [
+  {
+   "date_iso": "2026-10-29",
+   "date_text": "10.29",
+   "label": "회원정보 조회용 API에 대한 외부의 비정상 접근 시도 인지(기사 기재: 전날 오후 9시께)"
+  },
+  {
+   "date_iso": "2026-10-30",
+   "date_text": "10.30",
+   "label": "홈페이지에 유출 사고 사과문 게시(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·생년월일·휴대전화번호 등",
+ "leaked_items_text": "이름, 생년월일, 성별, 휴대전화번호, 이메일 등(기사 기재)",
+ "notices": [
+  {
+   "channel": "홈페이지",
+   "checks": null,
+   "days_after_confirmed": 1,
+   "original_url": null,
+   "posted_date": "2026-10-30",
+   "round": "1차",
+   "summary": "유출 항목과 대응 조치, 상담센터 운영과 보상 방침을 사과문으로 게시했다(기사 기재)."
+  }
+ ],
+ "org_name": "현대이지웰",
+ "reported_date": "2026-10-30",
+ "response_text": "공격 IP 차단과 해당 시스템 외부 접근 전면 차단, 금융감독원·한국인터넷진흥원 신고, 24시간 전담 상담센터 운영, 피해 확인 시 전액 보상 방침, 유출이 확인된 고객에게 개별 안내 예정(기사 기재). 2차 피해나 부정 사용은 확인되지 않았다고 기사에 적힘.",
+ "scale_short": "파악 중",
+ "scale_text": "정확한 규모는 파악 중(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-30-hyundai-ezwel",
+ "sources": [
+  {
+   "publisher": "연합뉴스(한민족센터 게재)",
+   "title": "현대이지웰서 개인정보 유출 사고…사과문 게시",
+   "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1432545"
+  }
+ ],
+ "target_text": "고객사 회원(기사 기재)",
+ "title": "회원정보 조회용 API 외부 비정상 접근으로 회원 정보 유출",
+ "updated_at": "2026-11-08T12:28:03Z"
+}

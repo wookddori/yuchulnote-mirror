@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-04",
+ "confirmed_text": "11월 4일 운영진이 PC 런처 스크립트 파일이 제3자에 의해 변조됐을 가능성을 공지(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-27",
+   "date_text": "09.27",
+   "label": "공개 기술 보고서상 배포망 자바스크립트 파일에 악성 로더가 삽입된 시점(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "변조 가능성 확인, 긴급 패치 배포(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 미확인",
+ "leaked_items_text": "정보 유출 여부는 기사에 없음. 분석 보고서상 브라우저 계정정보, 세션 쿠키, 가상자산 지갑 데이터 탈취 기능 언급(기사 기재)",
+ "notices": [],
+ "org_name": "시프트업(레벨인피니트) 니케",
+ "reported_date": "2026-11-04",
+ "response_text": "11월 4일 오전 2시 30분경 문제 확인, 클라이언트 수정 패치 배포, 후속 조치 별도 공지 예고(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "감염자 수와 피해 규모는 기사에 없음, 영향 확인 중(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-11-04-shiftup-nikke",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "인기 게임 니케 런처 해킹 원인",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147009"
+  },
+  {
+   "publisher": "머니투데이",
+   "title": "승리의 여신: 니케 PC 런처 해킹",
+   "url": "https://www.mt.co.kr/tech/2026/11/04/2026110416424066973"
+  }
+ ],
+ "target_text": "니케 PC 런처 이용자(기사 기재)",
+ "title": "니케 PC 런처 변조로 원격제어 악성코드 유포 정황",
+ "updated_at": "2026-11-08T23:39:29Z"
+}
