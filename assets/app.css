@@ -260,3 +260,13 @@ p.badges { margin: 8px 0 16px; }
 .pager a:focus-visible { outline: 3px solid var(--focus); outline-offset: 2px; }
 .pager strong { padding: 3px 10px; border-radius: 8px; background: var(--surface); color: var(--fg); }
 .pager .sizes { margin-left: auto; }
+
+/* 데스크톱에서는 업권 탭과 상태 선택을 한 단계 작게(좁은 화면은 터치 크기 44px 유지) */
+@media (min-width: 700px) {
+  .bar { margin: 14px 0 4px; gap: 8px; }
+  .bar .tab { min-height: 36px; padding: 4px 10px; font-size: 14px; }
+  .bar .tab .count { font-size: 12px; }
+  .statebtn { min-height: 32px; padding: 2px 12px; font-size: 13px; }
+  .statepanel { min-width: 10.5rem; padding: 6px; }
+  .statepanel .chip { min-height: 32px; padding: 2px 10px; font-size: 13px; }
+}
