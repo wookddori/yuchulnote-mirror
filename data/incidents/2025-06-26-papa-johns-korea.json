@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 6월 26일 한국파파존스의 고객 정보 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-26",
+   "date_text": "06.26",
+   "label": "고객 정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "고객 정보",
+ "leaked_items_text": "고객 정보(기사 기재)",
+ "notices": [],
+ "org_name": "한국파파존스",
+ "reported_date": "2025-06-26",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-06-26-papa-johns-korea",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "[DD퇴근길] 연이은 고객 정보 유출…한국파파존스도 뚫렸다",
+   "url": "https://www.ddaily.co.kr/page/view/2025062616375169133"
+  },
+  {
+   "publisher": "일요신문",
+   "title": "피자 주문했을 뿐인데…파파존스 고객 정보 얼마나 유출됐나",
+   "url": "https://ilyo.co.kr/?ac=article_view&entry_id=494942"
+  }
+ ],
+ "target_text": "한국파파존스 고객(기사 기재)",
+ "title": "고객 정보 유출 사고",
+ "updated_at": "2026-11-10T10:25:30Z"
+}

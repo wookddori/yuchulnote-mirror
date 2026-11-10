@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 4월 11일 클래스유와 케이티알파의 정보 유출 제재가 보도됨, 자동화 공격 방어가 미흡했다고 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-04-11",
+   "date_text": "04.11",
+   "label": "160만명 유출 제재 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이용자 정보",
+ "leaked_items_text": "이용자 정보(기사 기재)",
+ "notices": [],
+ "org_name": "클래스유·케이티알파",
+ "reported_date": "2025-04-11",
+ "response_text": "개인정보 보호 관련 제재(기사 기재)",
+ "scale_short": "160만명",
+ "scale_text": "160만명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-04-11-classu-ktalpha",
+ "sources": [
+  {
+   "publisher": "데일리팝",
+   "title": "160만명 유출 클래스유·케이티알파 제재…\"자동화 공격 방어 미흡\"",
+   "url": "http://www.dailypop.kr/news/articleView.html?idxno=86324"
+  }
+ ],
+ "target_text": "클래스유·케이티알파 이용자(기사 기재)",
+ "title": "160만명 유출 제재, 자동화 공격 방어 미흡",
+ "updated_at": "2026-11-10T10:37:23Z"
+}

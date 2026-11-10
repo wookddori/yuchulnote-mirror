@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 6월 9일 랜섬웨어 조직 나이트스파이어의 지속적인 공격이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-09",
+   "date_text": "06.09",
+   "label": "랜섬웨어 조직의 지속 공격 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "쿼드마이너",
+ "reported_date": "2025-06-09",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-06-09-quadminer",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "랜섬웨어 조직 '나이트스파이어', 한국 보안기업 '쿼드마이너'에 지속적 공격",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=166729"
+  }
+ ],
+ "target_text": "쿼드마이너(기사 기재)",
+ "title": "랜섬웨어 조직의 지속 공격 피해",
+ "updated_at": "2026-11-10T10:37:22Z"
+}

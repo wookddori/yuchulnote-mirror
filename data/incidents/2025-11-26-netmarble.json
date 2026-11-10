@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 11월 26일 PC게임 18종 사이트의 외부 해킹과 고객·임직원 정보 유출이 보도됨, 12월 4일 추가 유출 확인 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-11-26",
+   "date_text": "11.26",
+   "label": "PC게임 18종 해킹, 정보 유출 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2024-12-04",
+   "date_text": "12.04",
+   "label": "추가 정보 유출 확인 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객·임직원 정보",
+ "leaked_items_text": "고객·임직원 정보, 주민번호 포함(기사 기재)",
+ "notices": [],
+ "org_name": "넷마블",
+ "reported_date": "2025-11-26",
+ "response_text": "내부 조사 중 추가 확인(기사 기재)",
+ "scale_short": "추가 8048건 확인",
+ "scale_text": "추가 유출 8048건 확인(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-11-26-netmarble",
+ "sources": [
+  {
+   "publisher": "마이데일리",
+   "title": "넷마블, PC게임 18종 뚫렸다…고객·임직원 정보 유출",
+   "url": "https://www.mydaily.co.kr/page/view/2025112616182977668"
+  },
+  {
+   "publisher": "뉴스핌",
+   "title": "[특징주] 넷마블, 추가 정보 유출 8048건 확인에 약세",
+   "url": "https://www.newspim.com/news/view/20251204000284"
+  }
+ ],
+ "target_text": "PC게임 이용자와 임직원(기사 기재)",
+ "title": "PC게임 사이트 18종 해킹, 고객·임직원 정보 유출",
+ "updated_at": "2026-11-10T10:25:27Z"
+}

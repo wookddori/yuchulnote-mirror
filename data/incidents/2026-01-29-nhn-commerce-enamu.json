@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 1월 29일 NHN커머스의 구형 쇼핑몰 솔루션 e나무 유출 사고에 대한 제재가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-29",
+   "date_text": "01.29",
+   "label": "e나무 유출 사고 제재 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "NHN커머스",
+ "reported_date": "2026-01-29",
+ "response_text": "개인정보보호위원회 제재(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-01-29-nhn-commerce-enamu",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "NHN커머스, 구형 쇼핑몰 솔루션 'e나무' 유출 사고 제재",
+   "url": "https://www.ddaily.co.kr/page/view/2026012909334720546"
+  }
+ ],
+ "target_text": "e나무 쇼핑몰 솔루션 이용 쇼핑몰(기사 기재)",
+ "title": "구형 쇼핑몰 솔루션 'e나무' 유출 사고 제재",
+ "updated_at": "2026-11-10T10:25:26Z"
+}

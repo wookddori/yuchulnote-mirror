@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 6월 3일 넥써쓰 대표가 가상자산 해킹에 대해 입장을 밝혔다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-03",
+   "date_text": "06.03",
+   "label": "가상자산 해킹 관련 대표 발언 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "가상자산",
+ "leaked_items_text": "가상자산(기사 기재)",
+ "notices": [],
+ "org_name": "넥써쓰",
+ "reported_date": "2025-06-03",
+ "response_text": "대표 입장 표명(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2025-06-03-nexus",
+ "sources": [
+  {
+   "publisher": "디지털타임스",
+   "title": "가상자산 해킹에 입 연 장현국 넥써쓰 대표 \"기술보다는 사람 부주의\"",
+   "url": "https://www.dt.co.kr/contents.html?article_no=2025060402101231065001"
+  }
+ ],
+ "target_text": "넥써쓰 가상자산(기사 기재)",
+ "title": "가상자산 해킹 사고",
+ "updated_at": "2026-11-10T10:37:22Z"
+}

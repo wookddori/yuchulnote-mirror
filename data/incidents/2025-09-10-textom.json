@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 9월 10일 빅데이터 기업 텍스톰의 고객정보 대규모 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-09-10",
+   "date_text": "09.10",
+   "label": "고객정보 대규모 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "고객정보",
+ "leaked_items_text": "고객정보(기사 기재)",
+ "notices": [],
+ "org_name": "텍스톰",
+ "reported_date": "2025-09-10",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "대규모(건수 미공개)",
+ "scale_text": "대규모(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-09-10-textom",
+ "sources": [
+  {
+   "publisher": "브레이크뉴스 서울",
+   "title": "[단독] 빅데이터 기업 텍스톰, 고객정보 대규모 유출",
+   "url": "https://www.viva100.com/article/20250911500011"
+  }
+ ],
+ "target_text": "텍스톰 고객(기사 기재)",
+ "title": "빅데이터 기업 고객정보 대규모 유출",
+ "updated_at": "2026-11-10T10:25:29Z"
+}

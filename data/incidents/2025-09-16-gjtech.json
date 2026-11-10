@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 9월 16일 GJ텍의 랜섬웨어 감염이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-09-16",
+   "date_text": "09.16",
+   "label": "랜섬웨어 감염 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "GJ텍",
+ "reported_date": "2025-09-16",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-09-16-gjtech",
+ "sources": [
+  {
+   "publisher": "데일리브리프",
+   "title": "[단독] GJ텍, 랜섬웨어 감염···미래에셋-KB-한화운용 등은?",
+   "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=3333"
+  }
+ ],
+ "target_text": "GJ텍(기사 기재)",
+ "title": "랜섬웨어 감염",
+ "updated_at": "2026-11-10T10:25:29Z"
+}

@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 1월 5일 외부 해킹으로 고객 주문내역과 연락처가 노출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-05",
+   "date_text": "01.05",
+   "label": "외부 해킹, 고객 정보 노출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주문내역·연락처",
+ "leaked_items_text": "주문내역, 연락처(기사 기재)",
+ "notices": [],
+ "org_name": "레저",
+ "reported_date": "2026-01-05",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-05-leger",
+ "sources": [
+  {
+   "publisher": "토큰포스트",
+   "title": "레저, 또 고객 정보 유출…외부 해킹에 주문내역·연락처 노출",
+   "url": "https://www.tokenpost.kr/news/blockchain/321119"
+  }
+ ],
+ "target_text": "레저 고객(기사 기재)",
+ "title": "외부 해킹으로 고객 주문내역·연락처 노출",
+ "updated_at": "2026-11-10T10:25:27Z"
+}

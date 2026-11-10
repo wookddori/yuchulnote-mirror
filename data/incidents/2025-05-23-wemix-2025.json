@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 3월 7일 위믹스 90억원 규모 해킹이 보도됨, 5월 말 상장폐지가 확정됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-03-07",
+   "date_text": "03.07",
+   "label": "위믹스 90억원 해킹 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2024-05-30",
+   "date_text": "05.30",
+   "label": "상장폐지 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "가상자산 약 90억원",
+ "leaked_items_text": "위믹스 가상자산(기사 기재)",
+ "notices": [],
+ "org_name": "위메이드(위믹스)",
+ "reported_date": "2025-03-07",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "약 90억원",
+ "scale_text": "약 90억원(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-05-23-wemix-2025",
+ "sources": [
+  {
+   "publisher": "이사이언스",
+   "title": "위믹스 90억 해킹…위메이드, 또다시 상장폐지 위기",
+   "url": "https://www.e-science.co.kr/news/articleView.html?idxno=102896"
+  },
+  {
+   "publisher": "리걸타임즈",
+   "title": "'해킹 사고' 위믹스 결국 상장폐지",
+   "url": "http://www.legaltimes.co.kr/news/articleView.html?idxno=86897"
+  }
+ ],
+ "target_text": "위믹스(기사 기재)",
+ "title": "위믹스 90억원 규모 해킹 피해, 상장폐지",
+ "updated_at": "2026-11-10T10:37:23Z"
+}

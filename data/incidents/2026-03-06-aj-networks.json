@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 3월 6일 AJ네트웍스 해킹이 관리형 서비스 업계에 영향을 줬다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-03-06",
+   "date_text": "03.06",
+   "label": "AJ네트웍스 해킹 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "AJ네트웍스",
+ "reported_date": "2026-03-06",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-03-06-aj-networks",
+ "sources": [
+  {
+   "publisher": "나이스경제",
+   "title": "[업계 만화경] 관리형 서비스 업계에 '딜레마' 남긴 AJ네트웍스 해킹",
+   "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89329"
+  }
+ ],
+ "target_text": "AJ네트웍스(기사 기재)",
+ "title": "관리형 서비스 업체 해킹 사고",
+ "updated_at": "2026-11-10T10:25:24Z"
+}

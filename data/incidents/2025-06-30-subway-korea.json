@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 6월 30일 써브웨이의 고객 정보 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-30",
+   "date_text": "06.30",
+   "label": "고객 정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "고객 정보",
+ "leaked_items_text": "고객 정보(기사 기재)",
+ "notices": [],
+ "org_name": "써브웨이",
+ "reported_date": "2025-06-30",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-06-30-subway-korea",
+ "sources": [
+  {
+   "publisher": "뉴스페이퍼",
+   "title": "[식품·유통 업계동향]또 터진 정보유출 사각지대 ‘써브웨이’ 너마저...",
+   "url": "https://www.nspna.com/news/?mode=view&newsid=763560"
+  }
+ ],
+ "target_text": "써브웨이 고객(기사 기재)",
+ "title": "고객 정보 유출 사고",
+ "updated_at": "2026-11-10T10:25:30Z"
+}

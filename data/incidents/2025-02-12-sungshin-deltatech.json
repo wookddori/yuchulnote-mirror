@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 2월 12일 신성델타테크의 랜섬웨어 피해와 자회사 데이터 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-02-12",
+   "date_text": "02.12",
+   "label": "랜섬웨어 피해, 자회사 데이터 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "자회사 데이터",
+ "leaked_items_text": "자회사 데이터(기사 기재)",
+ "notices": [],
+ "org_name": "신성델타테크",
+ "reported_date": "2025-02-12",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-02-12-sungshin-deltatech",
+ "sources": [
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 신성델타테크, 랜섬웨어 피해… \"자회사 데이터 유출\"",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=519777"
+  }
+ ],
+ "target_text": "신성델타테크와 자회사(기사 기재)",
+ "title": "랜섬웨어 피해, 자회사 데이터 유출",
+ "updated_at": "2026-11-10T10:37:24Z"
+}

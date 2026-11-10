@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 7월 24일 해킹 공격과 관련해 해성디에스와 전남테크노파크에 과징금 4억원이 부과됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-07-24",
+   "date_text": "07.24",
+   "label": "과징금 4억원 부과 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "해성디에스·전남테크노파크",
+ "reported_date": "2025-07-24",
+ "response_text": "과징금 4억원 부과(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2025-07-24-haesung-ds-jntp",
+ "sources": [
+  {
+   "publisher": "TV조선",
+   "title": "'해킹 공격' 해성디에스·전남테크노파크에 과징금 4억",
+   "url": "https://news.tvchosun.com/site/data/html_dir/2025/07/24/2025072490131.html"
+  },
+  {
+   "publisher": "더벨",
+   "title": "[더벨][Sanction Radar]'반도체 부품' 해성디에스, 해킹사고 과징금 부과",
+   "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507241746368040102536"
+  }
+ ],
+ "target_text": "해성디에스, 전남테크노파크(기사 기재)",
+ "title": "해킹 공격 관련 과징금 4억 부과",
+ "updated_at": "2026-11-10T10:25:29Z"
+}

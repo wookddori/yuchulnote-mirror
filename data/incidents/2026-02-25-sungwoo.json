@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 2월 25일 2차전지 부품 제조사 성우의 랜섬웨어 해킹 피해가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-02-25",
+   "date_text": "02.25",
+   "label": "랜섬웨어 해킹 피해 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "성우",
+ "reported_date": "2026-02-25",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-02-25-sungwoo",
+ "sources": [
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 2차전지 부품 제조사 성우, 랜섬웨어 해킹 피해",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=548569"
+  }
+ ],
+ "target_text": "성우(기사 기재)",
+ "title": "2차전지 부품 제조사 랜섬웨어 해킹 피해",
+ "updated_at": "2026-11-10T10:25:24Z"
+}

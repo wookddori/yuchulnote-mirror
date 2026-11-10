@@ -1,0 +1,34 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 1월 6일 수영구 CCTV의 원격접속 상시 허용이 적발됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-06",
+   "date_text": "01.06",
+   "label": "CCTV 원격접속 상시 허용 적발 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "수영구",
+ "reported_date": "2026-01-06",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-01-06-suyeong-cctv",
+ "sources": [
+  {
+   "publisher": "브레이크뉴스 부산",
+   "title": "中 해킹·유출 잇따르는데… 수영구 CCTV ‘원격접속 상시 허용’ 적발",
+   "url": "https://www.viva100.com/article/20260106500028"
+  }
+ ],
+ "target_text": "수영구 CCTV(기사 기재)",
+ "title": "CCTV 원격접속 상시 허용 적발",
+ "updated_at": "2026-11-10T10:25:26Z"
+}

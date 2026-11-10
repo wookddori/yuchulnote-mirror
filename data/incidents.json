@@ -992,11 +992,16 @@
      "publisher": "이데일리",
      "title": "PG사 페이허브, 해킹으로 2억원 유출…금감원 현장점검",
      "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=06048326645642112"
+    },
+    {
+     "publisher": "www.newslock.co.kr",
+     "title": "개인정보 넘어 돈까지 털렸다…페이허브·줌펀드, 해킹에 5억원 유출",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139353"
     }
    ],
    "target_text": "가맹점 정산자금(기사 기재)",
    "title": "결제대행사 해킹으로 정산자금 약 2억원 무단 이체",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "vendor",
@@ -1163,11 +1168,16 @@
      "publisher": "이데일리",
      "title": "온투업체 줌펀드 해킹 사고…고객 예치금 3억원 유출",
      "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02912646645642112"
+    },
+    {
+     "publisher": "www.newslock.co.kr",
+     "title": "개인정보 넘어 돈까지 털렸다…페이허브·줌펀드, 해킹에 5억원 유출",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=139353"
     }
    ],
    "target_text": "온라인투자연계금융업체 줌펀드 고객(기사 기재)",
    "title": "해킹으로 고객 예치금 약 3억원 이체, 개인정보 유출 사과",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "unknown",
@@ -4922,11 +4932,41 @@
      "publisher": "세계비즈",
      "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 속출",
      "url": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver"
+    },
+    {
+     "publisher": "mbnmoney.mbn.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 …고객정보는 유출 안돼",
+     "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005931549"
+    },
+    {
+     "publisher": "kpenews.com",
+     "title": "FDS마저 악성코드 에 뚫렸다..iM뱅크·바로저축은행, 해킹 피해 확인",
+     "url": "https://kpenews.com/View.aspx?No=4251670"
+    },
+    {
+     "publisher": "www.munhwa.com",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 피해",
+     "url": "https://www.munhwa.com/article/11621312"
+    },
+    {
+     "publisher": "www.ajunews.com",
+     "title": "금융권 해킹 피해 잇따라…iM뱅크·바로저축은행도 악성코드 감염",
+     "url": "https://www.ajunews.com/view/20261004110353816"
+    },
+    {
+     "publisher": "www.ytn.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 피해",
+     "url": "https://www.ytn.co.kr/_ln/0102_202610041028379325"
+    },
+    {
+     "publisher": "www.yonhapnewstv.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 …고객정보는 유출 안돼",
+     "url": "http://www.yonhapnewstv.co.kr/news/AKR20261004085856F74"
     }
    ],
    "target_text": "이상거래탐지시스템(FDS)(기사 기재)",
    "title": "악성코드 감염으로 이상거래탐지시스템 공격 피해",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -4966,11 +5006,41 @@
      "publisher": "세계비즈",
      "title": "iM뱅크·바로저축은행도 악성코드 감염…금융 침해사고 속출",
      "url": "http://www.segyebiz.com/newsView/20261004504793?OutUrl=naver"
+    },
+    {
+     "publisher": "mbnmoney.mbn.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 …고객정보는 유출 안돼",
+     "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005931549"
+    },
+    {
+     "publisher": "kpenews.com",
+     "title": "FDS마저 악성코드 에 뚫렸다..iM뱅크·바로저축은행, 해킹 피해 확인",
+     "url": "https://kpenews.com/View.aspx?No=4251670"
+    },
+    {
+     "publisher": "www.munhwa.com",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 피해",
+     "url": "https://www.munhwa.com/article/11621312"
+    },
+    {
+     "publisher": "www.ajunews.com",
+     "title": "금융권 해킹 피해 잇따라…iM뱅크·바로저축은행도 악성코드 감염",
+     "url": "https://www.ajunews.com/view/20261004110353816"
+    },
+    {
+     "publisher": "www.ytn.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 피해",
+     "url": "https://www.ytn.co.kr/_ln/0102_202610041028379325"
+    },
+    {
+     "publisher": "www.yonhapnewstv.co.kr",
+     "title": "iM뱅크·바로저축은행, 올해 악성코드 감염 …고객정보는 유출 안돼",
+     "url": "http://www.yonhapnewstv.co.kr/news/AKR20261004085856F74"
     }
    ],
    "target_text": "임직원(기사 기재)",
    "title": "악성코드 감염으로 임직원 정보 유출",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -7174,11 +7244,16 @@
      "publisher": "서울경제TV",
      "title": "제주항공 여권 정보 유출 조사 지지부진 지적…해킹범도 못잡아",
      "url": "http://www.srtimes.kr/news/articleView.html?idxno=214914"
+    },
+    {
+     "publisher": "www.ddaily.co.kr",
+     "title": "삼프로TV·제주항공, 개인정보에 '몸살'…구멍 뚫린 일상 보안",
+     "url": "https://www.ddaily.co.kr/page/view/2026081414393040291"
     }
    ],
    "target_text": "제주항공 이용 고객 100여명(기사 기재)",
    "title": "고객 100여명 여권번호 등 예약 정보 외부 노출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "unknown",
@@ -7272,11 +7347,16 @@
      "publisher": "아시아투데이",
      "title": "삼프로TV 개인정보 유출 사고, 이달 내 피해 구제 방안 마련",
      "url": "https://www.asiatoday.co.kr/kn/view.php?key=20260810010003124"
+    },
+    {
+     "publisher": "www.ddaily.co.kr",
+     "title": "삼프로TV·제주항공, 개인정보에 '몸살'…구멍 뚫린 일상 보안",
+     "url": "https://www.ddaily.co.kr/page/view/2026081414393040291"
     }
    ],
    "target_text": "삼프로TV 앱 회원(기사 기재). 유튜브 구독자 정보는 무관하다고 설명(기사 기재)",
    "title": "삼프로TV 앱 외부 무단 접근으로 회원 개인정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "misconfig",
@@ -8963,11 +9043,16 @@
      "publisher": "M이코노미",
      "title": "최주희 티빙 대표, 사이버 침해사고 공식사과…보안 투자 4배 확대",
      "url": "https://www.m-i.kr/news/articleView.html?idxno=1409817"
+    },
+    {
+     "publisher": "www.sejungilbo.com",
+     "title": "티빙, ID·CI·연락처 등 개인정보 유출...CJ그룹 보안관리 또 '도마'",
+     "url": "https://www.sejungilbo.com/news/articleView.html?idxno=58671"
     }
    ],
    "target_text": "티빙 회원 계정(활성·비활성·테스트 계정 포함)(기사 기재)",
    "title": "비인가 접근으로 회원 계정 정보 유출, 민관합동조사 결과 발표",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -9479,6 +9564,152 @@
    "updated_at": "2026-11-09T12:41:57Z"
   },
   {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 4월 4일 국제 랜섬웨어 조직의 현대엘리베이터 공격과 이후 6곳 추가 공격이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-04-04",
+     "date_text": "04.04",
+     "label": "랜섬웨어 조직 공격 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "현대엘리베이터",
+   "reported_date": "2026-04-04",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-04-04-hyundai-elevator",
+   "sources": [
+    {
+     "publisher": "디지털데일리",
+     "title": "\"현대엘리베이터 털고 6곳 더\"…국제 랜섬웨어 조직의 겁 없는 행보",
+     "url": "https://www.ddaily.co.kr/page/view/2026040410252135396"
+    }
+   ],
+   "target_text": "현대엘리베이터(기사 기재)",
+   "title": "랜섬웨어 조직 공격 피해, 이후 6곳 추가 공격 보도",
+   "updated_at": "2026-11-10T09:43:09Z"
+  },
+  {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 31일 국토부 중요 문서가 대량으로 유출된 사실이 국정원의 쓰레기장 조사로 알려졌다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-31",
+     "date_text": "03.31",
+     "label": "중요 문서 대량 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "중요 문서",
+   "leaked_items_text": "중요 문서(기사 기재)",
+   "notices": [],
+   "org_name": "국토교통부",
+   "reported_date": "2026-03-31",
+   "response_text": "국정원 조사(기사 기재)",
+   "scale_short": "대량(건수 미공개)",
+   "scale_text": "대량(기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-03-31-molit-documents",
+   "sources": [
+    {
+     "publisher": "한국일보",
+     "title": "국정원이 세종시 쓰레기장 뒤진 이유는…국토부 중요 문서 무더기 유출",
+     "url": "https://www.hankookilbo.com/news/article/A2026033109290000465?did=NA"
+    }
+   ],
+   "target_text": "국토교통부 문서(기사 기재)",
+   "title": "중요 문서 대량 유출, 세종시 쓰레기장 조사로 확인",
+   "updated_at": "2026-11-10T10:25:23Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 26일 공무원 정보 유출과 관련해 공무원연금공단과 강북구청에 과징금 총 9억여 원이 부과됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-26",
+     "date_text": "03.26",
+     "label": "과징금 총 9억여 원 부과 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "공무원 인사기록 등",
+   "leaked_items_text": "인사기록 등 공무원 정보(기사 기재)",
+   "notices": [],
+   "org_name": "공무원연금공단·강북구청",
+   "reported_date": "2026-03-26",
+   "response_text": "공무원연금공단 5억원 등 과징금 부과(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-03-26-geps-gangbuk-fine",
+   "sources": [
+    {
+     "publisher": "서울경제",
+     "title": "‘공무원 정보 유출’ 공무원연금공단·강북 구청에 과징금 총 9억여 원",
+     "url": "https://www.sedaily.com/article/20024310"
+    },
+    {
+     "publisher": "문화일보",
+     "title": "“공직자 정보유출”… 공무원연금공단·강북 구청에 과징금 9억",
+     "url": "https://www.munhwa.com/article/11577533"
+    }
+   ],
+   "target_text": "공무원(기사 기재)",
+   "title": "공무원 정보 유출로 과징금 총 9억여 원 부과",
+   "updated_at": "2026-11-10T10:25:23Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 23일 대부업체 리드코프 자회사 해킹과 계좌·신용정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-23",
+     "date_text": "03.23",
+     "label": "해킹 사고, 계좌·신용정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "계좌·신용정보",
+   "leaked_items_text": "계좌·신용정보(기사 기재)",
+   "notices": [],
+   "org_name": "앤알캐피탈대부",
+   "reported_date": "2026-03-23",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "8~9만명",
+   "scale_text": "8만~9만명(기사 기재)",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-03-23-nr-capital-daebu",
+   "sources": [
+    {
+     "publisher": "한겨레",
+     "title": "대부업 1위 리드코프 자회사 해킹 사고…계좌·신용정보 유출",
+     "url": "https://www.hani.co.kr/arti/economy/finance/1250597.html"
+    },
+    {
+     "publisher": "내일신문",
+     "title": "대부업체 리드코프 자회사 고객정보 8만~9만명 유출",
+     "url": "https://www.naeil.com/news/read/582585"
+    }
+   ],
+   "target_text": "고객(기사 기재)",
+   "title": "리드코프 자회사 해킹, 고객정보 8만~9만명 유출 보도",
+   "updated_at": "2026-11-10T10:25:23Z"
+  },
+  {
    "category": "misconfig",
    "confirmed_date": "2026-03-19",
    "confirmed_text": "3월 19일 홈페이지 공지로 알림. 3월 14일 발생(메디게이트뉴스 기재)",
@@ -9617,6 +9848,176 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 6일 AJ네트웍스 해킹이 관리형 서비스 업계에 영향을 줬다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-06",
+     "date_text": "03.06",
+     "label": "AJ네트웍스 해킹 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "AJ네트웍스",
+   "reported_date": "2026-03-06",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-03-06-aj-networks",
+   "sources": [
+    {
+     "publisher": "나이스경제",
+     "title": "[업계 만화경] 관리형 서비스 업계에 '딜레마' 남긴 AJ네트웍스 해킹",
+     "url": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89329"
+    }
+   ],
+   "target_text": "AJ네트웍스(기사 기재)",
+   "title": "관리형 서비스 업체 해킹 사고",
+   "updated_at": "2026-11-10T10:25:24Z"
+  },
+  {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 1일 국세청의 압류 코인 비밀번호가 유출돼 하루 만에 거액이 빠져나갔다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-01",
+     "date_text": "03.01",
+     "label": "압류 코인 비밀번호 유출, 하루 만에 거액 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "압류 코인 비밀번호",
+   "leaked_items_text": "압류 코인 비밀번호(기사 기재)",
+   "notices": [],
+   "org_name": "국세청",
+   "reported_date": "2026-03-01",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "거액(금액 미공개)",
+   "scale_text": "거액(금액은 제목에 없음, 기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-03-01-nts-seized-coin",
+   "sources": [
+    {
+     "publisher": "동아일보",
+     "title": "압류 코인 ‘비번’ 흘린 국세청… 하루만에 거액 유출",
+     "url": "https://www.donga.com/news/Society/article/all/20260301/133444672/2"
+    }
+   ],
+   "target_text": "국세청 압류 가상자산(기사 기재)",
+   "title": "압류 코인 비밀번호 유출, 하루 만에 거액 유출",
+   "updated_at": "2026-11-10T10:25:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 2월 25일 2차전지 부품 제조사 성우의 랜섬웨어 해킹 피해가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-02-25",
+     "date_text": "02.25",
+     "label": "랜섬웨어 해킹 피해 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "성우",
+   "reported_date": "2026-02-25",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-02-25-sungwoo",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "[단독] 2차전지 부품 제조사 성우, 랜섬웨어 해킹 피해",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=548569"
+    }
+   ],
+   "target_text": "성우(기사 기재)",
+   "title": "2차전지 부품 제조사 랜섬웨어 해킹 피해",
+   "updated_at": "2026-11-10T10:25:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 2월 9일 삼성D·LGD 협력사 피에스테크놀러지의 정보가 랜섬웨어 조직 킬린에 유출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-02-09",
+     "date_text": "02.09",
+     "label": "킬린 조직에 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "피에스테크놀러지",
+   "reported_date": "2026-02-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-02-09-ps-technology",
+   "sources": [
+    {
+     "publisher": "KFE뉴스",
+     "title": "삼성D·LGD 협력사 피에스테크놀러지, 랜섬웨어 조직 킬린에 정보 유출",
+     "url": "https://www.kfenews.co.kr/news/articleView.html?idxno=654206"
+    }
+   ],
+   "target_text": "피에스테크놀러지(기사 기재)",
+   "title": "랜섬웨어 조직 킬린에 정보 유출",
+   "updated_at": "2026-11-10T10:25:25Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 2월 6일 항공기 부품업체 율곡의 해킹 정황과 KAI 협력 문서 외부 노출 우려가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-02-06",
+     "date_text": "02.06",
+     "label": "해킹 정황 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "협력 문서",
+   "leaked_items_text": "KAI 협력 문서(노출 가능성, 기사 기재)",
+   "notices": [],
+   "org_name": "율곡",
+   "reported_date": "2026-02-06",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-02-06-yulgok",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "[단독] 항공기 부품업체 율곡 해킹 정황…KAI 협력 문서 외부 노출 우려",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=547457"
+    }
+   ],
+   "target_text": "율곡, KAI 협력 문서(기사 기재)",
+   "title": "항공기 부품업체 해킹 정황, KAI 협력 문서 외부 노출 우려",
+   "updated_at": "2026-11-10T10:25:25Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2024-06-29",
    "confirmed_text": "2024년 6월 28~29일 서버 보안 취약점을 이용한 무단 접근. 2026년 1월 27일 경찰로부터 유출 정황 통보, 1월 30일 공개(기사 기재)",
    "events": [
@@ -9727,11 +10128,75 @@
      "publisher": "인터넷뉴스(INTN)",
      "title": "개인정보위, 개인정보 유출 티머니에 과징금 5억3400만원 부과",
      "url": "http://www.intn.co.kr/news/articleView.html?idxno=2048783"
+    },
+    {
+     "publisher": "www.nocutnews.co.kr",
+     "title": "'17만명 정보 유출' 티머니·한국연구재단 12억 과징금 철퇴",
+     "url": "https://www.nocutnews.co.kr/news/6463962"
+    },
+    {
+     "publisher": "byline.network",
+     "title": "개인정보위, 한국연구재단·티머니·엔에이치엔커머스 3곳 개인정보 유...",
+     "url": "https://byline.network/?p=9004111222591198"
+    },
+    {
+     "publisher": "www.seouleconews.com",
+     "title": null,
+     "url": "http://www.seouleconews.com/news/articleView.html?idxno=89102"
+    },
+    {
+     "publisher": "www.segye.com",
+     "title": "개인정보위, ‘17만명 개인정보 유출’ 한국연구재단·티머니 제재",
+     "url": "https://www.segye.com/newsView/20260129507628?OutUrl=naver"
+    },
+    {
+     "publisher": "www.kukinews.com",
+     "title": "개인정보위, 티머니‧NHN커머스‧한국연구재단 개인정보 유출 과징금 부...",
+     "url": "https://www.kukinews.com/article/view/kuk202601290074"
+    },
+    {
+     "publisher": "www.businesspost.co.kr",
+     "title": "개인정보 위 한국연구재단에 과징금 7억, 티머니에도 과징금 5억 부과",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=428468"
     }
    ],
    "target_text": "티머니 카드&페이 이용자(기사 기재)",
    "title": "크리덴셜 스터핑으로 이용자 5만여 명 정보 유출, 과징금 5억 3400만원",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 1월 29일 NHN커머스의 구형 쇼핑몰 솔루션 e나무 유출 사고에 대한 제재가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-01-29",
+     "date_text": "01.29",
+     "label": "e나무 유출 사고 제재 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "NHN커머스",
+   "reported_date": "2026-01-29",
+   "response_text": "개인정보보호위원회 제재(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-01-29-nhn-commerce-enamu",
+   "sources": [
+    {
+     "publisher": "디지털데일리",
+     "title": "NHN커머스, 구형 쇼핑몰 솔루션 'e나무' 유출 사고 제재",
+     "url": "https://www.ddaily.co.kr/page/view/2026012909334720546"
+    }
+   ],
+   "target_text": "e나무 쇼핑몰 솔루션 이용 쇼핑몰(기사 기재)",
+   "title": "구형 쇼핑몰 솔루션 'e나무' 유출 사고 제재",
+   "updated_at": "2026-11-10T10:25:26Z"
   },
   {
    "category": "hacking",
@@ -9776,11 +10241,41 @@
      "publisher": "시민일보",
      "title": "'12만명 정보 유출' 한국연구재단 과징금 7억300만원",
      "url": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291183955114"
+    },
+    {
+     "publisher": "www.nocutnews.co.kr",
+     "title": "'17만명 정보 유출' 티머니·한국연구재단 12억 과징금 철퇴",
+     "url": "https://www.nocutnews.co.kr/news/6463962"
+    },
+    {
+     "publisher": "byline.network",
+     "title": "개인정보위, 한국연구재단·티머니·엔에이치엔커머스 3곳 개인정보 유...",
+     "url": "https://byline.network/?p=9004111222591198"
+    },
+    {
+     "publisher": "www.seouleconews.com",
+     "title": null,
+     "url": "http://www.seouleconews.com/news/articleView.html?idxno=89102"
+    },
+    {
+     "publisher": "www.segye.com",
+     "title": "개인정보위, ‘17만명 개인정보 유출’ 한국연구재단·티머니 제재",
+     "url": "https://www.segye.com/newsView/20260129507628?OutUrl=naver"
+    },
+    {
+     "publisher": "www.kukinews.com",
+     "title": "개인정보위, 티머니‧NHN커머스‧한국연구재단 개인정보 유출 과징금 부...",
+     "url": "https://www.kukinews.com/article/view/kuk202601290074"
+    },
+    {
+     "publisher": "www.businesspost.co.kr",
+     "title": "개인정보 위 한국연구재단에 과징금 7억, 티머니에도 과징금 5억 부과",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=428468"
     }
    ],
    "target_text": "JAMS 회원(연구자) 약 12만명(기사 기재)",
    "title": "논문투고심사시스템(JAMS) 해킹, 연구자 12만명 정보 유출 및 과징금 부과",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -10080,6 +10575,74 @@
    "target_text": "고객 정보 포함 여부는 조사 중(기사 기재)",
    "title": "랜섬웨어 피해, 외부 유출 정황 확인 및 고객정보 포함 여부 조사",
    "updated_at": "2026-11-08T23:38:04Z"
+  },
+  {
+   "category": "misconfig",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 1월 6일 수영구 CCTV의 원격접속 상시 허용이 적발됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-01-06",
+     "date_text": "01.06",
+     "label": "CCTV 원격접속 상시 허용 적발 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "수영구",
+   "reported_date": "2026-01-06",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-01-06-suyeong-cctv",
+   "sources": [
+    {
+     "publisher": "브레이크뉴스 부산",
+     "title": "中 해킹·유출 잇따르는데… 수영구 CCTV ‘원격접속 상시 허용’ 적발",
+     "url": "https://www.viva100.com/article/20260106500028"
+    }
+   ],
+   "target_text": "수영구 CCTV(기사 기재)",
+   "title": "CCTV 원격접속 상시 허용 적발",
+   "updated_at": "2026-11-10T10:25:26Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 1월 5일 외부 해킹으로 고객 주문내역과 연락처가 노출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-01-05",
+     "date_text": "01.05",
+     "label": "외부 해킹, 고객 정보 노출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "주문내역·연락처",
+   "leaked_items_text": "주문내역, 연락처(기사 기재)",
+   "notices": [],
+   "org_name": "레저",
+   "reported_date": "2026-01-05",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-01-05-leger",
+   "sources": [
+    {
+     "publisher": "토큰포스트",
+     "title": "레저, 또 고객 정보 유출…외부 해킹에 주문내역·연락처 노출",
+     "url": "https://www.tokenpost.kr/news/blockchain/321119"
+    }
+   ],
+   "target_text": "레저 고객(기사 기재)",
+   "title": "외부 해킹으로 고객 주문내역·연락처 노출",
+   "updated_at": "2026-11-10T10:25:27Z"
   },
   {
    "category": "hacking",
@@ -10435,6 +10998,84 @@
    "updated_at": "2026-11-08T23:38:04Z"
   },
   {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 12월 5일 고3 학생 5명이 행정실에 침입해 졸업생 생활기록부를 유출했다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-12-05",
+     "date_text": "12.05",
+     "label": "행정실 침입, 졸업생 생활기록부 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "졸업생 생활기록부",
+   "leaked_items_text": "졸업생 생활기록부(기사 기재)",
+   "notices": [],
+   "org_name": "영진고등학교",
+   "reported_date": "2025-12-05",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "학생 5명 관련(기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2025-12-05-youngjin-high",
+   "sources": [
+    {
+     "publisher": "브레이크뉴스",
+     "title": "영진고 고3 학생 5명, 행정실 침입해 졸업생 생기부 무단 유출",
+     "url": "http://www.breaknews.com/1167039"
+    }
+   ],
+   "target_text": "졸업생(기사 기재)",
+   "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출",
+   "updated_at": "2026-11-10T10:25:27Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 11월 26일 PC게임 18종 사이트의 외부 해킹과 고객·임직원 정보 유출이 보도됨, 12월 4일 추가 유출 확인 보도(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-11-26",
+     "date_text": "11.26",
+     "label": "PC게임 18종 해킹, 정보 유출 보도(기사 기재)"
+    },
+    {
+     "date_iso": "2024-12-04",
+     "date_text": "12.04",
+     "label": "추가 정보 유출 확인 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "고객·임직원 정보",
+   "leaked_items_text": "고객·임직원 정보, 주민번호 포함(기사 기재)",
+   "notices": [],
+   "org_name": "넷마블",
+   "reported_date": "2025-11-26",
+   "response_text": "내부 조사 중 추가 확인(기사 기재)",
+   "scale_short": "추가 8048건 확인",
+   "scale_text": "추가 유출 8048건 확인(기사 기재)",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-11-26-netmarble",
+   "sources": [
+    {
+     "publisher": "마이데일리",
+     "title": "넷마블, PC게임 18종 뚫렸다…고객·임직원 정보 유출",
+     "url": "https://www.mydaily.co.kr/page/view/2025112616182977668"
+    },
+    {
+     "publisher": "뉴스핌",
+     "title": "[특징주] 넷마블, 추가 정보 유출 8048건 확인에 약세",
+     "url": "https://www.newspim.com/news/view/20251204000284"
+    }
+   ],
+   "target_text": "PC게임 이용자와 임직원(기사 기재)",
+   "title": "PC게임 사이트 18종 해킹, 고객·임직원 정보 유출",
+   "updated_at": "2026-11-10T10:25:27Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": "2025-11-21",
    "confirmed_text": "2024년 9월 유출 인지, 2025년 9월 고객 통지, 2025년 11월 개인정보보호위원회 처분 발표(기사 기재)",
@@ -10536,6 +11177,40 @@
    "target_text": "회원 3,322만2,472명, 비회원 정보주체 최소 433만8,368명(기사 기재)",
    "title": "전직 직원의 회원 정보 조회로 개인정보 유출, 2026년 6월 개인정보위 과징금 부과",
    "updated_at": "2026-11-08T12:28:03Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 11월 18일 해커 조직의 국내 산업계 공격으로 심텍이 피해를 입었다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-11-18",
+     "date_text": "11.18",
+     "label": "해커 조직 공격 피해 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "심텍",
+   "reported_date": "2025-11-18",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-11-18-simmtech",
+   "sources": [
+    {
+     "publisher": "디지털데일리",
+     "title": "韓 산업계로 손뻗는 해커 조직…심텍·SFA 이어 LG엔솔도 피해",
+     "url": "https://www.ddaily.co.kr/page/view/2025111815152842963"
+    }
+   ],
+   "target_text": "심텍(기사 기재)",
+   "title": "해커 조직 연쇄 공격 피해 보도",
+   "updated_at": "2026-11-10T10:25:28Z"
   },
   {
    "category": "hacking",
@@ -10754,6 +11429,40 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 10월 13일 북한 추정 해킹이 있었는데도 피해 없음으로 보고했다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-10-13",
+     "date_text": "10.13",
+     "label": "북한 추정 해킹, 피해 없음 보고 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "해양플랜트연구소",
+   "reported_date": "2025-10-13",
+   "response_text": "피해 없음으로 보고(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2025-10-13-kriso",
+   "sources": [
+    {
+     "publisher": "ZDNet Korea",
+     "title": "\"해양플랜트연구소, 북한 추정 해킹에도 '피해 없음' 보고\"",
+     "url": "https://zdnet.co.kr/view/?no=20251013094816"
+    }
+   ],
+   "target_text": "해양플랜트연구소(기사 기재)",
+   "title": "북한 추정 해킹 발생, 피해 없음으로 보고했다고 보도",
+   "updated_at": "2026-11-10T10:25:28Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2024-11-01",
    "confirmed_text": "2024년 11월 쇼핑몰 서버 랜섬웨어 감염(이투데이 기재)",
    "events": [
@@ -10785,11 +11494,31 @@
      "publisher": "이투데이",
      "title": "개인정보위, 랜섬웨어 피해 테라스타·아이스트로 제재",
      "url": "https://www.etoday.co.kr/news/view/2510161"
+    },
+    {
+     "publisher": "www.dt.co.kr",
+     "title": "개인정보위, 개인정보 보호 위반 테라스타·아이스트로에 과징금 처분",
+     "url": "https://www.dt.co.kr/article/12020240"
+    },
+    {
+     "publisher": "www.sedaily.com",
+     "title": "개인정보위, ‘개인정보 법규위반’ 테라스타·아이스트로에 과징금 등...",
+     "url": "https://www.sedaily.com/NewsView/2GY1FG6SU4"
+    },
+    {
+     "publisher": "www.ddaily.co.kr",
+     "title": "개인정보위, 테라스타·아이스트로 제재…\"개인정보보호 법규 위반\"",
+     "url": "https://www.ddaily.co.kr/page/view/2025092508162402300"
+    },
+    {
+     "publisher": "www.news1.kr",
+     "title": "개보위, '개인정보보호법 위반' 테라스타·아이스트로 제재",
+     "url": "https://www.news1.kr/politics/pm-bai-comm/5924462"
     }
    ],
    "target_text": "쇼핑몰 회원 약 900명(기사 기재)",
    "title": "랜섬웨어로 쇼핑몰 회원정보 훼손, 개인정보위 과징금",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -10824,11 +11553,31 @@
      "publisher": "이투데이",
      "title": "개인정보위, 랜섬웨어 피해 테라스타·아이스트로 제재",
      "url": "https://www.etoday.co.kr/news/view/2510161"
+    },
+    {
+     "publisher": "www.dt.co.kr",
+     "title": "개인정보위, 개인정보 보호 위반 테라스타·아이스트로에 과징금 처분",
+     "url": "https://www.dt.co.kr/article/12020240"
+    },
+    {
+     "publisher": "www.sedaily.com",
+     "title": "개인정보위, ‘개인정보 법규위반’ 테라스타·아이스트로에 과징금 등...",
+     "url": "https://www.sedaily.com/NewsView/2GY1FG6SU4"
+    },
+    {
+     "publisher": "www.ddaily.co.kr",
+     "title": "개인정보위, 테라스타·아이스트로 제재…\"개인정보보호 법규 위반\"",
+     "url": "https://www.ddaily.co.kr/page/view/2025092508162402300"
+    },
+    {
+     "publisher": "www.news1.kr",
+     "title": "개보위, '개인정보보호법 위반' 테라스타·아이스트로 제재",
+     "url": "https://www.news1.kr/politics/pm-bai-comm/5924462"
     }
    ],
    "target_text": "임직원과 거래처 담당자 1991명(기사 기재)",
    "title": "랜섬웨어 감염, 개인정보위 과태료",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "insider",
@@ -10907,11 +11656,84 @@
      "publisher": "인사이트",
      "title": "질병관리청서도 개인정보 유출 사고 발생",
      "url": "https://www.insight.co.kr/news/521428"
+    },
+    {
+     "publisher": "www.jbnews.com",
+     "title": "오송 질병관리청도 국민 건강 영양조사 참여자 48명 개인정보 유출",
+     "url": "https://www.jbnews.com/news/articleView.html?idxno=1490728"
     }
    ],
    "target_text": "국민건강영양조사 대상자 48명(기사 기재)",
    "title": "국민건강영양조사 결과지 문자 오발송으로 48명 정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-10T09:35:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 9월 16일 GJ텍의 랜섬웨어 감염이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-09-16",
+     "date_text": "09.16",
+     "label": "랜섬웨어 감염 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "GJ텍",
+   "reported_date": "2025-09-16",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-09-16-gjtech",
+   "sources": [
+    {
+     "publisher": "데일리브리프",
+     "title": "[단독] GJ텍, 랜섬웨어 감염···미래에셋-KB-한화운용 등은?",
+     "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=3333"
+    }
+   ],
+   "target_text": "GJ텍(기사 기재)",
+   "title": "랜섬웨어 감염",
+   "updated_at": "2026-11-10T10:25:29Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 9월 10일 빅데이터 기업 텍스톰의 고객정보 대규모 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-09-10",
+     "date_text": "09.10",
+     "label": "고객정보 대규모 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객정보",
+   "leaked_items_text": "고객정보(기사 기재)",
+   "notices": [],
+   "org_name": "텍스톰",
+   "reported_date": "2025-09-10",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "대규모(건수 미공개)",
+   "scale_text": "대규모(기사 기재)",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-09-10-textom",
+   "sources": [
+    {
+     "publisher": "브레이크뉴스 서울",
+     "title": "[단독] 빅데이터 기업 텍스톰, 고객정보 대규모 유출",
+     "url": "https://www.viva100.com/article/20250911500011"
+    }
+   ],
+   "target_text": "텍스톰 고객(기사 기재)",
+   "title": "빅데이터 기업 고객정보 대규모 유출",
+   "updated_at": "2026-11-10T10:25:29Z"
   },
   {
    "category": "hacking",
@@ -11054,11 +11876,21 @@
      "publisher": "TJB",
      "title": "예스24, SGI 이어 웰컴금융에도 해킹 공격, 1TB 규모 탈취 주장",
      "url": "http://www.tjb.co.kr/sub0301/bodo/view/id/82087"
+    },
+    {
+     "publisher": "www.sisajournal.com",
+     "title": "SGI서울보증 이어 웰컴금융그룹까지…해커에 뚫린 금융권 보안망",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=343494"
+    },
+    {
+     "publisher": "www.khan.co.kr",
+     "title": "SGI서울보증 이어 웰컴금융그룹까지…금융권, ‘ 랜섬웨어 공격’에 또 ...",
+     "url": "https://www.khan.co.kr/article/202508181947001"
     }
    ],
    "target_text": "계열 대부업체 웰릭스에프앤아이대부(기사 기재)",
    "title": "계열 대부업체 랜섬웨어 공격, 내부 정보 유출",
-   "updated_at": "2026-11-08T22:32:59Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -11108,11 +11940,21 @@
      "publisher": "SBS",
      "title": "서울보증, 최근 해킹 피해 79건 중 24 건 인용…1천190만 원 보상",
      "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008269822&plink=ORI"
+    },
+    {
+     "publisher": "www.sisajournal.com",
+     "title": "SGI서울보증 이어 웰컴금융그룹까지…해커에 뚫린 금융권 보안망",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=343494"
+    },
+    {
+     "publisher": "www.khan.co.kr",
+     "title": "SGI서울보증 이어 웰컴금융그룹까지…금융권, ‘ 랜섬웨어 공격’에 또 ...",
+     "url": "https://www.khan.co.kr/article/202508181947001"
     }
    ],
    "target_text": "고객 정보 유출 여부 미확인, 서비스 장애 피해 고객 79건 접수(기사 기재)",
    "title": "랜섬웨어 공격으로 전산 장애, 해킹 조직의 13.2TB 탈취 주장",
-   "updated_at": "2026-11-08T22:32:59Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -11152,11 +11994,286 @@
      "publisher": "ZDNet Korea",
      "title": "예스24 또 속였나? 1차 해킹 때 백업망도 랜섬웨어 감염",
      "url": "https://zdnet.co.kr/view/?no=20250814162307"
+    },
+    {
+     "publisher": "www.ajunews.com",
+     "title": "예스24 , 두달만에 또 랜섬웨어 해킹…KISA, 현장 기술지원 착수",
+     "url": "https://www.ajunews.com/view/20250811103810152"
+    },
+    {
+     "publisher": "www.slist.kr",
+     "title": "예스24 , ' 랜섬웨어 해킹' 7시간 만에 서비스 재개…\"KISA 신고 완료\"",
+     "url": "https://www.slist.kr/news/articleView.html?idxno=668019"
+    },
+    {
+     "publisher": "www.widedaily.com",
+     "title": "예스24 , 6시간 만에 서버 복구…\" KISA 신고·보안 점검 조치 중\"",
+     "url": "https://www.widedaily.com/news/articleView.html?idxno=274924"
+    },
+    {
+     "publisher": "www.seouleconews.com",
+     "title": "예스24 , 두달 만에 또 랜섬웨어 공격…서비스 전면 중단",
+     "url": "http://www.seouleconews.com/news/articleView.html?idxno=85511"
+    },
+    {
+     "publisher": "www.edaily.co.kr",
+     "title": "예스24 , 랜섬웨어 공격 7시간 만에 서비스 복구",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=03325926642266336"
+    },
+    {
+     "publisher": "news.kbs.co.kr",
+     "title": "예스24 , 2차 해킹 7시간 만에 서비스 재개…KISA 현장조사 중",
+     "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8326920"
+    },
+    {
+     "publisher": "imnews.imbc.com",
+     "title": "랜섬웨어 해킹 ' 예스24 ' 7시간만에 복구",
+     "url": "https://imnews.imbc.com/news/2025/econo/article/6744544_36737.html"
+    },
+    {
+     "publisher": "www.newsis.com",
+     "title": "예스24 , 6시간 만에 서버 복구…\" KISA 신고·보안 점검 조치 중\"(종합2보...",
+     "url": "https://www.newsis.com/view/NISX20250811_0003285882"
+    },
+    {
+     "publisher": "www.gametoc.co.kr",
+     "title": "예스24 , 두 달 만에 또 '해킹' 먹통 ... 랜섬웨어 공격",
+     "url": "https://www.gametoc.co.kr/news/articleView.html?idxno=100567"
+    },
+    {
+     "publisher": "www.metroseoul.co.kr",
+     "title": "랜섬웨어 당한 예스24 , \"현재 서비스 정상 이용 가능\"...KISA 신고도 완료",
+     "url": "http://www.metroseoul.co.kr/article/20250811500241"
+    },
+    {
+     "publisher": "zdnet.co.kr",
+     "title": "‘두 달만에 다시 먹통’ 예스24 , 홈페이지 복구",
+     "url": "https://zdnet.co.kr/view/?no=20250811115517"
+    },
+    {
+     "publisher": "news.jtbc.co.kr",
+     "title": "예스24 , 두 달 만에 또 당했다… 랜섬웨어 감염 재발 우려 현실로",
+     "url": "https://news.jtbc.co.kr/article/NB12258295?influxDiv=NAVER"
+    },
+    {
+     "publisher": "www.itdaily.kr",
+     "title": "예스24 , 해킹 두 달 만에 ' 랜섬웨어 '로 또 서버 먹통",
+     "url": "http://www.itdaily.kr/news/articleView.html?idxno=234722"
+    },
+    {
+     "publisher": "www.yonhapnewstv.co.kr",
+     "title": "KISA, ' 랜섬웨어 해킹' 예스24 현장조사 착수",
+     "url": "http://www.yonhapnewstv.co.kr/MYH20250811122215124"
+    },
+    {
+     "publisher": "www.tokenpost.kr",
+     "title": "예스24 또 접속대란…두 달 만에 온라인 서비스 마비",
+     "url": "https://www.tokenpost.kr/news/society/275433"
+    },
+    {
+     "publisher": "biz.sbs.co.kr",
+     "title": "' 랜섬웨어 공격' 예스24 , 7시간만에 국내 서비스 복구…해외는 아직",
+     "url": "https://biz.sbs.co.kr/article_hub/20000252553?division=NAVER"
+    },
+    {
+     "publisher": "www.boannews.com",
+     "title": "KISA, 예스24 2차 랜섬웨어 조사 착수...“기존 조치 상황도 면밀히 살피...",
+     "url": "http://www.boannews.com/media/view.asp?idx=138652&kind="
+    },
+    {
+     "publisher": "www.ntoday.co.kr",
+     "title": "또 다시 전면 마비 예스24 …6월 랜섬웨어 사태 이후 두 달만",
+     "url": "https://www.ntoday.co.kr/news/articleView.html?idxno=118270"
+    },
+    {
+     "publisher": "www.hg-times.com",
+     "title": "예스24 , 2개월 만에 또 해킹...\" 랜섬웨어 공격\"",
+     "url": "http://www.hg-times.com/news/articleView.html?idxno=274440"
+    },
+    {
+     "publisher": "news.bizwatch.co.kr",
+     "title": "예스24 , 두 달만에 또 해킹…KISA 현장조사",
+     "url": "http://news.bizwatch.co.kr/article/mobile/2025/08/11/0015"
+    },
+    {
+     "publisher": "news.mt.co.kr",
+     "title": "\"또 랜섬웨어 \" 예스24 , 복구 2달만에 '먹통'…복구 시점 기약없어",
+     "url": "http://news.mt.co.kr/mtview.php?no=2025081110431067476"
+    },
+    {
+     "publisher": "www.boannews.com",
+     "title": "예스24 , 두달 만에 또 랜섬웨어 공격...“시스템 긴급 차단 후 복구 중”",
+     "url": "http://www.boannews.com/media/view.asp?idx=138650&kind="
+    },
+    {
+     "publisher": "www.news1.kr",
+     "title": "예스24 , 두 달 만에 또 먹통…\" 랜섬웨어 공격 여부 파악 중\"",
+     "url": "https://www.news1.kr/life-culture/book/5875541"
+    },
+    {
+     "publisher": "isplus.com",
+     "title": "예스24 , 두 달 만에 또 먹통…\"서비스 긴급 차단\"",
+     "url": "https://isplus.com/article/view/isp202508110067"
+    },
+    {
+     "publisher": "www.thefairnews.co.kr",
+     "title": "예스24 , 랜섬웨어 '호구' 됐나...복구 2달만에 또 공격당해",
+     "url": "https://www.thefairnews.co.kr/news/articleView.html?idxno=53676"
+    },
+    {
+     "publisher": "www.fnnews.com",
+     "title": "예스24 두 달 만에 또 해킹.. KISA, 현장조사 착수",
+     "url": "http://www.fnnews.com/news/202508111104364968"
+    },
+    {
+     "publisher": "www.seoulwire.com",
+     "title": "두 달 만에 또 뚫린 예스24 … 랜섬웨어 악몽 재현",
+     "url": "http://www.seoulwire.com/news/articleView.html?idxno=665058"
+    },
+    {
+     "publisher": "www.edaily.co.kr",
+     "title": "두달 만에 또 해킹, 예스24 사과문 게재…\"심려끼쳐 죄송\"",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=02942166642266336"
+    },
+    {
+     "publisher": "www.celuvmedia.com",
+     "title": "[셀럽이슈] 예스24 , 2개월만 또 먹통…'해킹사태' 악몽 재현되나",
+     "url": "http://www.celuvmedia.com/article.php?aid=1754875932504874006"
+    },
+    {
+     "publisher": "www.pinpointnews.co.kr",
+     "title": "\"내 전자책 어쩌나\"... 예스24 , '또' 랜섬웨어 해킹당했다",
+     "url": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=367284"
+    },
+    {
+     "publisher": "www.joongang.co.kr",
+     "title": "두 달 만에 또 먹통된 예스24 , 이번에도 랜섬웨어 공격 당해",
+     "url": "https://www.joongang.co.kr/article/25358129"
+    },
+    {
+     "publisher": "www.thepowernews.co.kr",
+     "title": "KISA, 두 달 만에 또 랜섬웨어 피해 입은 예스24 현장 조사 착수",
+     "url": "https://www.thepowernews.co.kr/view.php?ud=202508111055234756de3f0aa1be_7"
+    },
+    {
+     "publisher": "zdnet.co.kr",
+     "title": "KISA, 예스24 '2회차' 랜섬웨어 현장조사 착수",
+     "url": "https://zdnet.co.kr/view/?no=20250811105807"
+    },
+    {
+     "publisher": "biz.sbs.co.kr",
+     "title": "두달만에 또 먹통… 예스24 \" 랜섬웨어 공격받아 복구 중\"",
+     "url": "https://biz.sbs.co.kr/article_hub/20000252501?division=NAVER"
+    },
+    {
+     "publisher": "www.kado.net",
+     "title": "예스24 , 두달 만에 또 랜섬웨어 공격…서비스 전면 중단",
+     "url": "https://www.kado.net/news/articleView.html?idxno=1327612"
+    },
+    {
+     "publisher": "www.slist.kr",
+     "title": "KISA, 예스24 현장조사 착수…두달만에 또 랜섬웨어 공격",
+     "url": "https://www.slist.kr/news/articleView.html?idxno=667959"
+    },
+    {
+     "publisher": "www.newsfc.co.kr",
+     "title": "예스24 해킹 두달 만에 또 먹통…\"해커 먹잇감 전락\"",
+     "url": "http://www.newsfc.co.kr/news/articleView.html?idxno=73090"
+    },
+    {
+     "publisher": "www.hansbiz.co.kr",
+     "title": "예스24 , 또 다시 랜섬웨어 로 서비스 마비...두 달 만에 보안사고 재발",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=767775"
+    },
+    {
+     "publisher": "biz.chosun.com",
+     "title": "예스24 또 해킹…KISA, 현장조사 착수",
+     "url": "https://biz.chosun.com/it-science/ict/2025/08/11/Y7BPBE6FJFCULIYASFYP6SSMUE/"
+    },
+    {
+     "publisher": "it.chosun.com",
+     "title": "예스24 , 랜섬웨어 해킹 두 달 만에 또 먹통",
+     "url": "https://it.chosun.com/news/articleView.html?idxno=2023092145580"
+    },
+    {
+     "publisher": "www.newstree.kr",
+     "title": "' 예스24 ' 또 먹통...해킹 두달만에 또 ' 랜섬웨어 '",
+     "url": "https://www.newstree.kr/newsView/ntr202508110007"
+    },
+    {
+     "publisher": "www.etoday.co.kr",
+     "title": "예스24 , 두 달 만에 또 랜섬웨어 ‘먹통’",
+     "url": "https://www.etoday.co.kr/news/view/2495912"
+    },
+    {
+     "publisher": "www.ddaily.co.kr",
+     "title": "두 달 만에 악몽 재현… 예스24 , 랜섬웨어 공격으로 서비스 접속 불가",
+     "url": "https://www.ddaily.co.kr/page/view/2025081110403843790"
+    },
+    {
+     "publisher": "www.yonhapnewstv.co.kr",
+     "title": "KISA, '두달 만에 또 해킹' 예스24 현장조사 착수",
+     "url": "http://www.yonhapnewstv.co.kr/AKR20250811103408663"
+    },
+    {
+     "publisher": "www.yna.co.kr",
+     "title": "KISA, ' 랜섬웨어 해킹' 예스24 현장조사 착수",
+     "url": "https://www.yna.co.kr/view/AKR20250811053900017?input=1195m"
+    },
+    {
+     "publisher": "www.osen.co.kr",
+     "title": "예스24 , 먹통 원인 밝혀졌다..“외부 랜섬웨어 공격, 서비스 복구 중”...",
+     "url": "http://www.osen.co.kr/article/G1112632886"
+    },
+    {
+     "publisher": "www.kyeonggi.com",
+     "title": "예스24 , 해킹 두 달 만에 또 먹통… 랜섬웨어 공격·복구 중",
+     "url": "https://www.kyeonggi.com/article/20250811580036"
+    },
+    {
+     "publisher": "news.mtn.co.kr",
+     "title": "예스24 홈페이지 또 먹통…\"원인 파악 중\"",
+     "url": "https://news.mtn.co.kr/news-detail/2025081110105045665"
+    },
+    {
+     "publisher": "imnews.imbc.com",
+     "title": "' 예스24 ' 두 달만에 다시 해킹 공격 먹통‥현장조사 착수",
+     "url": "https://imnews.imbc.com/news/2025/econo/article/6744463_36737.html"
+    },
+    {
+     "publisher": "www.newslock.co.kr",
+     "title": "예스24 , 두 달 만에 또 접속 장애…\"원인 파악 중\"",
+     "url": "http://www.newslock.co.kr/news/articleView.html?idxno=113594"
+    },
+    {
+     "publisher": "www.slist.kr",
+     "title": "예스24 \" 랜섬웨어 공격으로 접속 불가, 백업 데이터로 서비스 복구중\"",
+     "url": "https://www.slist.kr/news/articleView.html?idxno=667952"
+    },
+    {
+     "publisher": "www.kookje.co.kr",
+     "title": "두달 만에 또 먹통… 예스24 “서비스 접속 원활하지 않아”",
+     "url": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20250811.99099002490"
+    },
+    {
+     "publisher": "www.ytn.co.kr",
+     "title": "예스24 , 해킹 두 달 만에 또 접속 오류",
+     "url": "https://www.ytn.co.kr/_ln/0106_202508110958155104"
+    },
+    {
+     "publisher": "www.mk.co.kr",
+     "title": "“또 먹통이네”... 두 달 전 해킹당한 예스24 접속 오류 “원인 파악 중...",
+     "url": "https://www.mk.co.kr/article/11390294"
+    },
+    {
+     "publisher": "www.inews24.com",
+     "title": "\"두달 만에 또\"… 예스24 , 홈페이지 접속장애 재발",
+     "url": "http://www.inews24.com/view/1874913"
     }
    ],
    "target_text": "예스24 홈페이지·앱 이용자(기사 기재)",
    "title": "랜섬웨어 재공격으로 홈페이지·앱 약 7시간 중단(2차, 8월)",
-   "updated_at": "2026-11-08T22:32:59Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -11204,6 +12321,45 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 7월 24일 해킹 공격과 관련해 해성디에스와 전남테크노파크에 과징금 4억원이 부과됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-07-24",
+     "date_text": "07.24",
+     "label": "과징금 4억원 부과 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "해성디에스·전남테크노파크",
+   "reported_date": "2025-07-24",
+   "response_text": "과징금 4억원 부과(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2025-07-24-haesung-ds-jntp",
+   "sources": [
+    {
+     "publisher": "TV조선",
+     "title": "'해킹 공격' 해성디에스·전남테크노파크에 과징금 4억",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2025/07/24/2025072490131.html"
+    },
+    {
+     "publisher": "더벨",
+     "title": "[더벨][Sanction Radar]'반도체 부품' 해성디에스, 해킹사고 과징금 부과",
+     "url": "https://www.thebell.co.kr/free/content/ArticleView.asp?key=202507241746368040102536"
+    }
+   ],
+   "target_text": "해성디에스, 전남테크노파크(기사 기재)",
+   "title": "해킹 공격 관련 과징금 4억 부과",
+   "updated_at": "2026-11-10T10:25:29Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2025-06-23",
    "confirmed_text": "6월 23일 비정상 접근 인지, 6월 26일 개인정보위 신고(기사 기재)",
    "events": [
@@ -11245,6 +12401,113 @@
    "target_text": "글로벌 인터파크 예약 이용자(기사 기재)",
    "title": "글로벌 인터파크 예약내역 조회 기능 비정상 접근",
    "updated_at": "2026-11-09T03:11:35Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 30일 써브웨이의 고객 정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-30",
+     "date_text": "06.30",
+     "label": "고객 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 정보",
+   "leaked_items_text": "고객 정보(기사 기재)",
+   "notices": [],
+   "org_name": "써브웨이",
+   "reported_date": "2025-06-30",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-06-30-subway-korea",
+   "sources": [
+    {
+     "publisher": "뉴스페이퍼",
+     "title": "[식품·유통 업계동향]또 터진 정보유출 사각지대 ‘써브웨이’ 너마저...",
+     "url": "https://www.nspna.com/news/?mode=view&newsid=763560"
+    }
+   ],
+   "target_text": "써브웨이 고객(기사 기재)",
+   "title": "고객 정보 유출 사고",
+   "updated_at": "2026-11-10T10:25:30Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 26일 한국파파존스의 고객 정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-26",
+     "date_text": "06.26",
+     "label": "고객 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 정보",
+   "leaked_items_text": "고객 정보(기사 기재)",
+   "notices": [],
+   "org_name": "한국파파존스",
+   "reported_date": "2025-06-26",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-06-26-papa-johns-korea",
+   "sources": [
+    {
+     "publisher": "디지털데일리",
+     "title": "[DD퇴근길] 연이은 고객 정보 유출…한국파파존스도 뚫렸다",
+     "url": "https://www.ddaily.co.kr/page/view/2025062616375169133"
+    },
+    {
+     "publisher": "일요신문",
+     "title": "피자 주문했을 뿐인데…파파존스 고객 정보 얼마나 유출됐나",
+     "url": "https://ilyo.co.kr/?ac=article_view&entry_id=494942"
+    }
+   ],
+   "target_text": "한국파파존스 고객(기사 기재)",
+   "title": "고객 정보 유출 사고",
+   "updated_at": "2026-11-10T10:25:30Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 26일 머스트잇의 고객 정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-26",
+     "date_text": "06.26",
+     "label": "고객 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 정보",
+   "leaked_items_text": "고객 정보(기사 기재)",
+   "notices": [],
+   "org_name": "머스트잇",
+   "reported_date": "2025-06-26",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-06-26-mustit",
+   "sources": [
+    {
+     "publisher": "이데일리",
+     "title": "‘머스트잇’서도 고객 정보 유출…잇따르는 보안사고 우려",
+     "url": "http://www.edaily.co.kr/news/newspath.asp?newsid=04424726642205656"
+    }
+   ],
+   "target_text": "머스트잇 고객(기사 기재)",
+   "title": "고객 정보 유출 사고",
+   "updated_at": "2026-11-10T10:37:21Z"
   },
   {
    "category": "unknown",
@@ -11335,6 +12598,108 @@
    "updated_at": "2026-11-08T22:32:59Z"
   },
   {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 9일 랜섬웨어 조직 나이트스파이어의 지속적인 공격이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-09",
+     "date_text": "06.09",
+     "label": "랜섬웨어 조직의 지속 공격 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "쿼드마이너",
+   "reported_date": "2025-06-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-06-09-quadminer",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "랜섬웨어 조직 '나이트스파이어', 한국 보안기업 '쿼드마이너'에 지속적 공격",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=166729"
+    }
+   ],
+   "target_text": "쿼드마이너(기사 기재)",
+   "title": "랜섬웨어 조직의 지속 공격 피해",
+   "updated_at": "2026-11-10T10:37:22Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 3일 넥써쓰 대표가 가상자산 해킹에 대해 입장을 밝혔다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-03",
+     "date_text": "06.03",
+     "label": "가상자산 해킹 관련 대표 발언 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "가상자산",
+   "leaked_items_text": "가상자산(기사 기재)",
+   "notices": [],
+   "org_name": "넥써쓰",
+   "reported_date": "2025-06-03",
+   "response_text": "대표 입장 표명(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2025-06-03-nexus",
+   "sources": [
+    {
+     "publisher": "디지털타임스",
+     "title": "가상자산 해킹에 입 연 장현국 넥써쓰 대표 \"기술보다는 사람 부주의\"",
+     "url": "https://www.dt.co.kr/contents.html?article_no=2025060402101231065001"
+    }
+   ],
+   "target_text": "넥써쓰 가상자산(기사 기재)",
+   "title": "가상자산 해킹 사고",
+   "updated_at": "2026-11-10T10:37:22Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 5월 26일 KB라이프 임직원 정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-05-26",
+     "date_text": "05.26",
+     "label": "임직원 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "임직원 정보",
+   "leaked_items_text": "임직원 정보(기사 기재)",
+   "notices": [],
+   "org_name": "KB라이프",
+   "reported_date": "2025-05-26",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2025-05-26-kb-life",
+   "sources": [
+    {
+     "publisher": "전자신문",
+     "title": "[단독] 보험사도 뚫렸다…KB라이프, 임직원 정보 유출",
+     "url": "https://www.etnews.com/20250526000344"
+    }
+   ],
+   "target_text": "KB라이프 임직원(기사 기재)",
+   "title": "임직원 정보 유출",
+   "updated_at": "2026-11-10T10:37:22Z"
+  },
+  {
    "category": "vendor",
    "confirmed_date": "2025-05-20",
    "confirmed_text": "2025년 5월 20일 금융감독원이 금융보안원 점검 결과 발표(기사 기재)",
@@ -11380,6 +12745,40 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 5월 7일 CJ올리브네트웍스 인증서 탈취와 북한 김수키 의심이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-05-07",
+     "date_text": "05.07",
+     "label": "인증서 탈취 피해 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "인증서",
+   "leaked_items_text": "인증서(기사 기재)",
+   "notices": [],
+   "org_name": "CJ올리브네트웍스",
+   "reported_date": "2025-05-07",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-05-07-cj-olivenetworks",
+   "sources": [
+    {
+     "publisher": "뉴스1",
+     "title": "CJ올리브네트웍스 인증서도 털렸다…北해킹조직 '김수키' 의심",
+     "url": "https://www.news1.kr/it-science/general-it/5775575"
+    }
+   ],
+   "target_text": "CJ올리브네트웍스 인증서(기사 기재)",
+   "title": "인증서 탈취 피해, 북한 김수키 의심 보도",
+   "updated_at": "2026-11-10T10:37:23Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2025-04-30",
    "confirmed_text": "4월 30일경 이력서 미리보기 페이지에서 해킹 시도 감지, 차단 과정에서 유출 확인(기사 기재)",
    "events": [
@@ -11421,11 +12820,16 @@
      "publisher": "톱스타뉴스",
      "title": "해킹 피해 알바몬, 개인정보 유출 보상 10만 원",
      "url": "https://www.topstarnews.net/news/articleView.html?idxno=15671628"
+    },
+    {
+     "publisher": "kpenews.com",
+     "title": "GS리테일 ·SKT 이어 알바몬도 해킹.. 개인 이력서 정보 2만여건 유출",
+     "url": "http://kpenews.com/View.aspx?No=3634792"
     }
    ],
    "target_text": "임시저장 이력서를 가진 회원(기사 기재)",
    "title": "해킹으로 임시저장 이력서 개인정보 유출",
-   "updated_at": "2026-11-08T22:32:59Z"
+   "updated_at": "2026-11-10T09:35:24Z"
   },
   {
    "category": "hacking",
@@ -11465,6 +12869,40 @@
    "target_text": "고객 개인정보 보유 전산시스템(기사 기재)",
    "title": "전산시스템 악성코드 감염, 고객정보 유출 가능성 배제 못함",
    "updated_at": "2026-11-09T03:11:35Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 4월 11일 클래스유와 케이티알파의 정보 유출 제재가 보도됨, 자동화 공격 방어가 미흡했다고 보도(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-04-11",
+     "date_text": "04.11",
+     "label": "160만명 유출 제재 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "이용자 정보",
+   "leaked_items_text": "이용자 정보(기사 기재)",
+   "notices": [],
+   "org_name": "클래스유·케이티알파",
+   "reported_date": "2025-04-11",
+   "response_text": "개인정보 보호 관련 제재(기사 기재)",
+   "scale_short": "160만명",
+   "scale_text": "160만명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-04-11-classu-ktalpha",
+   "sources": [
+    {
+     "publisher": "데일리팝",
+     "title": "160만명 유출 클래스유·케이티알파 제재…\"자동화 공격 방어 미흡\"",
+     "url": "http://www.dailypop.kr/news/articleView.html?idxno=86324"
+    }
+   ],
+   "target_text": "클래스유·케이티알파 이용자(기사 기재)",
+   "title": "160만명 유출 제재, 자동화 공격 방어 미흡",
+   "updated_at": "2026-11-10T10:37:23Z"
   },
   {
    "category": "hacking",
@@ -11509,6 +12947,50 @@
    "target_text": "회원 및 비회원(기사 기재)",
    "title": "웹셸 공격으로 약 306만 명 개인정보 유출, 과징금 부과",
    "updated_at": "2026-11-09T03:11:35Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 3월 7일 위믹스 90억원 규모 해킹이 보도됨, 5월 말 상장폐지가 확정됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-03-07",
+     "date_text": "03.07",
+     "label": "위믹스 90억원 해킹 보도(기사 기재)"
+    },
+    {
+     "date_iso": "2024-05-30",
+     "date_text": "05.30",
+     "label": "상장폐지 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "가상자산 약 90억원",
+   "leaked_items_text": "위믹스 가상자산(기사 기재)",
+   "notices": [],
+   "org_name": "위메이드(위믹스)",
+   "reported_date": "2025-03-07",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "약 90억원",
+   "scale_text": "약 90억원(기사 기재)",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-05-23-wemix-2025",
+   "sources": [
+    {
+     "publisher": "이사이언스",
+     "title": "위믹스 90억 해킹…위메이드, 또다시 상장폐지 위기",
+     "url": "https://www.e-science.co.kr/news/articleView.html?idxno=102896"
+    },
+    {
+     "publisher": "리걸타임즈",
+     "title": "'해킹 사고' 위믹스 결국 상장폐지",
+     "url": "http://www.legaltimes.co.kr/news/articleView.html?idxno=86897"
+    }
+   ],
+   "target_text": "위믹스(기사 기재)",
+   "title": "위믹스 90억원 규모 해킹 피해, 상장폐지",
+   "updated_at": "2026-11-10T10:37:23Z"
   },
   {
    "category": "hacking",
@@ -11617,6 +13099,40 @@
    "target_text": "GS샵 회원, GS25 회원(기사 기재)",
    "title": "GS샵·GS25 대량 로그인 시도로 회원정보 유출, 개인정보위 과징금",
    "updated_at": "2026-11-08T22:32:59Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 2월 12일 신성델타테크의 랜섬웨어 피해와 자회사 데이터 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-02-12",
+     "date_text": "02.12",
+     "label": "랜섬웨어 피해, 자회사 데이터 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "자회사 데이터",
+   "leaked_items_text": "자회사 데이터(기사 기재)",
+   "notices": [],
+   "org_name": "신성델타테크",
+   "reported_date": "2025-02-12",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-02-12-sungshin-deltatech",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "[단독] 신성델타테크, 랜섬웨어 피해… \"자회사 데이터 유출\"",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=519777"
+    }
+   ],
+   "target_text": "신성델타테크와 자회사(기사 기재)",
+   "title": "랜섬웨어 피해, 자회사 데이터 유출",
+   "updated_at": "2026-11-10T10:37:24Z"
   }
  ],
  "schema_version": 1

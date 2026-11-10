@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 4월 4일 국제 랜섬웨어 조직의 현대엘리베이터 공격과 이후 6곳 추가 공격이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-04-04",
+   "date_text": "04.04",
+   "label": "랜섬웨어 조직 공격 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "현대엘리베이터",
+ "reported_date": "2026-04-04",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-04-hyundai-elevator",
+ "sources": [
+  {
+   "publisher": "디지털데일리",
+   "title": "\"현대엘리베이터 털고 6곳 더\"…국제 랜섬웨어 조직의 겁 없는 행보",
+   "url": "https://www.ddaily.co.kr/page/view/2026040410252135396"
+  }
+ ],
+ "target_text": "현대엘리베이터(기사 기재)",
+ "title": "랜섬웨어 조직 공격 피해, 이후 6곳 추가 공격 보도",
+ "updated_at": "2026-11-10T09:43:09Z"
+}
