@@ -2,6 +2,50 @@
  "incidents": [
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 10일 금융보안원 상시평가 지원 시스템 해킹 정황과 정보 유출이 보도됨. 데일리시큐는 금융보안원이 내부자료 유출이 확인된 기업에 개별 연락 중이라는 금융권 제보를 전함(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "금융보안원 해킹으로 정보 유출 속보 보도(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "상시평가 지원 시스템 해킹 정황, 유출 기업 통보 중 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "금융사 내부자료(범위 미확인)",
+   "leaked_items_text": "금융사 내부자료(기사 기재). 침해 대상 시스템, 공격 경로, 유출 자료와 개인정보의 범위는 기사에서 확인되지 않았다고 명시됨",
+   "notices": [],
+   "org_name": "금융보안원",
+   "reported_date": "2026-11-10",
+   "response_text": "내부자료 유출이 확인된 기업에 개별 통보 중(금융권 제보, 기사 기재). 금융보안원과는 연락이 닿지 않았다고 보도됨",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-10-fsec-evaluation-system",
+   "sources": [
+    {
+     "publisher": "연합뉴스",
+     "title": "[1보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
+     "url": "https://www.yna.co.kr/view/AKR20261110173700002"
+    },
+    {
+     "publisher": "데일리시큐",
+     "title": "[단독] 금융보안원 상시평가시스템 해킹 정황...금융사 내부정보 유출 기업에 통보 중인 것으로 확인",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209438"
+    }
+   ],
+   "target_text": "금융보안원 상시평가 지원 시스템, 금융사 내부자료(기사 기재)",
+   "title": "상시평가 지원 시스템 해킹 정황, 내부자료 유출 기업에 통보 중으로 보도",
+   "updated_at": "2026-11-10T11:53:47Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2026-11-03",
    "confirmed_text": "11월 3일 수사기관이 악성코드 감염 의심과 유출 가능성을 대학에 통보(기사 기재)",
    "events": [
@@ -9595,7 +9639,7 @@
    ],
    "target_text": "현대엘리베이터(기사 기재)",
    "title": "랜섬웨어 조직 공격 피해, 이후 6곳 추가 공격 보도",
-   "updated_at": "2026-11-10T09:43:09Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "insider",
@@ -9629,7 +9673,7 @@
    ],
    "target_text": "국토교통부 문서(기사 기재)",
    "title": "중요 문서 대량 유출, 세종시 쓰레기장 조사로 확인",
-   "updated_at": "2026-11-10T10:25:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "unknown",
@@ -9668,7 +9712,7 @@
    ],
    "target_text": "공무원(기사 기재)",
    "title": "공무원 정보 유출로 과징금 총 9억여 원 부과",
-   "updated_at": "2026-11-10T10:25:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -9707,7 +9751,7 @@
    ],
    "target_text": "고객(기사 기재)",
    "title": "리드코프 자회사 해킹, 고객정보 8만~9만명 유출 보도",
-   "updated_at": "2026-11-10T10:25:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "misconfig",
@@ -9878,7 +9922,7 @@
    ],
    "target_text": "AJ네트웍스(기사 기재)",
    "title": "관리형 서비스 업체 해킹 사고",
-   "updated_at": "2026-11-10T10:25:24Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "insider",
@@ -9912,7 +9956,7 @@
    ],
    "target_text": "국세청 압류 가상자산(기사 기재)",
    "title": "압류 코인 비밀번호 유출, 하루 만에 거액 유출",
-   "updated_at": "2026-11-10T10:25:24Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -9946,7 +9990,7 @@
    ],
    "target_text": "성우(기사 기재)",
    "title": "2차전지 부품 제조사 랜섬웨어 해킹 피해",
-   "updated_at": "2026-11-10T10:25:24Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -9980,7 +10024,7 @@
    ],
    "target_text": "피에스테크놀러지(기사 기재)",
    "title": "랜섬웨어 조직 킬린에 정보 유출",
-   "updated_at": "2026-11-10T10:25:25Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -10014,7 +10058,7 @@
    ],
    "target_text": "율곡, KAI 협력 문서(기사 기재)",
    "title": "항공기 부품업체 해킹 정황, KAI 협력 문서 외부 노출 우려",
-   "updated_at": "2026-11-10T10:25:25Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -10196,7 +10240,7 @@
    ],
    "target_text": "e나무 쇼핑몰 솔루션 이용 쇼핑몰(기사 기재)",
    "title": "구형 쇼핑몰 솔루션 'e나무' 유출 사고 제재",
-   "updated_at": "2026-11-10T10:25:26Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -10608,7 +10652,7 @@
    ],
    "target_text": "수영구 CCTV(기사 기재)",
    "title": "CCTV 원격접속 상시 허용 적발",
-   "updated_at": "2026-11-10T10:25:26Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -10642,7 +10686,7 @@
    ],
    "target_text": "레저 고객(기사 기재)",
    "title": "외부 해킹으로 고객 주문내역·연락처 노출",
-   "updated_at": "2026-11-10T10:25:27Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -11029,7 +11073,7 @@
    ],
    "target_text": "졸업생(기사 기재)",
    "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출",
-   "updated_at": "2026-11-10T10:25:27Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -11073,7 +11117,7 @@
    ],
    "target_text": "PC게임 이용자와 임직원(기사 기재)",
    "title": "PC게임 사이트 18종 해킹, 고객·임직원 정보 유출",
-   "updated_at": "2026-11-10T10:25:27Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -11210,7 +11254,7 @@
    ],
    "target_text": "심텍(기사 기재)",
    "title": "해커 조직 연쇄 공격 피해 보도",
-   "updated_at": "2026-11-10T10:25:28Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -11459,7 +11503,7 @@
    ],
    "target_text": "해양플랜트연구소(기사 기재)",
    "title": "북한 추정 해킹 발생, 피해 없음으로 보고했다고 보도",
-   "updated_at": "2026-11-10T10:25:28Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -11699,7 +11743,7 @@
    ],
    "target_text": "GJ텍(기사 기재)",
    "title": "랜섬웨어 감염",
-   "updated_at": "2026-11-10T10:25:29Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "unknown",
@@ -11733,7 +11777,7 @@
    ],
    "target_text": "텍스톰 고객(기사 기재)",
    "title": "빅데이터 기업 고객정보 대규모 유출",
-   "updated_at": "2026-11-10T10:25:29Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12356,7 +12400,7 @@
    ],
    "target_text": "해성디에스, 전남테크노파크(기사 기재)",
    "title": "해킹 공격 관련 과징금 4억 부과",
-   "updated_at": "2026-11-10T10:25:29Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12434,7 +12478,7 @@
    ],
    "target_text": "써브웨이 고객(기사 기재)",
    "title": "고객 정보 유출 사고",
-   "updated_at": "2026-11-10T10:25:30Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12473,7 +12517,7 @@
    ],
    "target_text": "한국파파존스 고객(기사 기재)",
    "title": "고객 정보 유출 사고",
-   "updated_at": "2026-11-10T10:25:30Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "unknown",
@@ -12507,7 +12551,7 @@
    ],
    "target_text": "머스트잇 고객(기사 기재)",
    "title": "고객 정보 유출 사고",
-   "updated_at": "2026-11-10T10:37:21Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "unknown",
@@ -12629,7 +12673,7 @@
    ],
    "target_text": "쿼드마이너(기사 기재)",
    "title": "랜섬웨어 조직의 지속 공격 피해",
-   "updated_at": "2026-11-10T10:37:22Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12663,7 +12707,7 @@
    ],
    "target_text": "넥써쓰 가상자산(기사 기재)",
    "title": "가상자산 해킹 사고",
-   "updated_at": "2026-11-10T10:37:22Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "unknown",
@@ -12697,7 +12741,7 @@
    ],
    "target_text": "KB라이프 임직원(기사 기재)",
    "title": "임직원 정보 유출",
-   "updated_at": "2026-11-10T10:37:22Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "vendor",
@@ -12775,7 +12819,7 @@
    ],
    "target_text": "CJ올리브네트웍스 인증서(기사 기재)",
    "title": "인증서 탈취 피해, 북한 김수키 의심 보도",
-   "updated_at": "2026-11-10T10:37:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12902,7 +12946,7 @@
    ],
    "target_text": "클래스유·케이티알파 이용자(기사 기재)",
    "title": "160만명 유출 제재, 자동화 공격 방어 미흡",
-   "updated_at": "2026-11-10T10:37:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -12990,7 +13034,7 @@
    ],
    "target_text": "위믹스(기사 기재)",
    "title": "위믹스 90억원 규모 해킹 피해, 상장폐지",
-   "updated_at": "2026-11-10T10:37:23Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   },
   {
    "category": "hacking",
@@ -13132,7 +13176,7 @@
    ],
    "target_text": "신성델타테크와 자회사(기사 기재)",
    "title": "랜섬웨어 피해, 자회사 데이터 유출",
-   "updated_at": "2026-11-10T10:37:24Z"
+   "updated_at": "2026-11-10T10:38:15Z"
   }
  ],
  "schema_version": 1

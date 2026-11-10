@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 10일 금융보안원 상시평가 지원 시스템 해킹 정황과 정보 유출이 보도됨. 데일리시큐는 금융보안원이 내부자료 유출이 확인된 기업에 개별 연락 중이라는 금융권 제보를 전함(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-10",
+   "date_text": "11.10",
+   "label": "금융보안원 해킹으로 정보 유출 속보 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-10",
+   "date_text": "11.10",
+   "label": "상시평가 지원 시스템 해킹 정황, 유출 기업 통보 중 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "금융사 내부자료(범위 미확인)",
+ "leaked_items_text": "금융사 내부자료(기사 기재). 침해 대상 시스템, 공격 경로, 유출 자료와 개인정보의 범위는 기사에서 확인되지 않았다고 명시됨",
+ "notices": [],
+ "org_name": "금융보안원",
+ "reported_date": "2026-11-10",
+ "response_text": "내부자료 유출이 확인된 기업에 개별 통보 중(금융권 제보, 기사 기재). 금융보안원과는 연락이 닿지 않았다고 보도됨",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-10-fsec-evaluation-system",
+ "sources": [
+  {
+   "publisher": "연합뉴스",
+   "title": "[1보] '금융보안 문지기' 금융보안원도 해킹으로 정보유출",
+   "url": "https://www.yna.co.kr/view/AKR20261110173700002"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 금융보안원 상시평가시스템 해킹 정황...금융사 내부정보 유출 기업에 통보 중인 것으로 확인",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209438"
+  }
+ ],
+ "target_text": "금융보안원 상시평가 지원 시스템, 금융사 내부자료(기사 기재)",
+ "title": "상시평가 지원 시스템 해킹 정황, 내부자료 유출 기업에 통보 중으로 보도",
+ "updated_at": "2026-11-10T11:53:47Z"
+}
