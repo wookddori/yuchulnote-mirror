@@ -7,8 +7,8 @@
 <title>제조·건설·에너지 - 유출노트</title>
 <meta name="description" content="국내 보안사고(개인정보 유출·해킹 등)와 기업의 고객 고지를 한곳에서 확인하세요.">
 
-<link rel="stylesheet" href="/assets/app.css?v=b20a747f03">
-<script src="/assets/app.js?v=b20a747f03" defer></script>
+<link rel="stylesheet" href="/assets/app.css?v=e3584c49bc">
+<script src="/assets/app.js?v=e3584c49bc" defer></script>
 </head>
 <body data-page="list" data-sector="industry">
 <a class="skip" href="#main">본문 바로가기</a>
@@ -22,12 +22,12 @@
 <section class="hero">
   <div class="hero-head">
     <h1>기업 이름이나 키워드로 바로 찾아보세요</h1>
-    <p class="minstats" id="freshness" data-last-checked="2026-11-11T13:00:00Z" data-stale-minutes="180">
+    <p class="minstats" id="freshness" data-last-checked="2026-11-11T14:00:00Z" data-stale-minutes="180">
       <span class="badge badge-stale" id="stale-badge" role="status" hidden>수집 지연</span>
       <span>전체 <b>326건</b></span>
       <span>11월 등록 <b>47건</b></span>
       <span>조사 중 <b>224건</b></span>
-      <span class="fresh-time">마지막 확인 <time datetime="2026-11-11T13:00:00Z">2026.11.11 22:00</time> · 최근 등록 <time datetime="2026-11-11">2026.11.11</time></span>
+      <span class="fresh-time">마지막 확인 <time datetime="2026-11-11T14:00:00Z">2026.11.11 23:00</time> · 최근 등록 <time datetime="2026-11-11">2026.11.11</time></span>
     </p>
   </div>
   <div class="search" role="search">
@@ -37,17 +37,16 @@
 </section>
 
 <div class="bar">
-  <div class="tabs" role="tablist" aria-label="업권">
+  <div class="tabs">
+    <div class="tabrow" role="tablist" aria-label="업권">
 <a class="tab" role="tab" id="tab-all" href="/" data-sector="all" aria-selected="false" tabindex="-1">전체 <span class="count" data-count-for="all">326</span></a>
-<a class="tab" role="tab" id="tab-finance" href="/finance" data-sector="finance" aria-selected="false" tabindex="-1">금융 <span class="count" data-count-for="finance">55</span></a>
-<a class="tab" role="tab" id="tab-public" href="/public" data-sector="public" aria-selected="false" tabindex="-1">공공 <span class="count" data-count-for="public">58</span></a>
-<a class="tab" role="tab" id="tab-medical" href="/medical" data-sector="medical" aria-selected="false" tabindex="-1">의료 <span class="count" data-count-for="medical">17</span></a>
-<a class="tab" role="tab" id="tab-education" href="/education" data-sector="education" aria-selected="false" tabindex="-1">교육 <span class="count" data-count-for="education">27</span></a>
-<a class="tab" role="tab" id="tab-it" href="/it" data-sector="it" aria-selected="false" tabindex="-1">IT·통신 <span class="count" data-count-for="it">33</span></a>
 <a class="tab" role="tab" id="tab-service" href="/service" data-sector="service" aria-selected="false" tabindex="-1">유통·서비스 <span class="count" data-count-for="service">69</span></a>
-<a class="tab" role="tab" id="tab-leisure" href="/leisure" data-sector="leisure" aria-selected="false" tabindex="-1">엔터·레저·여행 <span class="count" data-count-for="leisure">38</span></a>
+<a class="tab" role="tab" id="tab-public" href="/public" data-sector="public" aria-selected="false" tabindex="-1">공공 <span class="count" data-count-for="public">58</span></a>
+<a class="tab" role="tab" id="tab-finance" href="/finance" data-sector="finance" aria-selected="false" tabindex="-1">금융 <span class="count" data-count-for="finance">55</span></a>
 <a class="tab" role="tab" id="tab-industry" href="/industry" data-sector="industry" aria-selected="true" tabindex="0">제조·건설·에너지 <span class="count" data-count-for="industry">29</span></a>
 
+    </div>
+    <button type="button" class="morebtn" id="more-btn" aria-expanded="false" aria-controls="more-panel"><span class="more-label">더보기</span> <span class="more-arrow" aria-hidden="true">▾</span></button>
   </div>
   <div class="statefilter">
     <button type="button" class="statebtn" id="state-btn" aria-haspopup="true" aria-expanded="false" aria-controls="state-panel">상태 · <b id="state-label">모든 상태</b> <span aria-hidden="true">▾</span></button>
@@ -58,6 +57,11 @@
 
     </div>
   </div>
+</div>
+<div class="moretabs" id="more-panel" role="tablist" aria-label="그 외 업권" hidden><a class="tab tab-more" role="tab" id="tab-leisure" href="/leisure" data-sector="leisure" aria-selected="false" tabindex="-1">엔터·레저·여행 <span class="count" data-count-for="leisure">38</span></a>
+<a class="tab tab-more" role="tab" id="tab-it" href="/it" data-sector="it" aria-selected="false" tabindex="-1">IT·통신 <span class="count" data-count-for="it">33</span></a>
+<a class="tab tab-more" role="tab" id="tab-education" href="/education" data-sector="education" aria-selected="false" tabindex="-1">교육 <span class="count" data-count-for="education">27</span></a>
+<a class="tab tab-more" role="tab" id="tab-medical" href="/medical" data-sector="medical" aria-selected="false" tabindex="-1">의료 <span class="count" data-count-for="medical">17</span></a>
 </div>
 
 <noscript><p class="note">검색과 필터는 자바스크립트가 켜져 있어야 동작합니다. 업권 탭은 링크로 이동할 수 있습니다.</p></noscript>

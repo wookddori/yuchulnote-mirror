@@ -294,3 +294,13 @@ p.badges { margin: 8px 0 16px; }
   .row-head .org { order: 3; flex-basis: 100%; }
   .row-head .badges { order: 2; margin-left: auto; }
 }
+
+/* 업권 탭: 건수 많은 순 상위만 줄에 두고 나머지는 더보기(알약 목록) */
+.tabs .tabrow { display: flex; gap: 2px; min-width: 0; }
+.morebtn { flex: none; align-self: center; margin-left: 6px; appearance: none; border: 1px solid var(--line); background: var(--card); color: var(--fg);
+  border-radius: 999px; padding: 4px 12px; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; white-space: nowrap; min-height: 36px; }
+.morebtn:hover, .morebtn.on { border-color: var(--accent); }
+.morebtn.on { background: var(--accent-bg); color: var(--accent); }
+.moretabs { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0 12px; }
+.moretabs .tab { min-height: 36px; padding: 4px 14px; border: 1px solid var(--line); border-radius: 999px; background: var(--card); }
+.moretabs .tab[aria-selected="true"] { border-color: var(--accent); }

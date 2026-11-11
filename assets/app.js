@@ -44,6 +44,8 @@
   var statusEl = document.getElementById('result-status');
   var listEl = document.getElementById('list');
   var stateBtn = document.getElementById('state-btn');
+  var moreBtn = document.getElementById('more-btn');
+  var morePanel = document.getElementById('more-panel');
   var statePanel = document.getElementById('state-panel');
   var stateLabel = document.getElementById('state-label');
 
@@ -157,6 +159,9 @@
       if (c) c.textContent = tabCounts[key] || 0;
       if (sel && listEl) listEl.setAttribute('aria-labelledby', t.id);
     });
+    if (moreBtn && morePanel) {
+      moreBtn.classList.toggle('on', tabs.some(function (t) { return morePanel.contains(t) && t.getAttribute('data-sector') === state.sector; }));
+    }
     chips.forEach(function (ch) {
       var key = ch.getAttribute('data-state');
       var pressed = key === 'all' ? !state.s : state.s === key;
@@ -236,7 +241,23 @@
     } catch (e) { /* 파일 미리보기 등에서는 URL 동기화를 건너뛴다 */ }
   }
 
+  function setMore(open) {
+    if (!moreBtn || !morePanel) return;
+    morePanel.hidden = !open;
+    moreBtn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    var lab = moreBtn.querySelector('.more-label'); var arr = moreBtn.querySelector('.more-arrow');
+    if (lab) lab.textContent = open ? '접기' : '더보기';
+    if (arr) arr.textContent = open ? '▴' : '▾';
+  }
+  if (moreBtn && morePanel) {
+    moreBtn.addEventListener('click', function () { setMore(morePanel.hidden); });
+    document.addEventListener('keydown', function (ev) {
+      if (ev.key === 'Escape' && !morePanel.hidden) { setMore(false); moreBtn.focus(); }
+    });
+  }
+
   function selectSector(key, focus) {
+    setMore(false);
     state.sector = key;
     state.page = 1;
     push(false);
