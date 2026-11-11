@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 10일 농협은행 AI 자회사 애자일소다의 해킹 사고와 외부 백업 서버 침해 노출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-10",
+   "date_text": "11.10",
+   "label": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "백업 서버",
+ "leaked_items_text": "백업 서버(기사 기재)",
+ "notices": [],
+ "org_name": "애자일소다(농협은행 AI 자회사)",
+ "reported_date": "2026-11-10",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-10-agilesoda-nh",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "농협은행 AI 자회사 애자일소다, 외부 백업 서버 침해 노출",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147145"
+  }
+ ],
+ "target_text": "애자일소다(농협은행 AI 자회사) 관련(기사 기재)",
+ "title": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도",
+ "updated_at": "2026-11-11T12:44:45Z"
+}

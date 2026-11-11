@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 17일 온라인 강의 플랫폼 라이브클래스 해킹과 회원 개인정보 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-17",
+   "date_text": "09.17",
+   "label": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "회원 개인정보",
+ "leaked_items_text": "회원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "라이브클래스",
+ "reported_date": "2026-09-17",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-09-17-liveclass",
+ "sources": [
+  {
+   "publisher": "한경매거진",
+   "title": "강의 플랫폼도 뚫렸다···'라이브클래스' 회원 개인정보 유출",
+   "url": "https://magazine.hankyung.com/business/article/202609172184b"
+  },
+  {
+   "publisher": "ZDNet Korea",
+   "title": "온라인 강의 플랫폼 '라이브클래스' 해킹... 개인정보 유출",
+   "url": "https://zdnet.co.kr/view/?no=20260921163428"
+  }
+ ],
+ "target_text": "라이브클래스 관련(기사 기재)",
+ "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출",
+ "updated_at": "2026-11-11T12:44:51Z"
+}

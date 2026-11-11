@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 5월 18일 샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출이 확인됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-18",
+   "date_text": "05.18",
+   "label": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "프랜차이즈 자료",
+ "leaked_items_text": "프랜차이즈 자료(기사 기재)",
+ "notices": [],
+ "org_name": "세븐일레븐",
+ "reported_date": "2026-05-18",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-05-18-seven-eleven",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "세븐일레븐, 샤이니헌터스 해킹 공격에 프랜차이즈 자료 유출 확인",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=206791"
+  }
+ ],
+ "target_text": "세븐일레븐 관련(기사 기재)",
+ "title": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인",
+ "updated_at": "2026-11-11T12:44:52Z"
+}

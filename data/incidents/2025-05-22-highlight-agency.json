@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 5월 22일 팬클럽 회원 897명 개인정보 유출과 사과가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-05-22",
+   "date_text": "05.22",
+   "label": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "팬클럽 회원 개인정보",
+ "leaked_items_text": "팬클럽 회원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "하이라이트 소속사",
+ "reported_date": "2025-05-22",
+ "response_text": "사과(기사 기재)",
+ "scale_short": "897명",
+ "scale_text": "897명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-05-22-highlight-agency",
+ "sources": [
+  {
+   "publisher": "스타뉴스",
+   "title": "하이라이트 측, 팬클럽 897명 개인정보 유출 사과",
+   "url": "http://www.starnewsk.com/news/articleView.html?idxno=46209"
+  }
+ ],
+ "target_text": "하이라이트 소속사 관련(기사 기재)",
+ "title": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과",
+ "updated_at": "2026-11-11T12:44:59Z"
+}

@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 4일 저축은행중앙회가 AI 해킹 공격을 받았으나 정보 유출은 없다고 밝혔다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-04",
+   "date_text": "10.04",
+   "label": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "정보 유출 없음으로 밝힘",
+ "leaked_items_text": "정보 유출 없음으로 밝힘(기사 기재)",
+ "notices": [],
+ "org_name": "저축은행중앙회",
+ "reported_date": "2026-10-04",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-04-fsb-ai-hack",
+ "sources": [
+  {
+   "publisher": "한국경제",
+   "title": "[단독] 저축은행중앙회도 AI 해킹 공격 받아…\"정보 유출 없어\"",
+   "url": "https://www.hankyung.com/article/202610042521i"
+  }
+ ],
+ "target_text": "저축은행중앙회 관련(기사 기재)",
+ "title": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘",
+ "updated_at": "2026-11-11T12:44:50Z"
+}

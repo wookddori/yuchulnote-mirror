@@ -1,0 +1,34 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 10일 조달청이 평가위원 189명의 사진을 AI 개발 과정에서 외부에 넘겨 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-10",
+   "date_text": "11.10",
+   "label": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "평가위원 얼굴 사진",
+ "leaked_items_text": "평가위원 얼굴 사진(기사 기재)",
+ "notices": [],
+ "org_name": "조달청",
+ "reported_date": "2026-11-10",
+ "response_text": "2차 피해 우려가 보도됨(기사 기재)",
+ "scale_short": "189명",
+ "scale_text": "189명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-10-ppa-evaluators-photos",
+ "sources": [
+  {
+   "publisher": "한국경제",
+   "title": "조달청 평가위원 189명 사진 외부 유출 2차 피해 우려",
+   "url": "https://www.hankyung.com/article/202611107008h"
+  }
+ ],
+ "target_text": "조달청 관련(기사 기재)",
+ "title": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출",
+ "updated_at": "2026-11-11T12:44:45Z"
+}

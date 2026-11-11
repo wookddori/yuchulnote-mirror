@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 11월 27일 관리자 계정 탈취 해킹과 관련해 하스·바텍엠시스에 과징금 1.8억원이 부과됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-11-27",
+   "date_text": "11.27",
+   "label": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "고객 정보",
+ "leaked_items_text": "고객 정보(기사 기재)",
+ "notices": [],
+ "org_name": "하스·바텍엠시스",
+ "reported_date": "2025-11-27",
+ "response_text": "과징금 1.8억원 부과(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-11-27-haas-vatek-fine",
+ "sources": [
+  {
+   "publisher": "뉴스프라임",
+   "title": "'고객 정보 유출' 하스·바텍엠시스에 과징금 1.8억원",
+   "url": "http://www.newsprime.co.kr/news/article.html?no=713777"
+  }
+ ],
+ "target_text": "하스·바텍엠시스 관련(기사 기재)",
+ "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과",
+ "updated_at": "2026-11-11T12:44:56Z"
+}

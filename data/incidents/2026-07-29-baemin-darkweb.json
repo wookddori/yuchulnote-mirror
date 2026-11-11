@@ -18,7 +18,7 @@
  "response_text": "우아한형제들 입장은 제목에서 확인되지 않음",
  "scale_short": "4200만명(주장)",
  "scale_text": "4200만명(해커 주장, 기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-07-29-baemin-darkweb",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "배달의민족 이용자(기사 기재)",
  "title": "배민 이용자 4200만명 정보 판매 주장",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

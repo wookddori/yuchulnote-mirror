@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 7월 21일 학생 개인정보 유출과 2차 피해 우려가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-07-21",
+   "date_text": "07.21",
+   "label": "학생 개인정보 유출, 2차 피해 우려(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "학생 개인정보",
+ "leaked_items_text": "학생 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "대성 학원 관계사",
+ "reported_date": "2025-07-21",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-07-21-daesung-affiliate",
+ "sources": [
+  {
+   "publisher": "MTN",
+   "title": "[단독]대성 학원 관계사, 학생 개인정보 유출…\"2차 피해 우려\"",
+   "url": "https://news.mtn.co.kr/news-detail/2025072118021210659"
+  }
+ ],
+ "target_text": "대성 학원 관계사 관련(기사 기재)",
+ "title": "학생 개인정보 유출, 2차 피해 우려",
+ "updated_at": "2026-11-11T12:44:58Z"
+}

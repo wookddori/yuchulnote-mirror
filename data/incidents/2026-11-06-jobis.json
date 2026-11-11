@@ -28,7 +28,7 @@
  "response_text": "서비스 일시 중단, 침입 경로 차단, 빌링키 폐기와 결제 차단, 개인정보위·KISA 신고, 외부 전문가와 조사(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-11-06-jobis",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "자비스 이용 기업의 대표자와 임직원(기사 기재)",
  "title": "외부 불법 접근 및 사칭 메일 발송, 기업 대표자·결제 정보 유출 가능",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T12:31:37Z"
 }

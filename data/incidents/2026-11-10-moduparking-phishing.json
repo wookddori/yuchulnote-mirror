@@ -1,0 +1,34 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 10일 모두의주차장을 사칭한 피싱 알림톡과 외부 대행사 침해가 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-10",
+   "date_text": "11.10",
+   "label": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "모두의주차장",
+ "reported_date": "2026-11-10",
+ "response_text": "피싱 알림톡 주의 안내(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-11-10-moduparking-phishing",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "'모두의주차장' 사칭 피싱 알림톡 주의보... 외부 대행사 뚫렸다",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147150"
+  }
+ ],
+ "target_text": "모두의주차장 관련(기사 기재)",
+ "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도",
+ "updated_at": "2026-11-11T12:44:46Z"
+}

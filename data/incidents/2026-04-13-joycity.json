@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-04-13-joycity",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "조이시티(기사 기재)",
  "title": "랜섬웨어 피해, 게임 매출 데이터 유출 주장",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

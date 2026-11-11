@@ -1,0 +1,34 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 5일 안전보건공단에서 신고자 실명 노출과 진단서 무단 촬영이 있었다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-05",
+   "date_text": "07.05",
+   "label": "신고자 실명 노출과 진단서 무단 촬영 보도(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "신고자 실명, 진단서",
+ "leaked_items_text": "신고자 실명, 진단서(기사 기재)",
+ "notices": [],
+ "org_name": "안전보건공단",
+ "reported_date": "2026-07-05",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-07-05-koshaa-reporter",
+ "sources": [
+  {
+   "publisher": "그린포스트코리아",
+   "title": "신고자 실명 노출에 진단서 무단 촬영까지…안전보건공단",
+   "url": "https://www.greened.kr/news/articleView.html?idxno=344220"
+  }
+ ],
+ "target_text": "안전보건공단 관련(기사 기재)",
+ "title": "신고자 실명 노출과 진단서 무단 촬영 보도",
+ "updated_at": "2026-11-11T12:44:52Z"
+}

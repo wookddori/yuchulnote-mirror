@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 2월 9일 홈페이지 해킹과 회원 개인정보 유출 가능성이 확인됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-02-09",
+   "date_text": "02.09",
+   "label": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "회원 개인정보",
+ "leaked_items_text": "회원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "뇌신경과학회",
+ "reported_date": "2026-02-09",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-02-09-kns-society",
+ "sources": [
+  {
+   "publisher": "이코노믹뉴스",
+   "title": "뇌신경과학회 홈페이지 해킹...회원 개인정보 유출 가능성 확인",
+   "url": "https://www.m-economynews.com/news/article.html?no=64543"
+  }
+ ],
+ "target_text": "뇌신경과학회 관련(기사 기재)",
+ "title": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인",
+ "updated_at": "2026-11-11T12:44:55Z"
+}

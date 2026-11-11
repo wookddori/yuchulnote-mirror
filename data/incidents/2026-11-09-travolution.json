@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 9일 이틀 사이 두 차례 해킹과 4년 치 여행 정보 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-09",
+   "date_text": "11.09",
+   "label": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "4년 치 여행 정보",
+ "leaked_items_text": "4년 치 여행 정보(기사 기재)",
+ "notices": [],
+ "org_name": "트래볼루션",
+ "reported_date": "2026-11-09",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-09-travolution",
+ "sources": [
+  {
+   "publisher": "NBN뉴스",
+   "title": "트래볼루션, 이틀 새 두 번 뚫렸다···4년 치 여행 정보 유출",
+   "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027211"
+  }
+ ],
+ "target_text": "트래볼루션 관련(기사 기재)",
+ "title": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도",
+ "updated_at": "2026-11-11T12:44:46Z"
+}

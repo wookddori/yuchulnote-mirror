@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 9일 해킹과 개발 오류로 여행 일정과 동행자 정보가 노출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-09",
+   "date_text": "11.09",
+   "label": "해킹·개발 오류로 여행 일정·동행자 정보 노출(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "여행 일정, 동행자 정보",
+ "leaked_items_text": "여행 일정, 동행자 정보(기사 기재)",
+ "notices": [],
+ "org_name": "줌줌투어",
+ "reported_date": "2026-11-09",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-09-zoomzoom-tour",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "줌줌투어, 해킹·개발 오류로 개인정보 유출…여행 일정·동행자 정보까지 노출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209422"
+  }
+ ],
+ "target_text": "줌줌투어 관련(기사 기재)",
+ "title": "해킹·개발 오류로 여행 일정·동행자 정보 노출",
+ "updated_at": "2026-11-11T12:44:46Z"
+}

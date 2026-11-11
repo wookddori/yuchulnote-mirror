@@ -3,6 +3,147 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2026년 11월 11일 KISA가 연쇄 해킹에 따라 대민 웹 서비스 7곳을 긴급 점검하고 접속이 불가해졌다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-11",
+     "date_text": "11.11",
+     "label": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "대민 웹 서비스 7곳",
+   "leaked_items_text": "대민 웹 서비스 7곳(기사 기재)",
+   "notices": [],
+   "org_name": "한국인터넷진흥원(KISA)",
+   "reported_date": "2026-11-11",
+   "response_text": "긴급 보안 점검(기사 기재)",
+   "scale_short": "7곳",
+   "scale_text": "7곳(기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-11-kisa-public-web-7",
+   "sources": [
+    {
+     "publisher": "보안뉴스",
+     "title": "KISA 대민 웹 서비스 7곳 '긴급 보안 점검'으로 접속 불가",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147162"
+    },
+    {
+     "publisher": "바이라인네트워크",
+     "title": "KISA, 대민 웹사이트 7곳 긴급 점검…\"연쇄 해킹 따른 조치\"",
+     "url": "https://byline.network/?p=9004111222627090"
+    }
+   ],
+   "target_text": "한국인터넷진흥원(KISA) 관련(기사 기재)",
+   "title": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검",
+   "updated_at": "2026-11-11T12:44:47Z"
+  },
+  {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 10일 조달청이 평가위원 189명의 사진을 AI 개발 과정에서 외부에 넘겨 유출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "평가위원 얼굴 사진",
+   "leaked_items_text": "평가위원 얼굴 사진(기사 기재)",
+   "notices": [],
+   "org_name": "조달청",
+   "reported_date": "2026-11-10",
+   "response_text": "2차 피해 우려가 보도됨(기사 기재)",
+   "scale_short": "189명",
+   "scale_text": "189명(기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-10-ppa-evaluators-photos",
+   "sources": [
+    {
+     "publisher": "한국경제",
+     "title": "조달청 평가위원 189명 사진 외부 유출 2차 피해 우려",
+     "url": "https://www.hankyung.com/article/202611107008h"
+    }
+   ],
+   "target_text": "조달청 관련(기사 기재)",
+   "title": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출",
+   "updated_at": "2026-11-11T12:44:45Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 10일 모두의주차장을 사칭한 피싱 알림톡과 외부 대행사 침해가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "모두의주차장",
+   "reported_date": "2026-11-10",
+   "response_text": "피싱 알림톡 주의 안내(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-11-10-moduparking-phishing",
+   "sources": [
+    {
+     "publisher": "보안뉴스",
+     "title": "'모두의주차장' 사칭 피싱 알림톡 주의보... 외부 대행사 뚫렸다",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147150"
+    }
+   ],
+   "target_text": "모두의주차장 관련(기사 기재)",
+   "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도",
+   "updated_at": "2026-11-11T12:44:46Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 10일 한일네트웍스의 랜섬웨어 공격과 즉시 차단, 유출 피해가 없다는 입장이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "랜섬웨어 공격 발생, 즉시 차단했고 유출 피해는 없다고 밝힘(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "유출 피해 없음으로 밝힘",
+   "leaked_items_text": "유출 피해 없음으로 밝힘(기사 기재)",
+   "notices": [],
+   "org_name": "한일네트웍스",
+   "reported_date": "2026-11-10",
+   "response_text": "즉시 차단(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-11-10-hanil-networks",
+   "sources": [
+    {
+     "publisher": "보안뉴스",
+     "title": "한일네트웍스 랜섬웨어 공격받아... \"즉시 차단, 유출 피해 없어\"",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147152"
+    }
+   ],
+   "target_text": "한일네트웍스 관련(기사 기재)",
+   "title": "랜섬웨어 공격 발생, 즉시 차단했고 유출 피해는 없다고 밝힘",
+   "updated_at": "2026-11-11T12:44:47Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "2026년 11월 10일 금융보안원 상시평가 지원 시스템 해킹 정황과 정보 유출이 보도됨. 데일리시큐는 금융보안원이 내부자료 유출이 확인된 기업에 개별 연락 중이라는 금융권 제보를 전함(기사 기재)",
    "events": [
     {
@@ -43,6 +184,142 @@
    "target_text": "금융보안원 상시평가 지원 시스템, 금융사 내부자료(기사 기재)",
    "title": "상시평가 지원 시스템 해킹 정황, 내부자료 유출 기업에 통보 중으로 보도",
    "updated_at": "2026-11-10T11:54:45Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 10일 농협은행 AI 자회사 애자일소다의 해킹 사고와 외부 백업 서버 침해 노출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "백업 서버",
+   "leaked_items_text": "백업 서버(기사 기재)",
+   "notices": [],
+   "org_name": "애자일소다(농협은행 AI 자회사)",
+   "reported_date": "2026-11-10",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-10-agilesoda-nh",
+   "sources": [
+    {
+     "publisher": "보안뉴스",
+     "title": "농협은행 AI 자회사 애자일소다, 외부 백업 서버 침해 노출",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147145"
+    }
+   ],
+   "target_text": "애자일소다(농협은행 AI 자회사) 관련(기사 기재)",
+   "title": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도",
+   "updated_at": "2026-11-11T12:44:45Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 9일 해킹과 개발 오류로 여행 일정과 동행자 정보가 노출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-09",
+     "date_text": "11.09",
+     "label": "해킹·개발 오류로 여행 일정·동행자 정보 노출(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "여행 일정, 동행자 정보",
+   "leaked_items_text": "여행 일정, 동행자 정보(기사 기재)",
+   "notices": [],
+   "org_name": "줌줌투어",
+   "reported_date": "2026-11-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-09-zoomzoom-tour",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "줌줌투어, 해킹·개발 오류로 개인정보 유출…여행 일정·동행자 정보까지 노출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209422"
+    }
+   ],
+   "target_text": "줌줌투어 관련(기사 기재)",
+   "title": "해킹·개발 오류로 여행 일정·동행자 정보 노출",
+   "updated_at": "2026-11-11T12:44:46Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 9일 이틀 사이 두 차례 해킹과 4년 치 여행 정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-09",
+     "date_text": "11.09",
+     "label": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "4년 치 여행 정보",
+   "leaked_items_text": "4년 치 여행 정보(기사 기재)",
+   "notices": [],
+   "org_name": "트래볼루션",
+   "reported_date": "2026-11-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-09-travolution",
+   "sources": [
+    {
+     "publisher": "NBN뉴스",
+     "title": "트래볼루션, 이틀 새 두 번 뚫렸다···4년 치 여행 정보 유출",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027211"
+    }
+   ],
+   "target_text": "트래볼루션 관련(기사 기재)",
+   "title": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도",
+   "updated_at": "2026-11-11T12:44:46Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 9일 정보공개포털 개인정보 유출에 대해 7개월 전 신고가 있었다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-09",
+     "date_text": "11.09",
+     "label": "개인정보 유출, 7개월 전 신고가 있었다는 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "개인정보",
+   "leaked_items_text": "개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "정보공개포털",
+   "reported_date": "2026-11-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-09-open-portal-leak",
+   "sources": [
+    {
+     "publisher": "시사저널",
+     "title": "[단독] 정보공개포털 개인정보 유출 7개월 전 신고 있었다",
+     "url": "https://www.sisajournal.com/news/articleView.html?idxno=393385"
+    }
+   ],
+   "target_text": "정보공개포털 관련(기사 기재)",
+   "title": "개인정보 유출, 7개월 전 신고가 있었다는 보도",
+   "updated_at": "2026-11-11T12:44:48Z"
   },
   {
    "category": "hacking",
@@ -397,7 +674,7 @@
    "response_text": "서비스 일시 중단, 침입 경로 차단, 빌링키 폐기와 결제 차단, 개인정보위·KISA 신고, 외부 전문가와 조사(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-11-06-jobis",
    "sources": [
@@ -414,7 +691,7 @@
    ],
    "target_text": "자비스 이용 기업의 대표자와 임직원(기사 기재)",
    "title": "외부 불법 접근 및 사칭 메일 발송, 기업 대표자·결제 정보 유출 가능",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -813,7 +1090,7 @@
    "response_text": "클라이언트 수정과 업데이트 완료, 영향 범위 확인 중, 후속 조치 방안은 별도 공지 예정(기사 기재)",
    "scale_short": "확인 중",
    "scale_text": "영향 범위를 확인 중(운영진 공지, 기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-11-04-nikke-pc-launcher",
    "sources": [
@@ -825,7 +1102,7 @@
    ],
    "target_text": "PC 런처로 게임을 실행한 이용자(기사 기재)",
    "title": "PC 런처 스크립트 파일 변조로 악성코드 유입 정황",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "vendor",
@@ -1248,7 +1525,7 @@
    "response_text": "청와대 관계자는 보도 내용을 사전에 인지해 대응 조치를 취했고 외교부 등에서 추가 조치를 할 예정이라고 설명(기사 기재). 신고 기관과 조사 내용은 기사에 없음.",
    "scale_short": "168명",
    "scale_text": "168명(기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-11-02-presidential-flight-list",
    "sources": [
@@ -1260,7 +1537,7 @@
    ],
    "target_text": "전용기 탑승자 168명(기사 기재)",
    "title": "대통령 순방 전용기 탑승자 168명 개인정보 노출",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -1535,6 +1812,74 @@
    "target_text": "모인비즈플러스 고객이 2023년 10월 19일 이전 제출한 증빙서류(기사 기재)",
    "title": "기업용 해외송금 서비스 해킹으로 증빙서류 약 1,400명 정보 유출",
    "updated_at": "2026-11-09T03:13:40Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 1일 개인정보 유출 가능성 공지가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-01",
+     "date_text": "11.01",
+     "label": "개인정보 유출 가능성 공지(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "개인정보",
+   "leaked_items_text": "개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "케이옥션",
+   "reported_date": "2026-11-01",
+   "response_text": "공지 게시(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-01-kauction",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "케이옥션 개인정보 유출 가능성 공지",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209224"
+    }
+   ],
+   "target_text": "케이옥션 관련(기사 기재)",
+   "title": "개인정보 유출 가능성 공지",
+   "updated_at": "2026-11-11T12:44:49Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 1일 외부 서버 비인가 접근으로 개인정보 1,903건이 유출됐을 가능성이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-01",
+     "date_text": "11.01",
+     "label": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "개인정보",
+   "leaked_items_text": "개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "한화엔진",
+   "reported_date": "2026-11-01",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "1,903건",
+   "scale_text": "1,903건(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-01-hanwha-engine",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "한화엔진, 외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209226"
+    }
+   ],
+   "target_text": "한화엔진 관련(기사 기재)",
+   "title": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성",
+   "updated_at": "2026-11-11T12:44:48Z"
   },
   {
    "category": "hacking",
@@ -2226,7 +2571,7 @@
    "response_text": "차단·신고·안내는 기사에 없음",
    "scale_short": "5,108명",
    "scale_text": "5,108명(학교 자체 파악, 기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-10-17-pknu-tuition-system",
    "sources": [
@@ -2238,7 +2583,7 @@
    ],
    "target_text": "학생과 직원(기사 기재)",
    "title": "등록금 수납관리시스템 해킹으로 학생·직원 정보 유출",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -2656,7 +3001,7 @@
    "response_text": "외부 접근 경로 차단과 관련 계정 보호, 10월 18일·23일 홈페이지 공지, 10월 25일 사과문 게시, 정부 조사 협조(기사 기재). 한국인터넷진흥원은 10월 21일 해당 백업 제품 보안 업데이트를 권고했고, 과학기술정보통신부는 10월 25일 민관합동조사단을 구성해 조사에 착수(기사 기재).",
    "scale_short": "미공개",
    "scale_text": "규모 미공개(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-10-16-douzone-bizon-apo-backup",
    "sources": [
@@ -2668,7 +3013,7 @@
    ],
    "target_text": "백업 서비스를 위탁한 고객사의 개인정보(기사 기재: 유출 가능성 정황)",
    "title": "APO 백업 서비스 백업 솔루션 취약점 악용 침해사고",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -2930,7 +3275,7 @@
    "response_text": "유출 경로 차단, 수사기관에 수사 의뢰, 개인정보 유출 안내 공지와 사과, 홈페이지 공지사항에서 개인별 유출 항목 확인 가능(기사 기재)",
    "scale_short": "약 1만 명",
    "scale_text": "1만여 명(기사 기재, 정확한 인원은 기사에 없음)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-10-22-yonsei-portal",
    "sources": [
@@ -2942,7 +3287,7 @@
    ],
    "target_text": "재학생·졸업생 등(기사 기재)",
    "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -3062,7 +3407,7 @@
    "response_text": "해당 서버 즉시 차단, 개인정보보호위원회 신고와 등록된 메일 대상자 통지, 관계기관과 정밀 조사, 시스템 전반 점검, KF사이버안전센터 피해 신고 창구 운영(기사 기재)",
    "scale_short": "등록 약 22만7천 건",
    "scale_text": "서버에 등록된 이메일 주소 약 22만7천 건(실제 유출 규모는 정밀 조사 중, 기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-10-19-kf-mail-server",
    "sources": [
@@ -3074,7 +3419,7 @@
    ],
    "target_text": "홍보 메일 수신용 서버에 등록된 대상자(기사 기재)",
    "title": "홍보 메일 수신용 서버 외부 공격 침해 정황",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -3287,7 +3632,7 @@
    "response_text": "회사는 해킹이 아닌 내부 시스템 오류로 설명하고 잘못 표시된 정보 삭제, 외부 2차 유출 없음 주장(기사 기재). 개인정보보호위원회가 사실관계 조사 착수(기사 기재).",
    "scale_short": "약 3,500명",
    "scale_text": "약 3,500명(이투데이 기재), 회사는 규모 비공개(지디넷코리아·아주경제 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-10-20-remember",
    "sources": [
@@ -3309,7 +3654,7 @@
    ],
    "target_text": "명함 등록 회원(기사 기재)",
    "title": "시스템 오류로 명함 정보가 다른 회원에게 표시",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "unknown",
@@ -3555,6 +3900,40 @@
    "target_text": "2009년부터 2020년 2월 11일 이내 누적 고객 데이터로 추정, 중복 회원 포함(기사 기재)",
    "title": "멤버십 시스템 외부 접근으로 고객 정보 유출",
    "updated_at": "2026-11-08T10:47:21Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 10월 19일 크로스체인 브릿지 해킹으로 10억원 상당 자금이 유출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-10-19",
+     "date_text": "10.19",
+     "label": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "가상자산 약 10억원",
+   "leaked_items_text": "가상자산 약 10억원(기사 기재)",
+   "notices": [],
+   "org_name": "싸이식",
+   "reported_date": "2026-10-19",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "약 10억원",
+   "scale_text": "약 10억원(기사 기재)",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-10-19-cyc-bridge",
+   "sources": [
+    {
+     "publisher": "뉴스1",
+     "title": "싸이식, 크로스체인 브릿지 해킹…10억원 상당 자금 유출",
+     "url": "https://www.news1.kr/finance/blockchain-fintech/6324281"
+    }
+   ],
+   "target_text": "싸이식 관련(기사 기재)",
+   "title": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출",
+   "updated_at": "2026-11-11T12:44:50Z"
   },
   {
    "category": "insider",
@@ -4374,6 +4753,40 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 10월 10일 29CM와 유사한 공격으로 고객 248명의 개인정보가 유출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-10-10",
+     "date_text": "10.10",
+     "label": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 개인정보",
+   "leaked_items_text": "고객 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "쏘카",
+   "reported_date": "2026-10-10",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "248명",
+   "scale_text": "248명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-10-10-socar",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "[단독] 쏘카, 무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=208813"
+    }
+   ],
+   "target_text": "쏘카 관련(기사 기재)",
+   "title": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출",
+   "updated_at": "2026-11-11T12:44:49Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2026-10-07",
    "confirmed_text": "10월 6일 KISA 통보, 여의도순복음교회는 10월 7일 개인정보 노출 확인 발표(기사 기재)",
    "events": [
@@ -4924,7 +5337,7 @@
    "response_text": "직원 개인정보 관련 내부 시스템 접속 차단, 웹페이지 운영사에 삭제 요청(10월 2일 자정 무렵 삭제, 인지 후 약 32시간), 직원에게 문자·이메일로 경위와 2차 피해 예방 안내, 비상대응 종합상황실 구성(기사 기재). 피해 신고 시 손해배상 등 구제 절차 예정.",
    "scale_short": "약 2만4천 명",
    "scale_text": "직원 약 2만4천 명(기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-10-04-kepco-employee-exposure",
    "sources": [
@@ -4936,7 +5349,7 @@
    ],
    "target_text": "직원 약 2만4천 명(기사 기재). 고객 정보는 포함되지 않았다고 회사가 설명",
    "title": "외부 웹페이지에 직원 개인정보 노출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -5011,6 +5424,40 @@
    "target_text": "이상거래탐지시스템(FDS)(기사 기재)",
    "title": "악성코드 감염으로 이상거래탐지시스템 공격 피해",
    "updated_at": "2026-11-10T09:35:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 10월 4일 저축은행중앙회가 AI 해킹 공격을 받았으나 정보 유출은 없다고 밝혔다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-10-04",
+     "date_text": "10.04",
+     "label": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "정보 유출 없음으로 밝힘",
+   "leaked_items_text": "정보 유출 없음으로 밝힘(기사 기재)",
+   "notices": [],
+   "org_name": "저축은행중앙회",
+   "reported_date": "2026-10-04",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-10-04-fsb-ai-hack",
+   "sources": [
+    {
+     "publisher": "한국경제",
+     "title": "[단독] 저축은행중앙회도 AI 해킹 공격 받아…\"정보 유출 없어\"",
+     "url": "https://www.hankyung.com/article/202610042521i"
+    }
+   ],
+   "target_text": "저축은행중앙회 관련(기사 기재)",
+   "title": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘",
+   "updated_at": "2026-11-11T12:44:50Z"
   },
   {
    "category": "hacking",
@@ -5111,7 +5558,7 @@
    "response_text": "해당 포털에는 유출 사실 공지 없이 시스템 점검 안내만 게시된 것으로 확인됐다고 기사에 적힘(국회 행정안전위원회 의원실 자료 기반). 통지 시점은 기사에 없음.",
    "scale_short": "추정, 규모 미확정",
    "scale_text": "행안부 추정 주민등록번호 36개, 전화번호 3개, 아이디·비밀번호 55개(추정, 확정 아님, 기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-08-17-gov24-kids-portal",
    "sources": [
@@ -5123,7 +5570,7 @@
    ],
    "target_text": "정부24 이용자(기사 기재, 정확한 대상은 확정되지 않음)",
    "title": "정부24 어린이포털 보안 취약점 공격으로 서버 자료 유출",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -5509,6 +5956,40 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2026년 9월 30일 파이오링크 네트워크 장비 취약점을 활용한 코인 채굴 악성코드 발견이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-09-30",
+     "date_text": "09.30",
+     "label": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "확인되지 않음",
+   "leaked_items_text": "제목에서 확인되지 않음",
+   "notices": [],
+   "org_name": "파이오링크",
+   "reported_date": "2026-09-30",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-09-30-pio-link",
+   "sources": [
+    {
+     "publisher": "비즈니스포스트",
+     "title": "파이오링크 네트워크 장비 취약점 활용한 코인 채굴 악성코드 발견",
+     "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448312"
+    }
+   ],
+   "target_text": "파이오링크 관련(기사 기재)",
+   "title": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견",
+   "updated_at": "2026-11-11T12:44:50Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "2026년 9월 30일 리워즈 회원 정보 유출이 보도됨, 10월 1일 공식 사과(기사 기재)",
    "events": [
     {
@@ -5868,7 +6349,7 @@
    "response_text": "공격 경로와 관련 계정 차단, 한국인터넷진흥원·개인정보보호위원회 신고, 대상 고객에게 이메일·문자 개별 안내 예정, 관계기관과 원인·추가 피해 조사(기사 기재). 회사는 해당 기능의 외부 요청 검증이 충분하지 않았던 점이 공격에 이용됐다고 설명.",
    "scale_short": "2,998명",
    "scale_text": "2,998명(9월 23일 오후 3시 기준 확인 규모, 조사에 따라 달라질 수 있음, 기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-09-21-gabia",
    "sources": [
@@ -5880,7 +6361,7 @@
    ],
    "target_text": "고객(기사 기재)",
    "title": "웹 서비스 기능 악용 외부 공격으로 고객 정보 유출",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -6085,6 +6566,45 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 9월 17일 온라인 강의 플랫폼 라이브클래스 해킹과 회원 개인정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-09-17",
+     "date_text": "09.17",
+     "label": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "회원 개인정보",
+   "leaked_items_text": "회원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "라이브클래스",
+   "reported_date": "2026-09-17",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-09-17-liveclass",
+   "sources": [
+    {
+     "publisher": "한경매거진",
+     "title": "강의 플랫폼도 뚫렸다···'라이브클래스' 회원 개인정보 유출",
+     "url": "https://magazine.hankyung.com/business/article/202609172184b"
+    },
+    {
+     "publisher": "ZDNet Korea",
+     "title": "온라인 강의 플랫폼 '라이브클래스' 해킹... 개인정보 유출",
+     "url": "https://zdnet.co.kr/view/?no=20260921163428"
+    }
+   ],
+   "target_text": "라이브클래스 관련(기사 기재)",
+   "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출",
+   "updated_at": "2026-11-11T12:44:51Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2026-09-14",
    "confirmed_text": "최초 공격은 9월 12일 오후 10시 44분~13일 오후 7시 37분 사이 추정, 14일 1차 유출 확인, 16일 140명 공지, 20일 추가 유출 파악, 21일 103명 공지(기사 기재)",
    "events": [
@@ -6137,7 +6657,7 @@
    "response_text": "추가 유출 사실을 파악한 뒤 관계기관에 신고하고 이용자에게 공지(기사 기재). 회사는 유출된 코드만으로 개인을 특정하기 어려워 악용 가능성이 낮다고 설명.",
    "scale_short": "243명",
    "scale_text": "243명(최초 공지 140명에 추가 확인 103명, 기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-09-12-kakaogames-partners-rink",
    "sources": [
@@ -6149,7 +6669,7 @@
    ],
    "target_text": "파트너스·RINK 서비스 이용자(기사 기재)",
    "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출",
-   "updated_at": "2026-11-08T12:28:03Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "vendor",
@@ -7036,7 +7556,7 @@
    "response_text": "경찰에 수사 의뢰(기사 기재)",
    "scale_short": "26만건",
    "scale_text": "26만건(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-08-21-jeongsang-academy",
    "sources": [
@@ -7048,7 +7568,7 @@
    ],
    "target_text": "회원(기사 기재)",
    "title": "회원 정보 26만건 유출, 경찰 수사의뢰",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "vendor",
@@ -7564,7 +8084,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "376만명",
    "scale_text": "34만5천명, 이후 376만명으로 보도(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-08-21-carecloud",
    "sources": [
@@ -7581,7 +8101,7 @@
    ],
    "target_text": "케어클라우드 이용자(기사 기재)",
    "title": "AWS 환경 해킹, 피해자 34만5천명에서 376만명으로 확대",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "misconfig",
@@ -7735,7 +8255,7 @@
    "response_text": "우아한형제들 입장은 제목에서 확인되지 않음",
    "scale_short": "4200만명(주장)",
    "scale_text": "4200만명(해커 주장, 기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-07-29-baemin-darkweb",
    "sources": [
@@ -7747,7 +8267,7 @@
    ],
    "target_text": "배달의민족 이용자(기사 기재)",
    "title": "배민 이용자 4200만명 정보 판매 주장",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "hacking",
@@ -7774,7 +8294,7 @@
    "response_text": "브릿지 전면 중단(기사 기재)",
    "scale_short": "약 77억원",
    "scale_text": "76~77억원 규모(기사 기재)",
-   "sector": "finance",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-07-27-wemix-dollar",
    "sources": [
@@ -7791,7 +8311,7 @@
    ],
    "target_text": "위믹스달러 발행 권한(기사 기재)",
    "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "hacking",
@@ -7813,7 +8333,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-07-27-nexon-ransom-claim",
    "sources": [
@@ -7830,7 +8350,41 @@
    ],
    "target_text": "넥슨(기사 기재)",
    "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 7월 26일 전기차 충전업체 채비의 회원 약 30만명 개인정보 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-07-26",
+     "date_text": "07.26",
+     "label": "회원 약 29만~30만명 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "회원 개인정보",
+   "leaked_items_text": "회원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "채비",
+   "reported_date": "2026-07-26",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "약 29만~30만명",
+   "scale_text": "약 29만~30만명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-07-26-chaevi",
+   "sources": [
+    {
+     "publisher": "아주경제",
+     "title": "전기차 충전업체 채비 \"회원 30만명 개인정보 유출\"",
+     "url": "https://www.ajunews.com/view/20260726163609078"
+    }
+   ],
+   "target_text": "채비 관련(기사 기재)",
+   "title": "회원 약 29만~30만명 개인정보 유출",
+   "updated_at": "2026-11-11T12:44:51Z"
   },
   {
    "category": "hacking",
@@ -8111,7 +8665,7 @@
    "response_text": "이투스에듀 입장은 제목에서 확인되지 않음",
    "scale_short": "42.5만건(주장)",
    "scale_text": "42만5천건(해커 주장, 기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-07-16-etoos-claim",
    "sources": [
@@ -8123,7 +8677,7 @@
    ],
    "target_text": "이투스 고객(기사 기재)",
    "title": "해커 고객정보 42만5천건 판매 주장",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "insider",
@@ -8241,6 +8795,40 @@
    "target_text": "아이스캐너 이용 약사, 팜독 처방전 관련 환자(기사 기재)",
    "title": "처방전 인식 시스템 해킹으로 약사·환자 정보 유출",
    "updated_at": "2026-11-08T23:38:04Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 7월 9일 교육 플랫폼 스콘의 개인정보 유출 의심이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-07-09",
+     "date_text": "07.09",
+     "label": "교육 플랫폼 개인정보 유출 의심 보도(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "개인정보",
+   "leaked_items_text": "개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "스콘",
+   "reported_date": "2026-07-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-07-09-scon",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "[단독] 교육 플랫폼 스콘 \"개인정보 유출 의심\"",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=551394"
+    }
+   ],
+   "target_text": "스콘 관련(기사 기재)",
+   "title": "교육 플랫폼 개인정보 유출 의심 보도",
+   "updated_at": "2026-11-11T12:44:52Z"
   },
   {
    "category": "hacking",
@@ -8571,6 +9159,40 @@
    "updated_at": "2026-11-09T03:11:35Z"
   },
   {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 7월 5일 안전보건공단에서 신고자 실명 노출과 진단서 무단 촬영이 있었다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-07-05",
+     "date_text": "07.05",
+     "label": "신고자 실명 노출과 진단서 무단 촬영 보도(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "신고자 실명, 진단서",
+   "leaked_items_text": "신고자 실명, 진단서(기사 기재)",
+   "notices": [],
+   "org_name": "안전보건공단",
+   "reported_date": "2026-07-05",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-07-05-koshaa-reporter",
+   "sources": [
+    {
+     "publisher": "그린포스트코리아",
+     "title": "신고자 실명 노출에 진단서 무단 촬영까지…안전보건공단",
+     "url": "https://www.greened.kr/news/articleView.html?idxno=344220"
+    }
+   ],
+   "target_text": "안전보건공단 관련(기사 기재)",
+   "title": "신고자 실명 노출과 진단서 무단 촬영 보도",
+   "updated_at": "2026-11-11T12:44:52Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "기사 기준 유출 시점은 2023년 11월, 외부 랜섬웨어 공격으로 업무망 파일 서버 침해(기사 기재)",
@@ -8830,7 +9452,7 @@
    "response_text": "위협 차단과 보완 조치, 사과문 게재, 피해 가능 회원 추가 안내, 주민등록번호 유출 여부 조사(기사 기재). 강사·멘토는 보상 기준과 2차 피해 지원 부재를 지적(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해 인원은 기사에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-06-19-dayone-company",
    "sources": [
@@ -8847,7 +9469,7 @@
    ],
    "target_text": "패스트캠퍼스, 콜로소, 제로베이스 등 8개 브랜드의 일반 회원, 강사, 기업 고객(기사 기재)",
    "title": "깃허브 마스터 계정 키 탈취로 개인정보 유출, 계좌번호 등 추가 유출 가능성",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -8908,7 +9530,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "public",
+   "sector": "service",
    "sector_tags": [],
    "slug": "2026-06-11-gongju-nursing-hospital",
    "sources": [
@@ -8920,7 +9542,7 @@
    ],
    "target_text": "환자(기사 기재)",
    "title": "환자 동의 없이 의료기록 유출",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "misconfig",
@@ -9025,7 +9647,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-06-05-stunitas",
    "sources": [
@@ -9037,7 +9659,7 @@
    ],
    "target_text": "회원(기사 기재)",
    "title": "해킹 사고, 회원 승인·계좌 정보 유출",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "hacking",
@@ -9268,6 +9890,40 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2026년 5월 18일 샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출이 확인됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-05-18",
+     "date_text": "05.18",
+     "label": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "프랜차이즈 자료",
+   "leaked_items_text": "프랜차이즈 자료(기사 기재)",
+   "notices": [],
+   "org_name": "세븐일레븐",
+   "reported_date": "2026-05-18",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-05-18-seven-eleven",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "세븐일레븐, 샤이니헌터스 해킹 공격에 프랜차이즈 자료 유출 확인",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=206791"
+    }
+   ],
+   "target_text": "세븐일레븐 관련(기사 기재)",
+   "title": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인",
+   "updated_at": "2026-11-11T12:44:52Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "개인정보보호위원회가 5월 13일 전체회의에서 제재 의결, 5월 14일 발표(기사 기재)",
    "events": [
     {
@@ -9308,6 +9964,45 @@
    "target_text": "고객(기사 기재)",
    "title": "홈페이지 SQL 인젝션 공격으로 고객 DB 침입, 과징금 부과",
    "updated_at": "2026-11-08T23:38:04Z"
+  },
+  {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 5월 12일 회원 142명 개인정보 유출과 4000명에게 타인 연락처가 오발송됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-05-12",
+     "date_text": "05.12",
+     "label": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "회원 개인정보, 연락처",
+   "leaked_items_text": "회원 개인정보, 연락처(기사 기재)",
+   "notices": [],
+   "org_name": "민음사",
+   "reported_date": "2026-05-12",
+   "response_text": "사과, 북클럽 연간 가입비 환불(기사 기재)",
+   "scale_short": "142명, 4000명",
+   "scale_text": "142명, 4000명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-05-12-minumsa",
+   "sources": [
+    {
+     "publisher": "톱스타뉴스",
+     "title": "민음사, 회원 142명 개인정보 유출 사과…\"북클럽 연간 가입비 전액 환불\"",
+     "url": "https://www.topstarnews.net/news/articleView.html?idxno=16058686"
+    },
+    {
+     "publisher": "더퍼블릭",
+     "title": "민음사, 4000명에 타인 연락처 '오발송'… 개인정보 유출에 사과",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=304118"
+    }
+   ],
+   "target_text": "민음사 관련(기사 기재)",
+   "title": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송",
+   "updated_at": "2026-11-11T12:44:53Z"
   },
   {
    "category": "unknown",
@@ -9453,6 +10148,45 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 4월 23일 콜센터 해킹으로 직원 4만여명의 개인정보가 유출돼 과징금 35억원이 부과됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-04-23",
+     "date_text": "04.23",
+     "label": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "직원 개인정보",
+   "leaked_items_text": "직원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "KS한국고용",
+   "reported_date": "2026-04-23",
+   "response_text": "과징금 35억원 부과(기사 기재)",
+   "scale_short": "4만여명",
+   "scale_text": "4만여명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-04-23-ks-employment",
+   "sources": [
+    {
+     "publisher": "SBS",
+     "title": "KS한국고용 해커에 직원 4만 명 개인정보 털려…과징금 35억 원",
+     "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008529462&plink=ORI"
+    },
+    {
+     "publisher": "고코리아",
+     "title": "콜센터 해킹… 개인정보 4만 명 유출로 35억 과징금",
+     "url": "https://www.gokorea.kr/news/articleView.html?idxno=864453"
+    }
+   ],
+   "target_text": "KS한국고용 관련(기사 기재)",
+   "title": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원",
+   "updated_at": "2026-11-11T12:44:53Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2026-04-17",
    "confirmed_text": "4월 17일 오후 5시경 디도스 공격 발생, 외교부 공지(기사 기재)",
    "events": [
@@ -9588,7 +10322,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-04-13-joycity",
    "sources": [
@@ -9605,7 +10339,7 @@
    ],
    "target_text": "조이시티(기사 기재)",
    "title": "랜섬웨어 피해, 게임 매출 데이터 유출 주장",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T12:30:37Z"
   },
   {
    "category": "hacking",
@@ -9713,6 +10447,40 @@
    "target_text": "공무원(기사 기재)",
    "title": "공무원 정보 유출로 과징금 총 9억여 원 부과",
    "updated_at": "2026-11-10T10:38:15Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 24일 고려제강의 랜섬웨어 피해와 해커의 128GB 내부 데이터 탈취 주장이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-24",
+     "date_text": "03.24",
+     "label": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "내부 데이터",
+   "leaked_items_text": "내부 데이터(기사 기재)",
+   "notices": [],
+   "org_name": "고려제강",
+   "reported_date": "2026-03-24",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "128GB",
+   "scale_text": "128GB(해커 주장, 기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-03-24-kiswire",
+   "sources": [
+    {
+     "publisher": "ZDNet Korea",
+     "title": "고려제강, 랜섬웨어 피해…해커 \"128GB 내부 데이터 탈취\"",
+     "url": "https://zdnet.co.kr/view/?no=20260324160249"
+    }
+   ],
+   "target_text": "고려제강 관련(기사 기재)",
+   "title": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장",
+   "updated_at": "2026-11-11T12:44:54Z"
   },
   {
    "category": "hacking",
@@ -9827,7 +10595,7 @@
    "response_text": "교육부가 2차 피해 대비 학부모 대상 주의 공문 발송, 교사노조가 관계기관에 조사 요구(기사 기재)",
    "scale_short": "미공개(제목 17만명)",
    "scale_text": "기사 제목에 교사 17만명 표기, 확정 규모는 본문에 없음",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-03-16-icecream-media",
    "sources": [
@@ -9844,7 +10612,7 @@
    ],
    "target_text": "교사 회원(기사 기재)",
    "title": "교사 회원 개인정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -9889,6 +10657,40 @@
    "target_text": "SSF샵 회원 계정(기사 기재)",
    "title": "크리덴셜 스터핑 사이버 공격, 개인정보 유출은 없다고 발표",
    "updated_at": "2026-11-09T03:11:35Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 3월 6일 자회사 아주약품의 해킹 정황과 해커의 내부 자료 탈취 주장이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-03-06",
+     "date_text": "03.06",
+     "label": "자회사 해킹 정황, 해커가 내부 자료 탈취 주장(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "내부 자료",
+   "leaked_items_text": "내부 자료(기사 기재)",
+   "notices": [],
+   "org_name": "아주홀딩스(아주약품)",
+   "reported_date": "2026-03-06",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-03-06-aju-holdings",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "아주홀딩스 자회사 아주약품 해킹 정황…해커 \"내부 자료 탈취\" 주장",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=548897"
+    }
+   ],
+   "target_text": "아주홀딩스(아주약품) 관련(기사 기재)",
+   "title": "자회사 해킹 정황, 해커가 내부 자료 탈취 주장",
+   "updated_at": "2026-11-11T12:44:54Z"
   },
   {
    "category": "hacking",
@@ -9995,6 +10797,40 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2026년 2월 13일 전자·부품 제조 삼광의 해킹 정황과 내부 자료 452GB 유출 우려가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-02-13",
+     "date_text": "02.13",
+     "label": "해킹 정황, 내부 자료 452GB 유출 우려(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "내부 자료",
+   "leaked_items_text": "내부 자료(기사 기재)",
+   "notices": [],
+   "org_name": "삼광",
+   "reported_date": "2026-02-13",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "452GB",
+   "scale_text": "452GB(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-02-13-samkwang",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "전자·부품 제조 기업 삼광 해킹 정황…내부 자료 452GB 유출 우려",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=548226"
+    }
+   ],
+   "target_text": "삼광 관련(기사 기재)",
+   "title": "해킹 정황, 내부 자료 452GB 유출 우려",
+   "updated_at": "2026-11-11T12:44:54Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "2026년 2월 9일 삼성D·LGD 협력사 피에스테크놀러지의 정보가 랜섬웨어 조직 킬린에 유출됐다고 보도됨(기사 기재)",
    "events": [
     {
@@ -10025,6 +10861,40 @@
    "target_text": "피에스테크놀러지(기사 기재)",
    "title": "랜섬웨어 조직 킬린에 정보 유출",
    "updated_at": "2026-11-10T10:38:15Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 2월 9일 홈페이지 해킹과 회원 개인정보 유출 가능성이 확인됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-02-09",
+     "date_text": "02.09",
+     "label": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "회원 개인정보",
+   "leaked_items_text": "회원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "뇌신경과학회",
+   "reported_date": "2026-02-09",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-02-09-kns-society",
+   "sources": [
+    {
+     "publisher": "이코노믹뉴스",
+     "title": "뇌신경과학회 홈페이지 해킹...회원 개인정보 유출 가능성 확인",
+     "url": "https://www.m-economynews.com/news/article.html?no=64543"
+    }
+   ],
+   "target_text": "뇌신경과학회 관련(기사 기재)",
+   "title": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인",
+   "updated_at": "2026-11-11T12:44:55Z"
   },
   {
    "category": "hacking",
@@ -10508,6 +11378,40 @@
    "updated_at": "2026-11-08T23:38:04Z"
   },
   {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 1월 20일 협력사 안전교육 시스템 해킹으로 개인정보가 유출됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-01-20",
+     "date_text": "01.20",
+     "label": "협력사 안전교육 시스템 해킹으로 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "개인정보",
+   "leaked_items_text": "개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "포스코이앤씨",
+   "reported_date": "2026-01-20",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-01-20-posco-enc",
+   "sources": [
+    {
+     "publisher": "IT비즈뉴스",
+     "title": "포스코이앤씨, 협력사 안전교육 시스템 해킹…개인정보 유출 사고",
+     "url": "https://www.itbiznews.com/news/articleView.html?idxno=201847"
+    }
+   ],
+   "target_text": "포스코이앤씨 관련(기사 기재)",
+   "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출",
+   "updated_at": "2026-11-11T12:44:55Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "2025년 유심 해킹 사고 관련 개인정보위 처분 후 소송 단계. 사고 발생일은 읽은 기사에 없음(기사 기재)",
@@ -10542,7 +11446,7 @@
    "response_text": "개인정보위가 과징금 1,347억 9,100만원, 과태료 960만원 부과. 회사는 서울행정법원에 과징금 취소소송 제기. 유심 무료 교체와 고객 보상에 약 5000억원 지출, 정보보호 7000억원 추가 투자 계획 밝힘(기사 기재)",
    "scale_short": "2,324만 4,649명",
    "scale_text": "이용자 2,324만 4,649명(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-01-19-sk-telecom-usim",
    "sources": [
@@ -10564,7 +11468,7 @@
    ],
    "target_text": "SK텔레콤 이용자(기사 기재)",
    "title": "유심 정보 유출 사고 및 과징금 취소소송",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -10870,7 +11774,7 @@
    "response_text": "정부가 전체 이용자 위약금 면제 조치, 이행계획 점검 예정, 신고 지연·누락에 과태료 부과 방침(기사 기재). 유심 교체 및 보호서비스 안내 진행(기사 기재)",
    "scale_short": "22,227명, 결제피해 368명",
    "scale_text": "정보 유출 22,227명, 이 중 368명 무단 소액결제 피해, 합계 약 2억 4,300만원(기사 기재). 서버 94대에서 악성코드 103종 발견(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2025-12-29-kt",
    "sources": [
@@ -10892,7 +11796,7 @@
    ],
    "target_text": "KT 가입자(기사 기재)",
    "title": "불법 펨토셀 경유 침해로 가입자 정보 유출·소액결제 피해",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "insider",
@@ -11074,6 +11978,40 @@
    "target_text": "졸업생(기사 기재)",
    "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출",
    "updated_at": "2026-11-10T10:38:15Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 11월 27일 관리자 계정 탈취 해킹과 관련해 하스·바텍엠시스에 과징금 1.8억원이 부과됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-11-27",
+     "date_text": "11.27",
+     "label": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 정보",
+   "leaked_items_text": "고객 정보(기사 기재)",
+   "notices": [],
+   "org_name": "하스·바텍엠시스",
+   "reported_date": "2025-11-27",
+   "response_text": "과징금 1.8억원 부과(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-11-27-haas-vatek-fine",
+   "sources": [
+    {
+     "publisher": "뉴스프라임",
+     "title": "'고객 정보 유출' 하스·바텍엠시스에 과징금 1.8억원",
+     "url": "http://www.newsprime.co.kr/news/article.html?no=713777"
+    }
+   ],
+   "target_text": "하스·바텍엠시스 관련(기사 기재)",
+   "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과",
+   "updated_at": "2026-11-11T12:44:56Z"
   },
   {
    "category": "hacking",
@@ -11507,6 +12445,79 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 10월 12일 고객 개인정보 유출이 보도됨, 10월 17일 후속 보도(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-10-12",
+     "date_text": "10.12",
+     "label": "랜섬웨어 공격으로 고객 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "고객 개인정보",
+   "leaked_items_text": "고객 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "미래엔서해에너지",
+   "reported_date": "2025-10-12",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-10-17-miraen-seohae-energy",
+   "sources": [
+    {
+     "publisher": "아이디제이뉴스",
+     "title": "미래엔서해 에너지 고객 개인정보 유출",
+     "url": "http://www.idjnews.kr/news/articleView.html?idxno=212553"
+    }
+   ],
+   "target_text": "미래엔서해에너지 관련(기사 기재)",
+   "title": "랜섬웨어 공격으로 고객 개인정보 유출",
+   "updated_at": "2026-11-11T12:44:56Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 10월 7일 킬린 조직의 AIP자산운용 해킹과 내부 데이터 탈취가 보도됨, 10월 15일 성명 등 개인정보 포함이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-10-07",
+     "date_text": "10.07",
+     "label": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "내부 데이터, 성명 등 개인정보",
+   "leaked_items_text": "내부 데이터, 성명 등 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "AIP자산운용",
+   "reported_date": "2025-10-07",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2025-10-07-aip-asset",
+   "sources": [
+    {
+     "publisher": "ZDNet Korea",
+     "title": "'킬린' 또 자산운용사 해킹… AIP자산운용 내부 데이터 탈취",
+     "url": "https://zdnet.co.kr/view/?no=20251007105637"
+    },
+    {
+     "publisher": "데일리브리프",
+     "title": "AIP자산운용, 랜섬웨어 감염...\"성명 등 개인정보 포함\"",
+     "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=3649"
+    }
+   ],
+   "target_text": "AIP자산운용 관련(기사 기재)",
+   "title": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함",
+   "updated_at": "2026-11-11T12:44:57Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2024-11-01",
    "confirmed_text": "2024년 11월 쇼핑몰 서버 랜섬웨어 감염(이투데이 기재)",
    "events": [
@@ -11710,6 +12721,40 @@
    "target_text": "국민건강영양조사 대상자 48명(기사 기재)",
    "title": "국민건강영양조사 결과지 문자 오발송으로 48명 정보 유출",
    "updated_at": "2026-11-10T09:35:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 9월 17일 휴맥스홀딩스의 랜섬웨어 피해와 내부 자료 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-09-17",
+     "date_text": "09.17",
+     "label": "랜섬웨어 피해로 내부 자료 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "내부 자료",
+   "leaked_items_text": "내부 자료(기사 기재)",
+   "notices": [],
+   "org_name": "휴맥스홀딩스",
+   "reported_date": "2025-09-17",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-09-17-humax-holdings",
+   "sources": [
+    {
+     "publisher": "엔젯뉴스",
+     "title": "[단독] 휴맥스홀딩스, 내부 자료 유출…랜섬웨어 피해",
+     "url": "https://www.ngetnews.com/news/articleView.html?idxno=536407"
+    }
+   ],
+   "target_text": "휴맥스홀딩스 관련(기사 기재)",
+   "title": "랜섬웨어 피해로 내부 자료 유출",
+   "updated_at": "2026-11-11T12:44:57Z"
   },
   {
    "category": "hacking",
@@ -12344,7 +13389,7 @@
    "response_text": "KISA 기술지원에 동의하지 않아 현장조사 불가, 자체 보안조치. 이용자에게 유출 여부 안내 없음(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음. 홈페이지 한 달 넘게 접속 장애(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2025-08-11-dragonfly",
    "sources": [
@@ -12361,7 +13406,7 @@
    ],
    "target_text": "공식 홈페이지와 스페셜포스 게임 사이트(기사 기재)",
    "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -12401,6 +13446,40 @@
    "target_text": "해성디에스, 전남테크노파크(기사 기재)",
    "title": "해킹 공격 관련 과징금 4억 부과",
    "updated_at": "2026-11-10T10:38:15Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 7월 21일 학생 개인정보 유출과 2차 피해 우려가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-07-21",
+     "date_text": "07.21",
+     "label": "학생 개인정보 유출, 2차 피해 우려(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "학생 개인정보",
+   "leaked_items_text": "학생 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "대성 학원 관계사",
+   "reported_date": "2025-07-21",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-07-21-daesung-affiliate",
+   "sources": [
+    {
+     "publisher": "MTN",
+     "title": "[단독]대성 학원 관계사, 학생 개인정보 유출…\"2차 피해 우려\"",
+     "url": "https://news.mtn.co.kr/news-detail/2025072118021210659"
+    }
+   ],
+   "target_text": "대성 학원 관계사 관련(기사 기재)",
+   "title": "학생 개인정보 유출, 2차 피해 우려",
+   "updated_at": "2026-11-11T12:44:58Z"
   },
   {
    "category": "hacking",
@@ -12578,7 +13657,7 @@
    "response_text": "네이버는 캡차 도입과 페이지 주소 무작위 문자 삽입으로 크롤링 차단 중이라고 밝힘(기사 기재)",
    "scale_short": "약 73만명",
    "scale_text": "약 73만 2323명 정보 게시, 샘플 2000명 이상 공개(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2025-06-17-naver-smartstore",
    "sources": [
@@ -12590,7 +13669,7 @@
    ],
    "target_text": "스마트스토어 판매자, 상당수는 폐업 판매자(기사 기재)",
    "title": "스마트스토어 판매자 정보 약 73만건 다크웹 매물 게시",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -12676,6 +13755,40 @@
    "updated_at": "2026-11-10T10:38:15Z"
   },
   {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 6월 6일 기프티콘 앱 일상카페의 개인정보 최대 16개 항목 유출이 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-06-06",
+     "date_text": "06.06",
+     "label": "기프티콘 앱 개인정보 최대 16개 항목 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "개인정보 최대 16개 항목",
+   "leaked_items_text": "개인정보 최대 16개 항목(기사 기재)",
+   "notices": [],
+   "org_name": "일상카페",
+   "reported_date": "2025-06-06",
+   "response_text": "제목에서 확인되지 않음",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-06-06-ilsang-cafe",
+   "sources": [
+    {
+     "publisher": "포인트데일리",
+     "title": "[단독] 기프티콘 앱 '일상카페', 최대 16개 항목 개인정보 유출",
+     "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251393"
+    }
+   ],
+   "target_text": "일상카페 관련(기사 기재)",
+   "title": "기프티콘 앱 개인정보 최대 16개 항목 유출",
+   "updated_at": "2026-11-11T12:44:58Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "2025년 6월 3일 넥써쓰 대표가 가상자산 해킹에 대해 입장을 밝혔다고 보도됨(기사 기재)",
@@ -12742,6 +13855,40 @@
    "target_text": "KB라이프 임직원(기사 기재)",
    "title": "임직원 정보 유출",
    "updated_at": "2026-11-10T10:38:15Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 5월 22일 팬클럽 회원 897명 개인정보 유출과 사과가 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-05-22",
+     "date_text": "05.22",
+     "label": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "팬클럽 회원 개인정보",
+   "leaked_items_text": "팬클럽 회원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "하이라이트 소속사",
+   "reported_date": "2025-05-22",
+   "response_text": "사과(기사 기재)",
+   "scale_short": "897명",
+   "scale_text": "897명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-05-22-highlight-agency",
+   "sources": [
+    {
+     "publisher": "스타뉴스",
+     "title": "하이라이트 측, 팬클럽 897명 개인정보 유출 사과",
+     "url": "http://www.starnewsk.com/news/articleView.html?idxno=46209"
+    }
+   ],
+   "target_text": "하이라이트 소속사 관련(기사 기재)",
+   "title": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과",
+   "updated_at": "2026-11-11T12:44:59Z"
   },
   {
    "category": "vendor",
@@ -12878,6 +14025,45 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2025년 4월 30일 일부 임직원 개인정보 유출과 미국 법인 포함 사실이 보도됨, 고객·기술 정보와는 무관하다는 입장(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-04-30",
+     "date_text": "04.30",
+     "label": "일부 임직원 개인정보 유출, 미국 법인 포함(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "임직원 개인정보",
+   "leaked_items_text": "임직원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "현대차그룹",
+   "reported_date": "2025-04-30",
+   "response_text": "고객·기술 정보와는 무관하다는 입장(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-04-30-hyundai-motor-group",
+   "sources": [
+    {
+     "publisher": "달리안",
+     "title": "현대차그룹 임직원 개인정보 유출…\"고객·기술 정보와는 무관\"",
+     "url": "https://www.dailian.co.kr/news/view/1492658/?sc=Naver"
+    },
+    {
+     "publisher": "문화일보",
+     "title": "현대차그룹 일부 임직원 개인정보 유출…미국 법인도 포함",
+     "url": "https://www.munhwa.com/article/11502970"
+    }
+   ],
+   "target_text": "현대차그룹 관련(기사 기재)",
+   "title": "일부 임직원 개인정보 유출, 미국 법인 포함",
+   "updated_at": "2026-11-11T12:44:59Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "4월 11일 밤 감염 확인, 랜섬웨어 의심 공격으로 보도, 유출은 미확인(기사 기재)",
    "events": [
     {
@@ -12934,7 +14120,7 @@
    "response_text": "개인정보 보호 관련 제재(기사 기재)",
    "scale_short": "160만명",
    "scale_text": "160만명(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2025-04-11-classu-ktalpha",
    "sources": [
@@ -12946,7 +14132,7 @@
    ],
    "target_text": "클래스유·케이티알파 이용자(기사 기재)",
    "title": "160만명 유출 제재, 자동화 공격 방어 미흡",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T12:31:37Z"
   },
   {
    "category": "hacking",
@@ -13082,6 +14268,40 @@
   },
   {
    "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 3월 5일 악성코드 공격으로 임직원 개인정보가 유출됐다고 보도됨, 고객 피해는 없는 것으로 보도(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-03-05",
+     "date_text": "03.05",
+     "label": "악성코드 공격으로 임직원 개인정보 유출(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "임직원 개인정보",
+   "leaked_items_text": "임직원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "카카오엔터프라이즈",
+   "reported_date": "2025-03-05",
+   "response_text": "고객 피해는 없다고 보도(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2025-03-05-kakao-enterprise",
+   "sources": [
+    {
+     "publisher": "테크M",
+     "title": "카카오엔터프라이즈, 악성코드 공격으로 임직원 개인정보 유출",
+     "url": "https://www.techm.kr/news/articleView.html?idxno=136517"
+    }
+   ],
+   "target_text": "카카오엔터프라이즈 관련(기사 기재)",
+   "title": "악성코드 공격으로 임직원 개인정보 유출",
+   "updated_at": "2026-11-11T12:45:00Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": "2025-02-27",
    "confirmed_text": "2025년 2월 27일 GS리테일이 홈쇼핑 사이트 유출 사실 공지(기사 기재). 2026년 8월 개인정보위가 과징금 처분(기사 기재)",
    "events": [
@@ -13143,6 +14363,40 @@
    "target_text": "GS샵 회원, GS25 회원(기사 기재)",
    "title": "GS샵·GS25 대량 로그인 시도로 회원정보 유출, 개인정보위 과징금",
    "updated_at": "2026-11-08T22:32:59Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2025년 2월 13일 해피포인트 앱 해킹으로 1.7만 명 개인정보가 유출돼 섹타나인에 과징금이 부과됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2025-02-13",
+     "date_text": "02.13",
+     "label": "해피포인트 앱 해킹으로 1.7만명 개인정보 유출, 과징금 14.8억원(기사 기재)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "회원 개인정보",
+   "leaked_items_text": "회원 개인정보(기사 기재)",
+   "notices": [],
+   "org_name": "섹타나인(해피포인트)",
+   "reported_date": "2025-02-13",
+   "response_text": "과징금 14.8억원 부과(기사 기재)",
+   "scale_short": "1.7만명",
+   "scale_text": "1.7만명(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2025-02-13-sectanine-happypoint",
+   "sources": [
+    {
+     "publisher": "SBS Biz",
+     "title": "해피포인트 운영사 15억 과징금⋯해킹 안전조치 소홀",
+     "url": "https://biz.sbs.co.kr/article_hub/20000217743?division=NAVER"
+    }
+   ],
+   "target_text": "섹타나인(해피포인트) 관련(기사 기재)",
+   "title": "해피포인트 앱 해킹으로 1.7만명 개인정보 유출, 과징금 14.8억원",
+   "updated_at": "2026-11-11T12:45:00Z"
   },
   {
    "category": "hacking",

@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 11일 KISA가 연쇄 해킹에 따라 대민 웹 서비스 7곳을 긴급 점검하고 접속이 불가해졌다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-11",
+   "date_text": "11.11",
+   "label": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "대민 웹 서비스 7곳",
+ "leaked_items_text": "대민 웹 서비스 7곳(기사 기재)",
+ "notices": [],
+ "org_name": "한국인터넷진흥원(KISA)",
+ "reported_date": "2026-11-11",
+ "response_text": "긴급 보안 점검(기사 기재)",
+ "scale_short": "7곳",
+ "scale_text": "7곳(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-11-kisa-public-web-7",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "KISA 대민 웹 서비스 7곳 '긴급 보안 점검'으로 접속 불가",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147162"
+  },
+  {
+   "publisher": "바이라인네트워크",
+   "title": "KISA, 대민 웹사이트 7곳 긴급 점검…\"연쇄 해킹 따른 조치\"",
+   "url": "https://byline.network/?p=9004111222627090"
+  }
+ ],
+ "target_text": "한국인터넷진흥원(KISA) 관련(기사 기재)",
+ "title": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검",
+ "updated_at": "2026-11-11T12:44:47Z"
+}

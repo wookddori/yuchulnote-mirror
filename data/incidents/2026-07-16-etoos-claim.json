@@ -18,7 +18,7 @@
  "response_text": "이투스에듀 입장은 제목에서 확인되지 않음",
  "scale_short": "42.5만건(주장)",
  "scale_text": "42만5천건(해커 주장, 기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-07-16-etoos-claim",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "이투스 고객(기사 기재)",
  "title": "해커 고객정보 42만5천건 판매 주장",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 6월 6일 기프티콘 앱 일상카페의 개인정보 최대 16개 항목 유출이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-06-06",
+   "date_text": "06.06",
+   "label": "기프티콘 앱 개인정보 최대 16개 항목 유출(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "개인정보 최대 16개 항목",
+ "leaked_items_text": "개인정보 최대 16개 항목(기사 기재)",
+ "notices": [],
+ "org_name": "일상카페",
+ "reported_date": "2025-06-06",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-06-06-ilsang-cafe",
+ "sources": [
+  {
+   "publisher": "포인트데일리",
+   "title": "[단독] 기프티콘 앱 '일상카페', 최대 16개 항목 개인정보 유출",
+   "url": "https://www.pointdaily.co.kr/news/articleView.html?idxno=251393"
+  }
+ ],
+ "target_text": "일상카페 관련(기사 기재)",
+ "title": "기프티콘 앱 개인정보 최대 16개 항목 유출",
+ "updated_at": "2026-11-11T12:44:58Z"
+}

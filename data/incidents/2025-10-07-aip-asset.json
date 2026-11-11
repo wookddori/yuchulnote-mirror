@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 10월 7일 킬린 조직의 AIP자산운용 해킹과 내부 데이터 탈취가 보도됨, 10월 15일 성명 등 개인정보 포함이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-10-07",
+   "date_text": "10.07",
+   "label": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부 데이터, 성명 등 개인정보",
+ "leaked_items_text": "내부 데이터, 성명 등 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "AIP자산운용",
+ "reported_date": "2025-10-07",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2025-10-07-aip-asset",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "'킬린' 또 자산운용사 해킹… AIP자산운용 내부 데이터 탈취",
+   "url": "https://zdnet.co.kr/view/?no=20251007105637"
+  },
+  {
+   "publisher": "데일리브리프",
+   "title": "AIP자산운용, 랜섬웨어 감염...\"성명 등 개인정보 포함\"",
+   "url": "https://www.dailybrief.co.kr/news/articleView.html?idxno=3649"
+  }
+ ],
+ "target_text": "AIP자산운용 관련(기사 기재)",
+ "title": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함",
+ "updated_at": "2026-11-11T12:44:57Z"
+}

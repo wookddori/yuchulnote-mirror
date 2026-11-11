@@ -23,7 +23,7 @@
  "response_text": "청와대 관계자는 보도 내용을 사전에 인지해 대응 조치를 취했고 외교부 등에서 추가 조치를 할 예정이라고 설명(기사 기재). 신고 기관과 조사 내용은 기사에 없음.",
  "scale_short": "168명",
  "scale_text": "168명(기사 기재)",
- "sector": "service",
+ "sector": "public",
  "sector_tags": [],
  "slug": "2026-11-02-presidential-flight-list",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "전용기 탑승자 168명(기사 기재)",
  "title": "대통령 순방 전용기 탑승자 168명 개인정보 노출",
- "updated_at": "2026-11-08T12:28:03Z"
+ "updated_at": "2026-11-11T12:31:37Z"
 }

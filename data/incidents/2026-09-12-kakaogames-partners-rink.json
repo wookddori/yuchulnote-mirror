@@ -52,7 +52,7 @@
  "response_text": "추가 유출 사실을 파악한 뒤 관계기관에 신고하고 이용자에게 공지(기사 기재). 회사는 유출된 코드만으로 개인을 특정하기 어려워 악용 가능성이 낮다고 설명.",
  "scale_short": "243명",
  "scale_text": "243명(최초 공지 140명에 추가 확인 103명, 기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-09-12-kakaogames-partners-rink",
  "sources": [
@@ -64,5 +64,5 @@
  ],
  "target_text": "파트너스·RINK 서비스 이용자(기사 기재)",
  "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출",
- "updated_at": "2026-11-08T12:28:03Z"
+ "updated_at": "2026-11-11T12:31:37Z"
 }

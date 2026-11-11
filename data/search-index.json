@@ -2,12 +2,86 @@
  "items": [
   {
    "keywords": [
+    "한국인터넷진흥원(KISA)"
+   ],
+   "org_name": "한국인터넷진흥원(KISA)",
+   "sector": "public",
+   "slug": "2026-11-11-kisa-public-web-7",
+   "title": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검"
+  },
+  {
+   "keywords": [
+    "조달청"
+   ],
+   "org_name": "조달청",
+   "sector": "public",
+   "slug": "2026-11-10-ppa-evaluators-photos",
+   "title": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출"
+  },
+  {
+   "keywords": [
+    "모두의주차장"
+   ],
+   "org_name": "모두의주차장",
+   "sector": "it",
+   "slug": "2026-11-10-moduparking-phishing",
+   "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도"
+  },
+  {
+   "keywords": [
+    "한일네트웍스"
+   ],
+   "org_name": "한일네트웍스",
+   "sector": "it",
+   "slug": "2026-11-10-hanil-networks",
+   "title": "랜섬웨어 공격 발생, 즉시 차단했고 유출 피해는 없다고 밝힘"
+  },
+  {
+   "keywords": [
     "금융보안원"
    ],
    "org_name": "금융보안원",
    "sector": "finance",
    "slug": "2026-11-10-fsec-evaluation-system",
    "title": "상시평가 지원 시스템 해킹 정황, 내부자료 유출 기업에 통보 중으로 보도"
+  },
+  {
+   "keywords": [
+    "애자일소다(농협은행",
+    "AI",
+    "자회사)"
+   ],
+   "org_name": "애자일소다(농협은행 AI 자회사)",
+   "sector": "finance",
+   "slug": "2026-11-10-agilesoda-nh",
+   "title": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도"
+  },
+  {
+   "keywords": [
+    "줌줌투어"
+   ],
+   "org_name": "줌줌투어",
+   "sector": "service",
+   "slug": "2026-11-09-zoomzoom-tour",
+   "title": "해킹·개발 오류로 여행 일정·동행자 정보 노출"
+  },
+  {
+   "keywords": [
+    "트래볼루션"
+   ],
+   "org_name": "트래볼루션",
+   "sector": "service",
+   "slug": "2026-11-09-travolution",
+   "title": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도"
+  },
+  {
+   "keywords": [
+    "정보공개포털"
+   ],
+   "org_name": "정보공개포털",
+   "sector": "public",
+   "slug": "2026-11-09-open-portal-leak",
+   "title": "개인정보 유출, 7개월 전 신고가 있었다는 보도"
   },
   {
    "keywords": [
@@ -83,7 +157,7 @@
     "플랫폼)"
    ],
    "org_name": "자비스(세무·경리 플랫폼)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-11-06-jobis",
    "title": "외부 불법 접근 및 사칭 메일 발송, 기업 대표자·결제 정보 유출 가능"
   },
@@ -172,7 +246,7 @@
     "니케)"
    ],
    "org_name": "레벨 인피니트(승리의 여신: 니케)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-11-04-nikke-pc-launcher",
    "title": "PC 런처 스크립트 파일 변조로 악성코드 유입 정황"
   },
@@ -268,7 +342,7 @@
     "외교부)"
    ],
    "org_name": "대통령 전용기 탑승자 명단(청와대·외교부)",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-11-02-presidential-flight-list",
    "title": "대통령 순방 전용기 탑승자 168명 개인정보 노출"
   },
@@ -326,6 +400,24 @@
    "sector": "finance",
    "slug": "2026-11-01-moin-bizplus",
    "title": "기업용 해외송금 서비스 해킹으로 증빙서류 약 1,400명 정보 유출"
+  },
+  {
+   "keywords": [
+    "케이옥션"
+   ],
+   "org_name": "케이옥션",
+   "sector": "service",
+   "slug": "2026-11-01-kauction",
+   "title": "개인정보 유출 가능성 공지"
+  },
+  {
+   "keywords": [
+    "한화엔진"
+   ],
+   "org_name": "한화엔진",
+   "sector": "service",
+   "slug": "2026-11-01-hanwha-engine",
+   "title": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성"
   },
   {
    "keywords": [
@@ -473,7 +565,7 @@
     "국립부경대학교"
    ],
    "org_name": "국립부경대학교",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-10-17-pknu-tuition-system",
    "title": "등록금 수납관리시스템 해킹으로 학생·직원 정보 유출"
   },
@@ -565,7 +657,7 @@
     "더존비즈온"
    ],
    "org_name": "더존비즈온",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-10-16-douzone-bizon-apo-backup",
    "title": "APO 백업 서비스 백업 솔루션 취약점 악용 침해사고"
   },
@@ -619,7 +711,7 @@
     "연세대학교"
    ],
    "org_name": "연세대학교",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-10-22-yonsei-portal",
    "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출"
   },
@@ -649,7 +741,7 @@
     "한국국제교류재단"
    ],
    "org_name": "한국국제교류재단",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-10-19-kf-mail-server",
    "title": "홍보 메일 수신용 서버 외부 공격 침해 정황"
   },
@@ -697,7 +789,7 @@
     "리멤버"
    ],
    "org_name": "리멤버",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-10-20-remember",
    "title": "시스템 오류로 명함 정보가 다른 회원에게 표시"
   },
@@ -756,6 +848,15 @@
    "sector": "service",
    "slug": "2026-10-19-hollys-membership",
    "title": "멤버십 시스템 외부 접근으로 고객 정보 유출"
+  },
+  {
+   "keywords": [
+    "싸이식"
+   ],
+   "org_name": "싸이식",
+   "sector": "finance",
+   "slug": "2026-10-19-cyc-bridge",
+   "title": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출"
   },
   {
    "keywords": [
@@ -942,6 +1043,15 @@
   },
   {
    "keywords": [
+    "쏘카"
+   ],
+   "org_name": "쏘카",
+   "sector": "service",
+   "slug": "2026-10-10-socar",
+   "title": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출"
+  },
+  {
+   "keywords": [
     "대형교회",
     "2곳(여의도순복음교회",
     "사랑의교회)"
@@ -1072,7 +1182,7 @@
     "한국전력공사"
    ],
    "org_name": "한국전력공사",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-10-04-kepco-employee-exposure",
    "title": "외부 웹페이지에 직원 개인정보 노출"
   },
@@ -1084,6 +1194,15 @@
    "sector": "finance",
    "slug": "2026-10-04-im-bank",
    "title": "악성코드 감염으로 이상거래탐지시스템 공격 피해"
+  },
+  {
+   "keywords": [
+    "저축은행중앙회"
+   ],
+   "org_name": "저축은행중앙회",
+   "sector": "finance",
+   "slug": "2026-10-04-fsb-ai-hack",
+   "title": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘"
   },
   {
    "keywords": [
@@ -1100,7 +1219,7 @@
     "어린이포털)"
    ],
    "org_name": "행정안전부(정부24 어린이포털)",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-08-17-gov24-kids-portal",
    "title": "정부24 어린이포털 보안 취약점 공격으로 서버 자료 유출"
   },
@@ -1192,6 +1311,15 @@
   },
   {
    "keywords": [
+    "파이오링크"
+   ],
+   "org_name": "파이오링크",
+   "sector": "it",
+   "slug": "2026-09-30-pio-link",
+   "title": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견"
+  },
+  {
+   "keywords": [
     "파르나스호텔"
    ],
    "org_name": "파르나스호텔",
@@ -1270,7 +1398,7 @@
     "가비아"
    ],
    "org_name": "가비아",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-09-21-gabia",
    "title": "웹 서비스 기능 악용 외부 공격으로 고객 정보 유출"
   },
@@ -1315,10 +1443,19 @@
   },
   {
    "keywords": [
+    "라이브클래스"
+   ],
+   "org_name": "라이브클래스",
+   "sector": "it",
+   "slug": "2026-09-17-liveclass",
+   "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출"
+  },
+  {
+   "keywords": [
     "카카오게임즈"
    ],
    "org_name": "카카오게임즈",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-09-12-kakaogames-partners-rink",
    "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출"
   },
@@ -1515,7 +1652,7 @@
     "정상어학원"
    ],
    "org_name": "정상어학원",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-08-21-jeongsang-academy",
    "title": "회원 정보 26만건 유출, 경찰 수사의뢰"
   },
@@ -1627,7 +1764,7 @@
     "케어클라우드"
    ],
    "org_name": "케어클라우드",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-08-21-carecloud",
    "title": "AWS 환경 해킹, 피해자 34만5천명에서 376만명으로 확대"
   },
@@ -1666,7 +1803,7 @@
     "우아한형제들"
    ],
    "org_name": "우아한형제들",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-07-29-baemin-darkweb",
    "title": "배민 이용자 4200만명 정보 판매 주장"
   },
@@ -1675,7 +1812,7 @@
     "위메이드(위믹스)"
    ],
    "org_name": "위메이드(위믹스)",
-   "sector": "finance",
+   "sector": "it",
    "slug": "2026-07-27-wemix-dollar",
    "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출"
   },
@@ -1684,9 +1821,18 @@
     "넥슨"
    ],
    "org_name": "넥슨",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-07-27-nexon-ransom-claim",
    "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중"
+  },
+  {
+   "keywords": [
+    "채비"
+   ],
+   "org_name": "채비",
+   "sector": "service",
+   "slug": "2026-07-26-chaevi",
+   "title": "회원 약 29만~30만명 개인정보 유출"
   },
   {
    "keywords": [
@@ -1752,7 +1898,7 @@
     "이투스에듀"
    ],
    "org_name": "이투스에듀",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-07-16-etoos-claim",
    "title": "해커 고객정보 42만5천건 판매 주장"
   },
@@ -1785,6 +1931,15 @@
    "sector": "it",
    "slug": "2026-07-10-cresotti",
    "title": "처방전 인식 시스템 해킹으로 약사·환자 정보 유출"
+  },
+  {
+   "keywords": [
+    "스콘"
+   ],
+   "org_name": "스콘",
+   "sector": "it",
+   "slug": "2026-07-09-scon",
+   "title": "교육 플랫폼 개인정보 유출 의심 보도"
   },
   {
    "keywords": [
@@ -1851,6 +2006,15 @@
   },
   {
    "keywords": [
+    "안전보건공단"
+   ],
+   "org_name": "안전보건공단",
+   "sector": "public",
+   "slug": "2026-07-05-koshaa-reporter",
+   "title": "신고자 실명 노출과 진단서 무단 촬영 보도"
+  },
+  {
+   "keywords": [
     "골프존"
    ],
    "org_name": "골프존",
@@ -1902,7 +2066,7 @@
     "등)"
    ],
    "org_name": "데이원컴퍼니(패스트캠퍼스 등)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-06-19-dayone-company",
    "title": "깃허브 마스터 계정 키 탈취로 개인정보 유출, 계좌번호 등 추가 유출 가능성"
   },
@@ -1921,7 +2085,7 @@
     "요양병원"
    ],
    "org_name": "공주 요양병원",
-   "sector": "public",
+   "sector": "service",
    "slug": "2026-06-11-gongju-nursing-hospital",
    "title": "환자 동의 없이 의료기록 유출"
   },
@@ -1948,7 +2112,7 @@
     "에스티유니타스(영단기)"
    ],
    "org_name": "에스티유니타스(영단기)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-06-05-stunitas",
    "title": "해킹 사고, 회원 승인·계좌 정보 유출"
   },
@@ -1992,12 +2156,30 @@
   },
   {
    "keywords": [
+    "세븐일레븐"
+   ],
+   "org_name": "세븐일레븐",
+   "sector": "service",
+   "slug": "2026-05-18-seven-eleven",
+   "title": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인"
+  },
+  {
+   "keywords": [
     "보람상조"
    ],
    "org_name": "보람상조",
    "sector": "service",
    "slug": "2026-05-14-boram-sangjo",
    "title": "홈페이지 SQL 인젝션 공격으로 고객 DB 침입, 과징금 부과"
+  },
+  {
+   "keywords": [
+    "민음사"
+   ],
+   "org_name": "민음사",
+   "sector": "service",
+   "slug": "2026-05-12-minumsa",
+   "title": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송"
   },
   {
    "keywords": [
@@ -2034,6 +2216,15 @@
   },
   {
    "keywords": [
+    "KS한국고용"
+   ],
+   "org_name": "KS한국고용",
+   "sector": "service",
+   "slug": "2026-04-23-ks-employment",
+   "title": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원"
+  },
+  {
+   "keywords": [
     "외교부"
    ],
    "org_name": "외교부",
@@ -2064,7 +2255,7 @@
     "조이시티"
    ],
    "org_name": "조이시티",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-04-13-joycity",
    "title": "랜섬웨어 피해, 게임 매출 데이터 유출 주장"
   },
@@ -2098,6 +2289,15 @@
   },
   {
    "keywords": [
+    "고려제강"
+   ],
+   "org_name": "고려제강",
+   "sector": "service",
+   "slug": "2026-03-24-kiswire",
+   "title": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장"
+  },
+  {
+   "keywords": [
     "앤알캐피탈대부"
    ],
    "org_name": "앤알캐피탈대부",
@@ -2119,7 +2319,7 @@
     "아이스크림미디어"
    ],
    "org_name": "아이스크림미디어",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-03-16-icecream-media",
    "title": "교사 회원 개인정보 유출"
   },
@@ -2132,6 +2332,15 @@
    "sector": "service",
    "slug": "2026-03-12-ssfshop-credential-stuffing",
    "title": "크리덴셜 스터핑 사이버 공격, 개인정보 유출은 없다고 발표"
+  },
+  {
+   "keywords": [
+    "아주홀딩스(아주약품)"
+   ],
+   "org_name": "아주홀딩스(아주약품)",
+   "sector": "service",
+   "slug": "2026-03-06-aju-holdings",
+   "title": "자회사 해킹 정황, 해커가 내부 자료 탈취 주장"
   },
   {
    "keywords": [
@@ -2162,12 +2371,30 @@
   },
   {
    "keywords": [
+    "삼광"
+   ],
+   "org_name": "삼광",
+   "sector": "service",
+   "slug": "2026-02-13-samkwang",
+   "title": "해킹 정황, 내부 자료 452GB 유출 우려"
+  },
+  {
+   "keywords": [
     "피에스테크놀러지"
    ],
    "org_name": "피에스테크놀러지",
    "sector": "service",
    "slug": "2026-02-09-ps-technology",
    "title": "랜섬웨어 조직 킬린에 정보 유출"
+  },
+  {
+   "keywords": [
+    "뇌신경과학회"
+   ],
+   "org_name": "뇌신경과학회",
+   "sector": "public",
+   "slug": "2026-02-09-kns-society",
+   "title": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인"
   },
   {
    "keywords": [
@@ -2253,10 +2480,19 @@
   },
   {
    "keywords": [
+    "포스코이앤씨"
+   ],
+   "org_name": "포스코이앤씨",
+   "sector": "service",
+   "slug": "2026-01-20-posco-enc",
+   "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
     "SK텔레콤"
    ],
    "org_name": "SK텔레콤",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-01-19-sk-telecom-usim",
    "title": "유심 정보 유출 사고 및 과징금 취소소송"
   },
@@ -2319,7 +2555,7 @@
     "KT"
    ],
    "org_name": "KT",
-   "sector": "service",
+   "sector": "it",
    "slug": "2025-12-29-kt",
    "title": "불법 펨토셀 경유 침해로 가입자 정보 유출·소액결제 피해"
   },
@@ -2358,6 +2594,16 @@
    "sector": "public",
    "slug": "2025-12-05-youngjin-high",
    "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출"
+  },
+  {
+   "keywords": [
+    "하스",
+    "바텍엠시스"
+   ],
+   "org_name": "하스·바텍엠시스",
+   "sector": "service",
+   "slug": "2025-11-27-haas-vatek-fine",
+   "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과"
   },
   {
    "keywords": [
@@ -2452,6 +2698,24 @@
   },
   {
    "keywords": [
+    "미래엔서해에너지"
+   ],
+   "org_name": "미래엔서해에너지",
+   "sector": "service",
+   "slug": "2025-10-17-miraen-seohae-energy",
+   "title": "랜섬웨어 공격으로 고객 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "AIP자산운용"
+   ],
+   "org_name": "AIP자산운용",
+   "sector": "finance",
+   "slug": "2025-10-07-aip-asset",
+   "title": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함"
+  },
+  {
+   "keywords": [
     "테라스타"
    ],
    "org_name": "테라스타",
@@ -2485,6 +2749,15 @@
    "sector": "public",
    "slug": "2025-09-23-kdca-sms-misdelivery",
    "title": "국민건강영양조사 결과지 문자 오발송으로 48명 정보 유출"
+  },
+  {
+   "keywords": [
+    "휴맥스홀딩스"
+   ],
+   "org_name": "휴맥스홀딩스",
+   "sector": "it",
+   "slug": "2025-09-17-humax-holdings",
+   "title": "랜섬웨어 피해로 내부 자료 유출"
   },
   {
    "keywords": [
@@ -2555,7 +2828,7 @@
     "드래곤플라이"
    ],
    "org_name": "드래곤플라이",
-   "sector": "service",
+   "sector": "it",
    "slug": "2025-08-11-dragonfly",
    "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의"
   },
@@ -2568,6 +2841,17 @@
    "sector": "public",
    "slug": "2025-07-24-haesung-ds-jntp",
    "title": "해킹 공격 관련 과징금 4억 부과"
+  },
+  {
+   "keywords": [
+    "대성",
+    "학원",
+    "관계사"
+   ],
+   "org_name": "대성 학원 관계사",
+   "sector": "service",
+   "slug": "2025-07-21-daesung-affiliate",
+   "title": "학생 개인정보 유출, 2차 피해 우려"
   },
   {
    "keywords": [
@@ -2611,7 +2895,7 @@
     "스마트스토어"
    ],
    "org_name": "네이버 스마트스토어",
-   "sector": "service",
+   "sector": "it",
    "slug": "2025-06-17-naver-smartstore",
    "title": "스마트스토어 판매자 정보 약 73만건 다크웹 매물 게시"
   },
@@ -2635,6 +2919,15 @@
   },
   {
    "keywords": [
+    "일상카페"
+   ],
+   "org_name": "일상카페",
+   "sector": "it",
+   "slug": "2025-06-06-ilsang-cafe",
+   "title": "기프티콘 앱 개인정보 최대 16개 항목 유출"
+  },
+  {
+   "keywords": [
     "넥써쓰"
    ],
    "org_name": "넥써쓰",
@@ -2650,6 +2943,16 @@
    "sector": "finance",
    "slug": "2025-05-26-kb-life",
    "title": "임직원 정보 유출"
+  },
+  {
+   "keywords": [
+    "하이라이트",
+    "소속사"
+   ],
+   "org_name": "하이라이트 소속사",
+   "sector": "service",
+   "slug": "2025-05-22-highlight-agency",
+   "title": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과"
   },
   {
    "keywords": [
@@ -2681,6 +2984,15 @@
   },
   {
    "keywords": [
+    "현대차그룹"
+   ],
+   "org_name": "현대차그룹",
+   "sector": "service",
+   "slug": "2025-04-30-hyundai-motor-group",
+   "title": "일부 임직원 개인정보 유출, 미국 법인 포함"
+  },
+  {
+   "keywords": [
     "마스턴투자운용"
    ],
    "org_name": "마스턴투자운용",
@@ -2694,7 +3006,7 @@
     "케이티알파"
    ],
    "org_name": "클래스유·케이티알파",
-   "sector": "service",
+   "sector": "it",
    "slug": "2025-04-11-classu-ktalpha",
    "title": "160만명 유출 제재, 자동화 공격 방어 미흡"
   },
@@ -2727,12 +3039,30 @@
   },
   {
    "keywords": [
+    "카카오엔터프라이즈"
+   ],
+   "org_name": "카카오엔터프라이즈",
+   "sector": "it",
+   "slug": "2025-03-05-kakao-enterprise",
+   "title": "악성코드 공격으로 임직원 개인정보 유출"
+  },
+  {
+   "keywords": [
     "GS리테일"
    ],
    "org_name": "GS리테일",
    "sector": "service",
    "slug": "2025-02-27-gs-retail",
    "title": "GS샵·GS25 대량 로그인 시도로 회원정보 유출, 개인정보위 과징금"
+  },
+  {
+   "keywords": [
+    "섹타나인(해피포인트)"
+   ],
+   "org_name": "섹타나인(해피포인트)",
+   "sector": "service",
+   "slug": "2025-02-13-sectanine-happypoint",
+   "title": "해피포인트 앱 해킹으로 1.7만명 개인정보 유출, 과징금 14.8억원"
   },
   {
    "keywords": [

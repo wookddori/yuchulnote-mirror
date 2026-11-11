@@ -33,7 +33,7 @@
  "response_text": "클라이언트 수정과 업데이트 완료, 영향 범위 확인 중, 후속 조치 방안은 별도 공지 예정(기사 기재)",
  "scale_short": "확인 중",
  "scale_text": "영향 범위를 확인 중(운영진 공지, 기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-11-04-nikke-pc-launcher",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "PC 런처로 게임을 실행한 이용자(기사 기재)",
  "title": "PC 런처 스크립트 파일 변조로 악성코드 유입 정황",
- "updated_at": "2026-11-08T12:28:03Z"
+ "updated_at": "2026-11-11T12:31:37Z"
 }

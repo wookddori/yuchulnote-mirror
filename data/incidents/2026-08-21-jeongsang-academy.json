@@ -18,7 +18,7 @@
  "response_text": "경찰에 수사 의뢰(기사 기재)",
  "scale_short": "26만건",
  "scale_text": "26만건(기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-08-21-jeongsang-academy",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "회원(기사 기재)",
  "title": "회원 정보 26만건 유출, 경찰 수사의뢰",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

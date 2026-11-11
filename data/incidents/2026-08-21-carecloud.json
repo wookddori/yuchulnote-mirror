@@ -23,7 +23,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "376만명",
  "scale_text": "34만5천명, 이후 376만명으로 보도(기사 기재)",
- "sector": "service",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-08-21-carecloud",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "케어클라우드 이용자(기사 기재)",
  "title": "AWS 환경 해킹, 피해자 34만5천명에서 376만명으로 확대",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

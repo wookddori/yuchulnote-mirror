@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 4월 23일 콜센터 해킹으로 직원 4만여명의 개인정보가 유출돼 과징금 35억원이 부과됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-04-23",
+   "date_text": "04.23",
+   "label": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "직원 개인정보",
+ "leaked_items_text": "직원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "KS한국고용",
+ "reported_date": "2026-04-23",
+ "response_text": "과징금 35억원 부과(기사 기재)",
+ "scale_short": "4만여명",
+ "scale_text": "4만여명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-04-23-ks-employment",
+ "sources": [
+  {
+   "publisher": "SBS",
+   "title": "KS한국고용 해커에 직원 4만 명 개인정보 털려…과징금 35억 원",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008529462&plink=ORI"
+  },
+  {
+   "publisher": "고코리아",
+   "title": "콜센터 해킹… 개인정보 4만 명 유출로 35억 과징금",
+   "url": "https://www.gokorea.kr/news/articleView.html?idxno=864453"
+  }
+ ],
+ "target_text": "KS한국고용 관련(기사 기재)",
+ "title": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원",
+ "updated_at": "2026-11-11T12:44:53Z"
+}

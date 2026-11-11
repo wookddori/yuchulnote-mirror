@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 3월 5일 악성코드 공격으로 임직원 개인정보가 유출됐다고 보도됨, 고객 피해는 없는 것으로 보도(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-03-05",
+   "date_text": "03.05",
+   "label": "악성코드 공격으로 임직원 개인정보 유출(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "임직원 개인정보",
+ "leaked_items_text": "임직원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "카카오엔터프라이즈",
+ "reported_date": "2025-03-05",
+ "response_text": "고객 피해는 없다고 보도(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2025-03-05-kakao-enterprise",
+ "sources": [
+  {
+   "publisher": "테크M",
+   "title": "카카오엔터프라이즈, 악성코드 공격으로 임직원 개인정보 유출",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=136517"
+  }
+ ],
+ "target_text": "카카오엔터프라이즈 관련(기사 기재)",
+ "title": "악성코드 공격으로 임직원 개인정보 유출",
+ "updated_at": "2026-11-11T12:45:00Z"
+}

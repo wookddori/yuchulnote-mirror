@@ -1,0 +1,34 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 1월 20일 협력사 안전교육 시스템 해킹으로 개인정보가 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-01-20",
+   "date_text": "01.20",
+   "label": "협력사 안전교육 시스템 해킹으로 개인정보 유출(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "개인정보",
+ "leaked_items_text": "개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "포스코이앤씨",
+ "reported_date": "2026-01-20",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-01-20-posco-enc",
+ "sources": [
+  {
+   "publisher": "IT비즈뉴스",
+   "title": "포스코이앤씨, 협력사 안전교육 시스템 해킹…개인정보 유출 사고",
+   "url": "https://www.itbiznews.com/news/articleView.html?idxno=201847"
+  }
+ ],
+ "target_text": "포스코이앤씨 관련(기사 기재)",
+ "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-11T12:44:55Z"
+}

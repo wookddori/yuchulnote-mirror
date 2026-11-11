@@ -1,0 +1,34 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 7월 9일 교육 플랫폼 스콘의 개인정보 유출 의심이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-07-09",
+   "date_text": "07.09",
+   "label": "교육 플랫폼 개인정보 유출 의심 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "개인정보",
+ "leaked_items_text": "개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "스콘",
+ "reported_date": "2026-07-09",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-07-09-scon",
+ "sources": [
+  {
+   "publisher": "엔젯뉴스",
+   "title": "[단독] 교육 플랫폼 스콘 \"개인정보 유출 의심\"",
+   "url": "https://www.ngetnews.com/news/articleView.html?idxno=551394"
+  }
+ ],
+ "target_text": "스콘 관련(기사 기재)",
+ "title": "교육 플랫폼 개인정보 유출 의심 보도",
+ "updated_at": "2026-11-11T12:44:52Z"
+}

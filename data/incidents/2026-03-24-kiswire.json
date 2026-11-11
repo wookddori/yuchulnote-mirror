@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 3월 24일 고려제강의 랜섬웨어 피해와 해커의 128GB 내부 데이터 탈취 주장이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-03-24",
+   "date_text": "03.24",
+   "label": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "내부 데이터",
+ "leaked_items_text": "내부 데이터(기사 기재)",
+ "notices": [],
+ "org_name": "고려제강",
+ "reported_date": "2026-03-24",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "128GB",
+ "scale_text": "128GB(해커 주장, 기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-03-24-kiswire",
+ "sources": [
+  {
+   "publisher": "ZDNet Korea",
+   "title": "고려제강, 랜섬웨어 피해…해커 \"128GB 내부 데이터 탈취\"",
+   "url": "https://zdnet.co.kr/view/?no=20260324160249"
+  }
+ ],
+ "target_text": "고려제강 관련(기사 기재)",
+ "title": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장",
+ "updated_at": "2026-11-11T12:44:54Z"
+}

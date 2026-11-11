@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 9월 30일 파이오링크 네트워크 장비 취약점을 활용한 코인 채굴 악성코드 발견이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-09-30",
+   "date_text": "09.30",
+   "label": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "확인되지 않음",
+ "leaked_items_text": "제목에서 확인되지 않음",
+ "notices": [],
+ "org_name": "파이오링크",
+ "reported_date": "2026-09-30",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-09-30-pio-link",
+ "sources": [
+  {
+   "publisher": "비즈니스포스트",
+   "title": "파이오링크 네트워크 장비 취약점 활용한 코인 채굴 악성코드 발견",
+   "url": "https://www.businesspost.co.kr/BP?command=article_view&num=448312"
+  }
+ ],
+ "target_text": "파이오링크 관련(기사 기재)",
+ "title": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견",
+ "updated_at": "2026-11-11T12:44:50Z"
+}

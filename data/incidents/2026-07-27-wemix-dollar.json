@@ -23,7 +23,7 @@
  "response_text": "브릿지 전면 중단(기사 기재)",
  "scale_short": "약 77억원",
  "scale_text": "76~77억원 규모(기사 기재)",
- "sector": "finance",
+ "sector": "it",
  "sector_tags": [],
  "slug": "2026-07-27-wemix-dollar",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "위믹스달러 발행 권한(기사 기재)",
  "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:30:37Z"
 }

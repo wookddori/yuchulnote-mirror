@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2025년 4월 30일 일부 임직원 개인정보 유출과 미국 법인 포함 사실이 보도됨, 고객·기술 정보와는 무관하다는 입장(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2025-04-30",
+   "date_text": "04.30",
+   "label": "일부 임직원 개인정보 유출, 미국 법인 포함(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "임직원 개인정보",
+ "leaked_items_text": "임직원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "현대차그룹",
+ "reported_date": "2025-04-30",
+ "response_text": "고객·기술 정보와는 무관하다는 입장(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2025-04-30-hyundai-motor-group",
+ "sources": [
+  {
+   "publisher": "달리안",
+   "title": "현대차그룹 임직원 개인정보 유출…\"고객·기술 정보와는 무관\"",
+   "url": "https://www.dailian.co.kr/news/view/1492658/?sc=Naver"
+  },
+  {
+   "publisher": "문화일보",
+   "title": "현대차그룹 일부 임직원 개인정보 유출…미국 법인도 포함",
+   "url": "https://www.munhwa.com/article/11502970"
+  }
+ ],
+ "target_text": "현대차그룹 관련(기사 기재)",
+ "title": "일부 임직원 개인정보 유출, 미국 법인 포함",
+ "updated_at": "2026-11-11T12:44:59Z"
+}

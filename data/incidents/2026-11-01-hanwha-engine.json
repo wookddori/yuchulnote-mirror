@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 1일 외부 서버 비인가 접근으로 개인정보 1,903건이 유출됐을 가능성이 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-01",
+   "date_text": "11.01",
+   "label": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "개인정보",
+ "leaked_items_text": "개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "한화엔진",
+ "reported_date": "2026-11-01",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "1,903건",
+ "scale_text": "1,903건(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-01-hanwha-engine",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "한화엔진, 외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209226"
+  }
+ ],
+ "target_text": "한화엔진 관련(기사 기재)",
+ "title": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성",
+ "updated_at": "2026-11-11T12:44:48Z"
+}

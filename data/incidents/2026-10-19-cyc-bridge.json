@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 19일 크로스체인 브릿지 해킹으로 10억원 상당 자금이 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-19",
+   "date_text": "10.19",
+   "label": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "가상자산 약 10억원",
+ "leaked_items_text": "가상자산 약 10억원(기사 기재)",
+ "notices": [],
+ "org_name": "싸이식",
+ "reported_date": "2026-10-19",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "약 10억원",
+ "scale_text": "약 10억원(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-10-19-cyc-bridge",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "싸이식, 크로스체인 브릿지 해킹…10억원 상당 자금 유출",
+   "url": "https://www.news1.kr/finance/blockchain-fintech/6324281"
+  }
+ ],
+ "target_text": "싸이식 관련(기사 기재)",
+ "title": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출",
+ "updated_at": "2026-11-11T12:44:50Z"
+}

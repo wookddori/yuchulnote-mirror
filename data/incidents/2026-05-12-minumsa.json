@@ -1,0 +1,39 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 5월 12일 회원 142명 개인정보 유출과 4000명에게 타인 연락처가 오발송됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-12",
+   "date_text": "05.12",
+   "label": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "회원 개인정보, 연락처",
+ "leaked_items_text": "회원 개인정보, 연락처(기사 기재)",
+ "notices": [],
+ "org_name": "민음사",
+ "reported_date": "2026-05-12",
+ "response_text": "사과, 북클럽 연간 가입비 환불(기사 기재)",
+ "scale_short": "142명, 4000명",
+ "scale_text": "142명, 4000명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-05-12-minumsa",
+ "sources": [
+  {
+   "publisher": "톱스타뉴스",
+   "title": "민음사, 회원 142명 개인정보 유출 사과…\"북클럽 연간 가입비 전액 환불\"",
+   "url": "https://www.topstarnews.net/news/articleView.html?idxno=16058686"
+  },
+  {
+   "publisher": "더퍼블릭",
+   "title": "민음사, 4000명에 타인 연락처 '오발송'… 개인정보 유출에 사과",
+   "url": "https://www.thepublic.kr/news/articleView.html?idxno=304118"
+  }
+ ],
+ "target_text": "민음사 관련(기사 기재)",
+ "title": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송",
+ "updated_at": "2026-11-11T12:44:53Z"
+}

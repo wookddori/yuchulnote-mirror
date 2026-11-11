@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 10월 10일 29CM와 유사한 공격으로 고객 248명의 개인정보가 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-10",
+   "date_text": "10.10",
+   "label": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "고객 개인정보",
+ "leaked_items_text": "고객 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "쏘카",
+ "reported_date": "2026-10-10",
+ "response_text": "제목에서 확인되지 않음",
+ "scale_short": "248명",
+ "scale_text": "248명(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-10-10-socar",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 쏘카, 무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=208813"
+  }
+ ],
+ "target_text": "쏘카 관련(기사 기재)",
+ "title": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출",
+ "updated_at": "2026-11-11T12:44:49Z"
+}

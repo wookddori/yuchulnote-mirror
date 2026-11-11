@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "public",
+ "sector": "service",
  "sector_tags": [],
  "slug": "2026-06-11-gongju-nursing-hospital",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "환자(기사 기재)",
  "title": "환자 동의 없이 의료기록 유출",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T12:31:37Z"
 }
