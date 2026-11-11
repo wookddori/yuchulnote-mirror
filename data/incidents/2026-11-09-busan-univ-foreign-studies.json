@@ -23,7 +23,7 @@
  "response_text": "해당 PC 회수 후 보안 점검, KISA 신고, 교육부·개인정보위 통보, 대응팀 구성, 11월 6일 홈페이지 사과문 게시(기사 기재)",
  "scale_short": "미확인",
  "scale_text": "유출 여부와 대상자 수 모두 확인되지 않음(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-11-09-busan-univ-foreign-studies",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "평생교육원 교육프로그램 참가자와 용역업체 관계자(기사 기재)",
  "title": "평생교육원 업무용 PC 악성코드 감염 의심, 개인정보 유출 가능성",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

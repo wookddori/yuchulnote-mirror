@@ -23,7 +23,7 @@
  "response_text": "회사의 공식 입장은 읽은 기사에 없음(기사 기재)",
  "scale_short": "약 1.7TB(주장)",
  "scale_text": "기업 문서 약 1.67TB, 데이터베이스 46GB를 확보했다고 주장(기사 기재)",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2025-11-18-lg-energy-solution-akira",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "미국 공장 관련 임직원·고객·협력사 자료(기사 기재)",
  "title": "랜섬웨어 조직 아키라, 내부 자료 1.7TB 탈취 주장",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

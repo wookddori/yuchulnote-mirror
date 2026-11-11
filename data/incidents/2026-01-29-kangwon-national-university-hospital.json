@@ -23,7 +23,7 @@
  "response_text": "서버 네트워크 분리와 외부 접속 차단, 응급서버 가동으로 진료 차질 방지(기사 기재). 교육부 사이버안전센터, 국정원, 강원경찰청 사이버범죄수사대에 신고(기사 기재). 1월 28일 오후 5시께 정상 복구(기사 기재).",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-01-29-kangwon-national-university-hospital",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "의료영상시스템(PACS)(기사 기재)",
  "title": "랜섬웨어 공격으로 의료영상시스템 장애 후 복구",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

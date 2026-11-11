@@ -23,7 +23,7 @@
  "response_text": "대학이 점검 후 취약점 조치 예정이라고 밝힘(기사 기재)",
  "scale_short": "건수 미공개",
  "scale_text": "충북대 건수는 기사에 없음, 해커 주장 피해 사이트는 국내 소규모 웹사이트 17곳(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-01-05-chungbuk-national-univ",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "충북대 수의과대학 홈페이지 게시물 작성자(기사 기재)",
  "title": "수의과대학 웹사이트 해킹, 해커가 다크웹 포럼에 판매 게시",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

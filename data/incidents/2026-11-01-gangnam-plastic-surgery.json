@@ -28,7 +28,7 @@
  "response_text": "홈페이지 사과문 게시, 관계기관 신고, 피해 범위 확인 중. 피해자가 경찰에 고소장 제출, 경찰 수사(기사 기재)",
  "scale_short": "규모 미확인",
  "scale_text": "전체 피해자 수는 기사에 없음. 병원은 5월과 8월에도 개인정보 유출 신고를 한 바 있다고 보도됨(기사 기재)",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-11-01-gangnam-plastic-surgery",
  "sources": [
@@ -50,5 +50,5 @@
  ],
  "target_text": "해당 병원 환자(기사 기재)",
  "title": "병원 서버 해킹으로 환자 신체 사진 등 유출, 가상자산 요구 협박",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

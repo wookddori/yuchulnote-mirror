@@ -28,7 +28,7 @@
  "response_text": "서버 보안 점검, 웹 취약점 점검 자동화 도입, 교육부·국가정보원 협력 강화(기사 기재)",
  "scale_short": "피해 28건·1132건",
  "scale_text": "6년간 해킹 피해 28건, 유출 1132건(기사별로 건 또는 명으로 표기)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-10-11-seoul-national-university",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "교직원, 학생, 산하 연구소 연구원(기사 기재)",
  "title": "6년간 해킹 피해 28건, 개인정보 1132건 유출",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

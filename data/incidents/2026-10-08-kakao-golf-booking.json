@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "3.4만명",
  "scale_text": "3만4000명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-10-08-kakao-golf-booking",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "고객, 동반자(기사 기재)",
  "title": "고객 3만4천명 정보 유출",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

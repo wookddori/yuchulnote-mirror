@@ -28,7 +28,7 @@
  "response_text": "공격 IP·서버 네트워크 차단, 접속 제한, 개인정보보호위원회·교육부 신고, 포렌식 조사 진행(기사 기재). 서울경찰청 사이버수사과 입건 전 조사(기사 기재)",
  "scale_short": "약 18만 건",
  "scale_text": "약 18만 건(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-08-16-sogang-university",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "재학생, 졸업생, 교직원 등 과거 구성원 포함(기사 기재)",
  "title": "서버 무작위 대입 공격으로 구성원 개인정보 약 18만 건 유출",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

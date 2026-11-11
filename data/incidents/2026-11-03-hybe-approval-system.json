@@ -28,7 +28,7 @@
  "response_text": "침입에 쓰인 IP와 접속 경로 차단, 한국인터넷진흥원·개인정보보호위원회 신고(기사 기재). 경기남부경찰청이 11월 3일 입건 전 조사에 착수했고 용의자 특정은 아직 없음.",
  "scale_short": "파악 중",
  "scale_text": "구체적인 피해 규모는 파악되지 않음(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-11-03-hybe-approval-system",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "전·현직 직원과 협력사 관계자(기사 기재)",
  "title": "사내 전자결재·비용처리시스템 외부 비정상 접근으로 개인정보 유출",
- "updated_at": "2026-11-08T15:50:55Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

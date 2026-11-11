@@ -23,7 +23,7 @@
  "response_text": "서버 접속 차단, 악성파일 삭제로 같은 날 오후 복구. 수술·진료 차질 없었다고 병원이 밝힘. 원인과 경위 조사 중(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-01-28-chonnam-national-university-hospital",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "병원 영상 저장·전송 시스템(기사 기재)",
  "title": "랜섬웨어 공격으로 영상검사 시스템 장애, 당일 복구",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

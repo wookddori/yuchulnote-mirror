@@ -18,7 +18,7 @@
  "response_text": "관련 IP 차단, 시스템 점검, 침입방지시스템 추가 도입, 24시간 모니터링, 비밀번호 변경 요청, 경찰청 국가수사본부 수사(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "피해 고객 수는 기사에 없음",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-08-26-solmoro-cc",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "골프장 웹사이트 고객(기사 기재)",
  "title": "해킹으로 골프장 회원 개인정보 유출",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

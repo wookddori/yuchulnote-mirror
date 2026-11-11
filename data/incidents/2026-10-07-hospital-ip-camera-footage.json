@@ -18,7 +18,7 @@
  "response_text": "경찰이 최초 유포자 수사와 재게시자 추적 계획. 해당 의료기관의 보안 조치는 기사에 없음(기사 기재)",
  "scale_short": "영상 약 80건",
  "scale_text": "약 80건 중 21건이 서울 산부인과 1곳의 영상. 촬영·게시 시점은 기사에 없음(기사 기재)",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-10-07-hospital-ip-camera-footage",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "산부인과·성형외과·재활의학과 등 의료기관 진료실·탈의실 촬영 대상자(기사 기재)",
  "title": "병원 IP카메라 영상 약 80건 해외 사이트 유포",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

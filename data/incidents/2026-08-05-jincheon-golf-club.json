@@ -28,7 +28,7 @@
  "response_text": "KISA·개인정보위·경찰 신고, 홈페이지 임시 차단과 웹방화벽 설치, 피싱·스미싱 및 비밀번호 변경 안내, 경찰 수사 착수(기사 기재)",
  "scale_short": null,
  "scale_text": "고객 9만여 명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-08-05-jincheon-golf-club",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "골프장 회원(고객)(기사 기재)",
  "title": "외부인 비정상 접근으로 회원 약 9만 명 정보 유출",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

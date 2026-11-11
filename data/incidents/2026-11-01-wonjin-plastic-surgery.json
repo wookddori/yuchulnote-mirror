@@ -33,7 +33,7 @@
  "response_text": "외부 접근 경로 차단, 접속 기록 보전, 관계기관 신고, 홈페이지 사과문 게시, 피해자 개별 통지 예정. 환자 측 고소장 접수로 경찰 수사 착수(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "피해자 수는 기사에 없음, 병원은 범위 확인 중이라고 설명(기사 기재)",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-11-01-wonjin-plastic-surgery",
  "sources": [
@@ -50,5 +50,5 @@
  ],
  "target_text": "병원 환자(기사 기재)",
  "title": "내부 서버 해킹으로 환자 사진·상담 정보 유출, 가상자산 요구 협박 발생",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -28,7 +28,7 @@
  "response_text": "접근 차단, 교육부·개인정보위·KISA 신고, 긴급대응반 구성, 7월 23일부터 정보주체 통지, 문자발송시스템 외부 접근 차단(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 조사 중이며 공개되지 않음(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-07-06-daejin-university",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "교직원(기사 기재), 학생·외부인 여부는 조사 중(기사 기재)",
  "title": "문자발송시스템 외부 공격으로 교직원 개인정보 유출",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

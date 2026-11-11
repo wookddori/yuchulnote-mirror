@@ -28,7 +28,7 @@
  "response_text": "교육부가 2차 피해 대비 학부모 대상 주의 공문 발송, 교사노조가 관계기관에 조사 요구(기사 기재)",
  "scale_short": "미공개(제목 17만명)",
  "scale_text": "기사 제목에 교사 17만명 표기, 확정 규모는 본문에 없음",
- "sector": "it",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-03-16-icecream-media",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "교사 회원(기사 기재)",
  "title": "교사 회원 개인정보 유출",
- "updated_at": "2026-11-11T12:31:37Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

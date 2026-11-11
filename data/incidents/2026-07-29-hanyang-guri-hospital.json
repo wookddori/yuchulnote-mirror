@@ -18,7 +18,7 @@
  "response_text": "홈페이지 공지, 환자 개별 연락, 개인정보위 신고, 직원 징계 예정. 외부인 신원과 2차 유통 여부는 기사에 없음(기사 기재)",
  "scale_short": "109명",
  "scale_text": "환자 109명(기사 기재)",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-07-29-hanyang-guri-hospital",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "응급실 환자 109명(기사 기재)",
  "title": "직원이 응급실 환자 진료정보를 촬영해 외부인에게 전달",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

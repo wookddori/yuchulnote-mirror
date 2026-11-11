@@ -28,7 +28,7 @@
  "response_text": "개인정보위가 HD건설기계에 과징금 7350만원, HD한국조선해양에 과태료 480만원 부과. 계열사 간 불필요한 접근 허용과 웹 취약점 대응이 미흡했다고 위원회가 판단하고 접근 제한 점검을 권고(기사 기재)",
  "scale_short": null,
  "scale_text": "9503명(기사 기재)",
- "sector": "it",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-08-27-hd-construction-equipment",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "HD건설기계 임직원 및 협력사 직원(기사 기재)",
  "title": "계열사 서버 경유 무단 접속으로 임직원·협력사 직원 9503명 정보 유출, 과징금·과태료",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

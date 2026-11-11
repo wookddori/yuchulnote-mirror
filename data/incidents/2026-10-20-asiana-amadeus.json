@@ -23,7 +23,7 @@
  "response_text": "보안 강화 조치 실시, 고객에게 유출 사실과 사과를 담은 메일 발송, 추가 내역 파악 시 재안내 예정(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모 미공개(조사 중, 기사 기재). 유출 시점은 2023년 8월~2026년 9월로 추정(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-10-20-asiana-amadeus",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "일부 고객(기사 기재)",
  "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출",
- "updated_at": "2026-11-08T12:12:08Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

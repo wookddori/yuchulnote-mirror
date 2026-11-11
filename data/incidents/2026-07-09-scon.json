@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "it",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-07-09-scon",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "스콘 관련(기사 기재)",
  "title": "교육 플랫폼 개인정보 유출 의심 보도",
- "updated_at": "2026-11-11T12:44:52Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

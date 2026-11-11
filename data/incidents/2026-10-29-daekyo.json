@@ -28,7 +28,7 @@
  "response_text": "개인정보위가 과징금 32억 5,500만원, 시정명령, 처분 사실 공표명령 부과(기사 기재)",
  "scale_short": "약 65만명",
  "scale_text": "약 65만명, 2024년 8월과 2025년 2월 두 차례 유출(기사 기재)",
- "sector": "service",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-10-29-daekyo",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "대교 회원(기사 기재)",
  "title": "관계사 웹 취약점 경유 개인정보 약 65만명 유출, 개인정보위 과징금",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

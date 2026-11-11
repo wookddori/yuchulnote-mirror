@@ -18,7 +18,7 @@
  "response_text": "KISA에 장애 신고, 유출 확인 시 경찰 수사 의뢰 예정(기사 기재). 서울 헌혈카페·헌혈버스 운영 중단, 일부 병원 신규 혈액 공급 신청 불가(기사 기재). 보건복지부는 적십자 공급 비중이 커 혈액 수급 위험은 작다고 설명(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2025-11-10-hanmaum-blood-center",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "헌혈자(기사 기재)",
  "title": "혈액공급기관 랜섬웨어 공격, 헌혈자 정보 보유 주장",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

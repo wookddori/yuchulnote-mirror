@@ -23,7 +23,7 @@
  "response_text": "공격에 쓰인 IP와 접근 경로 차단, 접근 키 교체, 관계기관과 원인·범위 조사, 접근 통제와 모니터링 강화 예정. 현재까지 2차 피해는 확인되지 않았다고 설명(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "유출 인원과 문서 규모는 기사에 없음",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-11-08-sm-entertainment",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "SM엔터테인먼트와 일부 계열사(디어유, 드림메이커) 임직원(기사 기재)",
  "title": "외부 해킹으로 임직원 개인정보 유출",
- "updated_at": "2026-11-08T23:41:34Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

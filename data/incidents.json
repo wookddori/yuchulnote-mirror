@@ -3,7 +3,7 @@
   {
    "category": "hacking",
    "confirmed_date": null,
-   "confirmed_text": "2026년 11월 11일 KISA가 연쇄 해킹에 따라 대민 웹 서비스 7곳을 긴급 점검하고 접속이 불가해졌다고 보도됨(기사 기재)",
+   "confirmed_text": "2026년 11월 11일 KISA가 연쇄 해킹에 따른 조치로 대민 웹 서비스 7곳을 긴급 점검하면서 접속이 불가해졌다고 보도됨. 기사 제목 기준으로 KISA 시스템의 침해나 정보 유출이 확인됐다는 내용은 없음(기사 기재)",
    "events": [
     {
      "date_iso": "2026-11-11",
@@ -12,14 +12,14 @@
     }
    ],
    "investigating": true,
-   "leaked_items_short": "대민 웹 서비스 7곳",
-   "leaked_items_text": "대민 웹 서비스 7곳(기사 기재)",
+   "leaked_items_short": "확인된 유출 없음",
+   "leaked_items_text": "확인된 유출 없음(제목 기준, 기사 기재)",
    "notices": [],
    "org_name": "한국인터넷진흥원(KISA)",
    "reported_date": "2026-11-11",
-   "response_text": "긴급 보안 점검(기사 기재)",
-   "scale_short": "7곳",
-   "scale_text": "7곳(기사 기재)",
+   "response_text": "긴급 보안 점검, 점검 중 접속 불가(자체 점검 조치, 기사 기재)",
+   "scale_short": "점검 7곳",
+   "scale_text": "점검 대상 대민 웹 서비스 7곳(기사 기재)",
    "sector": "public",
    "sector_tags": [],
    "slug": "2026-11-11-kisa-public-web-7",
@@ -36,8 +36,8 @@
     }
    ],
    "target_text": "한국인터넷진흥원(KISA) 관련(기사 기재)",
-   "title": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검",
-   "updated_at": "2026-11-11T12:44:47Z"
+   "title": "연쇄 해킹에 따른 조치로 대민 웹 서비스 7곳 긴급 점검, 접속 불가",
+   "updated_at": "2026-11-11T13:09:54Z"
   },
   {
    "category": "insider",
@@ -71,7 +71,7 @@
    ],
    "target_text": "조달청 관련(기사 기재)",
    "title": "평가위원 189명 사진을 AI 개발 과정에서 외부에 넘겨 유출",
-   "updated_at": "2026-11-11T12:44:45Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "vendor",
@@ -105,7 +105,7 @@
    ],
    "target_text": "모두의주차장 관련(기사 기재)",
    "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도",
-   "updated_at": "2026-11-11T12:44:46Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -139,7 +139,7 @@
    ],
    "target_text": "한일네트웍스 관련(기사 기재)",
    "title": "랜섬웨어 공격 발생, 즉시 차단했고 유출 피해는 없다고 밝힘",
-   "updated_at": "2026-11-11T12:44:47Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -217,7 +217,7 @@
    ],
    "target_text": "애자일소다(농협은행 AI 자회사) 관련(기사 기재)",
    "title": "해킹 사고 발생, 외부 백업 서버 침해 노출 보도",
-   "updated_at": "2026-11-11T12:44:45Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -239,7 +239,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-09-zoomzoom-tour",
    "sources": [
@@ -251,7 +251,7 @@
    ],
    "target_text": "줌줌투어 관련(기사 기재)",
    "title": "해킹·개발 오류로 여행 일정·동행자 정보 노출",
-   "updated_at": "2026-11-11T12:44:46Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -273,7 +273,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-09-travolution",
    "sources": [
@@ -285,7 +285,7 @@
    ],
    "target_text": "트래볼루션 관련(기사 기재)",
    "title": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도",
-   "updated_at": "2026-11-11T12:44:46Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "unknown",
@@ -319,7 +319,7 @@
    ],
    "target_text": "정보공개포털 관련(기사 기재)",
    "title": "개인정보 유출, 7개월 전 신고가 있었다는 보도",
-   "updated_at": "2026-11-11T12:44:48Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -346,7 +346,7 @@
    "response_text": "해당 PC 회수 후 보안 점검, KISA 신고, 교육부·개인정보위 통보, 대응팀 구성, 11월 6일 홈페이지 사과문 게시(기사 기재)",
    "scale_short": "미확인",
    "scale_text": "유출 여부와 대상자 수 모두 확인되지 않음(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-11-09-busan-univ-foreign-studies",
    "sources": [
@@ -363,7 +363,7 @@
    ],
    "target_text": "평생교육원 교육프로그램 참가자와 용역업체 관계자(기사 기재)",
    "title": "평생교육원 업무용 PC 악성코드 감염 의심, 개인정보 유출 가능성",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -390,7 +390,7 @@
    "response_text": "공격에 쓰인 IP와 접근 경로 차단, 접근 키 교체, 관계기관과 원인·범위 조사, 접근 통제와 모니터링 강화 예정. 현재까지 2차 피해는 확인되지 않았다고 설명(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "유출 인원과 문서 규모는 기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-08-sm-entertainment",
    "sources": [
@@ -407,7 +407,7 @@
    ],
    "target_text": "SM엔터테인먼트와 일부 계열사(디어유, 드림메이커) 임직원(기사 기재)",
    "title": "외부 해킹으로 임직원 개인정보 유출",
-   "updated_at": "2026-11-08T23:41:34Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -542,7 +542,7 @@
    "response_text": "토파스는 거래 여행사에 안내하고 아마데우스에 추가 보호조치와 재발방지안 요구. 참좋은여행은 고객 정보 포함 여부 확인 중이며 피해 확인 시 개별 안내 예정. 두 회사 모두 사칭 문자·메일 주의 안내(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해 인원은 기사에 없음. 접근 기간은 2023년 8월 10일부터 2026년 9월 23일로 기재, 조사 중(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-06-topas-chamjoeun-amadeus",
    "sources": [
@@ -554,7 +554,7 @@
    ],
    "target_text": "토파스여행정보 및 이용 여행사 고객, 참좋은여행 고객 확인 중(기사 기재)",
    "title": "아마데우스 시스템 무단 접근으로 예약번호 일부 유출",
-   "updated_at": "2026-11-09T09:56:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -630,7 +630,7 @@
    "response_text": "욱성화학 관계자는 관련 내용을 들은 바 없다고 답함. 파낙스 그룹 입장은 기사에 없음(기사 기재)",
    "scale_short": "미공개(조직 주장)",
    "scale_text": "조직이 샘플 이미지 18건 게시, 전체 규모는 기사에 없음(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-11-06-pax-group-uksung-chemical",
    "sources": [
@@ -642,7 +642,7 @@
    ],
    "target_text": "욱성화학 및 파낙스 그룹 계열 도메인 6개 등(조직 주장, 기사 기재)",
    "title": "랜섬웨어 조직 인크랜섬, 파낙스 그룹·욱성화학 해킹 주장",
-   "updated_at": "2026-11-09T09:56:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -997,7 +997,7 @@
    "response_text": "11월 4일 오전 2시 30분경 문제 확인, 클라이언트 수정 패치 배포, 후속 조치 별도 공지 예고(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "감염자 수와 피해 규모는 기사에 없음, 영향 확인 중(기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-04-shiftup-nikke",
    "sources": [
@@ -1014,7 +1014,7 @@
    ],
    "target_text": "니케 PC 런처 이용자(기사 기재)",
    "title": "니케 PC 런처 변조로 원격제어 악성코드 유포 정황",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -1090,7 +1090,7 @@
    "response_text": "클라이언트 수정과 업데이트 완료, 영향 범위 확인 중, 후속 조치 방안은 별도 공지 예정(기사 기재)",
    "scale_short": "확인 중",
    "scale_text": "영향 범위를 확인 중(운영진 공지, 기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-04-nikke-pc-launcher",
    "sources": [
@@ -1102,7 +1102,7 @@
    ],
    "target_text": "PC 런처로 게임을 실행한 이용자(기사 기재)",
    "title": "PC 런처 스크립트 파일 변조로 악성코드 유입 정황",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -1129,7 +1129,7 @@
    "response_text": "피해 고객 확인 중, 피싱 주의 당부, 손해배상청구·분쟁조정 신청 안내(데일리시큐 기재). 아마데우스 계정 로그인 인증정보를 이용한 비인가 접근으로 파악, 시점은 2023년 8월~2026년 9월 사이로 조사 중(기사 기재).",
    "scale_short": "미공개",
    "scale_text": "피해 규모는 공개되지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-04-nh-nonghyup-travel",
    "sources": [
@@ -1146,7 +1146,7 @@
    ],
    "target_text": "NH여행 항공예약 고객 중 일부(기사 기재)",
    "title": "아마데우스 시스템 비인가 접근으로 항공예약번호 유출 안내",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -1398,7 +1398,7 @@
    "response_text": "침입에 쓰인 IP와 접속 경로 차단, 한국인터넷진흥원·개인정보보호위원회 신고(기사 기재). 경기남부경찰청이 11월 3일 입건 전 조사에 착수했고 용의자 특정은 아직 없음.",
    "scale_short": "파악 중",
    "scale_text": "구체적인 피해 규모는 파악되지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-11-03-hybe-approval-system",
    "sources": [
@@ -1410,7 +1410,7 @@
    ],
    "target_text": "전·현직 직원과 협력사 관계자(기사 기재)",
    "title": "사내 전자결재·비용처리시스템 외부 비정상 접근으로 개인정보 유출",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -1745,7 +1745,7 @@
    "response_text": "외부 접근 경로 차단, 접속 기록 보전, 관계기관 신고, 홈페이지 사과문 게시, 피해자 개별 통지 예정. 환자 측 고소장 접수로 경찰 수사 착수(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해자 수는 기사에 없음, 병원은 범위 확인 중이라고 설명(기사 기재)",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-11-01-wonjin-plastic-surgery",
    "sources": [
@@ -1762,7 +1762,7 @@
    ],
    "target_text": "병원 환자(기사 기재)",
    "title": "내부 서버 해킹으로 환자 사진·상담 정보 유출, 가상자산 요구 협박 발생",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -1845,7 +1845,7 @@
    ],
    "target_text": "케이옥션 관련(기사 기재)",
    "title": "개인정보 유출 가능성 공지",
-   "updated_at": "2026-11-11T12:44:49Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -1867,7 +1867,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "1,903건",
    "scale_text": "1,903건(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-11-01-hanwha-engine",
    "sources": [
@@ -1879,7 +1879,7 @@
    ],
    "target_text": "한화엔진 관련(기사 기재)",
    "title": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성",
-   "updated_at": "2026-11-11T12:44:48Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -1906,7 +1906,7 @@
    "response_text": "관계기관 즉시 신고, 피해 범위 조사 중. 입주민에게 스미싱·보이스피싱 주의 안내(기사 기재)",
    "scale_short": "일부 입주민(인원 미공개)",
    "scale_text": "일부 입주민이라고만 기재, 정확한 인원은 기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-11-01-gs-engineering-construction",
    "sources": [
@@ -1918,7 +1918,7 @@
    ],
    "target_text": "자이 아파트 커뮤니티 시설 예약관리시스템 이용 입주민 일부(기사 기재)",
    "title": "아파트 커뮤니티 예약시스템 외부 비정상 접근, 입주민 정보 유출 가능",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -1950,7 +1950,7 @@
    "response_text": "홈페이지 사과문 게시, 관계기관 신고, 피해 범위 확인 중. 피해자가 경찰에 고소장 제출, 경찰 수사(기사 기재)",
    "scale_short": "규모 미확인",
    "scale_text": "전체 피해자 수는 기사에 없음. 병원은 5월과 8월에도 개인정보 유출 신고를 한 바 있다고 보도됨(기사 기재)",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-11-01-gangnam-plastic-surgery",
    "sources": [
@@ -1972,7 +1972,7 @@
    ],
    "target_text": "해당 병원 환자(기사 기재)",
    "title": "병원 서버 해킹으로 환자 신체 사진 등 유출, 가상자산 요구 협박",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2278,7 +2278,7 @@
    "response_text": "개인정보위가 과징금 6억 3,000만원, 주기적 취약점 점검·개선 시정명령 부과. 웹방화벽 미설치, 비밀번호 암호화 방식 문제가 처분 사유에 포함(기사 기재)",
    "scale_short": "18만 8,481명",
    "scale_text": "188,481명, 2024년 3월 유출(기사 기재)",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-10-29-younghun-medical-foundation",
    "sources": [
@@ -2290,7 +2290,7 @@
    ],
    "target_text": "대전선병원·유성선병원 이용자(기사 기재)",
    "title": "SQL 인젝션 취약점으로 개인정보 18만여명 유출, 개인정보위 과징금",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2444,7 +2444,7 @@
    "response_text": "개인정보위가 과징금 32억 5,500만원, 시정명령, 처분 사실 공표명령 부과(기사 기재)",
    "scale_short": "약 65만명",
    "scale_text": "약 65만명, 2024년 8월과 2025년 2월 두 차례 유출(기사 기재)",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-29-daekyo",
    "sources": [
@@ -2456,7 +2456,7 @@
    ],
    "target_text": "대교 회원(기사 기재)",
    "title": "관계사 웹 취약점 경유 개인정보 약 65만명 유출, 개인정보위 과징금",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2532,7 +2532,7 @@
    "response_text": "비정상 접근 차단과 관련 시스템 점검·보완, 탐지·차단 체계 강화, 관계기관 신고, 홈페이지에서 본인 유출 여부 조회 안내, 의심 링크 주의와 비밀번호 변경 당부(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-25-myrealtrip",
    "sources": [
@@ -2544,7 +2544,7 @@
    ],
    "target_text": "여행자(이용자). 항목은 이용자마다 다르며 홈페이지에서 본인 유출 여부 조회 가능(기사 기재)",
    "title": "외부 비정상 접근으로 이용자 정보 유출",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2571,7 +2571,7 @@
    "response_text": "차단·신고·안내는 기사에 없음",
    "scale_short": "5,108명",
    "scale_text": "5,108명(학교 자체 파악, 기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-17-pknu-tuition-system",
    "sources": [
@@ -2583,7 +2583,7 @@
    ],
    "target_text": "학생과 직원(기사 기재)",
    "title": "등록금 수납관리시스템 해킹으로 학생·직원 정보 유출",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2644,7 +2644,7 @@
    "response_text": "접근 경로 차단, 영향 계정 비밀번호 초기화, 접속기록 분석, KISA 신고, 고객 개별 통지 및 홈페이지 공지(기사 기재)",
    "scale_short": "조사 중",
    "scale_text": "규모는 조사 중이며 공개되지 않음. 현재까지 부정결제 피해는 확인되지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-28-hotelstory",
    "sources": [
@@ -2656,7 +2656,7 @@
    ],
    "target_text": "예약 고객(기사 기재)",
    "title": "숙소 계정 탈취로 예약정보 및 카드 관련 정보 유출",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -2820,7 +2820,7 @@
    "response_text": "접근 경로 차단과 취약점 보완, 비정상 접근 탐지·차단 체계 강화, 한국인터넷진흥원 기술 지원 신청, 홈페이지 공지(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모 미공개(침해 경로와 범위를 파악 중이라고 회사가 설명, 기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-26-noluniverse-interpark",
    "sources": [
@@ -2832,7 +2832,7 @@
    ],
    "target_text": "올해 2월 15일부터 지난달 8일까지 구 인터파크투어에서 국내 숙소를 예약한 고객과 임직원 일부(기사 기재). 항공·해외숙소·투어·티켓·놀(NOL) 서비스 예약은 대상이 아니라고 회사가 설명",
    "title": "구 인터파크투어 국내 숙소 예약자 정보 조회 기능 침해",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3182,7 +3182,7 @@
    "response_text": "통보 직후 안전 조치, 아마데우스에 접근 차단·다크웹 모니터링 등 요구, 고객에게 유출 사실과 사과를 담은 메일 발송(10월 24일), 출처 불명 링크·첨부 주의 당부(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모 미공개(조사 중, 기사 기재). 유출 시점은 2023년 8월~2026년 9월로 추정(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-20-koreanair-amadeus",
    "sources": [
@@ -3199,7 +3199,7 @@
    ],
    "target_text": "일부 고객(기사 기재)",
    "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3226,7 +3226,7 @@
    "response_text": "보안 강화 조치 실시, 고객에게 유출 사실과 사과를 담은 메일 발송, 추가 내역 파악 시 재안내 예정(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모 미공개(조사 중, 기사 기재). 유출 시점은 2023년 8월~2026년 9월로 추정(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-20-asiana-amadeus",
    "sources": [
@@ -3243,7 +3243,7 @@
    ],
    "target_text": "일부 고객(기사 기재)",
    "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3275,7 +3275,7 @@
    "response_text": "유출 경로 차단, 수사기관에 수사 의뢰, 개인정보 유출 안내 공지와 사과, 홈페이지 공지사항에서 개인별 유출 항목 확인 가능(기사 기재)",
    "scale_short": "약 1만 명",
    "scale_text": "1만여 명(기사 기재, 정확한 인원은 기사에 없음)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-22-yonsei-portal",
    "sources": [
@@ -3287,7 +3287,7 @@
    ],
    "target_text": "재학생·졸업생 등(기사 기재)",
    "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3451,7 +3451,7 @@
    "response_text": "침입 경로 차단, 관리자 비밀번호 변경, 2단계 인증 적용 예정, 개별 통지, KISA·개인정보보호위원회 신고, 경찰 수사 의뢰(기사 기재)",
    "scale_short": "약 6.7만 명",
    "scale_text": "회원 약 6만7000명, 전체 회원의 약 2.9%(기사 기재)",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-21-woongjin-compass",
    "sources": [
@@ -3468,7 +3468,7 @@
    ],
    "target_text": "놀이의발견 회원(기사 기재)",
    "title": "관리시스템 해킹으로 회원 약 6만7000명 정보 유출",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -3735,7 +3735,7 @@
    "response_text": "HMM은 유출이 없었다는 입장. 싸이버로지텍은 고객사 솔루션 망이 분리되어 문제없다고 설명(기사 기재)",
    "scale_short": "12곳(조직 주장)",
    "scale_text": "12곳 대상, 공개분은 전체 반출 데이터의 첫 번째 공개분이라고 조직 주장(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-10-20-n0n-shipping-steel",
    "sources": [
@@ -3752,7 +3752,7 @@
    ],
    "target_text": "국내 철강, 해운·항만 기업 12곳(기사 기재)",
    "title": "랜섬웨어 조직 N0n, 해운·철강 기업 12곳 탈취 자료 공개",
-   "updated_at": "2026-11-09T09:56:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3828,7 +3828,7 @@
    "response_text": "게시물 삭제, 개인정보보호위원회 신고, 개인정보보호위원회가 사실관계 확인 중(기사 기재)",
    "scale_short": "67명",
    "scale_text": "참여자 67명(기사 기재)",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-10-19-national-cancer-center",
    "sources": [
@@ -3845,7 +3845,7 @@
    ],
    "target_text": "2009년 구강암 임상연구 참여자(기사 기재)",
    "title": "구강암 임상연구 참여자 67명 정보 깃허브 노출",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -3933,7 +3933,7 @@
    ],
    "target_text": "싸이식 관련(기사 기재)",
    "title": "크로스체인 브릿지 해킹으로 약 10억원 자금 유출",
-   "updated_at": "2026-11-11T12:44:50Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "insider",
@@ -4639,7 +4639,7 @@
    "response_text": "회사는 인지하고 대응 중이며 일방적 주장이고 실제 피해는 확인되지 않았다고 설명(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-10-13-dongkuk-steel-ransomware-claim",
    "sources": [
@@ -4651,7 +4651,7 @@
    ],
    "target_text": "동국제강 내부 재무 자료(기사 기재)",
    "title": "랜섬웨어 조직이 다크웹에 피해 기업으로 게시, 내부정보 탈취 주장",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -4683,7 +4683,7 @@
    "response_text": "서버 보안 점검, 웹 취약점 점검 자동화 도입, 교육부·국가정보원 협력 강화(기사 기재)",
    "scale_short": "피해 28건·1132건",
    "scale_text": "6년간 해킹 피해 28건, 유출 1132건(기사별로 건 또는 명으로 표기)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-11-seoul-national-university",
    "sources": [
@@ -4700,7 +4700,7 @@
    ],
    "target_text": "교직원, 학생, 산하 연구소 연구원(기사 기재)",
    "title": "6년간 해킹 피해 28건, 개인정보 1132건 유출",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -4783,7 +4783,7 @@
    ],
    "target_text": "쏘카 관련(기사 기재)",
    "title": "무신사 29CM와 유사한 공격으로 고객 248명 개인정보 유출",
-   "updated_at": "2026-11-11T12:44:49Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -4815,7 +4815,7 @@
    "response_text": "여의도순복음교회: 악성파일 삭제, 외부 접속 차단, 비밀번호 변경, 외부 점검. 사랑의교회: 비상대책팀 구성, 관계기관 신고(기사 기재)",
    "scale_short": "최대 85만 명(교회 설명)",
    "scale_text": "여의도순복음교회는 해당 파일에 최대 85만명분이라고 설명, 보안업체 분석 자료에는 교인정보 약 96만 건, 사랑의교회는 교인정보 약 8만9천 명으로 거론되며 확정 여부는 조사 중(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-08-large-churches",
    "sources": [
@@ -4832,7 +4832,7 @@
    ],
    "target_text": "교인(기사 기재)",
    "title": "대형교회 2곳 해킹 정황, 교인 정보 유출 여부 조사",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -4854,7 +4854,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "3.4만명",
    "scale_text": "3만4000명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-08-kakao-golf-booking",
    "sources": [
@@ -4871,7 +4871,7 @@
    ],
    "target_text": "고객, 동반자(기사 기재)",
    "title": "고객 3만4천명 정보 유출",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -4971,7 +4971,7 @@
    "response_text": "경찰이 최초 유포자 수사와 재게시자 추적 계획. 해당 의료기관의 보안 조치는 기사에 없음(기사 기재)",
    "scale_short": "영상 약 80건",
    "scale_text": "약 80건 중 21건이 서울 산부인과 1곳의 영상. 촬영·게시 시점은 기사에 없음(기사 기재)",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-10-07-hospital-ip-camera-footage",
    "sources": [
@@ -4988,7 +4988,7 @@
    ],
    "target_text": "산부인과·성형외과·재활의학과 등 의료기관 진료실·탈의실 촬영 대상자(기사 기재)",
    "title": "병원 IP카메라 영상 약 80건 해외 사이트 유포",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -5054,7 +5054,7 @@
    "response_text": "관계기관·보안 전문가와 사실관계 확인 중, 정보보호체계 점검·보완으로 재발 방지를 약속(기사 기재). 차단·신고·통보는 기사에 없음.",
    "scale_short": "교인 정보 약 96만 건(보안업체 분석)",
    "scale_text": "보안업체 오아시스시큐리티 분석 기준: 최근 2년간 업데이트된 교인 정보 약 96만 건, 헌금 기록 약 33만 건(추정), 전자결재 문서 약 6만8천 건, 메신저 기록 1만4,706건, 전체 47.3GB. 교회는 규모를 밝히지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-06-yoido-full-gospel-church",
    "sources": [
@@ -5066,7 +5066,7 @@
    ],
    "target_text": "교인(기사 기재)",
    "title": "ERP 시스템 침투로 교인 정보 유출 정황",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -5122,7 +5122,7 @@
    "response_text": "비상대책 TF 구성, 관계기관 신고, 경위 파악과 추가 피해 방지 조치 진행(기사 기재). 이전에 확보한 것으로 추정되는 계정 정보로 그룹웨어 서버에 접근한 정황이 있다고 기사에 적힘.",
    "scale_short": "약 8만9천 명(보안업체 분석)",
    "scale_text": "보안업체 분석 기준 교인 정보 8만9천 명분(추정), 임직원 정보 286건. 교회는 규모를 밝히지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-06-saerang-church",
    "sources": [
@@ -5134,7 +5134,7 @@
    ],
    "target_text": "교인과 임직원(기사 기재)",
    "title": "그룹웨어 서버 접근으로 교인·임직원 정보 유출 정황",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -5205,7 +5205,7 @@
    "response_text": "샘플 포함 학생에게 2차 피해 주의 안내, 대응팀 구성, 원인과 피해 범위 조사 중(기사 기재)",
    "scale_short": "게시자 주장 학생 약 13만건",
    "scale_text": "게시자는 학생 13만3655건을 2000달러에 판매한다고 주장, 전체 규모는 추가 확인 필요(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-10-05-seoul-cyber-univ",
    "sources": [
@@ -5217,7 +5217,7 @@
    ],
    "target_text": "학생, 교수, 교직원, 채용지원자(기사 기재)",
    "title": "다크웹에 학생·교직원 개인정보 판매글 게시",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -5457,7 +5457,7 @@
    ],
    "target_text": "저축은행중앙회 관련(기사 기재)",
    "title": "AI 해킹 공격을 받았고 정보 유출은 없다고 밝힘",
-   "updated_at": "2026-11-11T12:44:50Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -5934,7 +5934,7 @@
    "response_text": "KISA·사회보장정보원이 정보 공유와 별도 조사, 시스템 복구 지원(기사 기재)",
    "scale_short": "병원 약 20곳",
    "scale_text": "약 20곳, 사회보장정보원은 확인된 기관이 알려진 것보다 적다고 설명(기사 기재)",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-09-30-small-hospitals-ransomware",
    "sources": [
@@ -5951,7 +5951,7 @@
    ],
    "target_text": "중소형 병원 약 20곳(보도별로 수십 곳 표현도 있음)(기사 기재)",
    "title": "동일 계열 랜섬웨어 동시 감염, 전자의무기록 등 장애",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -5985,7 +5985,7 @@
    ],
    "target_text": "파이오링크 관련(기사 기재)",
    "title": "네트워크 장비 취약점을 이용한 코인 채굴 악성코드 발견",
-   "updated_at": "2026-11-11T12:44:50Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -6012,7 +6012,7 @@
    "response_text": "개인정보보호위원회·KISA 신고, 관계기관과 조사 중, 사칭 결제 주의 안내(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-09-30-parnas-hotel",
    "sources": [
@@ -6029,7 +6029,7 @@
    ],
    "target_text": "리워즈 회원(기사 기재)",
    "title": "리워즈 회원 정보 유출, 개보위·KISA 신고",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -6061,7 +6061,7 @@
    "response_text": "가입 고객에게 유출 사실 안내, 해커 IP 차단 등 기술적 조치, 관계기관 신고, 동일 비밀번호 사용 사이트의 비밀번호 변경 권고(기사 기재). 기관 명의를 도용한 스팸 메시지 발송이 확인됐다고 센터가 밝힘(기사 기재).",
    "scale_short": "미공개",
    "scale_text": "센터가 유출 회원 수를 밝히지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-09-29-kisec-maleunsoft-hack",
    "sources": [
@@ -6073,7 +6073,7 @@
    ],
    "target_text": "온라인교육 사이트 가입 고객(기사 기재)",
    "title": "온라인교육 사이트 위탁 운영사(맑은소프트) 해킹으로 고객 정보 유출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -6129,7 +6129,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-09-28-shinyoung",
    "sources": [
@@ -6141,7 +6141,7 @@
    ],
    "target_text": "회장 메일 등(기사 기재)",
    "title": "대규모 해킹 주장, 회장 메일 포함",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -6501,7 +6501,7 @@
    "response_text": "보이스피싱 주의 안내(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-09-18-thinking-bull",
    "sources": [
@@ -6518,7 +6518,7 @@
    ],
    "target_text": "학생, 학부모(기사 기재)",
    "title": "학원 예약시스템 해킹, 학생·학부모 정보 유출 가능성",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "misconfig",
@@ -6584,7 +6584,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-09-17-liveclass",
    "sources": [
@@ -6601,7 +6601,7 @@
    ],
    "target_text": "라이브클래스 관련(기사 기재)",
    "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출",
-   "updated_at": "2026-11-11T12:44:51Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -6657,7 +6657,7 @@
    "response_text": "추가 유출 사실을 파악한 뒤 관계기관에 신고하고 이용자에게 공지(기사 기재). 회사는 유출된 코드만으로 개인을 특정하기 어려워 악용 가능성이 낮다고 설명.",
    "scale_short": "243명",
    "scale_text": "243명(최초 공지 140명에 추가 확인 103명, 기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-09-12-kakaogames-partners-rink",
    "sources": [
@@ -6669,7 +6669,7 @@
    ],
    "target_text": "파트너스·RINK 서비스 이용자(기사 기재)",
    "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -6867,7 +6867,7 @@
    "response_text": "서버망 차단, KISA·개인정보위 신고, 전담팀 구성, 고객 안내, 유출 확인 시 재통지 예정(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해 고객 수는 공개되지 않음(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-09-09-gojin-motors",
    "sources": [
@@ -6884,7 +6884,7 @@
    ],
    "target_text": "고객(기사 기재)",
    "title": "서버 랜섬웨어 감염과 외부 불법 접근, 고객정보 유출 가능성 조사",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -6970,7 +6970,7 @@
    "response_text": "대상 고객에게 법령 기준에 따라 별도 안내, 외부에 노출된 API 점검과 접근 제어 강화, 불법 접근한 외부 행위자에게 개인정보 회수 요청, 법적 대응 예정(기사 기재). 신고 기관은 기사에 없음.",
    "scale_short": "42만 건",
    "scale_text": "계정 ID 기준 422,584건(명 수는 기사에 없음, 기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-09-06-weverse-purchase-api",
    "sources": [
@@ -6982,7 +6982,7 @@
    ],
    "target_text": "유출 대상 고객(범위와 인원은 기사에 없음)",
    "title": "서비스 보안 취약점으로 고객 개인정보 42만 건 유출",
-   "updated_at": "2026-11-08T15:50:55Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -7405,7 +7405,7 @@
    "response_text": "개인정보위가 HD건설기계에 과징금 7350만원, HD한국조선해양에 과태료 480만원 부과. 계열사 간 불필요한 접근 허용과 웹 취약점 대응이 미흡했다고 위원회가 판단하고 접근 제한 점검을 권고(기사 기재)",
    "scale_short": null,
    "scale_text": "9503명(기사 기재)",
-   "sector": "it",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-08-27-hd-construction-equipment",
    "sources": [
@@ -7422,7 +7422,7 @@
    ],
    "target_text": "HD건설기계 임직원 및 협력사 직원(기사 기재)",
    "title": "계열사 서버 경유 무단 접속으로 임직원·협력사 직원 9503명 정보 유출, 과징금·과태료",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -7444,7 +7444,7 @@
    "response_text": "관련 IP 차단, 시스템 점검, 침입방지시스템 추가 도입, 24시간 모니터링, 비밀번호 변경 요청, 경찰청 국가수사본부 수사(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해 고객 수는 기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-08-26-solmoro-cc",
    "sources": [
@@ -7461,7 +7461,7 @@
    ],
    "target_text": "골프장 웹사이트 고객(기사 기재)",
    "title": "해킹으로 골프장 회원 개인정보 유출",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -7483,7 +7483,7 @@
    "response_text": "긴급 조치, 관계기관 신고, 홈페이지 사과문 게재, 의심 연락·링크 주의 당부(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-08-26-daehang-hospital",
    "sources": [
@@ -7500,7 +7500,7 @@
    ],
    "target_text": "홈페이지 회원·환자(기사 기재)",
    "title": "홈페이지 해킹으로 환자 개인정보 유출",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -7556,7 +7556,7 @@
    "response_text": "경찰에 수사 의뢰(기사 기재)",
    "scale_short": "26만건",
    "scale_text": "26만건(기사 기재)",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-08-21-jeongsang-academy",
    "sources": [
@@ -7568,7 +7568,7 @@
    ],
    "target_text": "회원(기사 기재)",
    "title": "회원 정보 26만건 유출, 경찰 수사의뢰",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -7678,7 +7678,7 @@
    "response_text": "공격 IP·서버 네트워크 차단, 접속 제한, 개인정보보호위원회·교육부 신고, 포렌식 조사 진행(기사 기재). 서울경찰청 사이버수사과 입건 전 조사(기사 기재)",
    "scale_short": "약 18만 건",
    "scale_text": "약 18만 건(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-08-16-sogang-university",
    "sources": [
@@ -7695,7 +7695,7 @@
    ],
    "target_text": "재학생, 졸업생, 교직원 등 과거 구성원 포함(기사 기재)",
    "title": "서버 무작위 대입 공격으로 구성원 개인정보 약 18만 건 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -7795,7 +7795,7 @@
    "response_text": "해당 페이지 차단, 8월 7일 개인정보위 신고, 피해 고객 개별 통지, 여권 재발급 비용 전액 부담, 1인당 10만원 보상(기사 기재)",
    "scale_short": "100여명",
    "scale_text": "100여명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-08-12-jeju-air",
    "sources": [
@@ -7817,7 +7817,7 @@
    ],
    "target_text": "제주항공 이용 고객 100여명(기사 기재)",
    "title": "고객 100여명 여권번호 등 예약 정보 외부 노출",
-   "updated_at": "2026-11-10T09:35:24Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "unknown",
@@ -8045,7 +8045,7 @@
    "response_text": "KISA·개인정보위·경찰 신고, 홈페이지 임시 차단과 웹방화벽 설치, 피싱·스미싱 및 비밀번호 변경 안내, 경찰 수사 착수(기사 기재)",
    "scale_short": null,
    "scale_text": "고객 9만여 명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-08-05-jincheon-golf-club",
    "sources": [
@@ -8057,7 +8057,7 @@
    ],
    "target_text": "골프장 회원(고객)(기사 기재)",
    "title": "외부인 비정상 접근으로 회원 약 9만 명 정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -8182,7 +8182,7 @@
    "response_text": "KISA, 개인정보보호위원회, 경찰에 신고, 홈페이지 임시 차단과 웹방화벽 설치, 회원 통지, 경찰 수사(기사 기재)",
    "scale_short": "약 9만명",
    "scale_text": "약 9만명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-07-30-cheonryong-cc",
    "sources": [
@@ -8199,7 +8199,7 @@
    ],
    "target_text": "골프장 회원·고객(기사 기재)",
    "title": "해킹으로 회원 약 9만명 개인정보 유출, 해커가 금품 요구",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -8221,7 +8221,7 @@
    "response_text": "홈페이지 공지, 환자 개별 연락, 개인정보위 신고, 직원 징계 예정. 외부인 신원과 2차 유통 여부는 기사에 없음(기사 기재)",
    "scale_short": "109명",
    "scale_text": "환자 109명(기사 기재)",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-07-29-hanyang-guri-hospital",
    "sources": [
@@ -8233,7 +8233,7 @@
    ],
    "target_text": "응급실 환자 109명(기사 기재)",
    "title": "직원이 응급실 환자 진료정보를 촬영해 외부인에게 전달",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -8294,7 +8294,7 @@
    "response_text": "브릿지 전면 중단(기사 기재)",
    "scale_short": "약 77억원",
    "scale_text": "76~77억원 규모(기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-07-27-wemix-dollar",
    "sources": [
@@ -8311,7 +8311,7 @@
    ],
    "target_text": "위믹스달러 발행 권한(기사 기재)",
    "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -8333,7 +8333,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-07-27-nexon-ransom-claim",
    "sources": [
@@ -8350,7 +8350,7 @@
    ],
    "target_text": "넥슨(기사 기재)",
    "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -8384,7 +8384,7 @@
    ],
    "target_text": "채비 관련(기사 기재)",
    "title": "회원 약 29만~30만명 개인정보 유출",
-   "updated_at": "2026-11-11T12:44:51Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -8465,7 +8465,7 @@
    "response_text": "식별 후 해당 시스템 운용 중단, 재발 방지 대책 시행 예정. 비인가자 신원과 접근된 환자 정보는 특정하지 못했다고 국방부가 밝힘(기사 기재)",
    "scale_short": "약 8GB",
    "scale_text": "약 8GB 분량 정보에 접근, 인원 규모는 읽은 기사에 없음(기사 기재)",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-07-24-military-hospitals",
    "sources": [
@@ -8477,7 +8477,7 @@
    ],
    "target_text": "6개 군 병원 모바일 의료영상저장전송체계 관련 환자 정보(기사 기재)",
    "title": "모바일 의료영상 시스템 비인가 접속, 약 8GB 정보 유출 정황",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -8665,7 +8665,7 @@
    "response_text": "이투스에듀 입장은 제목에서 확인되지 않음",
    "scale_short": "42.5만건(주장)",
    "scale_text": "42만5천건(해커 주장, 기사 기재)",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-07-16-etoos-claim",
    "sources": [
@@ -8677,7 +8677,7 @@
    ],
    "target_text": "이투스 고객(기사 기재)",
    "title": "해커 고객정보 42만5천건 판매 주장",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -8816,7 +8816,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-07-09-scon",
    "sources": [
@@ -8828,7 +8828,7 @@
    ],
    "target_text": "스콘 관련(기사 기재)",
    "title": "교육 플랫폼 개인정보 유출 의심 보도",
-   "updated_at": "2026-11-11T12:44:52Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9095,7 +9095,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-07-07-hanjung-ncs",
    "sources": [
@@ -9107,7 +9107,7 @@
    ],
    "target_text": "한중엔시에스(기사 기재)",
    "title": "설계도면·임직원 정보 유출 해킹 보도",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9139,7 +9139,7 @@
    "response_text": "접근 차단, 교육부·개인정보위·KISA 신고, 긴급대응반 구성, 7월 23일부터 정보주체 통지, 문자발송시스템 외부 접근 차단(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 조사 중이며 공개되지 않음(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-07-06-daejin-university",
    "sources": [
@@ -9156,7 +9156,7 @@
    ],
    "target_text": "교직원(기사 기재), 학생·외부인 여부는 조사 중(기사 기재)",
    "title": "문자발송시스템 외부 공격으로 교직원 개인정보 유출",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -9190,7 +9190,7 @@
    ],
    "target_text": "안전보건공단 관련(기사 기재)",
    "title": "신고자 실명 노출과 진단서 무단 촬영 보도",
-   "updated_at": "2026-11-11T12:44:52Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -9222,7 +9222,7 @@
    "response_text": "개인정보위가 과징금 75억원, 과태료 540만원 부과. 2026년 6월 29일 법무법인이 서울중앙지법에 1인당 20만원 손해배상 소송 제기, 참여 피해자 23명, 추가 모집 계획(기사 기재)",
    "scale_short": "약 221만명",
    "scale_text": "약 221만명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-06-29-golfzon",
    "sources": [
@@ -9234,7 +9234,7 @@
    ],
    "target_text": "가입자와 임직원(기사 기재)",
    "title": "2023년 랜섬웨어 개인정보 유출 관련 소비자 집단 손해배상 소송",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9261,7 +9261,7 @@
    "response_text": "외부 전문가와 조사 중(기사 기재)",
    "scale_short": "3.27TB(주장)",
    "scale_text": "3.27TB(주장, 기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-06-29-doosan-bobcat",
    "sources": [
@@ -9278,7 +9278,7 @@
    ],
    "target_text": "내부자료(기사 기재)",
    "title": "랜섬웨어 피해, 3.27TB 내부자료 유출 주장",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -9452,7 +9452,7 @@
    "response_text": "위협 차단과 보완 조치, 사과문 게재, 피해 가능 회원 추가 안내, 주민등록번호 유출 여부 조사(기사 기재). 강사·멘토는 보상 기준과 2차 피해 지원 부재를 지적(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "피해 인원은 기사에 없음",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-06-19-dayone-company",
    "sources": [
@@ -9469,7 +9469,7 @@
    ],
    "target_text": "패스트캠퍼스, 콜로소, 제로베이스 등 8개 브랜드의 일반 회원, 강사, 기업 고객(기사 기재)",
    "title": "깃허브 마스터 계정 키 탈취로 개인정보 유출, 계좌번호 등 추가 유출 가능성",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9530,7 +9530,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-06-11-gongju-nursing-hospital",
    "sources": [
@@ -9542,7 +9542,7 @@
    ],
    "target_text": "환자(기사 기재)",
    "title": "환자 동의 없이 의료기록 유출",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "misconfig",
@@ -9647,7 +9647,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-06-05-stunitas",
    "sources": [
@@ -9659,7 +9659,7 @@
    ],
    "target_text": "회원(기사 기재)",
    "title": "해킹 사고, 회원 승인·계좌 정보 유출",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9691,7 +9691,7 @@
    "response_text": "과기정통부·KISA 자료 보전 요구 및 조사, 민관합동조사단 구성, 스미싱 주의 공지(기사 기재). 회사는 1년 해킹·피싱 안심보험(1인 최대 300만원), 시청환경 업그레이드, 포인트·쿠폰 보상안 발표, 정보보호 투자 확대와 외부 전문가 자문위원회 신설 발표(기사 기재)",
    "scale_short": "계정 약 3954만 개",
    "scale_text": "계정 39,540,697개, 기술자산 30.35GB(민관합동조사단 발표, 기사 기재). 세부 규모는 개인정보위 분석 후 확정 예정(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-06-03-tving",
    "sources": [
@@ -9718,7 +9718,7 @@
    ],
    "target_text": "티빙 회원 계정(활성·비활성·테스트 계정 포함)(기사 기재)",
    "title": "비인가 접근으로 회원 계정 정보 유출, 민관합동조사 결과 발표",
-   "updated_at": "2026-11-10T09:35:24Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -9919,7 +9919,7 @@
    ],
    "target_text": "세븐일레븐 관련(기사 기재)",
    "title": "샤이니헌터스 해킹 공격으로 프랜차이즈 자료 유출 확인",
-   "updated_at": "2026-11-11T12:44:52Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -10002,7 +10002,7 @@
    ],
    "target_text": "민음사 관련(기사 기재)",
    "title": "회원 142명 개인정보 유출, 4000명에게 타인 연락처 오발송",
-   "updated_at": "2026-11-11T12:44:53Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "unknown",
@@ -10083,7 +10083,7 @@
    "response_text": "경찰청 안보수사지휘과 수사 진행, 회사 홈페이지 사과문 게시(기사 기재). 북한 해커 조직 연관 가능성을 두고 수사 중이며 확정되지 않음(기사 기재)",
    "scale_short": "약 10만 명",
    "scale_text": "약 10만 명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-04-27-lee-and-lee-cc",
    "sources": [
@@ -10095,7 +10095,7 @@
    ],
    "target_text": "가입자 약 10만 명(기사 기재)",
    "title": "홈페이지 악성코드로 회원 약 10만 명 정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10183,7 +10183,7 @@
    ],
    "target_text": "KS한국고용 관련(기사 기재)",
    "title": "콜센터 해킹으로 직원 4만여명 개인정보 유출, 과징금 35억원",
-   "updated_at": "2026-11-11T12:44:53Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -10239,7 +10239,7 @@
    "response_text": "전산장애 발생 후 복구(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-04-15-kukje-pharm",
    "sources": [
@@ -10256,7 +10256,7 @@
    ],
    "target_text": "국제약품 전산(기사 기재)",
    "title": "랜섬웨어 공격, 주문·출고 지연",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -10322,7 +10322,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-04-13-joycity",
    "sources": [
@@ -10339,7 +10339,7 @@
    ],
    "target_text": "조이시티(기사 기재)",
    "title": "랜섬웨어 피해, 게임 매출 데이터 유출 주장",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10361,7 +10361,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-04-04-hyundai-elevator",
    "sources": [
@@ -10373,7 +10373,7 @@
    ],
    "target_text": "현대엘리베이터(기사 기재)",
    "title": "랜섬웨어 조직 공격 피해, 이후 6곳 추가 공격 보도",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "insider",
@@ -10468,7 +10468,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "128GB",
    "scale_text": "128GB(해커 주장, 기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-03-24-kiswire",
    "sources": [
@@ -10480,7 +10480,7 @@
    ],
    "target_text": "고려제강 관련(기사 기재)",
    "title": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장",
-   "updated_at": "2026-11-11T12:44:54Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10546,7 +10546,7 @@
    "response_text": "수신자에게 삭제 요청, 개인정보보호위원회와 교육부 신고, 교육과 발송 전 수신자 확인 절차 강화 약속(기사 기재). YTN은 병원이 미수신을 확인했다고 보도, 메디게이트뉴스는 관계없는 수신자 1명에게 전달됐다고 보도해 기재가 다름",
    "scale_short": "약 1만6천명",
    "scale_text": "약 1만6천명(기사 기재)",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-03-20-seoul-national-university-hospital",
    "sources": [
@@ -10563,7 +10563,7 @@
    ],
    "target_text": "산부인과 환자 약 1만6천명(기사 기재)",
    "title": "직원 간 메일 수신자 오입력으로 산과 환자 정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "unknown",
@@ -10595,7 +10595,7 @@
    "response_text": "교육부가 2차 피해 대비 학부모 대상 주의 공문 발송, 교사노조가 관계기관에 조사 요구(기사 기재)",
    "scale_short": "미공개(제목 17만명)",
    "scale_text": "기사 제목에 교사 17만명 표기, 확정 규모는 본문에 없음",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-03-16-icecream-media",
    "sources": [
@@ -10612,7 +10612,7 @@
    ],
    "target_text": "교사 회원(기사 기재)",
    "title": "교사 회원 개인정보 유출",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10678,7 +10678,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-03-06-aju-holdings",
    "sources": [
@@ -10690,7 +10690,7 @@
    ],
    "target_text": "아주홀딩스(아주약품) 관련(기사 기재)",
    "title": "자회사 해킹 정황, 해커가 내부 자료 탈취 주장",
-   "updated_at": "2026-11-11T12:44:54Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10780,7 +10780,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-02-25-sungwoo",
    "sources": [
@@ -10792,7 +10792,7 @@
    ],
    "target_text": "성우(기사 기재)",
    "title": "2차전지 부품 제조사 랜섬웨어 해킹 피해",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10814,7 +10814,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "452GB",
    "scale_text": "452GB(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-02-13-samkwang",
    "sources": [
@@ -10826,7 +10826,7 @@
    ],
    "target_text": "삼광 관련(기사 기재)",
    "title": "해킹 정황, 내부 자료 452GB 유출 우려",
-   "updated_at": "2026-11-11T12:44:54Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10848,7 +10848,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-02-09-ps-technology",
    "sources": [
@@ -10860,7 +10860,7 @@
    ],
    "target_text": "피에스테크놀러지(기사 기재)",
    "title": "랜섬웨어 조직 킬린에 정보 유출",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -10894,7 +10894,7 @@
    ],
    "target_text": "뇌신경과학회 관련(기사 기재)",
    "title": "홈페이지 해킹으로 회원 개인정보 유출 가능성 확인",
-   "updated_at": "2026-11-11T12:44:55Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -10916,7 +10916,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-02-06-yulgok",
    "sources": [
@@ -10928,7 +10928,7 @@
    ],
    "target_text": "율곡, KAI 협력 문서(기사 기재)",
    "title": "항공기 부품업체 해킹 정황, KAI 협력 문서 외부 노출 우려",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -11216,7 +11216,7 @@
    "response_text": "서버 네트워크 분리와 외부 접속 차단, 응급서버 가동으로 진료 차질 방지(기사 기재). 교육부 사이버안전센터, 국정원, 강원경찰청 사이버범죄수사대에 신고(기사 기재). 1월 28일 오후 5시께 정상 복구(기사 기재).",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-01-29-kangwon-national-university-hospital",
    "sources": [
@@ -11233,7 +11233,7 @@
    ],
    "target_text": "의료영상시스템(PACS)(기사 기재)",
    "title": "랜섬웨어 공격으로 의료영상시스템 장애 후 복구",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -11260,7 +11260,7 @@
    "response_text": "서버 접속 차단, 악성파일 삭제로 같은 날 오후 복구. 수술·진료 차질 없었다고 병원이 밝힘. 원인과 경위 조사 중(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-01-28-chonnam-national-university-hospital",
    "sources": [
@@ -11272,7 +11272,7 @@
    ],
    "target_text": "병원 영상 저장·전송 시스템(기사 기재)",
    "title": "랜섬웨어 공격으로 영상검사 시스템 장애, 당일 복구",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -11409,7 +11409,7 @@
    ],
    "target_text": "포스코이앤씨 관련(기사 기재)",
    "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-11T12:44:55Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -11505,7 +11505,7 @@
    "response_text": "공격자 IP와 외부 접근 차단, 악성파일 삭제, KISA·개인정보보호위원회 신고, 고객 문자 안내, 경찰 정식 수사(기사 기재)",
    "scale_short": "영향권 약 960만 명(중복 포함)",
    "scale_text": "계열사 8곳, 서버 800대 중 약 600대 영향권, 주요 서비스 이용자 약 960만 명이 영향권(중복 이용자 포함 수치)(기사 기재)",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-01-14-kyowon-group",
    "sources": [
@@ -11522,7 +11522,7 @@
    ],
    "target_text": "고객 정보 포함 여부는 조사 중(기사 기재)",
    "title": "랜섬웨어 피해, 외부 유출 정황 확인 및 고객정보 포함 여부 조사",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "misconfig",
@@ -11617,7 +11617,7 @@
    "response_text": "대학이 점검 후 취약점 조치 예정이라고 밝힘(기사 기재)",
    "scale_short": "건수 미공개",
    "scale_text": "충북대 건수는 기사에 없음, 해커 주장 피해 사이트는 국내 소규모 웹사이트 17곳(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-01-05-chungbuk-national-univ",
    "sources": [
@@ -11634,7 +11634,7 @@
    ],
    "target_text": "충북대 수의과대학 홈페이지 게시물 작성자(기사 기재)",
    "title": "수의과대학 웹사이트 해킹, 해커가 다크웹 포럼에 판매 게시",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -11666,7 +11666,7 @@
    "response_text": "교육부, KISA, 개인정보보호위원회에 신고(기사 기재). 학교는 조사 중이라고 밝힘(기사 기재). 해커 측이 이메일로 협상 제안(기사 기재).",
    "scale_short": "파악 중",
    "scale_text": "650GB는 해커 주장이며 피해 규모는 학교가 파악 중(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-12-30-inha-university",
    "sources": [
@@ -11683,7 +11683,7 @@
    ],
    "target_text": "학사정보시스템 및 대학 구성원 정보(기사 기재)",
    "title": "랜섬웨어 공격으로 학사정보시스템 피해, 자료 탈취 주장",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12011,7 +12011,7 @@
    ],
    "target_text": "하스·바텍엠시스 관련(기사 기재)",
    "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과",
-   "updated_at": "2026-11-11T12:44:56Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -12038,7 +12038,7 @@
    "response_text": "내부 조사 중 추가 확인(기사 기재)",
    "scale_short": "추가 8048건 확인",
    "scale_text": "추가 유출 8048건 확인(기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-11-26-netmarble",
    "sources": [
@@ -12055,7 +12055,7 @@
    ],
    "target_text": "PC게임 이용자와 임직원(기사 기재)",
    "title": "PC게임 사이트 18종 해킹, 고객·임직원 정보 유출",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12180,7 +12180,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-11-18-simmtech",
    "sources": [
@@ -12192,7 +12192,7 @@
    ],
    "target_text": "심텍(기사 기재)",
    "title": "해커 조직 연쇄 공격 피해 보도",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12219,7 +12219,7 @@
    "response_text": "회사의 공식 입장은 읽은 기사에 없음(기사 기재)",
    "scale_short": "약 1.7TB(주장)",
    "scale_text": "기업 문서 약 1.67TB, 데이터베이스 46GB를 확보했다고 주장(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-11-18-lg-energy-solution-akira",
    "sources": [
@@ -12236,7 +12236,7 @@
    ],
    "target_text": "미국 공장 관련 임직원·고객·협력사 자료(기사 기재)",
    "title": "랜섬웨어 조직 아키라, 내부 자료 1.7TB 탈취 주장",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12258,7 +12258,7 @@
    "response_text": "KISA에 장애 신고, 유출 확인 시 경찰 수사 의뢰 예정(기사 기재). 서울 헌혈카페·헌혈버스 운영 중단, 일부 병원 신규 혈액 공급 신청 불가(기사 기재). 보건복지부는 적십자 공급 비중이 커 혈액 수급 위험은 작다고 설명(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "public",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2025-11-10-hanmaum-blood-center",
    "sources": [
@@ -12270,7 +12270,7 @@
    ],
    "target_text": "헌혈자(기사 기재)",
    "title": "혈액공급기관 랜섬웨어 공격, 헌혈자 정보 보유 주장",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "unknown",
@@ -12307,7 +12307,7 @@
    "response_text": "2차 피해는 없었다고 학교가 설명. 시스템 취약 부분 보강과 네트워크 보안 고도화 추진(기사 기재). 교육부와 개인정보보호위원회 조사를 받음(매일신문 기재)",
    "scale_short": "3건, 최대 7천여명",
    "scale_text": "2022년 약 70만건 열람(학생의 내부 시스템 무단 조회), 2024년 대학원생 5900여명(조교의 메일 발송 실수), 2025년 7천명 이상(시스템 오류, 외부 신고로 인지)(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-10-22-kyungpook-national-university",
    "sources": [
@@ -12324,7 +12324,7 @@
    ],
    "target_text": "2025년 건은 7천여명, 2024년 건은 대학원생 5900여명(기사 기재)",
    "title": "개인정보 유출 3건, 국정감사에서 7천여명 사례 질의",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12463,7 +12463,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-10-17-miraen-seohae-energy",
    "sources": [
@@ -12475,7 +12475,7 @@
    ],
    "target_text": "미래엔서해에너지 관련(기사 기재)",
    "title": "랜섬웨어 공격으로 고객 개인정보 유출",
-   "updated_at": "2026-11-11T12:44:56Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -12514,7 +12514,7 @@
    ],
    "target_text": "AIP자산운용 관련(기사 기재)",
    "title": "랜섬웨어 감염으로 내부 데이터 탈취, 개인정보 포함",
-   "updated_at": "2026-11-11T12:44:57Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -12754,7 +12754,7 @@
    ],
    "target_text": "휴맥스홀딩스 관련(기사 기재)",
    "title": "랜섬웨어 피해로 내부 자료 유출",
-   "updated_at": "2026-11-11T12:44:57Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -13389,7 +13389,7 @@
    "response_text": "KISA 기술지원에 동의하지 않아 현장조사 불가, 자체 보안조치. 이용자에게 유출 여부 안내 없음(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음. 홈페이지 한 달 넘게 접속 장애(기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-08-11-dragonfly",
    "sources": [
@@ -13406,7 +13406,7 @@
    ],
    "target_text": "공식 홈페이지와 스페셜포스 게임 사이트(기사 기재)",
    "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -13467,7 +13467,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-07-21-daesung-affiliate",
    "sources": [
@@ -13479,7 +13479,7 @@
    ],
    "target_text": "대성 학원 관계사 관련(기사 기재)",
    "title": "학생 개인정보 유출, 2차 피해 우려",
-   "updated_at": "2026-11-11T12:44:58Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -13786,7 +13786,7 @@
    ],
    "target_text": "일상카페 관련(기사 기재)",
    "title": "기프티콘 앱 개인정보 최대 16개 항목 유출",
-   "updated_at": "2026-11-11T12:44:58Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -13876,7 +13876,7 @@
    "response_text": "사과(기사 기재)",
    "scale_short": "897명",
    "scale_text": "897명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-05-22-highlight-agency",
    "sources": [
@@ -13888,7 +13888,7 @@
    ],
    "target_text": "하이라이트 소속사 관련(기사 기재)",
    "title": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과",
-   "updated_at": "2026-11-11T12:44:59Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "vendor",
@@ -14059,7 +14059,7 @@
    ],
    "target_text": "현대차그룹 관련(기사 기재)",
    "title": "일부 임직원 개인정보 유출, 미국 법인 포함",
-   "updated_at": "2026-11-11T12:44:59Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -14120,7 +14120,7 @@
    "response_text": "개인정보 보호 관련 제재(기사 기재)",
    "scale_short": "160만명",
    "scale_text": "160만명(기사 기재)",
-   "sector": "it",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-04-11-classu-ktalpha",
    "sources": [
@@ -14132,7 +14132,7 @@
    ],
    "target_text": "클래스유·케이티알파 이용자(기사 기재)",
    "title": "160만명 유출 제재, 자동화 공격 방어 미흡",
-   "updated_at": "2026-11-11T12:31:37Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -14164,7 +14164,7 @@
    "response_text": "개인정보위가 과징금과 과태료 부과, 홈페이지 공표 명령, 관리 개선 권고(기사 기재)",
    "scale_short": "약 306만 명",
    "scale_text": "약 306만 명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-03-14-modetour",
    "sources": [
@@ -14176,7 +14176,7 @@
    ],
    "target_text": "회원 및 비회원(기사 기재)",
    "title": "웹셸 공격으로 약 306만 명 개인정보 유출, 과징금 부과",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -14203,7 +14203,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "약 90억원",
    "scale_text": "약 90억원(기사 기재)",
-   "sector": "it",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-05-23-wemix-2025",
    "sources": [
@@ -14220,7 +14220,7 @@
    ],
    "target_text": "위믹스(기사 기재)",
    "title": "위믹스 90억원 규모 해킹 피해, 상장폐지",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:42:08Z"
   },
   {
    "category": "hacking",
@@ -14298,7 +14298,7 @@
    ],
    "target_text": "카카오엔터프라이즈 관련(기사 기재)",
    "title": "악성코드 공격으로 임직원 개인정보 유출",
-   "updated_at": "2026-11-11T12:45:00Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",
@@ -14396,7 +14396,7 @@
    ],
    "target_text": "섹타나인(해피포인트) 관련(기사 기재)",
    "title": "해피포인트 앱 해킹으로 1.7만명 개인정보 유출, 과징금 14.8억원",
-   "updated_at": "2026-11-11T12:45:00Z"
+   "updated_at": "2026-11-11T12:45:53Z"
   },
   {
    "category": "hacking",

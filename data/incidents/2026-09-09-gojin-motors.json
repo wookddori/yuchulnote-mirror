@@ -23,7 +23,7 @@
  "response_text": "서버망 차단, KISA·개인정보위 신고, 전담팀 구성, 고객 안내, 유출 확인 시 재통지 예정(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "피해 고객 수는 공개되지 않음(기사 기재)",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-09-09-gojin-motors",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "고객(기사 기재)",
  "title": "서버 랜섬웨어 감염과 외부 불법 접근, 고객정보 유출 가능성 조사",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

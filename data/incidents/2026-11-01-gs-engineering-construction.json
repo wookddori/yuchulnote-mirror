@@ -23,7 +23,7 @@
  "response_text": "관계기관 즉시 신고, 피해 범위 조사 중. 입주민에게 스미싱·보이스피싱 주의 안내(기사 기재)",
  "scale_short": "일부 입주민(인원 미공개)",
  "scale_text": "일부 입주민이라고만 기재, 정확한 인원은 기사에 없음",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-11-01-gs-engineering-construction",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "자이 아파트 커뮤니티 시설 예약관리시스템 이용 입주민 일부(기사 기재)",
  "title": "아파트 커뮤니티 예약시스템 외부 비정상 접근, 입주민 정보 유출 가능",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -28,7 +28,7 @@
  "response_text": "대상 고객에게 법령 기준에 따라 별도 안내, 외부에 노출된 API 점검과 접근 제어 강화, 불법 접근한 외부 행위자에게 개인정보 회수 요청, 법적 대응 예정(기사 기재). 신고 기관은 기사에 없음.",
  "scale_short": "42만 건",
  "scale_text": "계정 ID 기준 422,584건(명 수는 기사에 없음, 기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-09-06-weverse-purchase-api",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "유출 대상 고객(범위와 인원은 기사에 없음)",
  "title": "서비스 보안 취약점으로 고객 개인정보 42만 건 유출",
- "updated_at": "2026-11-08T15:50:55Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -28,7 +28,7 @@
  "response_text": "해당 페이지 차단, 8월 7일 개인정보위 신고, 피해 고객 개별 통지, 여권 재발급 비용 전액 부담, 1인당 10만원 보상(기사 기재)",
  "scale_short": "100여명",
  "scale_text": "100여명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-08-12-jeju-air",
  "sources": [
@@ -50,5 +50,5 @@
  ],
  "target_text": "제주항공 이용 고객 100여명(기사 기재)",
  "title": "고객 100여명 여권번호 등 예약 정보 외부 노출",
- "updated_at": "2026-11-10T09:35:24Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -18,7 +18,7 @@
  "response_text": "전산장애 발생 후 복구(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-04-15-kukje-pharm",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "국제약품 전산(기사 기재)",
  "title": "랜섬웨어 공격, 주문·출고 지연",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

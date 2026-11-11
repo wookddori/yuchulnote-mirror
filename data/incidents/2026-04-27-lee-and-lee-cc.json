@@ -28,7 +28,7 @@
  "response_text": "경찰청 안보수사지휘과 수사 진행, 회사 홈페이지 사과문 게시(기사 기재). 북한 해커 조직 연관 가능성을 두고 수사 중이며 확정되지 않음(기사 기재)",
  "scale_short": "약 10만 명",
  "scale_text": "약 10만 명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-04-27-lee-and-lee-cc",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "가입자 약 10만 명(기사 기재)",
  "title": "홈페이지 악성코드로 회원 약 10만 명 정보 유출",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

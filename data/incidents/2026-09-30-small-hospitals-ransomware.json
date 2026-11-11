@@ -23,7 +23,7 @@
  "response_text": "KISA·사회보장정보원이 정보 공유와 별도 조사, 시스템 복구 지원(기사 기재)",
  "scale_short": "병원 약 20곳",
  "scale_text": "약 20곳, 사회보장정보원은 확인된 기관이 알려진 것보다 적다고 설명(기사 기재)",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-09-30-small-hospitals-ransomware",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "중소형 병원 약 20곳(보도별로 수십 곳 표현도 있음)(기사 기재)",
  "title": "동일 계열 랜섬웨어 동시 감염, 전자의무기록 등 장애",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

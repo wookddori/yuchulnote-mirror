@@ -23,7 +23,7 @@
  "response_text": "개인정보위가 과징금 6억 3,000만원, 주기적 취약점 점검·개선 시정명령 부과. 웹방화벽 미설치, 비밀번호 암호화 방식 문제가 처분 사유에 포함(기사 기재)",
  "scale_short": "18만 8,481명",
  "scale_text": "188,481명, 2024년 3월 유출(기사 기재)",
- "sector": "service",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-10-29-younghun-medical-foundation",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "대전선병원·유성선병원 이용자(기사 기재)",
  "title": "SQL 인젝션 취약점으로 개인정보 18만여명 유출, 개인정보위 과징금",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

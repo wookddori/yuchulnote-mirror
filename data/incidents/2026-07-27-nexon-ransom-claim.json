@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "it",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-07-27-nexon-ransom-claim",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "넥슨(기사 기재)",
  "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중",
- "updated_at": "2026-11-11T12:30:37Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

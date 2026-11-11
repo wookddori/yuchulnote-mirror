@@ -28,7 +28,7 @@
  "response_text": "교육부, KISA, 개인정보보호위원회에 신고(기사 기재). 학교는 조사 중이라고 밝힘(기사 기재). 해커 측이 이메일로 협상 제안(기사 기재).",
  "scale_short": "파악 중",
  "scale_text": "650GB는 해커 주장이며 피해 규모는 학교가 파악 중(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2025-12-30-inha-university",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "학사정보시스템 및 대학 구성원 정보(기사 기재)",
  "title": "랜섬웨어 공격으로 학사정보시스템 피해, 자료 탈취 주장",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

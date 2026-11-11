@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "it",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-09-17-liveclass",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "라이브클래스 관련(기사 기재)",
  "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출",
- "updated_at": "2026-11-11T12:44:51Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

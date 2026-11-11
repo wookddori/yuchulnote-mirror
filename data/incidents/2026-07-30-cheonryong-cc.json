@@ -28,7 +28,7 @@
  "response_text": "KISA, 개인정보보호위원회, 경찰에 신고, 홈페이지 임시 차단과 웹방화벽 설치, 회원 통지, 경찰 수사(기사 기재)",
  "scale_short": "약 9만명",
  "scale_text": "약 9만명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-07-30-cheonryong-cc",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "골프장 회원·고객(기사 기재)",
  "title": "해킹으로 회원 약 9만명 개인정보 유출, 해커가 금품 요구",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -23,7 +23,7 @@
  "response_text": "KISA 기술지원에 동의하지 않아 현장조사 불가, 자체 보안조치. 이용자에게 유출 여부 안내 없음(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음. 홈페이지 한 달 넘게 접속 장애(기사 기재)",
- "sector": "it",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2025-08-11-dragonfly",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "공식 홈페이지와 스페셜포스 게임 사이트(기사 기재)",
  "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의",
- "updated_at": "2026-11-11T12:31:37Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

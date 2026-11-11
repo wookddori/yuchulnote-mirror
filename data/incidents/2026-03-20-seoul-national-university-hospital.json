@@ -23,7 +23,7 @@
  "response_text": "수신자에게 삭제 요청, 개인정보보호위원회와 교육부 신고, 교육과 발송 전 수신자 확인 절차 강화 약속(기사 기재). YTN은 병원이 미수신을 확인했다고 보도, 메디게이트뉴스는 관계없는 수신자 1명에게 전달됐다고 보도해 기재가 다름",
  "scale_short": "약 1만6천명",
  "scale_text": "약 1만6천명(기사 기재)",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-03-20-seoul-national-university-hospital",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "산부인과 환자 약 1만6천명(기사 기재)",
  "title": "직원 간 메일 수신자 오입력으로 산과 환자 정보 유출",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

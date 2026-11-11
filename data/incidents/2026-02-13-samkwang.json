@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "452GB",
  "scale_text": "452GB(기사 기재)",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-02-13-samkwang",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "삼광 관련(기사 기재)",
  "title": "해킹 정황, 내부 자료 452GB 유출 우려",
- "updated_at": "2026-11-11T12:44:54Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

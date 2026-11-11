@@ -7,7 +7,7 @@
    "org_name": "한국인터넷진흥원(KISA)",
    "sector": "public",
    "slug": "2026-11-11-kisa-public-web-7",
-   "title": "대민 웹사이트 7곳 연쇄 해킹에 따른 긴급 점검"
+   "title": "연쇄 해킹에 따른 조치로 대민 웹 서비스 7곳 긴급 점검, 접속 불가"
   },
   {
    "keywords": [
@@ -61,7 +61,7 @@
     "줌줌투어"
    ],
    "org_name": "줌줌투어",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-09-zoomzoom-tour",
    "title": "해킹·개발 오류로 여행 일정·동행자 정보 노출"
   },
@@ -70,7 +70,7 @@
     "트래볼루션"
    ],
    "org_name": "트래볼루션",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-09-travolution",
    "title": "이틀 새 두 차례 해킹, 4년 치 여행 정보 유출 보도"
   },
@@ -88,7 +88,7 @@
     "부산외국어대학교"
    ],
    "org_name": "부산외국어대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-11-09-busan-univ-foreign-studies",
    "title": "평생교육원 업무용 PC 악성코드 감염 의심, 개인정보 유출 가능성"
   },
@@ -98,7 +98,7 @@
     "드림메이커)"
    ],
    "org_name": "SM엔터테인먼트(디어유·드림메이커)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-08-sm-entertainment",
    "title": "외부 해킹으로 임직원 개인정보 유출"
   },
@@ -126,7 +126,7 @@
     "참좋은여행"
    ],
    "org_name": "토파스여행정보·참좋은여행",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-06-topas-chamjoeun-amadeus",
    "title": "아마데우스 시스템 무단 접근으로 예약번호 일부 유출"
   },
@@ -146,7 +146,7 @@
     "욱성화학"
    ],
    "org_name": "파낙스 그룹·욱성화학",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-11-06-pax-group-uksung-chemical",
    "title": "랜섬웨어 조직 인크랜섬, 파낙스 그룹·욱성화학 해킹 주장"
   },
@@ -224,7 +224,7 @@
     "니케"
    ],
    "org_name": "시프트업(레벨인피니트) 니케",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-11-04-shiftup-nikke",
    "title": "니케 PC 런처 변조로 원격제어 악성코드 유포 정황"
   },
@@ -246,7 +246,7 @@
     "니케)"
    ],
    "org_name": "레벨 인피니트(승리의 여신: 니케)",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-11-04-nikke-pc-launcher",
    "title": "PC 런처 스크립트 파일 변조로 악성코드 유입 정황"
   },
@@ -255,7 +255,7 @@
     "NH농협여행"
    ],
    "org_name": "NH농협여행",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-04-nh-nonghyup-travel",
    "title": "아마데우스 시스템 비인가 접근으로 항공예약번호 유출 안내"
   },
@@ -311,7 +311,7 @@
     "하이브"
    ],
    "org_name": "하이브",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-11-03-hybe-approval-system",
    "title": "사내 전자결재·비용처리시스템 외부 비정상 접근으로 개인정보 유출"
   },
@@ -388,7 +388,7 @@
     "강남)"
    ],
    "org_name": "원진성형외과(서울 강남)",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-11-01-wonjin-plastic-surgery",
    "title": "내부 서버 해킹으로 환자 사진·상담 정보 유출, 가상자산 요구 협박 발생"
   },
@@ -415,7 +415,7 @@
     "한화엔진"
    ],
    "org_name": "한화엔진",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-11-01-hanwha-engine",
    "title": "외부 서버 비인가 접근으로 개인정보 1,903건 유출 가능성"
   },
@@ -424,7 +424,7 @@
     "GS건설"
    ],
    "org_name": "GS건설",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-11-01-gs-engineering-construction",
    "title": "아파트 커뮤니티 예약시스템 외부 비정상 접근, 입주민 정보 유출 가능"
   },
@@ -438,7 +438,7 @@
     "없음)"
    ],
    "org_name": "서울 강남 성형외과(병원명은 읽은 기사에 없음)",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-11-01-gangnam-plastic-surgery",
    "title": "병원 서버 해킹으로 환자 신체 사진 등 유출, 가상자산 요구 협박"
   },
@@ -502,7 +502,7 @@
     "유성선병원)"
    ],
    "org_name": "영훈의료재단(대전선병원·유성선병원)",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-10-29-younghun-medical-foundation",
    "title": "SQL 인젝션 취약점으로 개인정보 18만여명 유출, 개인정보위 과징금"
   },
@@ -538,7 +538,7 @@
     "대교"
    ],
    "org_name": "대교",
-   "sector": "service",
+   "sector": "education",
    "slug": "2026-10-29-daekyo",
    "title": "관계사 웹 취약점 경유 개인정보 약 65만명 유출, 개인정보위 과징금"
   },
@@ -556,7 +556,7 @@
     "마이리얼트립"
    ],
    "org_name": "마이리얼트립",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-25-myrealtrip",
    "title": "외부 비정상 접근으로 이용자 정보 유출"
   },
@@ -565,7 +565,7 @@
     "국립부경대학교"
    ],
    "org_name": "국립부경대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-10-17-pknu-tuition-system",
    "title": "등록금 수납관리시스템 해킹으로 학생·직원 정보 유출"
   },
@@ -583,7 +583,7 @@
     "호텔스토리"
    ],
    "org_name": "호텔스토리",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-28-hotelstory",
    "title": "숙소 계정 탈취로 예약정보 및 카드 관련 정보 유출"
   },
@@ -620,7 +620,7 @@
     "놀유니버스"
    ],
    "org_name": "놀유니버스",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-26-noluniverse-interpark",
    "title": "구 인터파크투어 국내 숙소 예약자 정보 조회 기능 침해"
   },
@@ -693,7 +693,7 @@
     "대한항공"
    ],
    "org_name": "대한항공",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-20-koreanair-amadeus",
    "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출"
   },
@@ -702,7 +702,7 @@
     "아시아나항공"
    ],
    "org_name": "아시아나항공",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-20-asiana-amadeus",
    "title": "예약·발권 시스템 운영사(아마데우스) 계정 비인가 접근으로 예약정보 유출"
   },
@@ -711,7 +711,7 @@
     "연세대학교"
    ],
    "org_name": "연세대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-10-22-yonsei-portal",
    "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출"
   },
@@ -750,7 +750,7 @@
     "웅진컴퍼스(놀이의발견)"
    ],
    "org_name": "웅진컴퍼스(놀이의발견)",
-   "sector": "service",
+   "sector": "education",
    "slug": "2026-10-21-woongjin-compass",
    "title": "관리시스템 해킹으로 회원 약 6만7000명 정보 유출"
   },
@@ -817,7 +817,7 @@
     "주장)"
    ],
    "org_name": "국내 해운·철강 기업 12곳(N0n 랜섬웨어 조직 주장)",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-10-20-n0n-shipping-steel",
    "title": "랜섬웨어 조직 N0n, 해운·철강 기업 12곳 탈취 자료 공개"
   },
@@ -836,7 +836,7 @@
     "국립암센터"
    ],
    "org_name": "국립암센터",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-10-19-national-cancer-center",
    "title": "구강암 임상연구 참여자 67명 정보 깃허브 노출"
   },
@@ -1019,7 +1019,7 @@
     "동국제강"
    ],
    "org_name": "동국제강",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-10-13-dongkuk-steel-ransomware-claim",
    "title": "랜섬웨어 조직이 다크웹에 피해 기업으로 게시, 내부정보 탈취 주장"
   },
@@ -1028,7 +1028,7 @@
     "서울대학교"
    ],
    "org_name": "서울대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-10-11-seoul-national-university",
    "title": "6년간 해킹 피해 28건, 개인정보 1132건 유출"
   },
@@ -1057,7 +1057,7 @@
     "사랑의교회)"
    ],
    "org_name": "대형교회 2곳(여의도순복음교회·사랑의교회)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-08-large-churches",
    "title": "대형교회 2곳 해킹 정황, 교인 정보 유출 여부 조사"
   },
@@ -1067,7 +1067,7 @@
     "골프예약"
    ],
    "org_name": "카카오 골프예약",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-08-kakao-golf-booking",
    "title": "고객 3만4천명 정보 유출"
   },
@@ -1100,7 +1100,7 @@
     "의료기관)"
    ],
    "org_name": "병원 IP카메라(서울 산부인과 등 의료기관)",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-10-07-hospital-ip-camera-footage",
    "title": "병원 IP카메라 영상 약 80건 해외 사이트 유포"
   },
@@ -1118,7 +1118,7 @@
     "여의도순복음교회"
    ],
    "org_name": "여의도순복음교회",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-06-yoido-full-gospel-church",
    "title": "ERP 시스템 침투로 교인 정보 유출 정황"
   },
@@ -1136,7 +1136,7 @@
     "사랑의교회"
    ],
    "org_name": "사랑의교회",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-06-saerang-church",
    "title": "그룹웨어 서버 접근으로 교인·임직원 정보 유출 정황"
   },
@@ -1154,7 +1154,7 @@
     "서울사이버대학교"
    ],
    "org_name": "서울사이버대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-10-05-seoul-cyber-univ",
    "title": "다크웹에 학생·교직원 개인정보 판매글 게시"
   },
@@ -1305,7 +1305,7 @@
     "20곳"
    ],
    "org_name": "중소형 병원 20곳",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-09-30-small-hospitals-ransomware",
    "title": "동일 계열 랜섬웨어 동시 감염, 전자의무기록 등 장애"
   },
@@ -1323,7 +1323,7 @@
     "파르나스호텔"
    ],
    "org_name": "파르나스호텔",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-09-30-parnas-hotel",
    "title": "리워즈 회원 정보 유출, 개보위·KISA 신고"
   },
@@ -1332,7 +1332,7 @@
     "한국정보보호교육센터"
    ],
    "org_name": "한국정보보호교육센터",
-   "sector": "service",
+   "sector": "education",
    "slug": "2026-09-29-kisec-maleunsoft-hack",
    "title": "온라인교육 사이트 위탁 운영사(맑은소프트) 해킹으로 고객 정보 유출"
   },
@@ -1351,7 +1351,7 @@
     "부품사)"
    ],
    "org_name": "신영(자동차 부품사)",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-09-28-shinyoung",
    "title": "대규모 해킹 주장, 회장 메일 포함"
   },
@@ -1426,7 +1426,7 @@
     "최선어학원"
    ],
    "org_name": "생각하는황소·최선어학원",
-   "sector": "service",
+   "sector": "education",
    "slug": "2026-09-18-thinking-bull",
    "title": "학원 예약시스템 해킹, 학생·학부모 정보 유출 가능성"
   },
@@ -1446,7 +1446,7 @@
     "라이브클래스"
    ],
    "org_name": "라이브클래스",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-09-17-liveclass",
    "title": "온라인 강의 플랫폼 해킹으로 회원 개인정보 유출"
   },
@@ -1455,7 +1455,7 @@
     "카카오게임즈"
    ],
    "org_name": "카카오게임즈",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-09-12-kakaogames-partners-rink",
    "title": "파트너스·RINK 서비스 외부 공격으로 이용자 정보 유출"
   },
@@ -1502,7 +1502,7 @@
     "고진모터스"
    ],
    "org_name": "고진모터스",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-09-09-gojin-motors",
    "title": "서버 랜섬웨어 감염과 외부 불법 접근, 고객정보 유출 가능성 조사"
   },
@@ -1520,7 +1520,7 @@
     "위버스컴퍼니(위버스)"
    ],
    "org_name": "위버스컴퍼니(위버스)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-09-06-weverse-purchase-api",
    "title": "서비스 보안 취약점으로 고객 개인정보 42만 건 유출"
   },
@@ -1614,7 +1614,7 @@
     "경유)"
    ],
    "org_name": "HD건설기계(HD한국조선해양 경유)",
-   "sector": "it",
+   "sector": "industry",
    "slug": "2026-08-27-hd-construction-equipment",
    "title": "계열사 서버 경유 무단 접속으로 임직원·협력사 직원 9503명 정보 유출, 과징금·과태료"
   },
@@ -1623,7 +1623,7 @@
     "솔모로CC(한일레저)"
    ],
    "org_name": "솔모로CC(한일레저)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-08-26-solmoro-cc",
    "title": "해킹으로 골프장 회원 개인정보 유출"
   },
@@ -1632,7 +1632,7 @@
     "대항병원"
    ],
    "org_name": "대항병원",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-08-26-daehang-hospital",
    "title": "홈페이지 해킹으로 환자 개인정보 유출"
   },
@@ -1652,7 +1652,7 @@
     "정상어학원"
    ],
    "org_name": "정상어학원",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-08-21-jeongsang-academy",
    "title": "회원 정보 26만건 유출, 경찰 수사의뢰"
   },
@@ -1682,7 +1682,7 @@
     "서강대학교"
    ],
    "org_name": "서강대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-08-16-sogang-university",
    "title": "서버 무작위 대입 공격으로 구성원 개인정보 약 18만 건 유출"
   },
@@ -1709,7 +1709,7 @@
     "제주항공"
    ],
    "org_name": "제주항공",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-08-12-jeju-air",
    "title": "고객 100여명 여권번호 등 예약 정보 외부 노출"
   },
@@ -1755,7 +1755,7 @@
     "C골프장(충북)"
    ],
    "org_name": "진천 C골프장(충북)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-08-05-jincheon-golf-club",
    "title": "외부인 비정상 접근으로 회원 약 9만 명 정보 유출"
   },
@@ -1785,7 +1785,7 @@
     "골프장)"
    ],
    "org_name": "천룡CC(충북 진천 골프장)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-07-30-cheonryong-cc",
    "title": "해킹으로 회원 약 9만명 개인정보 유출, 해커가 금품 요구"
   },
@@ -1794,7 +1794,7 @@
     "한양대학교구리병원"
    ],
    "org_name": "한양대학교구리병원",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-07-29-hanyang-guri-hospital",
    "title": "직원이 응급실 환자 진료정보를 촬영해 외부인에게 전달"
   },
@@ -1812,7 +1812,7 @@
     "위메이드(위믹스)"
    ],
    "org_name": "위메이드(위믹스)",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-07-27-wemix-dollar",
    "title": "위믹스 스테이블코인 비정상 발행, 76억원대 유출"
   },
@@ -1821,7 +1821,7 @@
     "넥슨"
    ],
    "org_name": "넥슨",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-07-27-nexon-ransom-claim",
    "title": "랜섬웨어 조직 정보 유출 주장, 진위 확인 중"
   },
@@ -1852,7 +1852,7 @@
     "병원)"
    ],
    "org_name": "국군병원(의무사령부 예하 6개 군 병원)",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-07-24-military-hospitals",
    "title": "모바일 의료영상 시스템 비인가 접속, 약 8GB 정보 유출 정황"
   },
@@ -1898,7 +1898,7 @@
     "이투스에듀"
    ],
    "org_name": "이투스에듀",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-07-16-etoos-claim",
    "title": "해커 고객정보 42만5천건 판매 주장"
   },
@@ -1937,7 +1937,7 @@
     "스콘"
    ],
    "org_name": "스콘",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-07-09-scon",
    "title": "교육 플랫폼 개인정보 유출 의심 보도"
   },
@@ -1991,7 +1991,7 @@
     "한중엔시에스"
    ],
    "org_name": "한중엔시에스",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-07-07-hanjung-ncs",
    "title": "설계도면·임직원 정보 유출 해킹 보도"
   },
@@ -2000,7 +2000,7 @@
     "대진대학교"
    ],
    "org_name": "대진대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-07-06-daejin-university",
    "title": "문자발송시스템 외부 공격으로 교직원 개인정보 유출"
   },
@@ -2018,7 +2018,7 @@
     "골프존"
    ],
    "org_name": "골프존",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-06-29-golfzon",
    "title": "2023년 랜섬웨어 개인정보 유출 관련 소비자 집단 손해배상 소송"
   },
@@ -2027,7 +2027,7 @@
     "두산밥캣"
    ],
    "org_name": "두산밥캣",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-06-29-doosan-bobcat",
    "title": "랜섬웨어 피해, 3.27TB 내부자료 유출 주장"
   },
@@ -2066,7 +2066,7 @@
     "등)"
    ],
    "org_name": "데이원컴퍼니(패스트캠퍼스 등)",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-06-19-dayone-company",
    "title": "깃허브 마스터 계정 키 탈취로 개인정보 유출, 계좌번호 등 추가 유출 가능성"
   },
@@ -2085,7 +2085,7 @@
     "요양병원"
    ],
    "org_name": "공주 요양병원",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-06-11-gongju-nursing-hospital",
    "title": "환자 동의 없이 의료기록 유출"
   },
@@ -2112,7 +2112,7 @@
     "에스티유니타스(영단기)"
    ],
    "org_name": "에스티유니타스(영단기)",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-06-05-stunitas",
    "title": "해킹 사고, 회원 승인·계좌 정보 유출"
   },
@@ -2121,7 +2121,7 @@
     "티빙"
    ],
    "org_name": "티빙",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-06-03-tving",
    "title": "비인가 접근으로 회원 계정 정보 유출, 민관합동조사 결과 발표"
   },
@@ -2201,7 +2201,7 @@
     "골프장)"
    ],
    "org_name": "리앤리CC(가평 골프장)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-04-27-lee-and-lee-cc",
    "title": "홈페이지 악성코드로 회원 약 10만 명 정보 유출"
   },
@@ -2237,7 +2237,7 @@
     "국제약품"
    ],
    "org_name": "국제약품",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-04-15-kukje-pharm",
    "title": "랜섬웨어 공격, 주문·출고 지연"
   },
@@ -2255,7 +2255,7 @@
     "조이시티"
    ],
    "org_name": "조이시티",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2026-04-13-joycity",
    "title": "랜섬웨어 피해, 게임 매출 데이터 유출 주장"
   },
@@ -2264,7 +2264,7 @@
     "현대엘리베이터"
    ],
    "org_name": "현대엘리베이터",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-04-04-hyundai-elevator",
    "title": "랜섬웨어 조직 공격 피해, 이후 6곳 추가 공격 보도"
   },
@@ -2292,7 +2292,7 @@
     "고려제강"
    ],
    "org_name": "고려제강",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-03-24-kiswire",
    "title": "랜섬웨어 피해, 해커가 내부 데이터 128GB 탈취 주장"
   },
@@ -2310,7 +2310,7 @@
     "서울대병원"
    ],
    "org_name": "서울대병원",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-03-20-seoul-national-university-hospital",
    "title": "직원 간 메일 수신자 오입력으로 산과 환자 정보 유출"
   },
@@ -2319,7 +2319,7 @@
     "아이스크림미디어"
    ],
    "org_name": "아이스크림미디어",
-   "sector": "it",
+   "sector": "education",
    "slug": "2026-03-16-icecream-media",
    "title": "교사 회원 개인정보 유출"
   },
@@ -2338,7 +2338,7 @@
     "아주홀딩스(아주약품)"
    ],
    "org_name": "아주홀딩스(아주약품)",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-03-06-aju-holdings",
    "title": "자회사 해킹 정황, 해커가 내부 자료 탈취 주장"
   },
@@ -2365,7 +2365,7 @@
     "성우"
    ],
    "org_name": "성우",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-02-25-sungwoo",
    "title": "2차전지 부품 제조사 랜섬웨어 해킹 피해"
   },
@@ -2374,7 +2374,7 @@
     "삼광"
    ],
    "org_name": "삼광",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-02-13-samkwang",
    "title": "해킹 정황, 내부 자료 452GB 유출 우려"
   },
@@ -2383,7 +2383,7 @@
     "피에스테크놀러지"
    ],
    "org_name": "피에스테크놀러지",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-02-09-ps-technology",
    "title": "랜섬웨어 조직 킬린에 정보 유출"
   },
@@ -2401,7 +2401,7 @@
     "율곡"
    ],
    "org_name": "율곡",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-02-06-yulgok",
    "title": "항공기 부품업체 해킹 정황, KAI 협력 문서 외부 노출 우려"
   },
@@ -2446,7 +2446,7 @@
     "강원대병원"
    ],
    "org_name": "강원대병원",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-01-29-kangwon-national-university-hospital",
    "title": "랜섬웨어 공격으로 의료영상시스템 장애 후 복구"
   },
@@ -2455,7 +2455,7 @@
     "전남대병원"
    ],
    "org_name": "전남대병원",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2026-01-28-chonnam-national-university-hospital",
    "title": "랜섬웨어 공격으로 영상검사 시스템 장애, 당일 복구"
   },
@@ -2501,7 +2501,7 @@
     "교원그룹"
    ],
    "org_name": "교원그룹",
-   "sector": "service",
+   "sector": "education",
    "slug": "2026-01-14-kyowon-group",
    "title": "랜섬웨어 피해, 외부 유출 정황 확인 및 고객정보 포함 여부 조사"
   },
@@ -2528,7 +2528,7 @@
     "충북대학교(수의과대학)"
    ],
    "org_name": "충북대학교(수의과대학)",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-01-05-chungbuk-national-univ",
    "title": "수의과대학 웹사이트 해킹, 해커가 다크웹 포럼에 판매 게시"
   },
@@ -2537,7 +2537,7 @@
     "인하대학교"
    ],
    "org_name": "인하대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2025-12-30-inha-university",
    "title": "랜섬웨어 공격으로 학사정보시스템 피해, 자료 탈취 주장"
   },
@@ -2610,7 +2610,7 @@
     "넷마블"
    ],
    "org_name": "넷마블",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2025-11-26-netmarble",
    "title": "PC게임 사이트 18종 해킹, 고객·임직원 정보 유출"
   },
@@ -2638,7 +2638,7 @@
     "심텍"
    ],
    "org_name": "심텍",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-11-18-simmtech",
    "title": "해커 조직 연쇄 공격 피해 보도"
   },
@@ -2647,7 +2647,7 @@
     "LG에너지솔루션"
    ],
    "org_name": "LG에너지솔루션",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-11-18-lg-energy-solution-akira",
    "title": "랜섬웨어 조직 아키라, 내부 자료 1.7TB 탈취 주장"
   },
@@ -2656,7 +2656,7 @@
     "한마음혈액원"
    ],
    "org_name": "한마음혈액원",
-   "sector": "public",
+   "sector": "medical",
    "slug": "2025-11-10-hanmaum-blood-center",
    "title": "혈액공급기관 랜섬웨어 공격, 헌혈자 정보 보유 주장"
   },
@@ -2665,7 +2665,7 @@
     "경북대학교"
    ],
    "org_name": "경북대학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2025-10-22-kyungpook-national-university",
    "title": "개인정보 유출 3건, 국정감사에서 7천여명 사례 질의"
   },
@@ -2701,7 +2701,7 @@
     "미래엔서해에너지"
    ],
    "org_name": "미래엔서해에너지",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-10-17-miraen-seohae-energy",
    "title": "랜섬웨어 공격으로 고객 개인정보 유출"
   },
@@ -2828,7 +2828,7 @@
     "드래곤플라이"
    ],
    "org_name": "드래곤플라이",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2025-08-11-dragonfly",
    "title": "랜섬웨어 공격으로 홈페이지 접속 장애, KISA 기술지원 미동의"
   },
@@ -2849,7 +2849,7 @@
     "관계사"
    ],
    "org_name": "대성 학원 관계사",
-   "sector": "service",
+   "sector": "education",
    "slug": "2025-07-21-daesung-affiliate",
    "title": "학생 개인정보 유출, 2차 피해 우려"
   },
@@ -2950,7 +2950,7 @@
     "소속사"
    ],
    "org_name": "하이라이트 소속사",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2025-05-22-highlight-agency",
    "title": "팬클럽 회원 897명 개인정보 유출, 3주 만에 사과"
   },
@@ -3006,7 +3006,7 @@
     "케이티알파"
    ],
    "org_name": "클래스유·케이티알파",
-   "sector": "it",
+   "sector": "education",
    "slug": "2025-04-11-classu-ktalpha",
    "title": "160만명 유출 제재, 자동화 공격 방어 미흡"
   },
@@ -3015,7 +3015,7 @@
     "모두투어네트워크"
    ],
    "org_name": "모두투어네트워크",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2025-03-14-modetour",
    "title": "웹셸 공격으로 약 306만 명 개인정보 유출, 과징금 부과"
   },
@@ -3024,7 +3024,7 @@
     "위메이드(위믹스)"
    ],
    "org_name": "위메이드(위믹스)",
-   "sector": "it",
+   "sector": "leisure",
    "slug": "2025-05-23-wemix-2025",
    "title": "위믹스 90억원 규모 해킹 피해, 상장폐지"
   },

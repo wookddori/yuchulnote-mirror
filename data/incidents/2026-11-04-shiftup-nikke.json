@@ -23,7 +23,7 @@
  "response_text": "11월 4일 오전 2시 30분경 문제 확인, 클라이언트 수정 패치 배포, 후속 조치 별도 공지 예고(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "감염자 수와 피해 규모는 기사에 없음, 영향 확인 중(기사 기재)",
- "sector": "it",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-11-04-shiftup-nikke",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "니케 PC 런처 이용자(기사 기재)",
  "title": "니케 PC 런처 변조로 원격제어 악성코드 유포 정황",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

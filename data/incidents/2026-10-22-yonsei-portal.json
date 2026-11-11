@@ -28,7 +28,7 @@
  "response_text": "유출 경로 차단, 수사기관에 수사 의뢰, 개인정보 유출 안내 공지와 사과, 홈페이지 공지사항에서 개인별 유출 항목 확인 가능(기사 기재)",
  "scale_short": "약 1만 명",
  "scale_text": "1만여 명(기사 기재, 정확한 인원은 기사에 없음)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2026-10-22-yonsei-portal",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "재학생·졸업생 등(기사 기재)",
  "title": "포털서비스 외부 비인가 접근으로 구성원 정보 유출",
- "updated_at": "2026-11-11T12:31:37Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

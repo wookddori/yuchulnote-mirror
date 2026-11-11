@@ -23,7 +23,7 @@
  "response_text": "접근 경로 차단, 영향 계정 비밀번호 초기화, 접속기록 분석, KISA 신고, 고객 개별 통지 및 홈페이지 공지(기사 기재)",
  "scale_short": "조사 중",
  "scale_text": "규모는 조사 중이며 공개되지 않음. 현재까지 부정결제 피해는 확인되지 않음(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-10-28-hotelstory",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "예약 고객(기사 기재)",
  "title": "숙소 계정 탈취로 예약정보 및 카드 관련 정보 유출",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -23,7 +23,7 @@
  "response_text": "HMM은 유출이 없었다는 입장. 싸이버로지텍은 고객사 솔루션 망이 분리되어 문제없다고 설명(기사 기재)",
  "scale_short": "12곳(조직 주장)",
  "scale_text": "12곳 대상, 공개분은 전체 반출 데이터의 첫 번째 공개분이라고 조직 주장(기사 기재)",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-10-20-n0n-shipping-steel",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "국내 철강, 해운·항만 기업 12곳(기사 기재)",
  "title": "랜섬웨어 조직 N0n, 해운·철강 기업 12곳 탈취 자료 공개",
- "updated_at": "2026-11-09T09:56:55Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

@@ -23,7 +23,7 @@
  "response_text": "게시물 삭제, 개인정보보호위원회 신고, 개인정보보호위원회가 사실관계 확인 중(기사 기재)",
  "scale_short": "67명",
  "scale_text": "참여자 67명(기사 기재)",
- "sector": "public",
+ "sector": "medical",
  "sector_tags": [],
  "slug": "2026-10-19-national-cancer-center",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "2009년 구강암 임상연구 참여자(기사 기재)",
  "title": "구강암 임상연구 참여자 67명 정보 깃허브 노출",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }

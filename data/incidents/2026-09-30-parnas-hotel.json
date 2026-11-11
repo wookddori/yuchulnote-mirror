@@ -23,7 +23,7 @@
  "response_text": "개인정보보호위원회·KISA 신고, 관계기관과 조사 중, 사칭 결제 주의 안내(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-09-30-parnas-hotel",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "리워즈 회원(기사 기재)",
  "title": "리워즈 회원 정보 유출, 개보위·KISA 신고",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T13:42:08Z"
 }
