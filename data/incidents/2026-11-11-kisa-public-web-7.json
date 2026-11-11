@@ -1,5 +1,5 @@
 {
- "category": "hacking",
+ "category": "unknown",
  "confirmed_date": null,
  "confirmed_text": "2026년 11월 11일 KISA가 연쇄 해킹에 따른 조치로 대민 웹 서비스 7곳을 긴급 점검하면서 접속이 불가해졌다고 보도됨. 기사 제목 기준으로 KISA 시스템의 침해나 정보 유출이 확인됐다는 내용은 없음(기사 기재)",
  "events": [
@@ -15,7 +15,7 @@
  "notices": [],
  "org_name": "한국인터넷진흥원(KISA)",
  "reported_date": "2026-11-11",
- "response_text": "긴급 보안 점검, 점검 중 접속 불가(자체 점검 조치, 기사 기재)",
+ "response_text": "긴급 보안 점검, 점검 중 접속 불가(기사 기재)",
  "scale_short": "점검 7곳",
  "scale_text": "점검 대상 대민 웹 서비스 7곳(기사 기재)",
  "sector": "public",
@@ -35,5 +35,5 @@
  ],
  "target_text": "한국인터넷진흥원(KISA) 관련(기사 기재)",
  "title": "연쇄 해킹에 따른 조치로 대민 웹 서비스 7곳 긴급 점검, 접속 불가",
- "updated_at": "2026-11-11T13:09:54Z"
+ "updated_at": "2026-11-11T14:18:46Z"
 }
