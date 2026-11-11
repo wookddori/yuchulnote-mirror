@@ -93,7 +93,7 @@
    "response_text": "피싱 알림톡 주의 안내(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "service",
    "sector_tags": [],
    "slug": "2026-11-10-moduparking-phishing",
    "sources": [
@@ -105,7 +105,7 @@
    ],
    "target_text": "모두의주차장 관련(기사 기재)",
    "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도",
-   "updated_at": "2026-11-11T12:45:53Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -1261,7 +1261,7 @@
    "response_text": "긴급 공지로 화면 따르지 말 것, 실행한 경우 네트워크 차단·백업·포맷·다른 기기에서 비밀번호 변경 안내. 학생·교직원 PC 포맷 지원. 삽입 경위는 조사 중(기사 기재)",
    "scale_short": "감염 규모 미공개",
    "scale_text": "감염 건수는 기사에 없음. 10월 30일 오후부터 화면이 나타난 것으로 기재(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2026-11-03-uos-fake-captcha",
    "sources": [
@@ -1278,7 +1278,7 @@
    ],
    "target_text": "홈페이지 방문자(학생·교직원 등)(기사 기재)",
    "title": "홈페이지에 가짜 로봇 인증 화면 노출, 악성코드 감염 유도",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -1349,7 +1349,7 @@
    "response_text": "더존비즈온이 서버 강제 종료와 해외 IP 차단, KISA 신고, 암호화 키 유출 정황은 없다고 설명(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-11-03-kepco-es-douzone-backup",
    "sources": [
@@ -1366,7 +1366,7 @@
    ],
    "target_text": "켑코이에스 관계자(기사 기재)",
    "title": "더존비즈온 백업서버 침해로 개인정보 유출 가능성 안내",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -2400,7 +2400,7 @@
    "response_text": "공격 IP 차단, 공격 통로로 확인된 시스템 접근 전면 차단 후 삭제, 개인정보보호위원회 신고 등 안전 조치, 출처 불분명한 링크·첨부파일 주의 안내. 부정 사용 사례는 확인되지 않았다고 회사가 설명(기사 기재). 조사는 진행 중.",
    "scale_short": "1,454명",
    "scale_text": "회원 1,454명(기사 기재)",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-10-29-jinair-member-api",
    "sources": [
@@ -2412,7 +2412,7 @@
    ],
    "target_text": "개인회원(기사 기재)",
    "title": "회원정보 조회 API 외부 공격으로 회원 정보 유출",
-   "updated_at": "2026-11-08T12:12:08Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -4595,7 +4595,7 @@
    "response_text": "구글은 접수 후 24시간 내 차단, 48시간 내 서버 삭제를 주장. 개인정보보호위원회가 정책과 인적 오류 여부를 조사하겠다고 밝힘(티에프뉴스 기재). 10월 28일 국감에서 대표가 개선 의지 표명(YTN 기재)",
    "scale_short": "확인 34건 언급",
    "scale_text": "여성인권진흥원 자료 기준 확인된 노출 사례 34건을 의원이 언급, 구글은 정확한 수 조사 중이라 답변(티에프뉴스 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2026-10-13-google-korea",
    "sources": [
@@ -4617,7 +4617,7 @@
    ],
    "target_text": "성폭력·디지털성범죄 피해자(기사 기재)",
    "title": "디지털성범죄 피해자 정보 노출, 국정감사에서 경위 질의",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -4898,7 +4898,7 @@
    "response_text": "사이트 재구축 등 보안 강화, 현재까지 피해 사례는 확인되지 않았고 피해 시 보상 안내 예정(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "medical",
    "sector_tags": [],
    "slug": "2026-10-08-handok",
    "sources": [
@@ -4910,7 +4910,7 @@
    ],
    "target_text": "자사몰 고객(기사 기재)",
    "title": "지난해 유출 고객정보가 랜섬웨어 조직 사이트에 공개",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "vendor",
@@ -6217,7 +6217,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2026-09-26-febc",
    "sources": [
@@ -6234,7 +6234,7 @@
    ],
    "target_text": "후원자(기사 기재)",
    "title": "후원자 시스템 해킹, 개인정보 유출 가능성",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "misconfig",
@@ -6310,7 +6310,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "it",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-09-23-sfa-engineering",
    "sources": [
@@ -6322,7 +6322,7 @@
    ],
    "target_text": "SFA엔지니어링 등 첨단장비업체(기사 기재)",
    "title": "잇따른 랜섬웨어 피해 보도",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -6691,7 +6691,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "34.7만명",
    "scale_text": "34만7000명(기사 기재)",
-   "sector": "service",
+   "sector": "finance",
    "sector_tags": [],
    "slug": "2026-09-11-treasure-brevo",
    "sources": [
@@ -6703,7 +6703,7 @@
    ],
    "target_text": "트레저 이용자(기사 기재)",
    "title": "피싱 메일, 브레보 계정 침해로 34만7천명 대상",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "vendor",
@@ -7053,7 +7053,7 @@
    "response_text": "시스템 외부 접근 차단, 보안 조치, KISA 등 관계기관 신고, 대상자 안내. SK이노베이션은 2차 피해가 확인되지 않았다고 밝힘. 두 건의 공격 주체가 같은지는 확인되지 않음(기사 기재)",
    "scale_short": null,
    "scale_text": "규모는 기사에 없음",
-   "sector": "it",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-09-02-sk-innovation-lotte-chemical",
    "sources": [
@@ -7070,7 +7070,7 @@
    ],
    "target_text": "두 회사 임직원(내부 이용자)(기사 기재)",
    "title": "사내 시스템 비정상 접근, 임직원 정보 일부 열람",
-   "updated_at": "2026-11-08T23:39:29Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "unknown",
@@ -7097,7 +7097,7 @@
    "response_text": "기사 작성 시점까지 회사 홈페이지에 공지 없음, 회사 공식 답변 보도 없음(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "자료 용량·파일 수 등 규모는 기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-09-02-dl-enc",
    "sources": [
@@ -7109,7 +7109,7 @@
    ],
    "target_text": "DL이앤씨(기사 기재)",
    "title": "랜섬웨어 조직 Panzer 침투 주장, 침해 여부 미확인",
-   "updated_at": "2026-11-09T03:13:40Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -7717,7 +7717,7 @@
    "response_text": "피싱 주의 안내(기사 기재)",
    "scale_short": "1.37만명",
    "scale_text": "1만3689명(기사 기재)",
-   "sector": "service",
+   "sector": "finance",
    "sector_tags": [],
    "slug": "2026-08-13-treasure-shipmonk",
    "sources": [
@@ -7729,7 +7729,7 @@
    ],
    "target_text": "트레저 고객(기사 기재)",
    "title": "배송사 쉽몽크 해킹으로 고객 1만3천여명 정보 유출",
-   "updated_at": "2026-11-09T12:41:57Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -8255,7 +8255,7 @@
    "response_text": "우아한형제들 입장은 제목에서 확인되지 않음",
    "scale_short": "4200만명(주장)",
    "scale_text": "4200만명(해커 주장, 기사 기재)",
-   "sector": "it",
+   "sector": "service",
    "sector_tags": [],
    "slug": "2026-07-29-baemin-darkweb",
    "sources": [
@@ -8267,7 +8267,7 @@
    ],
    "target_text": "배달의민족 이용자(기사 기재)",
    "title": "배민 이용자 4200만명 정보 판매 주장",
-   "updated_at": "2026-11-11T12:30:37Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -8865,7 +8865,7 @@
    "response_text": "개인정보위가 과징금 5억 300만원, 과태료 540만원 부과, 위반 사실 공표 명령(기사 기재). 2022년 공개 취약점 미조치, 관리자 계정 비밀번호 동일 사용, 고유식별정보 미암호화, 파기 기한 초과 49,466건 등이 위반으로 지적됨(기사 기재)",
    "scale_short": null,
    "scale_text": "회원 약 130만 명, 임직원 정보 1111건(기사 기재)",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-07-09-lock-and-lock",
    "sources": [
@@ -8882,7 +8882,7 @@
    ],
    "target_text": "일반 회원 약 130만 명과 임직원 1111명(기사 기재)",
    "title": "해킹으로 회원 약 130만 명 정보 유출, 개인정보위 과징금 5억원",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "unknown",
@@ -9310,7 +9310,7 @@
    "response_text": "해당 서버 격리, 공격 IP 차단, 방화벽 강화, 개별 문자 안내, 관계기관 신고 및 조사 협조(기사 기재). 시스템은 에듀테크 업체가 위탁 운영(기사 기재)",
    "scale_short": "약 11만3천명",
    "scale_text": "약 11만2728명(기사 기재)",
-   "sector": "service",
+   "sector": "public",
    "sector_tags": [],
    "slug": "2026-06-28-korea-food-industry-association",
    "sources": [
@@ -9322,7 +9322,7 @@
    ],
    "target_text": "2026년 상반기 교육 수료자(기사 기재)",
    "title": "온라인 교육사이트 이용자 약 11만3천명 정보 유출 정황",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "insider",
@@ -9491,7 +9491,7 @@
    "response_text": "회사 공식 입장과 신고 여부는 기사에 없음(기사 기재)",
    "scale_short": "약 32MB 공개(주장)",
    "scale_text": "약 32MB 문건이 공개됐다고 보도됨. 전체 규모는 기사에 없음(기사 기재)",
-   "sector": "it",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-06-17-komico",
    "sources": [
@@ -9508,7 +9508,7 @@
    ],
    "target_text": "반도체 장비 부품 세정·코팅 상장사 코미코(기사 기재)",
    "title": "랜섬웨어 조직이 내부 문건 확보 주장, 다크웹 게시",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "insider",
@@ -11397,7 +11397,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2026-01-20-posco-enc",
    "sources": [
@@ -11409,7 +11409,7 @@
    ],
    "target_text": "포스코이앤씨 관련(기사 기재)",
    "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-11T12:45:53Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -11715,7 +11715,7 @@
    "response_text": "비밀번호 변경 및 의심 이메일 주의 사내 공지, 경찰 수사 협조, 보안 강화 진행(기사 기재). 2월 보도에서 수사당국이 북한 연관 정황을 분석 중이라고 전했으며 해커는 특정되지 않았다고 회사가 밝힘(기사 기재)",
    "scale_short": null,
    "scale_text": "약 8만여 명(잠정)(기사 기재)",
-   "sector": "service",
+   "sector": "it",
    "sector_tags": [],
    "slug": "2025-12-29-shinsegae-inc",
    "sources": [
@@ -11737,7 +11737,7 @@
    ],
    "target_text": "신세계그룹 본사 및 협력사 직원(기사 기재). 고객 정보는 유출되지 않았다고 회사가 밝힘(기사 기재)",
    "title": "내부 인트라넷 무단 접속으로 임직원·협력사 직원 정보 유출",
-   "updated_at": "2026-11-08T23:38:04Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -11965,7 +11965,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "학생 5명 관련(기사 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-12-05-youngjin-high",
    "sources": [
@@ -11977,7 +11977,7 @@
    ],
    "target_text": "졸업생(기사 기재)",
    "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -11999,7 +11999,7 @@
    "response_text": "과징금 1.8억원 부과(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-11-27-haas-vatek-fine",
    "sources": [
@@ -12011,7 +12011,7 @@
    ],
    "target_text": "하스·바텍엠시스 관련(기사 기재)",
    "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과",
-   "updated_at": "2026-11-11T12:45:53Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -12849,7 +12849,7 @@
    "response_text": "교육청과 교육부 신고, 피해자 통보, 자료 삭제, 전 계정 비밀번호 변경, 총괄대응본부 설치, 도내 학교에 계정 관리 강화 공문(기사 기재). 외부 유포 흔적은 확인되지 않았다고 교육청이 밝힘(기사 기재)",
    "scale_short": "개인정보 약 400건",
    "scale_text": "개인정보 약 400건, 성적 정보 약 200건(대한경제 기재)",
-   "sector": "public",
+   "sector": "education",
    "sector_tags": [],
    "slug": "2025-09-05-jeju-middle-school",
    "sources": [
@@ -12866,7 +12866,7 @@
    ],
    "target_text": "같은 학년 학생들(기사 기재)",
    "title": "학생의 교사 계정 무단 접속으로 학생 정보·수행평가 성적 유출",
-   "updated_at": "2026-11-08T22:32:59Z"
+   "updated_at": "2026-11-11T13:54:14Z"
   },
   {
    "category": "hacking",
@@ -13511,7 +13511,7 @@
    "response_text": "외부 접근 차단, 취약점 점검, 모니터링 강화, KISA·개인정보위 신고(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "규모는 기사에 없음",
-   "sector": "service",
+   "sector": "leisure",
    "sector_tags": [],
    "slug": "2025-07-04-interpark-global",
    "sources": [
@@ -13523,7 +13523,7 @@
    ],
    "target_text": "글로벌 인터파크 예약 이용자(기사 기재)",
    "title": "글로벌 인터파크 예약내역 조회 기능 비정상 접근",
-   "updated_at": "2026-11-09T03:11:35Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "unknown",
@@ -14042,7 +14042,7 @@
    "response_text": "고객·기술 정보와는 무관하다는 입장(기사 기재)",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-04-30-hyundai-motor-group",
    "sources": [
@@ -14059,7 +14059,7 @@
    ],
    "target_text": "현대차그룹 관련(기사 기재)",
    "title": "일부 임직원 개인정보 유출, 미국 법인 포함",
-   "updated_at": "2026-11-11T12:45:53Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   },
   {
    "category": "hacking",
@@ -14418,7 +14418,7 @@
    "response_text": "제목에서 확인되지 않음",
    "scale_short": "미공개",
    "scale_text": "기사에 없음",
-   "sector": "service",
+   "sector": "industry",
    "sector_tags": [],
    "slug": "2025-02-12-sungshin-deltatech",
    "sources": [
@@ -14430,7 +14430,7 @@
    ],
    "target_text": "신성델타테크와 자회사(기사 기재)",
    "title": "랜섬웨어 피해, 자회사 데이터 유출",
-   "updated_at": "2026-11-10T10:38:15Z"
+   "updated_at": "2026-11-11T13:51:39Z"
   }
  ],
  "schema_version": 1

@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "학생 5명 관련(기사 기재)",
- "sector": "public",
+ "sector": "education",
  "sector_tags": [],
  "slug": "2025-12-05-youngjin-high",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "졸업생(기사 기재)",
  "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출",
- "updated_at": "2026-11-10T10:38:15Z"
+ "updated_at": "2026-11-11T13:54:14Z"
 }

@@ -18,7 +18,7 @@
  "response_text": "제목에서 확인되지 않음",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-01-20-posco-enc",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "포스코이앤씨 관련(기사 기재)",
  "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출",
- "updated_at": "2026-11-11T12:45:53Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

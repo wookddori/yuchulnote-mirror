@@ -28,7 +28,7 @@
  "response_text": "해당 서버 격리, 공격 IP 차단, 방화벽 강화, 개별 문자 안내, 관계기관 신고 및 조사 협조(기사 기재). 시스템은 에듀테크 업체가 위탁 운영(기사 기재)",
  "scale_short": "약 11만3천명",
  "scale_text": "약 11만2728명(기사 기재)",
- "sector": "service",
+ "sector": "public",
  "sector_tags": [],
  "slug": "2026-06-28-korea-food-industry-association",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "2026년 상반기 교육 수료자(기사 기재)",
  "title": "온라인 교육사이트 이용자 약 11만3천명 정보 유출 정황",
- "updated_at": "2026-11-08T23:38:04Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

@@ -23,7 +23,7 @@
  "response_text": "시스템 외부 접근 차단, 보안 조치, KISA 등 관계기관 신고, 대상자 안내. SK이노베이션은 2차 피해가 확인되지 않았다고 밝힘. 두 건의 공격 주체가 같은지는 확인되지 않음(기사 기재)",
  "scale_short": null,
  "scale_text": "규모는 기사에 없음",
- "sector": "it",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-09-02-sk-innovation-lotte-chemical",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "두 회사 임직원(내부 이용자)(기사 기재)",
  "title": "사내 시스템 비정상 접근, 임직원 정보 일부 열람",
- "updated_at": "2026-11-08T23:39:29Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

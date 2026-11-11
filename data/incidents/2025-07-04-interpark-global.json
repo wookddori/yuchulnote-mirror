@@ -28,7 +28,7 @@
  "response_text": "외부 접근 차단, 취약점 점검, 모니터링 강화, KISA·개인정보위 신고(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "규모는 기사에 없음",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2025-07-04-interpark-global",
  "sources": [
@@ -40,5 +40,5 @@
  ],
  "target_text": "글로벌 인터파크 예약 이용자(기사 기재)",
  "title": "글로벌 인터파크 예약내역 조회 기능 비정상 접근",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

@@ -33,7 +33,7 @@
  "response_text": "공격 IP 차단, 공격 통로로 확인된 시스템 접근 전면 차단 후 삭제, 개인정보보호위원회 신고 등 안전 조치, 출처 불분명한 링크·첨부파일 주의 안내. 부정 사용 사례는 확인되지 않았다고 회사가 설명(기사 기재). 조사는 진행 중.",
  "scale_short": "1,454명",
  "scale_text": "회원 1,454명(기사 기재)",
- "sector": "service",
+ "sector": "leisure",
  "sector_tags": [],
  "slug": "2026-10-29-jinair-member-api",
  "sources": [
@@ -45,5 +45,5 @@
  ],
  "target_text": "개인회원(기사 기재)",
  "title": "회원정보 조회 API 외부 공격으로 회원 정보 유출",
- "updated_at": "2026-11-08T12:12:08Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

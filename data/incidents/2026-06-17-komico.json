@@ -18,7 +18,7 @@
  "response_text": "회사 공식 입장과 신고 여부는 기사에 없음(기사 기재)",
  "scale_short": "약 32MB 공개(주장)",
  "scale_text": "약 32MB 문건이 공개됐다고 보도됨. 전체 규모는 기사에 없음(기사 기재)",
- "sector": "it",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-06-17-komico",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "반도체 장비 부품 세정·코팅 상장사 코미코(기사 기재)",
  "title": "랜섬웨어 조직이 내부 문건 확보 주장, 다크웹 게시",
- "updated_at": "2026-11-09T03:11:35Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

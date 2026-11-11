@@ -23,7 +23,7 @@
  "response_text": "기사 작성 시점까지 회사 홈페이지에 공지 없음, 회사 공식 답변 보도 없음(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "자료 용량·파일 수 등 규모는 기사에 없음",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2026-09-02-dl-enc",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "DL이앤씨(기사 기재)",
  "title": "랜섬웨어 조직 Panzer 침투 주장, 침해 여부 미확인",
- "updated_at": "2026-11-09T03:13:40Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

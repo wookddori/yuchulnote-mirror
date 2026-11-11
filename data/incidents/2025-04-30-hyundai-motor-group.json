@@ -18,7 +18,7 @@
  "response_text": "고객·기술 정보와는 무관하다는 입장(기사 기재)",
  "scale_short": "미공개",
  "scale_text": "기사에 없음",
- "sector": "service",
+ "sector": "industry",
  "sector_tags": [],
  "slug": "2025-04-30-hyundai-motor-group",
  "sources": [
@@ -35,5 +35,5 @@
  ],
  "target_text": "현대차그룹 관련(기사 기재)",
  "title": "일부 임직원 개인정보 유출, 미국 법인 포함",
- "updated_at": "2026-11-11T12:45:53Z"
+ "updated_at": "2026-11-11T13:51:39Z"
 }

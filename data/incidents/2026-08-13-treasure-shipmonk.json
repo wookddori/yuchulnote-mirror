@@ -18,7 +18,7 @@
  "response_text": "피싱 주의 안내(기사 기재)",
  "scale_short": "1.37만명",
  "scale_text": "1만3689명(기사 기재)",
- "sector": "service",
+ "sector": "finance",
  "sector_tags": [],
  "slug": "2026-08-13-treasure-shipmonk",
  "sources": [
@@ -30,5 +30,5 @@
  ],
  "target_text": "트레저 고객(기사 기재)",
  "title": "배송사 쉽몽크 해킹으로 고객 1만3천여명 정보 유출",
- "updated_at": "2026-11-09T12:41:57Z"
+ "updated_at": "2026-11-11T13:54:14Z"
 }

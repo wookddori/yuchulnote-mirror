@@ -23,7 +23,7 @@
     "모두의주차장"
    ],
    "org_name": "모두의주차장",
-   "sector": "it",
+   "sector": "service",
    "slug": "2026-11-10-moduparking-phishing",
    "title": "사칭 피싱 알림톡 발송, 외부 대행사 침해 보도"
   },
@@ -282,7 +282,7 @@
     "서울시립대"
    ],
    "org_name": "서울시립대",
-   "sector": "public",
+   "sector": "education",
    "slug": "2026-11-03-uos-fake-captcha",
    "title": "홈페이지에 가짜 로봇 인증 화면 노출, 악성코드 감염 유도"
   },
@@ -302,7 +302,7 @@
     "백업서버)"
    ],
    "org_name": "켑코이에스(수탁사 더존비즈온 백업서버)",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-11-03-kepco-es-douzone-backup",
    "title": "더존비즈온 백업서버 침해로 개인정보 유출 가능성 안내"
   },
@@ -529,7 +529,7 @@
     "진에어"
    ],
    "org_name": "진에어",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-10-29-jinair-member-api",
    "title": "회원정보 조회 API 외부 공격으로 회원 정보 유출"
   },
@@ -1010,7 +1010,7 @@
     "구글(구글코리아)"
    ],
    "org_name": "구글(구글코리아)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2026-10-13-google-korea",
    "title": "디지털성범죄 피해자 정보 노출, 국정감사에서 경위 질의"
   },
@@ -1076,7 +1076,7 @@
     "한독"
    ],
    "org_name": "한독",
-   "sector": "service",
+   "sector": "medical",
    "slug": "2026-10-08-handok",
    "title": "지난해 유출 고객정보가 랜섬웨어 조직 사이트에 공개"
   },
@@ -1369,7 +1369,7 @@
     "극동방송"
    ],
    "org_name": "극동방송",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2026-09-26-febc",
    "title": "후원자 시스템 해킹, 개인정보 유출 가능성"
   },
@@ -1389,7 +1389,7 @@
     "첨단장비업체"
    ],
    "org_name": "SFA엔지니어링 외 첨단장비업체",
-   "sector": "it",
+   "sector": "industry",
    "slug": "2026-09-23-sfa-engineering",
    "title": "잇따른 랜섬웨어 피해 보도"
   },
@@ -1464,7 +1464,7 @@
     "트레저"
    ],
    "org_name": "트레저",
-   "sector": "service",
+   "sector": "finance",
    "slug": "2026-09-11-treasure-brevo",
    "title": "피싱 메일, 브레보 계정 침해로 34만7천명 대상"
   },
@@ -1539,7 +1539,7 @@
     "롯데케미칼"
    ],
    "org_name": "SK이노베이션·롯데케미칼",
-   "sector": "it",
+   "sector": "industry",
    "slug": "2026-09-02-sk-innovation-lotte-chemical",
    "title": "사내 시스템 비정상 접근, 임직원 정보 일부 열람"
   },
@@ -1548,7 +1548,7 @@
     "DL이앤씨"
    ],
    "org_name": "DL이앤씨",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-09-02-dl-enc",
    "title": "랜섬웨어 조직 Panzer 침투 주장, 침해 여부 미확인"
   },
@@ -1691,7 +1691,7 @@
     "트레저"
    ],
    "org_name": "트레저",
-   "sector": "service",
+   "sector": "finance",
    "slug": "2026-08-13-treasure-shipmonk",
    "title": "배송사 쉽몽크 해킹으로 고객 1만3천여명 정보 유출"
   },
@@ -1803,7 +1803,7 @@
     "우아한형제들"
    ],
    "org_name": "우아한형제들",
-   "sector": "it",
+   "sector": "service",
    "slug": "2026-07-29-baemin-darkweb",
    "title": "배민 이용자 4200만명 정보 판매 주장"
   },
@@ -1946,7 +1946,7 @@
     "락앤락"
    ],
    "org_name": "락앤락",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-07-09-lock-and-lock",
    "title": "해킹으로 회원 약 130만 명 정보 유출, 개인정보위 과징금 5억원"
   },
@@ -2036,7 +2036,7 @@
     "식품산업협회"
    ],
    "org_name": "식품산업협회",
-   "sector": "service",
+   "sector": "public",
    "slug": "2026-06-28-korea-food-industry-association",
    "title": "온라인 교육사이트 이용자 약 11만3천명 정보 유출 정황"
   },
@@ -2075,7 +2075,7 @@
     "코미코"
    ],
    "org_name": "코미코",
-   "sector": "it",
+   "sector": "industry",
    "slug": "2026-06-17-komico",
    "title": "랜섬웨어 조직이 내부 문건 확보 주장, 다크웹 게시"
   },
@@ -2483,7 +2483,7 @@
     "포스코이앤씨"
    ],
    "org_name": "포스코이앤씨",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2026-01-20-posco-enc",
    "title": "협력사 안전교육 시스템 해킹으로 개인정보 유출"
   },
@@ -2546,7 +2546,7 @@
     "신세계I&C(신세계그룹)"
    ],
    "org_name": "신세계I&C(신세계그룹)",
-   "sector": "service",
+   "sector": "it",
    "slug": "2025-12-29-shinsegae-inc",
    "title": "내부 인트라넷 무단 접속으로 임직원·협력사 직원 정보 유출"
   },
@@ -2591,7 +2591,7 @@
     "영진고등학교"
    ],
    "org_name": "영진고등학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2025-12-05-youngjin-high",
    "title": "학생들이 행정실에 들어가 졸업생 생활기록부 무단 유출"
   },
@@ -2601,7 +2601,7 @@
     "바텍엠시스"
    ],
    "org_name": "하스·바텍엠시스",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-11-27-haas-vatek-fine",
    "title": "관리자 계정 탈취 해킹 관련 과징금 1.8억원 부과"
   },
@@ -2783,7 +2783,7 @@
     "중학교"
    ],
    "org_name": "제주 중학교",
-   "sector": "public",
+   "sector": "education",
    "slug": "2025-09-05-jeju-middle-school",
    "title": "학생의 교사 계정 무단 접속으로 학생 정보·수행평가 성적 유출"
   },
@@ -2858,7 +2858,7 @@
     "인터파크(놀유니버스)"
    ],
    "org_name": "인터파크(놀유니버스)",
-   "sector": "service",
+   "sector": "leisure",
    "slug": "2025-07-04-interpark-global",
    "title": "글로벌 인터파크 예약내역 조회 기능 비정상 접근"
   },
@@ -2987,7 +2987,7 @@
     "현대차그룹"
    ],
    "org_name": "현대차그룹",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-04-30-hyundai-motor-group",
    "title": "일부 임직원 개인정보 유출, 미국 법인 포함"
   },
@@ -3069,7 +3069,7 @@
     "신성델타테크"
    ],
    "org_name": "신성델타테크",
-   "sector": "service",
+   "sector": "industry",
    "slug": "2025-02-12-sungshin-deltatech",
    "title": "랜섬웨어 피해, 자회사 데이터 유출"
   }
