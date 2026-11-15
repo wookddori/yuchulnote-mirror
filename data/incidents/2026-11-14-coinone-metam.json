@@ -1,0 +1,54 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 14일 메타엠 고객상담 시스템 해킹으로 전화번호·상담 내용 등이 유출된 것으로 확인됐다고 보도됐고, 11월 15일 코인원이 고객상담 수탁사 해킹으로 고객 개인정보가 유출됐다고 밝힌 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "메타엠 고객상담 시스템 해킹, 전화번호·상담 내용 유출 확인 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-15",
+   "date_text": "11.15",
+   "label": "코인원, 고객상담 수탁사 해킹으로 개인정보 유출 안내(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주민번호·계좌번호 등 11개 항목 가능성",
+ "leaked_items_text": "이름, 주민등록번호, 계좌번호, 비밀번호, 지갑 주소 등 11개 항목 유출 가능성(기사 기재)",
+ "notices": [],
+ "org_name": "코인원(고객상담 수탁사 메타엠)",
+ "reported_date": "2026-11-14",
+ "response_text": "코인원이 수탁사 해킹으로 인한 유출 사실을 알린 것으로 보도됨(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모는 기사에 없음",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-14-coinone-metam",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "메타엠 고객상담 시스템 해킹…전화번호·상담 내용 등 개인정보 유출 확인",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209525"
+  },
+  {
+   "publisher": "데일리시큐",
+   "title": "코인원 고객센터 수탁사 해킹으로 개인정보 유출…주민번호·계좌번호 등 11개 항목 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209532"
+  },
+  {
+   "publisher": "보안뉴스",
+   "title": "코인원, 고객 상담 수탁사 ‘메타엠’ 해킹으로 개인정보 유출",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147270"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "코인원, 외주업체 해킹으로 고객 정보 유출",
+   "url": "https://www.yna.co.kr/view/AKR20261115020900002?input=1195m"
+  }
+ ],
+ "target_text": "코인원 고객상담을 맡은 수탁사 메타엠의 고객상담 시스템(기사 기재)",
+ "title": "코인원 고객상담 수탁사 메타엠 해킹으로 고객 개인정보 유출",
+ "updated_at": "2026-11-15T05:32:38Z"
+}

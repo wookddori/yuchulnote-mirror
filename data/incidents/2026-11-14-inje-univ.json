@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 14일 인제대학교가 서버가 외부 공격을 받아 학생·교직원 개인정보 2만4,011건이 유출됐다고 밝힌 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "인제대, 개인정보 2만4,011건 유출 안내(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "학번·전화번호 등",
+ "leaked_items_text": "학번, 전화번호 등(기사 기재)",
+ "notices": [],
+ "org_name": "인제대학교",
+ "reported_date": "2026-11-14",
+ "response_text": "교육부 통보로 유출 사실을 알게 된 것으로 보도됨(기사 기재)",
+ "scale_short": "2만 4,011건",
+ "scale_text": "2만 4,011건(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-14-inje-univ",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "인제대, 학생·교직원 개인정보 유출… 교육부 통보로 인지",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147269"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "인제대 서버에 외부 공격…폰 번호 등 개인정보 2만4천11건 유출",
+   "url": "https://www.yna.co.kr/view/AKR20261114046900052?input=1195m"
+  }
+ ],
+ "target_text": "인제대학교 수업용 사이트 서버(기사 기재)",
+ "title": "인제대 수업용 사이트 서버 외부 공격으로 학생·교직원 개인정보 2만4,011건 유출",
+ "updated_at": "2026-11-15T05:32:39Z"
+}

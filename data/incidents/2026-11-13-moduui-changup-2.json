@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 13일 중소벤처기업부 '모두의 창업' 2차 사업의 민간 솔루션 업체를 통해 참가자 818명의 개인정보가 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-13",
+   "date_text": "11.13",
+   "label": "참가자 818명 개인정보 유출 보도(기사 기재)"
+  },
+  {
+   "date_iso": "2025-11-14",
+   "date_text": "11.14",
+   "label": "중소벤처기업부, 사과 및 후속 조치 안내(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "참가자 개인정보",
+ "leaked_items_text": "참가자 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "중소벤처기업부('모두의 창업')",
+ "reported_date": "2026-11-13",
+ "response_text": "11월 14일 중소벤처기업부가 사과하고 민간 연계 서비스 점검을 강화하겠다고 밝힌 것으로 보도됨(기사 기재)",
+ "scale_short": "818명",
+ "scale_text": "818명(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-13-moduui-changup-2",
+ "sources": [
+  {
+   "publisher": "연합뉴스",
+   "title": "중기부 2차 '모두의 창업'서 참가자 818명 개인정보 유출",
+   "url": "https://www.yna.co.kr/view/AKR20261113154951030?input=1195m"
+  },
+  {
+   "publisher": "뉴스1",
+   "title": "'모두의 창업' 설루션 업체 개인정보 유출 …참가자 818명 포함",
+   "url": "https://www.news1.kr/industry/sb-founded/6353746"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "중기부, 모두의창업 개인정보 유출 사흘 만에 '진심으로 사과'",
+   "url": "https://www.yna.co.kr/view/AKR20261114046700030?input=1195m"
+  }
+ ],
+ "target_text": "'모두의 창업' 2차 사업 참가자 정보, 민간 AI 솔루션 업체(기사 기재)",
+ "title": "'모두의 창업' 2차 사업 솔루션 업체를 통해 참가자 818명 개인정보 유출",
+ "updated_at": "2026-11-15T05:32:38Z"
+}

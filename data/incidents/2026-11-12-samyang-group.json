@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 12일 개인정보보호위원회가 약 4년 전 해킹으로 개인정보가 유출된 삼양그룹 4개사에 과징금 5억 5,200만 원을 부과했다고 발표한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-12",
+   "date_text": "11.12",
+   "label": "개인정보위, 삼양그룹 4개사 과징금 5억 5,200만 원 부과 발표(기사 기재)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주민번호 약 8만 건 포함",
+ "leaked_items_text": "주민등록번호(약 8만 건 포함) 등(기사 기재)",
+ "notices": [],
+ "org_name": "삼양그룹(삼양홀딩스·삼양사·삼양패키징 등 4개사)",
+ "reported_date": "2026-11-12",
+ "response_text": "개인정보위가 과징금을 부과한 것으로 보도됨(기사 기재)",
+ "scale_short": "약 15만 명",
+ "scale_text": "약 15만 명(기사 기재)",
+ "sector": "industry",
+ "sector_tags": [],
+ "slug": "2026-11-12-samyang-group",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "삼양그룹 4개사 해킹으로 개인정보 15만명 유출…주민번호 8만여건 포함",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209475"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "15만명 개인정보 유출 삼양그룹 3개사에 과징금 5.5억원",
+   "url": "https://www.yna.co.kr/view/AKR20261112031000530?input=1195m"
+  }
+ ],
+ "target_text": "삼양그룹 4개사의 사용하지 않는 서버(기사 기재)",
+ "title": "삼양그룹 4개사 해킹으로 개인정보 약 15만 명 유출, 개인정보위 과징금 부과",
+ "updated_at": "2026-11-15T05:32:42Z"
+}

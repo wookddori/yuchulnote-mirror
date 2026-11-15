@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 12일 가상자산 거래소 플라이빗이 사내 그룹웨어 비인가 접근으로 고객 40명의 정보가 유출됐다고 밝힌 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-12",
+   "date_text": "11.12",
+   "label": "플라이빗, 그룹웨어 해킹으로 고객 40명 정보 유출 안내(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주민번호·납세정보",
+ "leaked_items_text": "주민등록번호, 납세 정보 등(기사 기재)",
+ "notices": [],
+ "org_name": "플라이빗",
+ "reported_date": "2026-11-12",
+ "response_text": "유출 사실을 안내한 것으로 보도됨(기사 기재)",
+ "scale_short": "40명",
+ "scale_text": "고객 40명(기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-12-flybit",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "가상자산 거래소 플라이빗 해킹, 고객 40명 주민등록번호·납세정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209490"
+  },
+  {
+   "publisher": "보안뉴스",
+   "title": "‘플라이빗’ 개인정보 40건 유출... 다우기술 그룹웨어 해킹 3번째 피해",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147241"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "코인마켓 거래소 '플라이빗'도 해킹…'고객 40명 정보 유출'",
+   "url": "https://www.yna.co.kr/view/AKR20261112168500002?input=1195m"
+  }
+ ],
+ "target_text": "플라이빗 사내 그룹웨어(기사 기재)",
+ "title": "가상자산 거래소 플라이빗 그룹웨어 해킹으로 고객 40명 개인정보 유출",
+ "updated_at": "2026-11-15T05:32:41Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 15일 '피터팬의 좋은방 구하기'에서 일부 회원의 특정 정보가 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-15",
+   "date_text": "11.15",
+   "label": "일부 회원 개인정보 유출 안내 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·전화번호 등 4개 항목, 일부 구매내역",
+ "leaked_items_text": "이름, 전화번호 등 4개 항목과 일부 구매내역(기사 기재)",
+ "notices": [],
+ "org_name": "피터팬의 좋은방 구하기",
+ "reported_date": "2026-11-15",
+ "response_text": "회사가 개인정보 유출 사실을 알린 것으로 보도됨(기사 기재)",
+ "scale_short": "일부 회원",
+ "scale_text": "일부 회원(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-15-peterpan-room",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "피터팬의 좋은방 구하기 개인정보 유출... 일부 구매내역도",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147272"
+  },
+  {
+   "publisher": "연합뉴스",
+   "title": "'피터팬의 좋은방 구하기' 개인정보 유출 …'일부 회원 특정정보'",
+   "url": "https://www.yna.co.kr/view/AKR20261115025500003?input=1195m"
+  }
+ ],
+ "target_text": "'피터팬의 좋은방 구하기' 일부 회원 정보(기사 기재)",
+ "title": "'피터팬의 좋은방 구하기' 일부 회원 개인정보·구매 정보 유출",
+ "updated_at": "2026-11-15T05:32:38Z"
+}

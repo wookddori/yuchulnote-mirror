@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 12일 삼성SDS 자회사 멀티캠퍼스가 해킹으로 임직원 개인정보 약 7만 명이 유출됐다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-12",
+   "date_text": "11.12",
+   "label": "멀티캠퍼스 해킹으로 임직원 개인정보 유출 보도(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "임직원 개인정보",
+ "leaked_items_text": "임직원 개인정보(기사 기재)",
+ "notices": [],
+ "org_name": "멀티캠퍼스(삼성SDS 자회사)",
+ "reported_date": "2026-11-12",
+ "response_text": "대응 내용은 기사에 없음",
+ "scale_short": "약 7만 명",
+ "scale_text": "약 7만 명(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-12-multicampus",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "삼성SDS 자회사 멀티캠퍼스 해킹, 임직원 개인정보 약 7만명 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209491"
+  }
+ ],
+ "target_text": "멀티캠퍼스(기사 기재)",
+ "title": "삼성SDS 자회사 멀티캠퍼스 해킹으로 임직원 개인정보 약 7만 명 유출",
+ "updated_at": "2026-11-15T05:32:42Z"
+}

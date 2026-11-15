@@ -2,6 +2,176 @@
  "items": [
   {
    "keywords": [
+    "피터팬의",
+    "좋은방",
+    "구하기"
+   ],
+   "org_name": "피터팬의 좋은방 구하기",
+   "sector": "service",
+   "slug": "2026-11-15-peterpan-room",
+   "title": "'피터팬의 좋은방 구하기' 일부 회원 개인정보·구매 정보 유출"
+  },
+  {
+   "keywords": [
+    "모두의잡스"
+   ],
+   "org_name": "모두의잡스",
+   "sector": "service",
+   "slug": "2026-11-15-modooijobs",
+   "title": "전문인력 매칭 플랫폼 '모두의잡스' 홈페이지 변조 확인"
+  },
+  {
+   "keywords": [
+    "중소기업중앙회(노란우산)"
+   ],
+   "org_name": "중소기업중앙회(노란우산)",
+   "sector": "finance",
+   "slug": "2026-11-14-noranumbrella",
+   "title": "노란우산 홈페이지에 제3자 비정상 접근, 가입자 개인정보 유출 가능성"
+  },
+  {
+   "keywords": [
+    "한국발명진흥회('아이디어로'",
+    "플랫폼)"
+   ],
+   "org_name": "한국발명진흥회('아이디어로' 플랫폼)",
+   "sector": "public",
+   "slug": "2026-11-14-kipa-ideaaro",
+   "title": "'아이디어로' 플랫폼 서버 침해로 약 62MB 데이터 외부 전송, 개인정보 유출 가능성"
+  },
+  {
+   "keywords": [
+    "한국조폐공사(모바일",
+    "지역사랑상품권",
+    "'착')"
+   ],
+   "org_name": "한국조폐공사(모바일 지역사랑상품권 '착')",
+   "sector": "public",
+   "slug": "2026-11-14-kcomc-chak",
+   "title": "지역사랑상품권 플랫폼 '착' 이용자 3,083명 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "인제대학교"
+   ],
+   "org_name": "인제대학교",
+   "sector": "education",
+   "slug": "2026-11-14-inje-univ",
+   "title": "인제대 수업용 사이트 서버 외부 공격으로 학생·교직원 개인정보 2만4,011건 유출"
+  },
+  {
+   "keywords": [
+    "코인원(고객상담",
+    "수탁사",
+    "메타엠)"
+   ],
+   "org_name": "코인원(고객상담 수탁사 메타엠)",
+   "sector": "finance",
+   "slug": "2026-11-14-coinone-metam",
+   "title": "코인원 고객상담 수탁사 메타엠 해킹으로 고객 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "NHN두레이(NHN클라우드)"
+   ],
+   "org_name": "NHN두레이(NHN클라우드)",
+   "sector": "it",
+   "slug": "2026-11-13-nhn-dooray",
+   "title": "NHN두레이 외부 계정 접근 시도 확인, 서비스·관리자 API 키 전량 폐기"
+  },
+  {
+   "keywords": [
+    "중소벤처기업부('모두의",
+    "창업')"
+   ],
+   "org_name": "중소벤처기업부('모두의 창업')",
+   "sector": "public",
+   "slug": "2026-11-13-moduui-changup-2",
+   "title": "'모두의 창업' 2차 사업 솔루션 업체를 통해 참가자 818명 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "대한치과위생사협회"
+   ],
+   "org_name": "대한치과위생사협회",
+   "sector": "public",
+   "slug": "2026-11-13-kdha",
+   "title": "대한치과위생사협회 홈페이지 서버 무단 접근으로 회원 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "KB캐피탈"
+   ],
+   "org_name": "KB캐피탈",
+   "sector": "finance",
+   "slug": "2026-11-13-kb-capital",
+   "title": "KB캐피탈 해킹으로 고객·임직원·협력사 1,811명 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "메이플스토리",
+    "유니버스"
+   ],
+   "org_name": "메이플스토리 유니버스",
+   "sector": "leisure",
+   "slug": "2026-11-12-maple-universe",
+   "title": "'메이플스토리 유니버스' 서버에 비인가 접근, 이용자 정보 일부 노출·가상자산 유출은 없다고 공지"
+  },
+  {
+   "keywords": [
+    "삼양그룹(삼양홀딩스",
+    "삼양사",
+    "삼양패키징",
+    "등",
+    "4개사)"
+   ],
+   "org_name": "삼양그룹(삼양홀딩스·삼양사·삼양패키징 등 4개사)",
+   "sector": "industry",
+   "slug": "2026-11-12-samyang-group",
+   "title": "삼양그룹 4개사 해킹으로 개인정보 약 15만 명 유출, 개인정보위 과징금 부과"
+  },
+  {
+   "keywords": [
+    "멀티캠퍼스(삼성SDS",
+    "자회사)"
+   ],
+   "org_name": "멀티캠퍼스(삼성SDS 자회사)",
+   "sector": "education",
+   "slug": "2026-11-12-multicampus",
+   "title": "삼성SDS 자회사 멀티캠퍼스 해킹으로 임직원 개인정보 약 7만 명 유출"
+  },
+  {
+   "keywords": [
+    "카카오엔터프라이즈(카카오워크)"
+   ],
+   "org_name": "카카오엔터프라이즈(카카오워크)",
+   "sector": "it",
+   "slug": "2026-11-12-kakaowork",
+   "title": "카카오워크 외부 해킹으로 일부 이용자 개인정보·메일 본문·첨부파일 유출"
+  },
+  {
+   "keywords": [
+    "광주",
+    "동구(마을공동체",
+    "앱",
+    "'우리동네do반장')"
+   ],
+   "org_name": "광주 동구(마을공동체 앱 '우리동네do반장')",
+   "sector": "public",
+   "slug": "2026-11-12-gwangju-donggu-app",
+   "title": "광주 동구 마을공동체 앱 '우리동네do반장' 이용자 2,101명 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "플라이빗"
+   ],
+   "org_name": "플라이빗",
+   "sector": "finance",
+   "slug": "2026-11-12-flybit",
+   "title": "가상자산 거래소 플라이빗 그룹웨어 해킹으로 고객 40명 개인정보 유출"
+  },
+  {
+   "keywords": [
     "한국인터넷진흥원(KISA)"
    ],
    "org_name": "한국인터넷진흥원(KISA)",

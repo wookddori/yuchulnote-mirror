@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 11일 서버 침해 사실을 확인해 차단했고 11월 14일 개인정보 유출 가능성을 공지했다고 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-11",
+   "date_text": "11.11",
+   "label": "서버 침해 확인 및 차단(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "개인정보 유출 가능성 안내 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·연락처·주소 등 가능성",
+ "leaked_items_text": "이름, 연령, 성별, 전화번호, 이메일, 주소 등 유출 가능성(기사 기재)",
+ "notices": [],
+ "org_name": "한국발명진흥회('아이디어로' 플랫폼)",
+ "reported_date": "2026-11-14",
+ "response_text": "침해를 차단하고 유출 가능성을 공지한 뒤 조사 중인 것으로 보도됨(기사 기재)",
+ "scale_short": "약 62MB",
+ "scale_text": "외부 전송 데이터 약 62MB, 실제 개인정보 유출 여부는 조사 중(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-14-kipa-ideaaro",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "[단독] 한국발명진흥회 '아이디어로' 플랫폼 해킹…악성코드 설치 후 62MB 데이터 외부 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209524"
+  }
+ ],
+ "target_text": "한국발명진흥회가 운영하는 '아이디어로' 플랫폼 서버(기사 기재)",
+ "title": "'아이디어로' 플랫폼 서버 침해로 약 62MB 데이터 외부 전송, 개인정보 유출 가능성",
+ "updated_at": "2026-11-15T05:32:40Z"
+}

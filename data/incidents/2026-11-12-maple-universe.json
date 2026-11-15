@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 11월 12일 오프체인 서버 일부에 대한 비인가 외부 접근을 탐지해 차단하고 서비스를 긴급 점검으로 전환했다고 운영진이 11월 13일 공지한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-12",
+   "date_text": "11.12",
+   "label": "비인가 외부 접근 탐지·차단, 서비스 긴급 점검 전환(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-13",
+   "date_text": "11.13",
+   "label": "운영진, 공식 SNS로 사고 공지(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "지갑 주소·닉네임·접속 IP 등",
+ "leaked_items_text": "지갑 주소, 닉네임, 접속 IP, 세션 키, 이메일 주소 일부, 연동 소셜 계정 정보, 등록 앱 개발자 API 키 등(기사 기재)",
+ "notices": [],
+ "org_name": "메이플스토리 유니버스",
+ "reported_date": "2026-11-13",
+ "response_text": "접근을 차단하고 서비스를 긴급 점검으로 전환했으며 가상자산 유출은 없다고 밝힌 것으로 보도됨(기사 기재)",
+ "scale_short": "가상자산 유출 없음",
+ "scale_text": "이용자 수는 기사에 없음, 가상자산 유출은 없다고 밝힘(기사 기재)",
+ "sector": "leisure",
+ "sector_tags": [],
+ "slug": "2026-11-12-maple-universe",
+ "sources": [
+  {
+   "publisher": "보안뉴스",
+   "title": "해킹 막은 메이플스토리 유니버스 “가상자산 유출 없어”",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147252"
+  },
+  {
+   "publisher": "테크M",
+   "title": "'메이플스토리 유니버스' 해킹…이용자 정보 유출에 서비스 긴급 중단",
+   "url": "https://www.techm.kr/news/articleView.html?idxno=157309"
+  }
+ ],
+ "target_text": "메이플스토리 유니버스 오프체인 서버 일부(기사 기재)",
+ "title": "'메이플스토리 유니버스' 서버에 비인가 접근, 이용자 정보 일부 노출·가상자산 유출은 없다고 공지",
+ "updated_at": "2026-11-15T05:32:44Z"
+}
