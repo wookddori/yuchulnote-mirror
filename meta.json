@@ -1,7 +1,7 @@
 {
- "content_hash": "22294544c6e56a1379566a88b58182be9960907d580fedf2021720e4084963f5",
+ "content_hash": "bf63cf0a9da93b9f6d36c578b739495adf7d148ec7581a058c4101b8c69f45a1",
  "incident_count": 345,
- "last_checked_at": "2026-11-15T11:00:00Z",
+ "last_checked_at": "2026-11-15T13:00:00Z",
  "schema_version": 1,
  "sector_counts": {
   "education": 30,
