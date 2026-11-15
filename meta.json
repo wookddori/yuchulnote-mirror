@@ -1,7 +1,7 @@
 {
- "content_hash": "70e9480614ee9fd4a3013926a44f38f0d679af2c52e8b089232c2c72d927e21c",
- "incident_count": 344,
- "last_checked_at": "2026-11-15T05:00:00Z",
+ "content_hash": "39c32a43a4ab9d2877cf90c4e8b503441f273f29d826f13b1413d9623833fcc8",
+ "incident_count": 345,
+ "last_checked_at": "2026-11-15T06:00:00Z",
  "schema_version": 1,
  "sector_counts": {
   "education": 30,
@@ -11,7 +11,7 @@
   "leisure": 39,
   "medical": 17,
   "public": 63,
-  "service": 71
+  "service": 72
  },
  "target": "public"
 }

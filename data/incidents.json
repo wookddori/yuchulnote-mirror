@@ -335,6 +335,45 @@
    "updated_at": "2026-11-15T05:33:39Z"
   },
   {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 11월 14일 번개장터가 고객상담 위탁업체 관련 개인정보 유출 가능성을 안내했고, 위탁사 메타엠은 11월 12일 외부 불법 접근에 따른 시스템 침해를 확인했다고 밝힌 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-12",
+     "date_text": "11.12",
+     "label": "메타엠, 고객상담 서비스 장애를 계기로 외부 불법 접근에 따른 시스템 침해 확인(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "번개장터, 고객상담 위탁업체 관련 개인정보 유출 가능성 안내(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "전화번호·상담 내용 등 가능성",
+   "leaked_items_text": "전화번호, 상담 내용, 이름, 이메일, 주소, 생년월일 등 저장 항목의 유출 가능성(기사 기재)",
+   "notices": [],
+   "org_name": "번개장터(고객상담 위탁사 메타엠)",
+   "reported_date": "2026-11-14",
+   "response_text": "번개장터가 유출 가능성 안내를 게시했고 메타엠이 안내문을 게시한 것으로 보도됨(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "규모는 기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-14-bunjang-metam",
+   "sources": [
+    {
+     "publisher": "내외경제TV",
+     "title": "[단독] 번개장터 위탁사 개인정보 유출 , 살펴보니 '메타엠'",
+     "url": "https://www.nbntv.co.kr/news/articleView.html?idxno=4027481"
+    }
+   ],
+   "target_text": "번개장터 고객상담을 맡은 위탁사 메타엠의 시스템(기사 기재)",
+   "title": "번개장터 고객상담 위탁사 메타엠 침해로 개인정보 유출 가능성",
+   "updated_at": "2026-11-15T06:10:32Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "2026년 11월 13일 새벽 외부인의 계정 접근 시도가 확인돼 API 키를 모두 폐기했다고 회사가 밝힌 것으로 보도됨(기사 기재)",
