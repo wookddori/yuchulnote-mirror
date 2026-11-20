@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 티켓팅 시스템 운영사 액세소의 시스템에서 보안 침해사고가 발생했고 씨라이프 측이 통보받은 것으로 보도됨. 일부 연간이용권 고객 정보가 조회된 것으로 파악됐으나 개별 정보의 실제 유출 여부는 확인되지 않은 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "액세소 티켓팅 시스템 보안 침해사고 발생·통보(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "씨라이프 부산 고객정보 유출 가능성이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·연락처·이용권 번호 등",
+ "leaked_items_text": "성명, 생년월일(암호화 저장), 주소, 이메일 주소, 전화번호, 연간이용권 바코드 번호. 신용카드·은행 계좌 정보 노출 증거는 확인되지 않은 것으로 보도됨(기사 기재)",
+ "notices": [],
+ "org_name": "씨라이프 부산 아쿠아리움(티켓팅 운영사 액세소)",
+ "reported_date": "2026-11-17",
+ "response_text": "액세소 및 외부 전문가와 추가 피해 여부 조사, 새 사실 확인 시 안내 방침, 스팸·피싱·스미싱 주의 당부. 액세소는 취약한 엔드포인트 제거와 접속 주소 차단을 완료한 것으로 보도됨(기사 기재)",
+ "scale_short": "조사 중",
+ "scale_text": "정확한 규모와 피해 고객 범위는 조사 중(기사 기재)",
+ "sector": "leisure",
+ "sector_tags": [],
+ "slug": "2026-11-17-sealife-busan-accesso",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "씨라이프 부산 아쿠아리움 고객정보 유출…예약시스템 운영사 해킹",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209575"
+  },
+  {
+   "publisher": "보안뉴스",
+   "title": "레고랜드·씨라이프 부산 개인정보 유출 가능성... 입장객 예약 시스템 '액세소' 해킹",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147332"
+  }
+ ],
+ "target_text": "액세소의 티켓팅 시스템(기사 기재)",
+ "title": "씨라이프 부산 아쿠아리움 티켓팅 시스템 운영사 침해로 연간이용권 고객정보 유출 가능성",
+ "updated_at": "2026-11-20T01:25:20Z"
+}

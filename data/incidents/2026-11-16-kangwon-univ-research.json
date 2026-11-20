@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 오전 6시 22분경 연구통합관리시스템이 해킹됐고, 15일 유출 사실을 공개, 16일 접속 중단 안내를 게시한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "연구통합관리시스템 해킹(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-15",
+   "date_text": "11.15",
+   "label": "유출 사실 공개(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "시스템 접속 중단 안내 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이용자 개인정보(항목 미공개)",
+ "leaked_items_text": "이용자 개인정보(구체 항목은 기사에 없음). 생년월일이 포함된 사례 27건이 확인됨(기사 기재)",
+ "notices": [],
+ "org_name": "강원대학교",
+ "reported_date": "2026-11-16",
+ "response_text": "긴급 점검으로 시스템 접속 중단. 연구비 신청·집행·정산 업무에 차질이 생길 수 있어 대체 방안은 확인되는 대로 안내하겠다고 밝힘(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "전체 규모는 공개되지 않음(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-16-kangwon-univ-research",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "강원대 해킹 여파 연구비 집행까지 확산…연구통합관리시스템 접속 중단",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209551"
+  }
+ ],
+ "target_text": "연구통합관리시스템(기사 기재)",
+ "title": "강원대학교 연구통합관리시스템 해킹으로 개인정보 유출, 시스템 접속 중단",
+ "updated_at": "2026-11-20T01:25:24Z"
+}

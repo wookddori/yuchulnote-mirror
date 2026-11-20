@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": "2026-11-18",
+ "confirmed_text": "11월 16일 오전 9시부터 오후 11시 12분 사이 외부 해킹 공격이 있었고, 11월 18일 오후 홈페이지에 '개인정보 유출 사실 안내 및 사과문'을 게시한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "외부 해킹 공격 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "포털 로그인 2차 인증 의무화 시작(지디넷코리아 기재)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "홈페이지에 유출 사실 안내 및 사과문 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "학번·성명·이메일·소속 등",
+ "leaked_items_text": "LMS: 학번·사번, 성명, 이메일, 소속, 최종 접속일. 연계 학사시스템: 사용자 ID, 암호화된 비밀번호, 로그인 ID, 생년월일 등. 주민등록번호 등 고유식별정보는 유출되지 않았다는 입장(기사 기재)",
+ "notices": [],
+ "org_name": "배재대학교",
+ "reported_date": "2026-11-18",
+ "response_text": "피해 시스템 2대 외부망 격리, 포털 로그인 2차 인증 의무화, 비밀번호 초기화, 개인정보보호위원회와 KISA 신고, 피해 대상자 개별 통지와 유출 항목 조회 기능 제공(기사 기재). 비밀번호 초기화 범위는 매체별 설명이 다름",
+ "scale_short": "미공개",
+ "scale_text": "정확한 피해 인원과 건수는 확인되지 않음(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-18-paichai-univ",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "배재대 해킹으로 학생·교직원 개인정보 유출…LMS·학사시스템 동시 피해",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209626"
+  },
+  {
+   "publisher": "지디넷코리아",
+   "title": "배재대, LMS·학사시스템 해킹에 개인정보 유출",
+   "url": "https://zdnet.co.kr/view/?no=20261119155401"
+  }
+ ],
+ "target_text": "온라인 강의를 지원하는 LMS와 연계 학사시스템(기사 기재). 침입 경로와 반출 방식은 확인되지 않았다고 보도됨",
+ "title": "배재대학교 LMS·학사시스템 해킹으로 학생·교직원 개인정보 유출",
+ "updated_at": "2026-11-20T01:25:25Z"
+}

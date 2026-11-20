@@ -2,6 +2,36 @@
  "items": [
   {
    "keywords": [
+    "보이스루('자메이크')"
+   ],
+   "org_name": "보이스루('자메이크')",
+   "sector": "it",
+   "slug": "2026-11-20-voiceru-jamake",
+   "title": "보이스루 '자메이크' 관리자 기능 비인가 접근으로 회원정보 유출"
+  },
+  {
+   "keywords": [
+    "원주시(단구동",
+    "공동주택",
+    "개발사업",
+    "주민의견서)"
+   ],
+   "org_name": "원주시(단구동 공동주택 개발사업 주민의견서)",
+   "sector": "public",
+   "slug": "2026-11-19-wonju-dangu-opinion",
+   "title": "원주시 단구동 공동주택 개발 관련 주민 개인정보 유출 통지, 주민 측 경위 해명 요구"
+  },
+  {
+   "keywords": [
+    "스웨즈락코리아"
+   ],
+   "org_name": "스웨즈락코리아",
+   "sector": "industry",
+   "slug": "2026-11-19-swegelok-korea",
+   "title": "스웨즈락코리아 업무 보조용 서버 무단 접근으로 개인정보 침해사고"
+  },
+  {
+   "keywords": [
     "부산대학교",
     "산학협력단"
    ],
@@ -44,12 +74,30 @@
   },
   {
    "keywords": [
+    "용인시"
+   ],
+   "org_name": "용인시",
+   "sector": "public",
+   "slug": "2026-11-18-yongin-si-player-rrn",
+   "title": "용인시 정보공개포털에 소속이던 선수의 주민등록번호 등이 포함된 내부 문서 공개"
+  },
+  {
+   "keywords": [
     "영남대학교"
    ],
    "org_name": "영남대학교",
    "sector": "education",
    "slug": "2026-11-18-yeungnam-univ",
    "title": "영남대학교 도서관 전자책·취업 홈페이지 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "배재대학교"
+   ],
+   "org_name": "배재대학교",
+   "sector": "education",
+   "slug": "2026-11-18-paichai-univ",
+   "title": "배재대학교 LMS·학사시스템 해킹으로 학생·교직원 개인정보 유출"
   },
   {
    "keywords": [
@@ -91,12 +139,114 @@
   },
   {
    "keywords": [
+    "씨라이프",
+    "부산",
+    "아쿠아리움(티켓팅",
+    "운영사",
+    "액세소)"
+   ],
+   "org_name": "씨라이프 부산 아쿠아리움(티켓팅 운영사 액세소)",
+   "sector": "leisure",
+   "slug": "2026-11-17-sealife-busan-accesso",
+   "title": "씨라이프 부산 아쿠아리움 티켓팅 시스템 운영사 침해로 연간이용권 고객정보 유출 가능성"
+  },
+  {
+   "keywords": [
+    "폰가비(운영사",
+    "업스테어스)"
+   ],
+   "org_name": "폰가비(운영사 업스테어스)",
+   "sector": "service",
+   "slug": "2026-11-17-phonegabi",
+   "title": "중고폰 거래 플랫폼 폰가비 관리자 시스템 비인가 접근으로 고객 계좌정보 유출"
+  },
+  {
+   "keywords": [
+    "수도권",
+    "약국(기사에",
+    "약국명",
+    "없음)"
+   ],
+   "org_name": "수도권 약국(기사에 약국명 없음)",
+   "sector": "medical",
+   "slug": "2026-11-17-pharmacy-data-sales-reps",
+   "title": "약국 약사보조 직원이 환자 처방정보를 제약사 영업사원에게 제공, 21명 송치"
+  },
+  {
+   "keywords": [
+    "메가MGC커피(고객센터",
+    "수탁사",
+    "메타엠)"
+   ],
+   "org_name": "메가MGC커피(고객센터 수탁사 메타엠)",
+   "sector": "service",
+   "slug": "2026-11-17-megamgc-coffee-metam",
+   "title": "메가MGC커피 고객센터 수탁사 메타엠 해킹으로 고객 연락처 유출"
+  },
+  {
+   "keywords": [
     "다우오피스(PC메신저)"
    ],
    "org_name": "다우오피스(PC메신저)",
    "sector": "it",
    "slug": "2026-11-17-daou-pcmessenger",
    "title": "다우오피스 윈도우용 PC메신저 업데이트 경로로 악성코드 배포"
+  },
+  {
+   "keywords": [
+    "숙명여자대학교"
+   ],
+   "org_name": "숙명여자대학교",
+   "sector": "education",
+   "slug": "2026-11-16-sookmyung-univ-rerp",
+   "title": "숙명여자대학교 연구행정통합시스템 침해로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "행정안전부(행정업무용",
+    "이메일",
+    "시스템)"
+   ],
+   "org_name": "행정안전부(행정업무용 이메일 시스템)",
+   "sector": "public",
+   "slug": "2026-11-16-mois-gov-email",
+   "title": "행정업무용 이메일 계정 300여 개 비정상 접속, 개인정보 유출 신고"
+  },
+  {
+   "keywords": [
+    "강원대학교"
+   ],
+   "org_name": "강원대학교",
+   "sector": "education",
+   "slug": "2026-11-16-kangwon-univ-research",
+   "title": "강원대학교 연구통합관리시스템 해킹으로 개인정보 유출, 시스템 접속 중단"
+  },
+  {
+   "keywords": [
+    "한경국립대학교"
+   ],
+   "org_name": "한경국립대학교",
+   "sector": "education",
+   "slug": "2026-11-16-hankyong-univ-rerp",
+   "title": "한경국립대학교 산학협력단 ERP 연구비관리시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "한림대학교"
+   ],
+   "org_name": "한림대학교",
+   "sector": "education",
+   "slug": "2026-11-16-hallym-univ-rerp",
+   "title": "한림대학교 연구행정통합시스템 위탁관리업체 서버 침해로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "동서울대학교"
+   ],
+   "org_name": "동서울대학교",
+   "sector": "education",
+   "slug": "2026-11-16-dongseoul-univ",
+   "title": "동서울대학교 포털시스템 해킹으로 교직원 개인정보 유출"
   },
   {
    "keywords": [
@@ -911,6 +1061,15 @@
    "sector": "leisure",
    "slug": "2026-10-26-noluniverse-interpark",
    "title": "구 인터파크투어 국내 숙소 예약자 정보 조회 기능 침해"
+  },
+  {
+   "keywords": [
+    "미래에셋생명"
+   ],
+   "org_name": "미래에셋생명",
+   "sector": "finance",
+   "slug": "2026-10-26-miraeasset-life-breach",
+   "title": "미래에셋생명 해킹으로 고객 개인신용정보 유출, 규모 1만 명 넘어"
   },
   {
    "keywords": [

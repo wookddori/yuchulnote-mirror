@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 오전 4시경 연구행정통합시스템(rERP) 위탁관리업체 서버에 외부 비인가자가 접근했고, 15일 통보를 받아 16일 유출 사실 안내와 사과문을 게시한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "위탁관리업체 서버 외부 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-15",
+   "date_text": "11.15",
+   "label": "침해 통보 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "유출 사실 안내와 사과문 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·소속·생년월일 등",
+ "leaked_items_text": "아이디, 사용자명, 소속, 생년월일, 사용자 구분, 재직 여부, 직급·직책 코드, 가입일자, 최종 로그인 시간. 고유식별정보와 비밀번호는 유출되지 않은 것으로 밝힘(기사 기재)",
+ "notices": [],
+ "org_name": "한림대학교",
+ "reported_date": "2026-11-16",
+ "response_text": "연구행정 서비스 서버 종료, 비인가 파일과 비정상 스케줄러 삭제, 취약 웹 애플리케이션 제거, DB 암복호화 키 변경, 서비스 운영 중단. 접근 권한 재점검과 취급자 교육 등 재발 방지 대책 마련 중(기사 기재)",
+ "scale_short": "947건",
+ "scale_text": "947건(생년월일 포함 83건). 중복 사용자가 포함돼 실제 인원은 다를 수 있다고 대학이 설명(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-16-hallym-univ-rerp",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "대학 산학협력단 연쇄 해킹 확산…한림대·숙명여대·한경국립대·한남대·한국외대 등 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209552"
+  },
+  {
+   "publisher": "강원일보",
+   "title": "한림대 산학협력단도 해킹 개인정보 947건 유출",
+   "url": "https://www.kwnews.co.kr/article/20261117501066"
+  }
+ ],
+ "target_text": "연구행정통합시스템(rERP) 위탁관리업체 서버(기사 기재)",
+ "title": "한림대학교 연구행정통합시스템 위탁관리업체 서버 침해로 개인정보 유출",
+ "updated_at": "2026-11-20T01:25:21Z"
+}

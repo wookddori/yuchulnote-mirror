@@ -1,0 +1,39 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "용인시가 내부 결재 문서의 공개 설정을 잘못해 지난해 6월 5일부터 올해 11월 3일까지 정보공개포털에서 외부 열람·다운로드가 가능한 상태였던 것으로 보도됨. 해킹 여부는 기사에 없음(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.06.05~2026.11.03",
+   "label": "정보공개포털에서 문서 열람 가능(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "언론 보도로 노출 사실이 알려짐"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주민등록번호·주소·계약 내용",
+ "leaked_items_text": "주민등록번호, 집 주소, 계약금액·조건, 민사 소송 검토 내용(기사 기재)",
+ "notices": [],
+ "org_name": "용인시",
+ "reported_date": "2026-11-18",
+ "response_text": "노출 사실을 인지한 즉시 해당 문서를 비공개로 전환한 것으로 보도됨. 용인시는 담당 실무자의 착오라고 설명함. 당사자 통지, 감사, 재발 방지 대책은 기사에 없음(기사 기재)",
+ "scale_short": "1명",
+ "scale_text": "선수 1명 관련 문서(기사 기재). 공개된 문서 건수는 기사에 없음",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-18-yongin-si-player-rrn",
+ "sources": [
+  {
+   "publisher": "매일신문",
+   "title": "용인시, 법적 다툼 중인 소속 선수 주민번호 유출 ... \"실수\"",
+   "url": "https://www.imaeil.com/page/view/2026111317590151207"
+  }
+ ],
+ "target_text": "정보공개포털에 공개된 용인시 내부 결재 문서(기사 기재)",
+ "title": "용인시 정보공개포털에 소속이던 선수의 주민등록번호 등이 포함된 내부 문서 공개",
+ "updated_at": "2026-11-20T01:25:26Z"
+}

@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 오전 6시 22분 웹 취약점을 이용한 서버 침입이 있었고 같은 날 밤 유지보수 업체를 통해 인지했으며, 16일 유출 및 피해 구제 안내문을 게시한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "서버 침입, 같은 날 유지보수 업체를 통해 인지(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "유출 및 피해 구제 안내문 게시"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "성명·아이디·소속 부서",
+ "leaked_items_text": "성명, 아이디, 소속 부서, ERP 가입 정보(기사 기재)",
+ "notices": [],
+ "org_name": "한경국립대학교",
+ "reported_date": "2026-11-16",
+ "response_text": "비정상 파일 삭제, 취약 웹 애플리케이션 제거, 보조 서버 임시 중단, 인증 절차 강화, 교육부와 KISA 등에 신고, 유출 대상자 개별 통지(기사 기재)",
+ "scale_short": "772건",
+ "scale_text": "772건(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-16-hankyong-univ-rerp",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "대학 산학협력단 연쇄 해킹 확산…한림대·숙명여대·한경국립대·한남대·한국외대 등 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209552"
+  }
+ ],
+ "target_text": "산학협력단 ERP 연구비관리시스템(기사 기재)",
+ "title": "한경국립대학교 산학협력단 ERP 연구비관리시스템 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-20T01:25:22Z"
+}

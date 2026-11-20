@@ -1,0 +1,44 @@
+{
+ "category": "insider",
+ "confirmed_date": null,
+ "confirmed_text": "경기남부경찰청 사이버수사과가 2026년 11월 17일, 약국 약사보조 직원이 근무한 약국의 전산시스템에서 환자 정보와 처방 내역을 영업사원들에게 제공한 사건으로 직원과 영업사원 등 21명을 송치했다고 발표한 것으로 보도됨(경기신문 기재). 제공 기간은 지난해 6월부터 올해 4월까지로 보도됨",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2025.06~2026.04",
+   "label": "처방정보 제공이 이어진 기간(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "경찰, 21명 송치 사실 발표"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "환자 정보·처방 내역",
+ "leaked_items_text": "환자 개인정보, 의약품 처방·판매 내역, 재고 현황(기사 기재)",
+ "notices": [],
+ "org_name": "수도권 약국(기사에 약국명 없음)",
+ "reported_date": "2026-11-17",
+ "response_text": "피해 약국의 진정서 제출로 수사가 시작됐고, 경찰이 압수수색과 전자기기·대화 내역 확보를 했으며 피해 약국에 유출 신고 절차 안내와 보안 강화를 권고함. 부정경쟁방지법·정보통신망법·개인정보보호법 위반 혐의로 불구속 송치된 것으로 보도됨(기사 기재). 제약사 차원의 지시 정황은 확인되지 않은 것으로 보도됨",
+ "scale_short": "환자 약 900명",
+ "scale_text": "환자 약 900명, 정보 제공 260여 차례, 영업사원 20명(제약회사 13곳 소속)(기사 기재). 매체별로 송치 인원 표기가 다름",
+ "sector": "medical",
+ "sector_tags": [],
+ "slug": "2026-11-17-pharmacy-data-sales-reps",
+ "sources": [
+  {
+   "publisher": "경기신문",
+   "title": "환자 900명 개인정보가 영업자료로…제약사 직원 등 21명 송치",
+   "url": "https://www.kgnews.co.kr/news/article.html?no=919843"
+  },
+  {
+   "publisher": "기호일보",
+   "title": "약국처방 정보 빼돌려 제약사 영업사원에게 제공한 약사보조직원 등 검거",
+   "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041243"
+  }
+ ],
+ "target_text": "약국 전산시스템(원격 접속 프로그램을 이용한 무단 접속, 기사 기재)",
+ "title": "약국 약사보조 직원이 환자 처방정보를 제약사 영업사원에게 제공, 21명 송치",
+ "updated_at": "2026-11-20T01:25:26Z"
+}

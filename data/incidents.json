@@ -2,6 +2,133 @@
  "incidents": [
   {
    "category": "hacking",
+   "confirmed_date": "2026-11-05",
+   "confirmed_text": "11월 3일 관리자 기능 등에 비인가 접근이 시작됐고, 5일 확인해 KISA에 신고, 8일 회원 정보가 조회된 사실을 확인한 것으로 보도됨. 10일 유출 범위를 확정해 개인정보보호위원회에 신고, 13일부터 개별 통지(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-03",
+     "date_text": "11.03",
+     "label": "관리자 기능 등 비인가 접근 시작(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-05",
+     "date_text": "11.05",
+     "label": "비인가 접근 확인, KISA 신고"
+    },
+    {
+     "date_iso": "2026-11-10",
+     "date_text": "11.10",
+     "label": "유출 범위 확정, 개인정보보호위원회 신고"
+    },
+    {
+     "date_iso": "2026-11-13",
+     "date_text": "11.13",
+     "label": "대상 회원 개별 통지 시작"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "회원 개인정보(항목은 계정별 상이)",
+   "leaked_items_text": "계정마다 항목이 다르며 목록은 기사에 없음. 주민등록번호, 카드번호, 계좌번호는 유출되지 않은 것으로 확인했다고 밝힘",
+   "notices": [],
+   "org_name": "보이스루('자메이크')",
+   "reported_date": "2026-11-20",
+   "response_text": "KISA 신고, 유튜브 연동 인증키 교체, 11월 7일 서비스 일시 중단 후 접근 경로 차단과 보안 패치, 관리자 화면 사내망 전용 전환, 이메일 가입 회원 비밀번호 초기화, 개인정보보호위원회 신고. 관리자 계정 2단계 인증 도입과 외부 점검 예정(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음('일부 회원정보'로 표기)",
+   "sector": "it",
+   "sector_tags": [],
+   "slug": "2026-11-20-voiceru-jamake",
+   "sources": [
+    {
+     "publisher": "보안뉴스",
+     "title": "보이스루 '자메이크', 비인가 접근으로 일부 회원정보 유출… 경로 차단·개별 통지",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147390"
+    }
+   ],
+   "target_text": "자메이크 서비스 관리자 기능 등(기사 기재)",
+   "title": "보이스루 '자메이크' 관리자 기능 비인가 접근으로 회원정보 유출",
+   "updated_at": "2026-11-20T01:25:19Z"
+  },
+  {
+   "category": "unknown",
+   "confirmed_date": null,
+   "confirmed_text": "원주시가 지난달 20일 주민들에게 개인정보 1,014건 유출 사실을 통지한 것으로 보도됨. 주민 측 비상대책위원회는 18일 성명에서 유출 경위와 통지 과정의 해명을 요구함(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-10-20",
+     "date_text": "10.20",
+     "label": "원주시, 1,014건 유출 사실을 주민에게 통지(기사의 '지난달 20일' 표기)"
+    },
+    {
+     "date_iso": "2026-11-18",
+     "date_text": "11.18",
+     "label": "비상대책위원회, 경위 해명 요구 성명"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "미공개",
+   "leaked_items_text": "구체적 항목은 기사에 없음",
+   "notices": [],
+   "org_name": "원주시(단구동 공동주택 개발사업 주민의견서)",
+   "reported_date": "2026-11-19",
+   "response_text": "원주시가 주민에게 유출 사실을 통지함. 원주시의 공식 해명은 기사에 없음. 유출 경위는 기사에 없음(기사 기재)",
+   "scale_short": "통지 1,014건",
+   "scale_text": "원주시 통지 1,014건. 비상대책위원회는 실제 제출 1,030건 중 일부가 뒤늦게 확인됐고, 5월·8월 주민의견서 927건도 별도 안내가 없었다고 주장함(기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-19-wonju-dangu-opinion",
+   "sources": [
+    {
+     "publisher": "강원도민일보",
+     "title": "\"원주 단구동 개발 개인정보 유출 경위 밝혀야\"",
+     "url": "https://www.kado.net/news/articleView.html?idxno=2085719"
+    }
+   ],
+   "target_text": "단구동 공동주택 개발사업 과정에서 제출된 주민의견서(기사 기재)",
+   "title": "원주시 단구동 공동주택 개발 관련 주민 개인정보 유출 통지, 주민 측 경위 해명 요구",
+   "updated_at": "2026-11-20T01:25:26Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "2026년 6월 14일께 2025년 초와 그 이전 자료가 보관된 업무 보조용 서버에 외부인이 무단 접근한 것으로 보도됨(기사 기재). 회사 홈페이지에 공지가 있었던 것으로 보도됨",
+   "events": [
+    {
+     "date_iso": null,
+     "date_text": "6.14경",
+     "label": "업무 보조용 서버 무단 접근(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-19",
+     "date_text": "11.19",
+     "label": "침해사고가 언론에 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "성명·이메일·연락처 등",
+   "leaked_items_text": "성명, 이메일 주소, 휴대전화번호 등 연락처가 다수. 일부 대상자는 주소, 계좌번호, 주민등록번호 등이 포함됐을 가능성이 있다고 기재됨",
+   "notices": [],
+   "org_name": "스웨즈락코리아",
+   "reported_date": "2026-11-19",
+   "response_text": "영향 시스템 분리, 외부 보안업체와 복구, 영향 대상자 개별 통지, 외부 공개 정황은 확인되지 않았다는 공지, 피싱·스미싱 주의 당부, 고객센터 접수(기사 기재)",
+   "scale_short": "약 3만 명",
+   "scale_text": "약 3만 명(기사 기재). 거래업체 담당자와 전·현직 직원 정보가 대부분이고 전시회 등록 정보도 포함됐을 가능성이 있다고 기재됨",
+   "sector": "industry",
+   "sector_tags": [],
+   "slug": "2026-11-19-swegelok-korea",
+   "sources": [
+    {
+     "publisher": "한스경제",
+     "title": "[단독] 스웨즈락코리아 개인정보 침해사고…3만명 정보 영향",
+     "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885217"
+    }
+   ],
+   "target_text": "과거 자료가 보관된 업무 보조용 서버(기사 기재)",
+   "title": "스웨즈락코리아 업무 보조용 서버 무단 접근으로 개인정보 침해사고",
+   "updated_at": "2026-11-20T01:25:18Z"
+  },
+  {
+   "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "11월 14일 오전 6시 22분께 산학협력단 연구비관리시스템 서버가 외부 해킹을 받았고, 17일 대학 홈페이지에 사실과 비밀번호 변경 안내를 게시한 것으로 보도됨(기사 기재)",
    "events": [
@@ -42,7 +169,7 @@
    ],
    "target_text": "산학협력단 연구비관리시스템 서버 로그 정보(뉴시스). KNN은 연구행정통합시스템으로 표기",
    "title": "부산대학교 산학협력단 연구비관리시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:06Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "hacking",
@@ -91,7 +218,7 @@
    ],
    "target_text": "연구장비지원포털, IT서비스포털, 연구실 GPU 서버(기사 기재)",
    "title": "포항공대 연구장비지원포털·IT서비스포털 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:07Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "vendor",
@@ -140,7 +267,7 @@
    ],
    "target_text": "KG에듀원이 운영하는 저축은행 직원 교육관리 사이트. 저축은행 금융거래 전산망은 아닌 것으로 보도됨(기사 기재)",
    "title": "KG에듀원 운영 저축은행 직원 교육관리 사이트 해킹으로 직원 정보 유출",
-   "updated_at": "2026-11-20T01:22:05Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "hacking",
@@ -184,7 +311,46 @@
    ],
    "target_text": "산학협력단 연구비관리시스템 관련 서버(기사 기재)",
    "title": "동의대학교 산학협력단 연구비관리시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:06Z"
+   "updated_at": "2026-11-20T01:23:03Z"
+  },
+  {
+   "category": "misconfig",
+   "confirmed_date": null,
+   "confirmed_text": "용인시가 내부 결재 문서의 공개 설정을 잘못해 지난해 6월 5일부터 올해 11월 3일까지 정보공개포털에서 외부 열람·다운로드가 가능한 상태였던 것으로 보도됨. 해킹 여부는 기사에 없음(기사 기재)",
+   "events": [
+    {
+     "date_iso": null,
+     "date_text": "2025.06.05~2026.11.03",
+     "label": "정보공개포털에서 문서 열람 가능(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-18",
+     "date_text": "11.18",
+     "label": "언론 보도로 노출 사실이 알려짐"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "주민등록번호·주소·계약 내용",
+   "leaked_items_text": "주민등록번호, 집 주소, 계약금액·조건, 민사 소송 검토 내용(기사 기재)",
+   "notices": [],
+   "org_name": "용인시",
+   "reported_date": "2026-11-18",
+   "response_text": "노출 사실을 인지한 즉시 해당 문서를 비공개로 전환한 것으로 보도됨. 용인시는 담당 실무자의 착오라고 설명함. 당사자 통지, 감사, 재발 방지 대책은 기사에 없음(기사 기재)",
+   "scale_short": "1명",
+   "scale_text": "선수 1명 관련 문서(기사 기재). 공개된 문서 건수는 기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-18-yongin-si-player-rrn",
+   "sources": [
+    {
+     "publisher": "매일신문",
+     "title": "용인시, 법적 다툼 중인 소속 선수 주민번호 유출 ... \"실수\"",
+     "url": "https://www.imaeil.com/page/view/2026111317590151207"
+    }
+   ],
+   "target_text": "정보공개포털에 공개된 용인시 내부 결재 문서(기사 기재)",
+   "title": "용인시 정보공개포털에 소속이던 선수의 주민등록번호 등이 포함된 내부 문서 공개",
+   "updated_at": "2026-11-20T01:25:26Z"
   },
   {
    "category": "hacking",
@@ -228,7 +394,56 @@
    ],
    "target_text": "도서관 전자책 홈페이지, 취업 홈페이지(기사 기재)",
    "title": "영남대학교 도서관 전자책·취업 홈페이지 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:07Z"
+   "updated_at": "2026-11-20T01:23:03Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": "2026-11-18",
+   "confirmed_text": "11월 16일 오전 9시부터 오후 11시 12분 사이 외부 해킹 공격이 있었고, 11월 18일 오후 홈페이지에 '개인정보 유출 사실 안내 및 사과문'을 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "외부 해킹 공격 발생(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17",
+     "label": "포털 로그인 2차 인증 의무화 시작(지디넷코리아 기재)"
+    },
+    {
+     "date_iso": "2026-11-18",
+     "date_text": "11.18",
+     "label": "홈페이지에 유출 사실 안내 및 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "학번·성명·이메일·소속 등",
+   "leaked_items_text": "LMS: 학번·사번, 성명, 이메일, 소속, 최종 접속일. 연계 학사시스템: 사용자 ID, 암호화된 비밀번호, 로그인 ID, 생년월일 등. 주민등록번호 등 고유식별정보는 유출되지 않았다는 입장(기사 기재)",
+   "notices": [],
+   "org_name": "배재대학교",
+   "reported_date": "2026-11-18",
+   "response_text": "피해 시스템 2대 외부망 격리, 포털 로그인 2차 인증 의무화, 비밀번호 초기화, 개인정보보호위원회와 KISA 신고, 피해 대상자 개별 통지와 유출 항목 조회 기능 제공(기사 기재). 비밀번호 초기화 범위는 매체별 설명이 다름",
+   "scale_short": "미공개",
+   "scale_text": "정확한 피해 인원과 건수는 확인되지 않음(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-18-paichai-univ",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "배재대 해킹으로 학생·교직원 개인정보 유출…LMS·학사시스템 동시 피해",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209626"
+    },
+    {
+     "publisher": "지디넷코리아",
+     "title": "배재대, LMS·학사시스템 해킹에 개인정보 유출",
+     "url": "https://zdnet.co.kr/view/?no=20261119155401"
+    }
+   ],
+   "target_text": "온라인 강의를 지원하는 LMS와 연계 학사시스템(기사 기재). 침입 경로와 반출 방식은 확인되지 않았다고 보도됨",
+   "title": "배재대학교 LMS·학사시스템 해킹으로 학생·교직원 개인정보 유출",
+   "updated_at": "2026-11-20T01:25:25Z"
   },
   {
    "category": "hacking",
@@ -262,7 +477,7 @@
    ],
    "target_text": "온라인 교양 교육과정 서비스 시스템(기사 기재)",
    "title": "전주대학교 온라인 교양 교육과정 서비스 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:05Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "hacking",
@@ -301,7 +516,7 @@
    ],
    "target_text": "통학차량 관리시스템(기사 기재)",
    "title": "전북교육청 통학차량 관리시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:05Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "hacking",
@@ -345,7 +560,7 @@
    ],
    "target_text": "산학협력단 운영 연구행정통합시스템(기사 기재)",
    "title": "대구한의대학교 산학협력단 연구행정통합시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:22:07Z"
+   "updated_at": "2026-11-20T01:23:03Z"
   },
   {
    "category": "unknown",
@@ -394,7 +609,193 @@
    ],
    "target_text": "'오네(O-NE)' 챗봇 서비스 서버 접속 기록과 일부 데이터베이스(기사 기재)",
    "title": "CJ대한통운 '오네' 챗봇 서버에 비정상 대량 접근, 유출 여부 조사 중",
-   "updated_at": "2026-11-20T01:22:06Z"
+   "updated_at": "2026-11-20T01:23:03Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 티켓팅 시스템 운영사 액세소의 시스템에서 보안 침해사고가 발생했고 씨라이프 측이 통보받은 것으로 보도됨. 일부 연간이용권 고객 정보가 조회된 것으로 파악됐으나 개별 정보의 실제 유출 여부는 확인되지 않은 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "액세소 티켓팅 시스템 보안 침해사고 발생·통보(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17",
+     "label": "씨라이프 부산 고객정보 유출 가능성이 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "성명·연락처·이용권 번호 등",
+   "leaked_items_text": "성명, 생년월일(암호화 저장), 주소, 이메일 주소, 전화번호, 연간이용권 바코드 번호. 신용카드·은행 계좌 정보 노출 증거는 확인되지 않은 것으로 보도됨(기사 기재)",
+   "notices": [],
+   "org_name": "씨라이프 부산 아쿠아리움(티켓팅 운영사 액세소)",
+   "reported_date": "2026-11-17",
+   "response_text": "액세소 및 외부 전문가와 추가 피해 여부 조사, 새 사실 확인 시 안내 방침, 스팸·피싱·스미싱 주의 당부. 액세소는 취약한 엔드포인트 제거와 접속 주소 차단을 완료한 것으로 보도됨(기사 기재)",
+   "scale_short": "조사 중",
+   "scale_text": "정확한 규모와 피해 고객 범위는 조사 중(기사 기재)",
+   "sector": "leisure",
+   "sector_tags": [],
+   "slug": "2026-11-17-sealife-busan-accesso",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "씨라이프 부산 아쿠아리움 고객정보 유출…예약시스템 운영사 해킹",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209575"
+    },
+    {
+     "publisher": "보안뉴스",
+     "title": "레고랜드·씨라이프 부산 개인정보 유출 가능성... 입장객 예약 시스템 '액세소' 해킹",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147332"
+    }
+   ],
+   "target_text": "액세소의 티켓팅 시스템(기사 기재)",
+   "title": "씨라이프 부산 아쿠아리움 티켓팅 시스템 운영사 침해로 연간이용권 고객정보 유출 가능성",
+   "updated_at": "2026-11-20T01:25:20Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 외부 공격자가 위조한 인증정보로 관리자 시스템에 비인가 접근해 고객 정보를 조회·유출한 것으로 보도됨. 11월 17일 고객에게 유출 사실을 안내하는 문자를 발송함(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "관리자 시스템 비인가 접근(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17",
+     "label": "고객에게 유출 안내 문자 발송"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "이름·계좌번호·은행명·예금주명",
+   "leaked_items_text": "고객 이름, 계좌번호, 은행명, 예금주명(기사 기재)",
+   "notices": [],
+   "org_name": "폰가비(운영사 업스테어스)",
+   "reported_date": "2026-11-17",
+   "response_text": "공격 IP와 접근 경로 차단, 비인가 접근 키 교체, 관계 당국 신고, 외부 전문기관과 정밀 조사. 2차 피해 사례는 확인되지 않은 것으로 보도됨(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "구체적 피해 고객 수는 공개되지 않음(기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-17-phonegabi",
+   "sources": [
+    {
+     "publisher": "전자신문",
+     "title": "중고폰 거래 플랫폼 '폰가비', 고객 계좌번호 등 개인정보 유출",
+     "url": "https://www.etnews.com/20261117000329"
+    },
+    {
+     "publisher": "MTN",
+     "title": "[단독] 중고폰 플랫폼 업스테어스 해킹…'리본' 고객 정보도 유출",
+     "url": "https://news.mtn.co.kr/article/2026111618240476812"
+    }
+   ],
+   "target_text": "관리자 시스템과 그 안의 고객 정보(기사 기재). 운영사 업스테어스 해킹 피해에 KT M&S가 위탁한 중고폰 브랜드 '리본' 고객 정보도 포함된 것으로 보도됨(MTN 기재)",
+   "title": "중고폰 거래 플랫폼 폰가비 관리자 시스템 비인가 접근으로 고객 계좌정보 유출",
+   "updated_at": "2026-11-20T01:25:25Z"
+  },
+  {
+   "category": "insider",
+   "confirmed_date": null,
+   "confirmed_text": "경기남부경찰청 사이버수사과가 2026년 11월 17일, 약국 약사보조 직원이 근무한 약국의 전산시스템에서 환자 정보와 처방 내역을 영업사원들에게 제공한 사건으로 직원과 영업사원 등 21명을 송치했다고 발표한 것으로 보도됨(경기신문 기재). 제공 기간은 지난해 6월부터 올해 4월까지로 보도됨",
+   "events": [
+    {
+     "date_iso": null,
+     "date_text": "2025.06~2026.04",
+     "label": "처방정보 제공이 이어진 기간(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17",
+     "label": "경찰, 21명 송치 사실 발표"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "환자 정보·처방 내역",
+   "leaked_items_text": "환자 개인정보, 의약품 처방·판매 내역, 재고 현황(기사 기재)",
+   "notices": [],
+   "org_name": "수도권 약국(기사에 약국명 없음)",
+   "reported_date": "2026-11-17",
+   "response_text": "피해 약국의 진정서 제출로 수사가 시작됐고, 경찰이 압수수색과 전자기기·대화 내역 확보를 했으며 피해 약국에 유출 신고 절차 안내와 보안 강화를 권고함. 부정경쟁방지법·정보통신망법·개인정보보호법 위반 혐의로 불구속 송치된 것으로 보도됨(기사 기재). 제약사 차원의 지시 정황은 확인되지 않은 것으로 보도됨",
+   "scale_short": "환자 약 900명",
+   "scale_text": "환자 약 900명, 정보 제공 260여 차례, 영업사원 20명(제약회사 13곳 소속)(기사 기재). 매체별로 송치 인원 표기가 다름",
+   "sector": "medical",
+   "sector_tags": [],
+   "slug": "2026-11-17-pharmacy-data-sales-reps",
+   "sources": [
+    {
+     "publisher": "경기신문",
+     "title": "환자 900명 개인정보가 영업자료로…제약사 직원 등 21명 송치",
+     "url": "https://www.kgnews.co.kr/news/article.html?no=919843"
+    },
+    {
+     "publisher": "기호일보",
+     "title": "약국처방 정보 빼돌려 제약사 영업사원에게 제공한 약사보조직원 등 검거",
+     "url": "https://www.kihoilbo.co.kr/news/articleView.html?idxno=3041243"
+    }
+   ],
+   "target_text": "약국 전산시스템(원격 접속 프로그램을 이용한 무단 접속, 기사 기재)",
+   "title": "약국 약사보조 직원이 환자 처방정보를 제약사 영업사원에게 제공, 21명 송치",
+   "updated_at": "2026-11-20T01:25:26Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "고객센터 수탁사 메타엠 서버가 11월 12일 외부 공격을 받았고, 메가MGC커피는 15일 통보를 받은 것으로 보도됨. KISA와 개인정보보호위원회에 신고한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-12",
+     "date_text": "11.12",
+     "label": "메타엠 서버 외부 공격(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-15",
+     "date_text": "11.15",
+     "label": "메가MGC커피, 메타엠으로부터 사고 통보 수신(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17",
+     "label": "고객 30명 연락처 유출이 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "고객 휴대전화번호",
+   "leaked_items_text": "고객 휴대전화번호. 성명, 상담 내용, 통화 녹음, 결제정보는 유출되지 않은 것으로 파악됐다고 보도됨. 일부 기사는 홈페이지 창업 상담 입력 정보의 노출 가능성을 언급",
+   "notices": [],
+   "org_name": "메가MGC커피(고객센터 수탁사 메타엠)",
+   "reported_date": "2026-11-17",
+   "response_text": "공격 경로 차단, 서버·DB 비밀번호 교체, 피해 고객 개별 안내, 수탁업체 보안 점검 강화 방침, 사칭 전화·문자 주의 안내(기사 기재)",
+   "scale_short": "30건",
+   "scale_text": "휴대전화번호 30건(기사 기재). 추가 유출 여부 확인 중",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-17-megamgc-coffee-metam",
+   "sources": [
+    {
+     "publisher": "뉴스1",
+     "title": "메가MGC커피 고객센터 수탁업체 메타엠 해킹…결제 정보 피해 없어",
+     "url": "https://www.news1.kr/industry/distribution/6357175"
+    },
+    {
+     "publisher": "뉴스인사이드",
+     "title": "메가MGC커피 고객센터 수탁사 해킹…고객 30명 휴대전화번호 유출",
+     "url": "https://www.newsinside.kr/news/articleView.html?idxno=5050403"
+    },
+    {
+     "publisher": "서울파이낸스",
+     "title": "메가MGC커피 고객 정보 털렸다···전화번호 30건 외부 유출",
+     "url": "https://www.seoulfn.com/news/articleView.html?idxno=643129"
+    }
+   ],
+   "target_text": "메타엠 서버(고객센터 시스템). 메가MGC커피 자체 시스템은 침해되지 않은 것으로 보도됨(기사 기재)",
+   "title": "메가MGC커피 고객센터 수탁사 메타엠 해킹으로 고객 연락처 유출",
+   "updated_at": "2026-11-20T01:25:19Z"
   },
   {
    "category": "vendor",
@@ -438,7 +839,261 @@
    ],
    "target_text": "윈도우용 다우오피스 PC메신저 자동 업데이트 기능(기사 기재). 배포 체계 침입 경로는 기사에 없음",
    "title": "다우오피스 윈도우용 PC메신저 업데이트 경로로 악성코드 배포",
-   "updated_at": "2026-11-20T01:22:06Z"
+   "updated_at": "2026-11-20T01:23:03Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 연구행정시스템 제조사로부터 침해사고 통보를 받아 인지했고, 16일 홈페이지에 유출 사실 안내와 사과문을 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "제조사로부터 침해사고 통보 수신(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "유출 사실 안내와 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "성명·교번·부서·생년월일 등",
+   "leaked_items_text": "성명, 교번 또는 학번, 부서정보, 재직상태, 가입일자, 가입상태, 생년월일 8자리. 고유식별번호와 비밀번호는 포함되지 않은 것으로 설명(기사 기재)",
+   "notices": [],
+   "org_name": "숙명여자대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "관련 서버 네트워크 접속 물리적 차단, 시스템 서비스 중단, 11월 15일 신속 대응팀 구성. 개인별 유출 여부 확인 후 추가 공지 예정(기사 기재)",
+   "scale_short": "1,359건",
+   "scale_text": "1,359건(생년월일 포함 1,253건)(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-sookmyung-univ-rerp",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "대학 산학협력단 연쇄 해킹 확산…한림대·숙명여대·한경국립대·한남대·한국외대 등 개인정보 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209552"
+    }
+   ],
+   "target_text": "연구행정통합시스템(기사 기재)",
+   "title": "숙명여자대학교 연구행정통합시스템 침해로 개인정보 유출",
+   "updated_at": "2026-11-20T01:25:21Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "행정안전부가 11월 16일 행정업무용 이메일 시스템 계정 300여 개에서 비정상 접속이 확인됐다고 밝힌 것으로 보도됨. 9일 해킹 사실을 통보받았고 개인정보보호위원회에 유출 사실을 신고했으며 당사자에게 통지한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-09",
+     "date_text": "11.09",
+     "label": "행정안전부, 해킹 사실 통보 수신(더팩트 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "행정안전부, 비정상 접속과 대응 계획 발표"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "미공개",
+   "leaked_items_text": "기사에 없음",
+   "notices": [],
+   "org_name": "행정안전부(행정업무용 이메일 시스템)",
+   "reported_date": "2026-11-16",
+   "response_text": "개인정보보호위원회 신고, 당사자 통지, 지방정부 서버와 이메일 시스템 간 불필요한 연결 차단, 긴급 보안조치와 보안관제 강화. 국가정보원·KISA와 합동점검으로 원인과 침해 경로를 확인할 계획(기사 기재)",
+   "scale_short": "계정 300여 개",
+   "scale_text": "계정 300여 개에서 비정상 접속 확인(기사 기재). 실제 유출 건수는 기사에 없음",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-16-mois-gov-email",
+   "sources": [
+    {
+     "publisher": "더팩트",
+     "title": "행정기관 업무용 이메일 300개 해킹…정부, 합동점검",
+     "url": "https://news.tf.co.kr/read/life/2389368.htm"
+    },
+    {
+     "publisher": "CWN뉴스",
+     "title": "행정기관 업무용 이메일 300여개 노출…해킹 경로 추적",
+     "url": "https://www.cwn.kr/news/articleView.html?idxno=61870"
+    }
+   ],
+   "target_text": "국가정보자원관리원이 운영하는 행정업무용 이메일 시스템. 일부 지방정부의 취약한 네트워크를 거쳐 통합인증(SSO) 취약점이 악용된 것으로 파악됐다고 보도됨(기사 기재)",
+   "title": "행정업무용 이메일 계정 300여 개 비정상 접속, 개인정보 유출 신고",
+   "updated_at": "2026-11-20T01:25:20Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 오전 6시 22분경 연구통합관리시스템이 해킹됐고, 15일 유출 사실을 공개, 16일 접속 중단 안내를 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "연구통합관리시스템 해킹(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-15",
+     "date_text": "11.15",
+     "label": "유출 사실 공개(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "시스템 접속 중단 안내 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "이용자 개인정보(항목 미공개)",
+   "leaked_items_text": "이용자 개인정보(구체 항목은 기사에 없음). 생년월일이 포함된 사례 27건이 확인됨(기사 기재)",
+   "notices": [],
+   "org_name": "강원대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "긴급 점검으로 시스템 접속 중단. 연구비 신청·집행·정산 업무에 차질이 생길 수 있어 대체 방안은 확인되는 대로 안내하겠다고 밝힘(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "전체 규모는 공개되지 않음(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-kangwon-univ-research",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "강원대 해킹 여파 연구비 집행까지 확산…연구통합관리시스템 접속 중단",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209551"
+    }
+   ],
+   "target_text": "연구통합관리시스템(기사 기재)",
+   "title": "강원대학교 연구통합관리시스템 해킹으로 개인정보 유출, 시스템 접속 중단",
+   "updated_at": "2026-11-20T01:25:24Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 오전 6시 22분 웹 취약점을 이용한 서버 침입이 있었고 같은 날 밤 유지보수 업체를 통해 인지했으며, 16일 유출 및 피해 구제 안내문을 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "서버 침입, 같은 날 유지보수 업체를 통해 인지(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "유출 및 피해 구제 안내문 게시"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "성명·아이디·소속 부서",
+   "leaked_items_text": "성명, 아이디, 소속 부서, ERP 가입 정보(기사 기재)",
+   "notices": [],
+   "org_name": "한경국립대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "비정상 파일 삭제, 취약 웹 애플리케이션 제거, 보조 서버 임시 중단, 인증 절차 강화, 교육부와 KISA 등에 신고, 유출 대상자 개별 통지(기사 기재)",
+   "scale_short": "772건",
+   "scale_text": "772건(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-hankyong-univ-rerp",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "대학 산학협력단 연쇄 해킹 확산…한림대·숙명여대·한경국립대·한남대·한국외대 등 개인정보 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209552"
+    }
+   ],
+   "target_text": "산학협력단 ERP 연구비관리시스템(기사 기재)",
+   "title": "한경국립대학교 산학협력단 ERP 연구비관리시스템 해킹으로 개인정보 유출",
+   "updated_at": "2026-11-20T01:25:22Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 오전 4시경 연구행정통합시스템(rERP) 위탁관리업체 서버에 외부 비인가자가 접근했고, 15일 통보를 받아 16일 유출 사실 안내와 사과문을 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "위탁관리업체 서버 외부 접근(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-15",
+     "date_text": "11.15",
+     "label": "침해 통보 확인(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "유출 사실 안내와 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "아이디·소속·생년월일 등",
+   "leaked_items_text": "아이디, 사용자명, 소속, 생년월일, 사용자 구분, 재직 여부, 직급·직책 코드, 가입일자, 최종 로그인 시간. 고유식별정보와 비밀번호는 유출되지 않은 것으로 밝힘(기사 기재)",
+   "notices": [],
+   "org_name": "한림대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "연구행정 서비스 서버 종료, 비인가 파일과 비정상 스케줄러 삭제, 취약 웹 애플리케이션 제거, DB 암복호화 키 변경, 서비스 운영 중단. 접근 권한 재점검과 취급자 교육 등 재발 방지 대책 마련 중(기사 기재)",
+   "scale_short": "947건",
+   "scale_text": "947건(생년월일 포함 83건). 중복 사용자가 포함돼 실제 인원은 다를 수 있다고 대학이 설명(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-hallym-univ-rerp",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "대학 산학협력단 연쇄 해킹 확산…한림대·숙명여대·한경국립대·한남대·한국외대 등 개인정보 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209552"
+    },
+    {
+     "publisher": "강원일보",
+     "title": "한림대 산학협력단도 해킹 개인정보 947건 유출",
+     "url": "https://www.kwnews.co.kr/article/20261117501066"
+    }
+   ],
+   "target_text": "연구행정통합시스템(rERP) 위탁관리업체 서버(기사 기재)",
+   "title": "한림대학교 연구행정통합시스템 위탁관리업체 서버 침해로 개인정보 유출",
+   "updated_at": "2026-11-20T01:25:21Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 14일 오전 9시경 대학 포털서비스에 외부 공격자가 비정상적으로 접근했고, 16일 홈페이지에 유출 안내와 사과문을 게시한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "포털서비스 외부 접근(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "유출 안내와 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "사번·성명·생년월일·암호화 주민번호",
+   "leaked_items_text": "사번, 성명, 생년월일, 성별코드, 암호화된 주민등록번호(기사 기재)",
+   "notices": [],
+   "org_name": "동서울대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "조사와 증거 수집, 유출 DB 테이블 접근권한 회수, 포털 DB 계정 비밀번호 변경, 일부 기능 중단, 정보주체에게 비밀번호 변경 권고, 재발 방지 대책 마련 중(기사 기재)",
+   "scale_short": "5,885건",
+   "scale_text": "5,885건(기록 건수 기준, 실제 교직원 수는 확인되지 않음)(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-dongseoul-univ",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "[단독] 동서울대 해킹으로 교직원 개인정보 5,885건 유출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209544"
+    }
+   ],
+   "target_text": "대학 포털서비스 DB(기사 기재). 접근 경로는 확인되지 않았다고 보도됨",
+   "title": "동서울대학교 포털시스템 해킹으로 교직원 개인정보 유출",
+   "updated_at": "2026-11-20T01:25:23Z"
   },
   {
    "category": "unknown",
@@ -754,11 +1409,16 @@
      "publisher": "데일리시큐",
      "title": "[단독] 인제대·경일대 해킹한 해커, 해킹 포럼에 “한국 대학 31곳 데이터 탈취·공개” 주장…수능 앞두고 대학 보안 비상",
      "url": "https://www.dailysecu.com/news/articleView.html?idxno=209522"
+    },
+    {
+     "publisher": "MBC경남",
+     "title": "인제대 외부 공격… 개인정보 2만4천여 건 유출",
+     "url": "https://mbcgn.kr/01_new/new01_view.asp?idx=412262"
     }
    ],
    "target_text": "인제대학교 수업용 사이트 서버(기사 기재)",
    "title": "인제대 수업용 사이트 서버 외부 공격으로 학생·교직원 개인정보 2만4,011건 유출",
-   "updated_at": "2026-11-15T06:11:24Z"
+   "updated_at": "2026-11-20T01:24:21Z"
   },
   {
    "category": "vendor",
@@ -4128,6 +4788,65 @@
    "target_text": "올해 2월 15일부터 지난달 8일까지 구 인터파크투어에서 국내 숙소를 예약한 고객과 임직원 일부(기사 기재). 항공·해외숙소·투어·티켓·놀(NOL) 서비스 예약은 대상이 아니라고 회사가 설명",
    "title": "구 인터파크투어 국내 숙소 예약자 정보 조회 기능 침해",
    "updated_at": "2026-11-11T13:42:08Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": "2026-10-26",
+   "confirmed_text": "10월 24일 사고가 발생했고 25일 일부 시스템에서 이상 증상을 확인했으며 26일 새벽 개인정보 유출 사실을 파악한 것으로 보도됨(기사의 '지난달' 표기 기준). 회사 홈페이지에 안내문을 공개함(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-10-24",
+     "date_text": "10.24",
+     "label": "사고 발생(기사의 '지난달 24일' 표기)"
+    },
+    {
+     "date_iso": "2026-10-25",
+     "date_text": "10.25",
+     "label": "일부 시스템에서 이상 증상 확인, 긴급 대응 착수(기사 기재)"
+    },
+    {
+     "date_iso": "2026-10-26",
+     "date_text": "10.26",
+     "label": "새벽 개인정보 유출 사실 파악(기사 기재)"
+    },
+    {
+     "date_iso": "2025-11-18",
+     "date_text": "11.18",
+     "label": "금융위원회 자료 기준 피해가 1만418명으로 늘어난 것으로 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "주민번호·계좌번호·연락처 등",
+   "leaked_items_text": "고객별로 다름. 이름, 주민등록번호, 생년월일, 성별, 전화번호, 이메일, 주소, 연계정보(CI), 은행명, 계좌번호, 예금주, 서명, 면허증 사본, 퇴직소득원천징수영수증·지급명세서, 퇴직연금 현황. 일부 임직원은 이름, 사번, 부서, 이메일, 휴대전화번호(기사 기재)",
+   "notices": [],
+   "org_name": "미래에셋생명",
+   "reported_date": "2026-10-26",
+   "response_text": "25일 긴급 대응에 착수하고 외부 전문기관과 경위를 분석했으며 홈페이지 안내문을 공개하고 고객센터로 신고·피해구제 절차를 안내함. 신용정보법에 따른 신고 절차를 밟은 것으로 알려졌다고 보도됨(기사 기재)",
+   "scale_short": "1만418명(11월 5일 기준)",
+   "scale_text": "처음 6,800명 수준에서 금융당국 현장 점검 후 1만418명으로 늘어남(금융위원회 자료, 11월 5일 기준, 기사 기재). 향후 조사에 따라 달라질 수 있음",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-10-26-miraeasset-life-breach",
+   "sources": [
+    {
+     "publisher": "한국보험신문",
+     "title": "미래에셋생명 해킹 피해 1만명 넘어… 금융당국 신고 의무 발생",
+     "url": "https://www.insnews.co.kr/news/articleView.html?idxno=93917"
+    },
+    {
+     "publisher": "세계일보",
+     "title": "미래에셋생명 해킹 유출 1만 명 넘어",
+     "url": "https://www.segye.com/newsView/20261118517056?OutUrl=naver"
+    },
+    {
+     "publisher": "연합뉴스TV",
+     "title": "미래에셋생명 1만명 정보 유출…고팍스도 2천명",
+     "url": "http://www.yonhapnewstv.co.kr/news/MYH20261119053516PMm"
+    }
+   ],
+   "target_text": "구체적 시스템명은 기사에 없음. 25일 일부 시스템에서 이상 증상이 확인됐다고만 보도됨(기사 기재)",
+   "title": "미래에셋생명 해킹으로 고객 개인신용정보 유출, 규모 1만 명 넘어",
+   "updated_at": "2026-11-20T01:25:25Z"
   },
   {
    "category": "hacking",

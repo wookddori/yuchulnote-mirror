@@ -1,0 +1,54 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "고객센터 수탁사 메타엠 서버가 11월 12일 외부 공격을 받았고, 메가MGC커피는 15일 통보를 받은 것으로 보도됨. KISA와 개인정보보호위원회에 신고한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-12",
+   "date_text": "11.12",
+   "label": "메타엠 서버 외부 공격(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-15",
+   "date_text": "11.15",
+   "label": "메가MGC커피, 메타엠으로부터 사고 통보 수신(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "고객 30명 연락처 유출이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 휴대전화번호",
+ "leaked_items_text": "고객 휴대전화번호. 성명, 상담 내용, 통화 녹음, 결제정보는 유출되지 않은 것으로 파악됐다고 보도됨. 일부 기사는 홈페이지 창업 상담 입력 정보의 노출 가능성을 언급",
+ "notices": [],
+ "org_name": "메가MGC커피(고객센터 수탁사 메타엠)",
+ "reported_date": "2026-11-17",
+ "response_text": "공격 경로 차단, 서버·DB 비밀번호 교체, 피해 고객 개별 안내, 수탁업체 보안 점검 강화 방침, 사칭 전화·문자 주의 안내(기사 기재)",
+ "scale_short": "30건",
+ "scale_text": "휴대전화번호 30건(기사 기재). 추가 유출 여부 확인 중",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-17-megamgc-coffee-metam",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "메가MGC커피 고객센터 수탁업체 메타엠 해킹…결제 정보 피해 없어",
+   "url": "https://www.news1.kr/industry/distribution/6357175"
+  },
+  {
+   "publisher": "뉴스인사이드",
+   "title": "메가MGC커피 고객센터 수탁사 해킹…고객 30명 휴대전화번호 유출",
+   "url": "https://www.newsinside.kr/news/articleView.html?idxno=5050403"
+  },
+  {
+   "publisher": "서울파이낸스",
+   "title": "메가MGC커피 고객 정보 털렸다···전화번호 30건 외부 유출",
+   "url": "https://www.seoulfn.com/news/articleView.html?idxno=643129"
+  }
+ ],
+ "target_text": "메타엠 서버(고객센터 시스템). 메가MGC커피 자체 시스템은 침해되지 않은 것으로 보도됨(기사 기재)",
+ "title": "메가MGC커피 고객센터 수탁사 메타엠 해킹으로 고객 연락처 유출",
+ "updated_at": "2026-11-20T01:25:19Z"
+}

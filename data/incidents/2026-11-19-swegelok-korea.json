@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2026년 6월 14일께 2025년 초와 그 이전 자료가 보관된 업무 보조용 서버에 외부인이 무단 접근한 것으로 보도됨(기사 기재). 회사 홈페이지에 공지가 있었던 것으로 보도됨",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "6.14경",
+   "label": "업무 보조용 서버 무단 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-19",
+   "date_text": "11.19",
+   "label": "침해사고가 언론에 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·이메일·연락처 등",
+ "leaked_items_text": "성명, 이메일 주소, 휴대전화번호 등 연락처가 다수. 일부 대상자는 주소, 계좌번호, 주민등록번호 등이 포함됐을 가능성이 있다고 기재됨",
+ "notices": [],
+ "org_name": "스웨즈락코리아",
+ "reported_date": "2026-11-19",
+ "response_text": "영향 시스템 분리, 외부 보안업체와 복구, 영향 대상자 개별 통지, 외부 공개 정황은 확인되지 않았다는 공지, 피싱·스미싱 주의 당부, 고객센터 접수(기사 기재)",
+ "scale_short": "약 3만 명",
+ "scale_text": "약 3만 명(기사 기재). 거래업체 담당자와 전·현직 직원 정보가 대부분이고 전시회 등록 정보도 포함됐을 가능성이 있다고 기재됨",
+ "sector": "industry",
+ "sector_tags": [],
+ "slug": "2026-11-19-swegelok-korea",
+ "sources": [
+  {
+   "publisher": "한스경제",
+   "title": "[단독] 스웨즈락코리아 개인정보 침해사고…3만명 정보 영향",
+   "url": "http://www.hansbiz.co.kr/news/articleView.html?idxno=885217"
+  }
+ ],
+ "target_text": "과거 자료가 보관된 업무 보조용 서버(기사 기재)",
+ "title": "스웨즈락코리아 업무 보조용 서버 무단 접근으로 개인정보 침해사고",
+ "updated_at": "2026-11-20T01:25:18Z"
+}

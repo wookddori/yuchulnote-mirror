@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 외부 공격자가 위조한 인증정보로 관리자 시스템에 비인가 접근해 고객 정보를 조회·유출한 것으로 보도됨. 11월 17일 고객에게 유출 사실을 안내하는 문자를 발송함(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "관리자 시스템 비인가 접근(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "고객에게 유출 안내 문자 발송"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·계좌번호·은행명·예금주명",
+ "leaked_items_text": "고객 이름, 계좌번호, 은행명, 예금주명(기사 기재)",
+ "notices": [],
+ "org_name": "폰가비(운영사 업스테어스)",
+ "reported_date": "2026-11-17",
+ "response_text": "공격 IP와 접근 경로 차단, 비인가 접근 키 교체, 관계 당국 신고, 외부 전문기관과 정밀 조사. 2차 피해 사례는 확인되지 않은 것으로 보도됨(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "구체적 피해 고객 수는 공개되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-17-phonegabi",
+ "sources": [
+  {
+   "publisher": "전자신문",
+   "title": "중고폰 거래 플랫폼 '폰가비', 고객 계좌번호 등 개인정보 유출",
+   "url": "https://www.etnews.com/20261117000329"
+  },
+  {
+   "publisher": "MTN",
+   "title": "[단독] 중고폰 플랫폼 업스테어스 해킹…'리본' 고객 정보도 유출",
+   "url": "https://news.mtn.co.kr/article/2026111618240476812"
+  }
+ ],
+ "target_text": "관리자 시스템과 그 안의 고객 정보(기사 기재). 운영사 업스테어스 해킹 피해에 KT M&S가 위탁한 중고폰 브랜드 '리본' 고객 정보도 포함된 것으로 보도됨(MTN 기재)",
+ "title": "중고폰 거래 플랫폼 폰가비 관리자 시스템 비인가 접근으로 고객 계좌정보 유출",
+ "updated_at": "2026-11-20T01:25:25Z"
+}

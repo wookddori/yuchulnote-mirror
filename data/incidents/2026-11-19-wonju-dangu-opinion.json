@@ -1,0 +1,39 @@
+{
+ "category": "unknown",
+ "confirmed_date": null,
+ "confirmed_text": "원주시가 지난달 20일 주민들에게 개인정보 1,014건 유출 사실을 통지한 것으로 보도됨. 주민 측 비상대책위원회는 18일 성명에서 유출 경위와 통지 과정의 해명을 요구함(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-10-20",
+   "date_text": "10.20",
+   "label": "원주시, 1,014건 유출 사실을 주민에게 통지(기사의 '지난달 20일' 표기)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "비상대책위원회, 경위 해명 요구 성명"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "미공개",
+ "leaked_items_text": "구체적 항목은 기사에 없음",
+ "notices": [],
+ "org_name": "원주시(단구동 공동주택 개발사업 주민의견서)",
+ "reported_date": "2026-11-19",
+ "response_text": "원주시가 주민에게 유출 사실을 통지함. 원주시의 공식 해명은 기사에 없음. 유출 경위는 기사에 없음(기사 기재)",
+ "scale_short": "통지 1,014건",
+ "scale_text": "원주시 통지 1,014건. 비상대책위원회는 실제 제출 1,030건 중 일부가 뒤늦게 확인됐고, 5월·8월 주민의견서 927건도 별도 안내가 없었다고 주장함(기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-19-wonju-dangu-opinion",
+ "sources": [
+  {
+   "publisher": "강원도민일보",
+   "title": "\"원주 단구동 개발 개인정보 유출 경위 밝혀야\"",
+   "url": "https://www.kado.net/news/articleView.html?idxno=2085719"
+  }
+ ],
+ "target_text": "단구동 공동주택 개발사업 과정에서 제출된 주민의견서(기사 기재)",
+ "title": "원주시 단구동 공동주택 개발 관련 주민 개인정보 유출 통지, 주민 측 경위 해명 요구",
+ "updated_at": "2026-11-20T01:25:26Z"
+}
