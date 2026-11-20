@@ -47,7 +47,7 @@
    ],
    "target_text": "자메이크 서비스 관리자 기능 등(기사 기재)",
    "title": "보이스루 '자메이크' 관리자 기능 비인가 접근으로 회원정보 유출",
-   "updated_at": "2026-11-20T01:25:19Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "unknown",
@@ -86,7 +86,7 @@
    ],
    "target_text": "단구동 공동주택 개발사업 과정에서 제출된 주민의견서(기사 기재)",
    "title": "원주시 단구동 공동주택 개발 관련 주민 개인정보 유출 통지, 주민 측 경위 해명 요구",
-   "updated_at": "2026-11-20T01:25:26Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -125,7 +125,7 @@
    ],
    "target_text": "과거 자료가 보관된 업무 보조용 서버(기사 기재)",
    "title": "스웨즈락코리아 업무 보조용 서버 무단 접근으로 개인정보 침해사고",
-   "updated_at": "2026-11-20T01:25:18Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -350,7 +350,7 @@
    ],
    "target_text": "정보공개포털에 공개된 용인시 내부 결재 문서(기사 기재)",
    "title": "용인시 정보공개포털에 소속이던 선수의 주민등록번호 등이 포함된 내부 문서 공개",
-   "updated_at": "2026-11-20T01:25:26Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -443,7 +443,7 @@
    ],
    "target_text": "온라인 강의를 지원하는 LMS와 연계 학사시스템(기사 기재). 침입 경로와 반출 방식은 확인되지 않았다고 보도됨",
    "title": "배재대학교 LMS·학사시스템 해킹으로 학생·교직원 개인정보 유출",
-   "updated_at": "2026-11-20T01:25:25Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -653,7 +653,7 @@
    ],
    "target_text": "액세소의 티켓팅 시스템(기사 기재)",
    "title": "씨라이프 부산 아쿠아리움 티켓팅 시스템 운영사 침해로 연간이용권 고객정보 유출 가능성",
-   "updated_at": "2026-11-20T01:25:20Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -697,7 +697,7 @@
    ],
    "target_text": "관리자 시스템과 그 안의 고객 정보(기사 기재). 운영사 업스테어스 해킹 피해에 KT M&S가 위탁한 중고폰 브랜드 '리본' 고객 정보도 포함된 것으로 보도됨(MTN 기재)",
    "title": "중고폰 거래 플랫폼 폰가비 관리자 시스템 비인가 접근으로 고객 계좌정보 유출",
-   "updated_at": "2026-11-20T01:25:25Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "insider",
@@ -741,7 +741,7 @@
    ],
    "target_text": "약국 전산시스템(원격 접속 프로그램을 이용한 무단 접속, 기사 기재)",
    "title": "약국 약사보조 직원이 환자 처방정보를 제약사 영업사원에게 제공, 21명 송치",
-   "updated_at": "2026-11-20T01:25:26Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "vendor",
@@ -795,7 +795,7 @@
    ],
    "target_text": "메타엠 서버(고객센터 시스템). 메가MGC커피 자체 시스템은 침해되지 않은 것으로 보도됨(기사 기재)",
    "title": "메가MGC커피 고객센터 수탁사 메타엠 해킹으로 고객 연락처 유출",
-   "updated_at": "2026-11-20T01:25:19Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "vendor",
@@ -842,6 +842,94 @@
    "updated_at": "2026-11-20T01:23:03Z"
   },
   {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "아마데우스 시스템 계정의 로그인 인증정보를 이용한 비인가 접근 등으로 일부 항공예약 관련 개인정보 유출 정황이 있고, 참좋은여행은 11월 4일 홈페이지에 공지한 것으로 보도됨. 모두투어, 노랑풍선, NH여행도 고객에게 안내한 것으로 보도됨(기사 기재). 전체 여행사에서 유출된 것은 아니라고 보도됨",
+   "events": [
+    {
+     "date_iso": "2026-11-04",
+     "date_text": "11.04",
+     "label": "참좋은여행 홈페이지 공지(쿠키뉴스 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "국내 여행사 정보 유출 확산이 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "항공예약번호 등 가능성",
+   "leaked_items_text": "항공예약번호(PNR) 유출 가능성. 예약번호 외 추가 개인정보 유출 여부는 조사 중(기사 기재)",
+   "notices": [],
+   "org_name": "토파스(토파즈여행정보) 이용 여행사(참좋은여행·모두투어·노랑풍선·NH여행)",
+   "reported_date": "2026-11-16",
+   "response_text": "참좋은여행은 홈페이지 공지와 유출 대상 조사, 모두투어·NH여행은 고객 안내와 주의 당부, 노랑풍선은 고객 안내와 피해 여부 확인(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "기사에 없음",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-16-topas-agencies-amadeus",
+   "sources": [
+    {
+     "publisher": "쿠키뉴스",
+     "title": "참좋은여행·모두투어 등 여행사 고객 정보 유출",
+     "url": "https://www.kukinews.com/article/view/kuk202611160209"
+    },
+    {
+     "publisher": "부산일보",
+     "title": "아마데우스 해킹 여파로 현대드림투어 정보 유출",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026111618152153966"
+    },
+    {
+     "publisher": "메디컬투데이",
+     "title": "'아마데우스發' 개인정보 유출 확산... 현대드림투어도 고객 정보 유출",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625456"
+    }
+   ],
+   "target_text": "아마데우스·토파스 항공예약 시스템(기사 기재). 토파스 시스템 이용 여행사는 약 4,000곳으로 보도됨",
+   "title": "아마데우스 해킹 여파로 국내 여행사 항공예약번호 등 고객정보 유출 가능성",
+   "updated_at": "2026-11-20T01:26:27Z"
+  },
+  {
+   "category": "misconfig",
+   "confirmed_date": null,
+   "confirmed_text": "11월 3일 재활용 프로그램 배송 송장 관리 시스템에서 기업 고객이 다른 기업·브랜드 프로그램의 배송 정보를 조회할 수 있는 문제를 발견해 약 1시간 만에 패치했다고 밝힌 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-03",
+     "date_text": "11.03",
+     "label": "조회 권한 문제 발견 후 패치(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "고객정보 노출 가능성이 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "이름·연락처·주소·송장 정보",
+   "leaked_items_text": "이름, 이메일 주소, 전화번호, 우편주소, 배송 송장 관련 정보. 금융정보와 계정 비밀번호는 대상에 포함되지 않았다고 보도됨(기사 기재)",
+   "notices": [],
+   "org_name": "테라사이클 한국지사",
+   "reported_date": "2026-11-16",
+   "response_text": "패치 완료, 기업 고객의 조회 권한 제한, KISA 등 관련 기관 신고, 고객에게 사칭 연락 주의 당부. 무단 접근이나 유출이 확인되면 추가 안내 예정(기사 기재)",
+   "scale_short": "조회 가능 6만 4,463명",
+   "scale_text": "한국 지사에서 수거를 신청한 개인 고객 6만 4,463명의 정보를 다른 기업 고객이 조회할 수 있었던 것으로 파악됨. 실제 노출 규모는 확인되지 않았다고 보도됨(기사 기재)",
+   "sector": "industry",
+   "sector_tags": [],
+   "slug": "2026-11-16-terracycle-korea",
+   "sources": [
+    {
+     "publisher": "아시아경제",
+     "title": "테라사이클 \"시스템 오류로 기업고객 정보 노출 가능성\"",
+     "url": "https://view.asiae.co.kr/article/2026111212305028163"
+    }
+   ],
+   "target_text": "재활용 프로그램의 배송 송장 관리 시스템(기사 기재)",
+   "title": "테라사이클 재활용 배송 송장 관리 시스템 오류로 개인 고객정보 노출 가능성",
+   "updated_at": "2026-11-20T01:26:28Z"
+  },
+  {
    "category": "hacking",
    "confirmed_date": null,
    "confirmed_text": "11월 14일 연구행정시스템 제조사로부터 침해사고 통보를 받아 인지했고, 16일 홈페이지에 유출 사실 안내와 사과문을 게시한 것으로 보도됨(기사 기재)",
@@ -878,7 +966,7 @@
    ],
    "target_text": "연구행정통합시스템(기사 기재)",
    "title": "숙명여자대학교 연구행정통합시스템 침해로 개인정보 유출",
-   "updated_at": "2026-11-20T01:25:21Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -922,7 +1010,7 @@
    ],
    "target_text": "국가정보자원관리원이 운영하는 행정업무용 이메일 시스템. 일부 지방정부의 취약한 네트워크를 거쳐 통합인증(SSO) 취약점이 악용된 것으로 파악됐다고 보도됨(기사 기재)",
    "title": "행정업무용 이메일 계정 300여 개 비정상 접속, 개인정보 유출 신고",
-   "updated_at": "2026-11-20T01:25:20Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -966,7 +1054,90 @@
    ],
    "target_text": "연구통합관리시스템(기사 기재)",
    "title": "강원대학교 연구통합관리시스템 해킹으로 개인정보 유출, 시스템 접속 중단",
-   "updated_at": "2026-11-20T01:25:24Z"
+   "updated_at": "2026-11-20T01:26:18Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "항공예약시스템 아마데우스·토파스 관련 사고 영향으로 현대드림투어 일부 고객의 정보가 유출된 것으로 2026년 11월 16일 보도됨. 유출 대상 기간은 2023년 8월 10일부터 올해 9월 23일 사이로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": null,
+     "date_text": "2023.08.10~2026.09.23",
+     "label": "유출 대상 기간(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "현대드림투어 고객 정보 유출이 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "영문 성명·여권번호·연락처 등",
+   "leaked_items_text": "영문 성명, 여권번호, 마일리지 번호, 이메일 주소, 휴대전화번호(매체별로 일부 항목 표기가 다름)",
+   "notices": [],
+   "org_name": "현대드림투어(항공예약시스템 아마데우스·토파스 연계)",
+   "reported_date": "2026-11-16",
+   "response_text": "유출 대상 고객에게 이메일로 개별 통지, 토파스 접속 계정 비밀번호 변경, 아마데우스·토파스에 경위 파악과 재발 방지 대책 요구, 사칭 연락 주의 당부(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "일부 고객(건수는 기사에 없음)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-16-hyundai-dreamtour-amadeus",
+   "sources": [
+    {
+     "publisher": "쿠키뉴스",
+     "title": "참좋은여행·모두투어 등 여행사 고객 정보 유출",
+     "url": "https://www.kukinews.com/article/view/kuk202611160209"
+    },
+    {
+     "publisher": "부산일보",
+     "title": "아마데우스 해킹 여파로 현대드림투어 정보 유출",
+     "url": "https://www.busan.com/view/busan/view.php?code=2026111618152153966"
+    },
+    {
+     "publisher": "메디컬투데이",
+     "title": "'아마데우스發' 개인정보 유출 확산... 현대드림투어도 고객 정보 유출",
+     "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625456"
+    }
+   ],
+   "target_text": "예약 정보(아마데우스·토파스 시스템 접속 계정, 기사 기재)",
+   "title": "현대드림투어 고객 여권번호 등 정보 유출, 아마데우스 해킹 여파",
+   "updated_at": "2026-11-20T01:26:26Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": "2026-11-16",
+   "confirmed_text": "11월 16일 0시 55분부터 2시 55분까지 종합정보시스템 서버가 침해됐고 같은 날 홈페이지에 공지한 것으로 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-16",
+     "date_text": "11.16",
+     "label": "0시 55분~2시 55분 서버 침해, 같은 날 공지(기사 기재)"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "성명·학번·웹메일 계정 정보 등",
+   "leaked_items_text": "성명, 학번·사번, 웹메일 주소, 소속 부서·학과, 계정 유형, 재직·재학 상태, 암호화된 비밀번호, 최근 로그인 시각, 접속 IP 등. 주민등록번호, 휴대전화번호, 계좌번호는 유출되지 않았다고 대학이 밝힘(기사 기재)",
+   "notices": [],
+   "org_name": "한성대학교",
+   "reported_date": "2026-11-16",
+   "response_text": "시스템 긴급 중단 후 접속 차단, 16일 오후 서비스 재개, 웹메일 연동 인증정보 초기화, 기존 비밀번호 로그인 제한, 비밀번호 변경과 2단계 인증 설정 요청, 교육부 사이버안전센터와 KISA 신고(기사 기재)",
+   "scale_short": "약 2만 5천 건",
+   "scale_text": "웹메일 계정 정보 약 2만 5천 건(기사 기재)",
+   "sector": "education",
+   "sector_tags": [],
+   "slug": "2026-11-16-hansung-univ-webmail",
+   "sources": [
+    {
+     "publisher": "데일리시큐",
+     "title": "한성대학교 해킹으로 웹메일 계정 2만5천 건 유출…암호화된 비밀번호까지 노출",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209558"
+    }
+   ],
+   "target_text": "종합정보시스템 서버(구성원 웹메일 계정, 기사 기재)",
+   "title": "한성대학교 종합정보시스템 서버 침해로 웹메일 계정 정보 유출",
+   "updated_at": "2026-11-20T01:26:27Z"
   },
   {
    "category": "hacking",
@@ -1005,7 +1176,7 @@
    ],
    "target_text": "산학협력단 ERP 연구비관리시스템(기사 기재)",
    "title": "한경국립대학교 산학협력단 ERP 연구비관리시스템 해킹으로 개인정보 유출",
-   "updated_at": "2026-11-20T01:25:22Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "vendor",
@@ -1054,7 +1225,7 @@
    ],
    "target_text": "연구행정통합시스템(rERP) 위탁관리업체 서버(기사 기재)",
    "title": "한림대학교 연구행정통합시스템 위탁관리업체 서버 침해로 개인정보 유출",
-   "updated_at": "2026-11-20T01:25:21Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",
@@ -1093,7 +1264,46 @@
    ],
    "target_text": "대학 포털서비스 DB(기사 기재). 접근 경로는 확인되지 않았다고 보도됨",
    "title": "동서울대학교 포털시스템 해킹으로 교직원 개인정보 유출",
-   "updated_at": "2026-11-20T01:25:23Z"
+   "updated_at": "2026-11-20T01:26:18Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "11월 11일 새벽부터 12일 새벽 사이 일부 API에 제3자의 비인가 접근이 있었고 11일 인지, 13일 안내와 사과문을 게시한 것으로 보도됨. 기존 저장된 고객정보가 변경된 사실이 확인됐다고 보도됨(기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-11",
+     "date_text": "11.11",
+     "label": "비인가 접근 시작, 회사 인지(기사 기재)"
+    },
+    {
+     "date_iso": "2026-11-13",
+     "date_text": "11.13",
+     "label": "안내 및 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "미공개(고객정보 변경 확인)",
+   "leaked_items_text": "구체적 항목은 기사에 없음. 비밀번호는 유출 가능 항목에 포함되지 않았다고 보도됨",
+   "notices": [],
+   "org_name": "리브애니웨어",
+   "reported_date": "2026-11-16",
+   "response_text": "비정상 조회 경로 차단, 등록 카드 결제 차단, 인증 절차 강화, 피해 고객 개별 안내, 비밀번호 변경 권고, 관계기관 신고, 접속 기록 보전. 열람 여부와 피해 범위를 조사 중(기사 기재)",
+   "scale_short": "미공개",
+   "scale_text": "피해 고객 수는 기사에 없음",
+   "sector": "leisure",
+   "sector_tags": [],
+   "slug": "2026-11-13-liveanywhere",
+   "sources": [
+    {
+     "publisher": "디지털데일리",
+     "title": "[단독] 한달살기 플랫폼도 뚫렸다…리브애니웨어, 고객 정보 유출",
+     "url": "https://www.ddaily.co.kr/page/view/2026111609061088850"
+    }
+   ],
+   "target_text": "서비스의 일부 API(기사 기재)",
+   "title": "리브애니웨어 일부 API 비인가 접근으로 고객정보 변경",
+   "updated_at": "2026-11-20T01:26:28Z"
   },
   {
    "category": "unknown",
@@ -4846,7 +5056,7 @@
    ],
    "target_text": "구체적 시스템명은 기사에 없음. 25일 일부 시스템에서 이상 증상이 확인됐다고만 보도됨(기사 기재)",
    "title": "미래에셋생명 해킹으로 고객 개인신용정보 유출, 규모 1만 명 넘어",
-   "updated_at": "2026-11-20T01:25:25Z"
+   "updated_at": "2026-11-20T01:26:18Z"
   },
   {
    "category": "hacking",

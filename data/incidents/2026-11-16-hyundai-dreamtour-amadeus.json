@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "항공예약시스템 아마데우스·토파스 관련 사고 영향으로 현대드림투어 일부 고객의 정보가 유출된 것으로 2026년 11월 16일 보도됨. 유출 대상 기간은 2023년 8월 10일부터 올해 9월 23일 사이로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2023.08.10~2026.09.23",
+   "label": "유출 대상 기간(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "현대드림투어 고객 정보 유출이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "영문 성명·여권번호·연락처 등",
+ "leaked_items_text": "영문 성명, 여권번호, 마일리지 번호, 이메일 주소, 휴대전화번호(매체별로 일부 항목 표기가 다름)",
+ "notices": [],
+ "org_name": "현대드림투어(항공예약시스템 아마데우스·토파스 연계)",
+ "reported_date": "2026-11-16",
+ "response_text": "유출 대상 고객에게 이메일로 개별 통지, 토파스 접속 계정 비밀번호 변경, 아마데우스·토파스에 경위 파악과 재발 방지 대책 요구, 사칭 연락 주의 당부(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "일부 고객(건수는 기사에 없음)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-16-hyundai-dreamtour-amadeus",
+ "sources": [
+  {
+   "publisher": "쿠키뉴스",
+   "title": "참좋은여행·모두투어 등 여행사 고객 정보 유출",
+   "url": "https://www.kukinews.com/article/view/kuk202611160209"
+  },
+  {
+   "publisher": "부산일보",
+   "title": "아마데우스 해킹 여파로 현대드림투어 정보 유출",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026111618152153966"
+  },
+  {
+   "publisher": "메디컬투데이",
+   "title": "'아마데우스發' 개인정보 유출 확산... 현대드림투어도 고객 정보 유출",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625456"
+  }
+ ],
+ "target_text": "예약 정보(아마데우스·토파스 시스템 접속 계정, 기사 기재)",
+ "title": "현대드림투어 고객 여권번호 등 정보 유출, 아마데우스 해킹 여파",
+ "updated_at": "2026-11-20T01:26:26Z"
+}

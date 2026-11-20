@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "아마데우스 시스템 계정의 로그인 인증정보를 이용한 비인가 접근 등으로 일부 항공예약 관련 개인정보 유출 정황이 있고, 참좋은여행은 11월 4일 홈페이지에 공지한 것으로 보도됨. 모두투어, 노랑풍선, NH여행도 고객에게 안내한 것으로 보도됨(기사 기재). 전체 여행사에서 유출된 것은 아니라고 보도됨",
+ "events": [
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "참좋은여행 홈페이지 공지(쿠키뉴스 기재)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "국내 여행사 정보 유출 확산이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "항공예약번호 등 가능성",
+ "leaked_items_text": "항공예약번호(PNR) 유출 가능성. 예약번호 외 추가 개인정보 유출 여부는 조사 중(기사 기재)",
+ "notices": [],
+ "org_name": "토파스(토파즈여행정보) 이용 여행사(참좋은여행·모두투어·노랑풍선·NH여행)",
+ "reported_date": "2026-11-16",
+ "response_text": "참좋은여행은 홈페이지 공지와 유출 대상 조사, 모두투어·NH여행은 고객 안내와 주의 당부, 노랑풍선은 고객 안내와 피해 여부 확인(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-16-topas-agencies-amadeus",
+ "sources": [
+  {
+   "publisher": "쿠키뉴스",
+   "title": "참좋은여행·모두투어 등 여행사 고객 정보 유출",
+   "url": "https://www.kukinews.com/article/view/kuk202611160209"
+  },
+  {
+   "publisher": "부산일보",
+   "title": "아마데우스 해킹 여파로 현대드림투어 정보 유출",
+   "url": "https://www.busan.com/view/busan/view.php?code=2026111618152153966"
+  },
+  {
+   "publisher": "메디컬투데이",
+   "title": "'아마데우스發' 개인정보 유출 확산... 현대드림투어도 고객 정보 유출",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=625456"
+  }
+ ],
+ "target_text": "아마데우스·토파스 항공예약 시스템(기사 기재). 토파스 시스템 이용 여행사는 약 4,000곳으로 보도됨",
+ "title": "아마데우스 해킹 여파로 국내 여행사 항공예약번호 등 고객정보 유출 가능성",
+ "updated_at": "2026-11-20T01:26:27Z"
+}

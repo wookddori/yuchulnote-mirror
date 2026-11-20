@@ -1,17 +1,17 @@
 {
- "content_hash": "d4e65809870e2c41c1e08101a62138507de154677f625017616e24f4f246721d",
- "incident_count": 371,
+ "content_hash": "6eef1ad7d652f7fc915f91d9b2281a6e016b21c054104c9a2f802bd83d99b527",
+ "incident_count": 376,
  "last_checked_at": "2026-11-20T01:00:00Z",
  "schema_version": 1,
  "sector_counts": {
-  "education": 42,
+  "education": 43,
   "finance": 61,
-  "industry": 31,
+  "industry": 32,
   "it": 37,
-  "leisure": 40,
+  "leisure": 41,
   "medical": 18,
   "public": 67,
-  "service": 75
+  "service": 77
  },
  "target": "public"
 }
