@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 오전 산학협력단이 운영하는 연구행정통합시스템이 해킹된 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "연구행정통합시스템 해킹(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "대구·경북 대학 해킹이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "직번·성명·부서명·가입일자",
+ "leaked_items_text": "직번 또는 학번, 성명, 부서명, 가입일자. 30건에는 생년월일도 포함(기사 기재)",
+ "notices": [],
+ "org_name": "대구한의대학교 산학협력단",
+ "reported_date": "2026-11-18",
+ "response_text": "대학 고유의 대응은 열람한 기사에 없음",
+ "scale_short": "1,281건",
+ "scale_text": "1,281건(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-18-dhu-univ-rerp",
+ "sources": [
+  {
+   "publisher": "파이낸셜뉴스",
+   "title": "대구·경북 대학가 '해킹 비상'…영남대·대구한의대·경일대 개인정보 유출",
+   "url": "https://www.fnnews.com/news/202611182312182228"
+  },
+  {
+   "publisher": "뉴시스",
+   "title": "영남대·대구한의대·경일대 해킹… 개인정보 유출",
+   "url": "https://www.newsis.com/view/NISX20261118_0003874082"
+  }
+ ],
+ "target_text": "산학협력단 운영 연구행정통합시스템(기사 기재)",
+ "title": "대구한의대학교 산학협력단 연구행정통합시스템 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-20T01:22:07Z"
+}

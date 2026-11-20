@@ -1,0 +1,49 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "KG에듀원이 운영하는 저축은행 직원 교육관리 사이트가 해킹되어 직원 정보가 유출된 것으로 보도됨(기사 기재). 저축은행중앙회가 홈페이지에 2차 피해 주의 안내문을 게시함",
+ "events": [
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "저축은행중앙회가 2차 피해 주의 안내문 게시(기사의 '전날' 표기 기준)"
+  },
+  {
+   "date_iso": "2026-11-19",
+   "date_text": "11.19",
+   "label": "직원 정보 유출이 언론에 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "소속 저축은행·직위·성명",
+ "leaked_items_text": "저축은행명, 직원 직위, 성명(기사 기재). 고객 금융정보 유출은 확인되지 않은 것으로 보도됨",
+ "notices": [],
+ "org_name": "저축은행 직원 교육관리 사이트(운영사 KG에듀원)",
+ "reported_date": "2026-11-19",
+ "response_text": "저축은행중앙회가 직원 사칭 금융사기 주의 안내문을 홈페이지에 게시했고, 전화·문자로 계좌 비밀번호·OTP 등을 요구하지 않는다고 안내함(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "기사에 없음(일부 매체는 1만244명으로 보도했으나 열람한 기사에서는 확인하지 못함)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-19-kgeduone-savings",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "저축은행 직원 개인정보 유출…KG에듀원 교육관리 사이트 해킹",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209631"
+  },
+  {
+   "publisher": "서울경제TV 외",
+   "title": "KG에듀원 운영 저축은행 교육사이트 해킹…직원 개인정보 유출",
+   "url": "https://sateconomy.co.kr/news/view/1065619300727096"
+  },
+  {
+   "publisher": "이코노믹리뷰 외",
+   "title": "저축은행 직원 개인정보 유출…KG에듀원 교육사이트 해킹",
+   "url": "https://www.econovill.com/news/articleView.html?idxno=757881"
+  }
+ ],
+ "target_text": "KG에듀원이 운영하는 저축은행 직원 교육관리 사이트. 저축은행 금융거래 전산망은 아닌 것으로 보도됨(기사 기재)",
+ "title": "KG에듀원 운영 저축은행 직원 교육관리 사이트 해킹으로 직원 정보 유출",
+ "updated_at": "2026-11-20T01:22:05Z"
+}

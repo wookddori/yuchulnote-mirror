@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 14일 오전 10시 40분께 산학협력단 연구비관리시스템 관련 서버가 외부 공격을 받았고, 17일 대학 홈페이지에 피해 안내 사과문을 게시한 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-14",
+   "date_text": "11.14",
+   "label": "연구비관리시스템 관련 서버 외부 공격(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "대학 홈페이지에 피해 안내 사과문 게시"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "직번·이름·부서·생년월일 등",
+ "leaked_items_text": "직번, 이름, 부서, 직위, 직책, 재직 여부, 생년월일(기사 기재)",
+ "notices": [],
+ "org_name": "동의대학교 산학협력단",
+ "reported_date": "2026-11-19",
+ "response_text": "KISA와 개인정보보호위원회에 피해 신고, 접속 경로 차단 후 피해 범위 확인, 외부 접근통제 강화(기사 기재)",
+ "scale_short": "530명",
+ "scale_text": "연구원과 교직원 등 530명(기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-19-dongeui-univ-rnd",
+ "sources": [
+  {
+   "publisher": "뉴시스",
+   "title": "부경대·부산외대 이어 부산대·동의대도 해킹으로 개인정보 유출",
+   "url": "https://www.newsis.com/view/NISX20261119_0003874151"
+  },
+  {
+   "publisher": "KNN",
+   "title": "부산대*동의대 해킹 공격으로 개인정보 유출",
+   "url": "https://news.knn.co.kr/news/article/194713"
+  }
+ ],
+ "target_text": "산학협력단 연구비관리시스템 관련 서버(기사 기재)",
+ "title": "동의대학교 산학협력단 연구비관리시스템 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-20T01:22:06Z"
+}

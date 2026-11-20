@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "전주대학교 온라인 교양 교육과정 서비스 시스템이 해킹되어 약 18만 건의 개인정보가 유출된 것으로 보도됨(기사 기재). 대학 홈페이지에 해킹 사과문이 게시된 것으로 보도됨",
+ "events": [
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "약 18만 건 유출이 언론에 보도됨(기사 기재)"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주민등록번호 포함(약 2.5만 건)",
+ "leaked_items_text": "세부 항목은 기사에 없음. 약 2만 5000건에는 주민등록번호가 포함된 것으로 보도됨(기사 기재)",
+ "notices": [],
+ "org_name": "전주대학교",
+ "reported_date": "2026-11-18",
+ "response_text": "대학 홈페이지에 사과문을 게시한 것으로 보도됨. 그 밖의 대응은 기사에 없음",
+ "scale_short": "약 18만 건",
+ "scale_text": "약 18만 건(기사 기재). 이 중 약 2만 5000건에 주민등록번호 포함",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-18-jeonju-univ",
+ "sources": [
+  {
+   "publisher": "뉴스1",
+   "title": "전주대·전북교육청 해킹, 개인정보 18만건 유출…2차 피해도 우려",
+   "url": "https://www.news1.kr/local/jeonbuk/6359429"
+  }
+ ],
+ "target_text": "온라인 교양 교육과정 서비스 시스템(기사 기재)",
+ "title": "전주대학교 온라인 교양 교육과정 서비스 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-20T01:22:05Z"
+}

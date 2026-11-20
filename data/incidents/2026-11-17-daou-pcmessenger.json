@@ -1,0 +1,44 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "다우오피스가 11월 17일 홈페이지에 'Windows용 PC메신저 보안 사고 및 조치 안내'를 게시했고, 11월 15일 오후 4시 45분부터 16일 오전 9시 25분까지 정상 업데이트 경로로 악성코드가 배포된 것으로 보도됨(기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-15",
+   "date_text": "11.15~11.16",
+   "label": "11월 15일 오후 4시 45분부터 16일 오전 9시 25분까지 악성 업데이트 배포(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "다우오피스, 보안 사고 및 조치 안내 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 확인 중",
+ "leaked_items_text": "감염 PC에서 개인정보·내부자료가 외부로 유출됐는지는 확인되지 않음. 브라우저 저장 계정 정보 등 유출 가능성이 제기됨(기사 기재)",
+ "notices": [],
+ "org_name": "다우오피스(PC메신저)",
+ "reported_date": "2026-11-17",
+ "response_text": "악성 업데이트 배포를 차단하고 정상 버전(4.5.12)을 배포했으며, 우려 고객사에 개별 안내하고 PC 침해 여부 조회 기능을 제공함. 이용자에게 비정상 관리자 계정 확인과 비밀번호 변경을 당부함(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "설치된 PC 수와 피해 고객사 규모는 확인되지 않음(기사 기재)",
+ "sector": "it",
+ "sector_tags": [],
+ "slug": "2026-11-17-daou-pcmessenger",
+ "sources": [
+  {
+   "publisher": "데일리시큐",
+   "title": "다우오피스 PC메신저 업데이트 경로 해킹…기업 이용자 PC에 악성코드 설치",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209628"
+  },
+  {
+   "publisher": "메디컬투데이",
+   "title": "다우오피스 또 보안 사고…PC메신저 업데이트에 악성코드",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626374"
+  }
+ ],
+ "target_text": "윈도우용 다우오피스 PC메신저 자동 업데이트 기능(기사 기재). 배포 체계 침입 경로는 기사에 없음",
+ "title": "다우오피스 윈도우용 PC메신저 업데이트 경로로 악성코드 배포",
+ "updated_at": "2026-11-20T01:22:06Z"
+}

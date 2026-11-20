@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "11월 16일 오전 10시~낮 12시경 도서관 전자책 홈페이지와 취업 홈페이지가 공격을 받아 개인정보가 유출된 것으로 보도됨(기사 기재). 대학이 사과문을 게시함",
+ "events": [
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "전자책·취업 홈페이지 공격 발생(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "영남대 등 대구·경북 대학 해킹이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "학번·성명·소속·휴대전화번호",
+ "leaked_items_text": "학번(개인번호), 성명, 소속, 휴대전화 번호. 전자책 홈페이지에서는 비밀번호도 유출됨(기사 기재). 고유식별정보는 직접 유출 항목에 포함되지 않은 것으로 보도됨",
+ "notices": [],
+ "org_name": "영남대학교",
+ "reported_date": "2026-11-18",
+ "response_text": "피해 시스템 외부망 격리, 통합정보시스템 로그인 2차 인증 도입, 포털 이용자 비밀번호 변경 의무화, 구성원에게 다른 사이트 비밀번호 변경 권고(기사 기재)",
+ "scale_short": "산정 중",
+ "scale_text": "기사에 없음. 대학이 중복 정보를 제외하고 피해 규모를 산정 중인 것으로 보도됨",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-18-yeungnam-univ",
+ "sources": [
+  {
+   "publisher": "파이낸셜뉴스",
+   "title": "대구·경북 대학가 '해킹 비상'…영남대·대구한의대·경일대 개인정보 유출",
+   "url": "https://www.fnnews.com/news/202611182312182228"
+  },
+  {
+   "publisher": "뉴시스",
+   "title": "영남대·대구한의대·경일대 해킹… 개인정보 유출",
+   "url": "https://www.newsis.com/view/NISX20261118_0003874082"
+  }
+ ],
+ "target_text": "도서관 전자책 홈페이지, 취업 홈페이지(기사 기재)",
+ "title": "영남대학교 도서관 전자책·취업 홈페이지 해킹으로 개인정보 유출",
+ "updated_at": "2026-11-20T01:22:07Z"
+}

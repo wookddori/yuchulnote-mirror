@@ -2,6 +2,104 @@
  "items": [
   {
    "keywords": [
+    "부산대학교",
+    "산학협력단"
+   ],
+   "org_name": "부산대학교 산학협력단",
+   "sector": "education",
+   "slug": "2026-11-19-pusan-univ-rnd",
+   "title": "부산대학교 산학협력단 연구비관리시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "포항공과대학교(POSTECH)"
+   ],
+   "org_name": "포항공과대학교(POSTECH)",
+   "sector": "education",
+   "slug": "2026-11-19-postech",
+   "title": "포항공대 연구장비지원포털·IT서비스포털 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "저축은행",
+    "직원",
+    "교육관리",
+    "사이트(운영사",
+    "KG에듀원)"
+   ],
+   "org_name": "저축은행 직원 교육관리 사이트(운영사 KG에듀원)",
+   "sector": "finance",
+   "slug": "2026-11-19-kgeduone-savings",
+   "title": "KG에듀원 운영 저축은행 직원 교육관리 사이트 해킹으로 직원 정보 유출"
+  },
+  {
+   "keywords": [
+    "동의대학교",
+    "산학협력단"
+   ],
+   "org_name": "동의대학교 산학협력단",
+   "sector": "education",
+   "slug": "2026-11-19-dongeui-univ-rnd",
+   "title": "동의대학교 산학협력단 연구비관리시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "영남대학교"
+   ],
+   "org_name": "영남대학교",
+   "sector": "education",
+   "slug": "2026-11-18-yeungnam-univ",
+   "title": "영남대학교 도서관 전자책·취업 홈페이지 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "전주대학교"
+   ],
+   "org_name": "전주대학교",
+   "sector": "education",
+   "slug": "2026-11-18-jeonju-univ",
+   "title": "전주대학교 온라인 교양 교육과정 서비스 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "전북특별자치도교육청"
+   ],
+   "org_name": "전북특별자치도교육청",
+   "sector": "public",
+   "slug": "2026-11-18-jeonbuk-edu-bus",
+   "title": "전북교육청 통학차량 관리시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "대구한의대학교",
+    "산학협력단"
+   ],
+   "org_name": "대구한의대학교 산학협력단",
+   "sector": "education",
+   "slug": "2026-11-18-dhu-univ-rerp",
+   "title": "대구한의대학교 산학협력단 연구행정통합시스템 해킹으로 개인정보 유출"
+  },
+  {
+   "keywords": [
+    "CJ대한통운('오네'",
+    "챗봇)"
+   ],
+   "org_name": "CJ대한통운('오네' 챗봇)",
+   "sector": "service",
+   "slug": "2026-11-18-cj-logistics-chatbot",
+   "title": "CJ대한통운 '오네' 챗봇 서버에 비정상 대량 접근, 유출 여부 조사 중"
+  },
+  {
+   "keywords": [
+    "다우오피스(PC메신저)"
+   ],
+   "org_name": "다우오피스(PC메신저)",
+   "sector": "it",
+   "slug": "2026-11-17-daou-pcmessenger",
+   "title": "다우오피스 윈도우용 PC메신저 업데이트 경로로 악성코드 배포"
+  },
+  {
+   "keywords": [
     "피터팬의",
     "좋은방",
     "구하기"

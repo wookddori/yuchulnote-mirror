@@ -1,0 +1,49 @@
+{
+ "category": "unknown",
+ "confirmed_date": "2026-11-16",
+ "confirmed_text": "CJ대한통운이 11월 16일 챗봇 서버 접속 기록과 일부 데이터베이스를 점검하다 자동화 방식의 비정상 대량 접근을 확인했고, 18일 홈페이지에 안내문을 게시함(기사 기재). 실제 유출 여부는 확인되지 않음",
+ "events": [
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "챗봇 서버에서 비정상 대량 접근 확인(기사 기재)"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "홈페이지 안내문 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "인수인 이름·주소(동 단위) 가능성",
+ "leaked_items_text": "택배 인수인 이름과 주소 중 '동' 단위 정보가 조회됐을 가능성(기사 기재). 고유식별정보·연계정보·휴대전화번호는 조회 가능성이 확인되지 않은 것으로 보도됨",
+ "notices": [],
+ "org_name": "CJ대한통운('오네' 챗봇)",
+ "reported_date": "2026-11-18",
+ "response_text": "웹 방화벽 기반 보안 체계 적용, 비정상 대량 요청 탐지·차단 강화, 접근 통제 정책 보완을 했다고 밝힘. 원인과 유출 여부·범위를 분석 중이며 확인되면 추가 안내할 방침(기사 기재)",
+ "scale_short": "미공개",
+ "scale_text": "규모와 대상 인원은 특정되지 않음(기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-18-cj-logistics-chatbot",
+ "sources": [
+  {
+   "publisher": "메디컬투데이",
+   "title": "CJ대한통운 '오네' 챗봇 해킹됐나… 개인정보 유출 여부 조사",
+   "url": "https://www.mdtoday.co.kr/news/articleView.html?idxno=626276"
+  },
+  {
+   "publisher": "매일일보",
+   "title": "CJ대한통운, 개인정보 유출 의심 정황…'오네' 챗봇 비정상 접근",
+   "url": "https://www.m-i.kr/news/articleView.html?idxno=2020418"
+  },
+  {
+   "publisher": "SR타임스",
+   "title": "CJ대한통운, '오네' 챗봇 개인정보 유출 의심 정황…\"범위 확인중\"",
+   "url": "http://www.srtimes.kr/news/articleView.html?idxno=218026"
+  }
+ ],
+ "target_text": "'오네(O-NE)' 챗봇 서비스 서버 접속 기록과 일부 데이터베이스(기사 기재)",
+ "title": "CJ대한통운 '오네' 챗봇 서버에 비정상 대량 접근, 유출 여부 조사 중",
+ "updated_at": "2026-11-20T01:22:06Z"
+}
