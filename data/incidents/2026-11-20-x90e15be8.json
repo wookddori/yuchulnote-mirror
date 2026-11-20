@@ -1,0 +1,64 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "컬리는 11월 20일 지난 17일 발생한 침해사고로 큐레이터 1만699명의 개인정보와 일반 고객 2명의 회원번호가 유출됐다고 밝혔다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "침해사고 발생"
+  },
+  {
+   "date_iso": "2026-11-18",
+   "date_text": "11.18",
+   "label": "관계기관에 침해사고 신고"
+  },
+  {
+   "date_iso": "2026-11-20",
+   "date_text": "11.20",
+   "label": "컬리, 유출 사실 및 보상안 발표"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·아이디·연락처·SNS 정보, 일부 주민번호·계좌번호",
+ "leaked_items_text": "큐레이터는 이름, 아이디, 전화번호, 이메일, SNS 채널 정보가 유출됐고, 일부 큐레이터는 계좌번호, 주민등록번호 또는 사업자등록번호도 유출됐다. 일반 고객 2명은 회원번호가 유출됐다. (기사 기재)",
+ "notices": [],
+ "org_name": "컬리",
+ "reported_date": "2026-11-20",
+ "response_text": "컬리는 외부 공격자가 인증정보를 탈취해 업무 시스템에 무단 접근한 사실을 인지한 직후 긴급 차단 조치를 했고, 18일 관계기관에 침해사고를 신고했다. 유출 피해 큐레이터에게 법적 권리 구제 방법과 보상안을 안내하고 있으며, 보상금은 유출 범위에 따라 1인당 최소 5만원, 최대 15만원이다. 회원번호가 유출된 고객 2명에게는 별도로 통지할 예정이며, 향후 피해가 생기면 피해액 전액을 보상한다는 방침이다. (기사 기재)",
+ "scale_short": "큐레이터 1만699명, 고객 2명",
+ "scale_text": "큐레이터 1만699명, 일반 고객 2명 (기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-20-x90e15be8",
+ "sources": [
+  {
+   "publisher": "news.sbs.co.kr",
+   "title": "컬리 \"큐레이터 1만 699명 개인정보 유출 …일부 주민번호 포함\"",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008856326&plink=ORI"
+  },
+  {
+   "publisher": "biz.heraldcorp.com",
+   "title": "컬리, 큐레이터 1만699명 개인정보 유출 …일부는 주민번호·계좌번호까...",
+   "url": "https://biz.heraldcorp.com/article/10944412"
+  },
+  {
+   "publisher": "www.dailian.co.kr",
+   "title": "컬리, 1만여명 개인정보 유출 …김슬아 대표 \"진심으로 사과\"",
+   "url": "https://www.dailian.co.kr/news/view/1717929/?sc=Naver"
+  },
+  {
+   "publisher": "www.joseilbo.com",
+   "title": "컬리 큐레이터 1만699명 개인정보 유출 …최대 15만원 보상",
+   "url": "http://www.joseilbo.com/news/news_read.php?class=33&grp=&uid=580132"
+  },
+  {
+   "publisher": "www.hankyung.com",
+   "title": "주민번호·계좌까지 유출 …컬리도 뚫린 유통업계",
+   "url": "https://www.hankyung.com/article/2026112007877"
+  }
+ ],
+ "target_text": "컬리가 운영하는 큐레이터 프로그램 참여자 1만699명과 일반 고객 2명 (기사 기재)",
+ "title": "컬리 큐레이터 1만699명 개인정보 유출",
+ "updated_at": "2026-11-20T12:01:58Z"
+}

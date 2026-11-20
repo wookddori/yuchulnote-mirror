@@ -1,6 +1,6 @@
 {
- "content_hash": "020fab55de8763eb4e3aa02bdd37fc78b33c5fe172328b99140839491f3afb1c",
- "incident_count": 377,
+ "content_hash": "98f703beba037ce0756f49c5ee1391125fdc2eb53b2cdbde0997f7337631f0c3",
+ "incident_count": 379,
  "last_checked_at": "2026-11-20T12:00:00Z",
  "schema_version": 1,
  "sector_counts": {
@@ -11,7 +11,7 @@
   "leisure": 41,
   "medical": 18,
   "public": 67,
-  "service": 77
+  "service": 79
  },
  "target": "public"
 }
