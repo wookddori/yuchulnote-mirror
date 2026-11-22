@@ -1,0 +1,59 @@
+{
+ "category": "vendor",
+ "confirmed_date": null,
+ "confirmed_text": "예별손해보험은 11월 16일 홈페이지 공지를 통해 고객 66명의 이름과 주민등록번호 등 개인정보가 유출되었다고 밝혔다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-10-25",
+   "date_text": "10.25",
+   "label": "엘케이보험중개 단체보험 보험금 청구 서비스 해킹 발생 시작(27일까지 3일간)"
+  },
+  {
+   "date_iso": "2026-11-16",
+   "date_text": "11.16",
+   "label": "예별손해보험 홈페이지에 유출 사실 공지"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름·주민번호·생년월일·성별·휴대전화·ID",
+ "leaked_items_text": "이름, 주민등록번호, 생년월일, 성별, 휴대전화 번호, 로그인 아이디(ID) (기사 기재).",
+ "notices": [],
+ "org_name": "예별손해보험",
+ "reported_date": "2026-11-22",
+ "response_text": "엘케이보험중개는 사고 인지 후 침해에 이용된 접근 경로를 차단하고 보안 취약점을 보완했으며, 공격에 이용된 IP 및 해외 접속을 차단했다. 한국인터넷진흥원(KISA)과 개인정보보호위원회에 신고했고 관계 기관 조사에 협조하기로 했다. 예별손해보험은 수탁업체의 개인정보 보호조치 및 보안관리 실태를 점검할 계획이라고 밝혔다 (기사 기재).",
+ "scale_short": "66명",
+ "scale_text": "고객 66명 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-22-x21ac636e",
+ "sources": [
+  {
+   "publisher": "news.einfomax.co.kr",
+   "title": "예별손보, 외부 수탁업체 통해 고객 66명 개인정보 유출",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4445898"
+  },
+  {
+   "publisher": "www.ajunews.com",
+   "title": "예별손해보험도 뚫렸다…고객 66명 개인정보 유출",
+   "url": "https://www.ajunews.com/view/20261122164931138"
+  },
+  {
+   "publisher": "www.news1.kr",
+   "title": "예별손보, 고객 66명 개인정보 유출 …외부 수탁업체 해킹",
+   "url": "https://www.news1.kr/finance/insurance-card/6362081"
+  },
+  {
+   "publisher": "www.edaily.co.kr",
+   "title": "예별손보서도 고객 66명 개인정보 유출 …주민번호·연락처 등 빠져나가",
+   "url": "https://www.edaily.co.kr/News/Read?mediaCodeNo=257&newsId=01836806645648344"
+  },
+  {
+   "publisher": "www.sedaily.com",
+   "title": "예별손보, 고객 66명 개인정보 유출",
+   "url": "https://www.sedaily.com/article/20117382"
+  }
+ ],
+ "target_text": "2021년 7월 단체상해보험에 가입한 피보험자 66명이며, 해당 보험 계약은 2022년 7월 종료되었다 (기사 기재).",
+ "title": "예별손해보험, 수탁업체 엘케이보험중개 경유 고객 66명 개인정보 유출",
+ "updated_at": "2026-11-22T13:31:57Z"
+}

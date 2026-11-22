@@ -1,0 +1,74 @@
+{
+ "category": "misconfig",
+ "confirmed_date": null,
+ "confirmed_text": "경기도교육청은 11월 20일 홈페이지에 '개인정보 유출 사실 고지 및 조치결과 안내'를 게시해 교원 158명의 개인정보를 비식별 처리하지 않은 채 교원소청심사위원회에 제출한 사실을 알렸다. 자료는 5월 6일, 12일, 15일, 18일에 사건 관계인에게 전달됐다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-05-06",
+   "date_text": "5.6",
+   "label": "복무감사 결과보고서(교원 73명분)가 사건 관계인 1명에게 전달됨"
+  },
+  {
+   "date_iso": "2026-05-12",
+   "date_text": "5.12",
+   "label": "계약 체결 자료(교원 85명분)가 사건 관계인에게 1차 전달됨"
+  },
+  {
+   "date_iso": "2026-05-15",
+   "date_text": "5.15",
+   "label": "계약 체결 자료가 사건 관계인에게 2차 전달됨"
+  },
+  {
+   "date_iso": "2026-05-18",
+   "date_text": "5.18",
+   "label": "계약 체결 자료가 사건 관계인에게 3차 전달됨"
+  },
+  {
+   "date_iso": "2026-11-20",
+   "date_text": "11.20",
+   "label": "경기도교육청이 홈페이지에 개인정보 유출 사실 고지 및 조치결과 안내를 게시함"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "교원 소속·성명·생년월일·비위 내용·수수액 등",
+ "leaked_items_text": "소속, 성명, 생년월일, 겸직허가 여부, 사교육업체명, 거래 계기 및 기간, 계약·해지일, 수행업무 요지, 비위 내용, 수수·지급액 (기사 기재)",
+ "notices": [],
+ "org_name": "경기도교육청",
+ "reported_date": "2026-11-21",
+ "response_text": "교육청은 통보를 받은 즉시 해당 자료를 비식별 처리한 자료로 교체해 제출했고, 교원소청심사위원회가 보관하던 기존 자료의 폐기를 확인했다고 밝혔다. 관계인 5명이 받은 자료에 대해서는 개인정보가 인지되지 않았거나 폐기될 예정임을 확인했으며, 현재까지 제3자에게 제공되거나 열람된 정황은 없다고 설명했다. 대외 제출 문서 전반에 대해 비식별 처리 여부 사전 점검 절차를 강화하고 담당자 교육을 실시하겠다고 밝혔다. (기사 기재)",
+ "scale_short": "교원 158명",
+ "scale_text": "교원 158명(계약 체결 자료 85명, 복무감사 결과보고서 73명). 자료를 전달받은 사건 관계인은 5명이다. (기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-21-x293ebb85",
+ "sources": [
+  {
+   "publisher": "www.etoday.co.kr",
+   "title": "교원 158명 정보 5월 유출 , 공지는 11월…경기교육청 인지일 안 밝혀",
+   "url": "https://www.etoday.co.kr/news/view/2651222"
+  },
+  {
+   "publisher": "www.newscj.com",
+   "title": "경기도교육청, 교원 158명 개인정보 유출 사고 발생",
+   "url": "https://www.newscj.com/news/articleView.html?idxno=3450916"
+  },
+  {
+   "publisher": "www.news1.kr",
+   "title": "경기도교육청, 교원 158명 개인정보 유출 …\"제3자 열람 정황 없어\"",
+   "url": "https://www.news1.kr/local/gyeonggi/6361686"
+  },
+  {
+   "publisher": "www.chosun.com",
+   "title": "경기도교육청, 교원 158명 개인정보 유출 사고 발생…“확인 즉시 폐기”",
+   "url": "https://www.chosun.com/national/regional/2026/11/21/WE5GXZYG2BF7VOLA3ITXCDMKFU/"
+  },
+  {
+   "publisher": "www.dailian.co.kr",
+   "title": "경기도교육청, 교원 158명 개인정보 유출 …재발 방지 약속",
+   "url": "https://www.dailian.co.kr/news/view/1718024/?sc=Naver"
+  }
+ ],
+ "target_text": "2018~2022년 교육 관련 업체와의 계약 체결 자료에 포함된 교원 85명과 교원의 사교육시장 참여 관련 복무감사 결과보고서에 포함된 교원 73명 (기사 기재)",
+ "title": "경기도교육청, 교원 158명 개인정보 비식별 처리 없이 교원소청심사위원회에 제출",
+ "updated_at": "2026-11-22T13:31:56Z"
+}
