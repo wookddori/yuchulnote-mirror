@@ -1,0 +1,59 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "삼성증권은 지난 21일 오후 외부 비인가자가 홈페이지 '고객의 소리(VOC)' 시스템에 접근해 고객이 올린 첨부파일 일부가 유출된 사실을 확인했다고 밝혔다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-21",
+   "date_text": "11.21",
+   "label": "외부 비인가자가 VOC 시스템에 접근, 첨부파일 일부 유출"
+  },
+  {
+   "date_iso": "2026-11-23",
+   "date_text": "11.23",
+   "label": "삼성증권, 고객 8241명 개인정보 유출 사실 공개 및 사과문 게시"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·계좌번호·주소·연락처·운전면허번호 등 13개 항목",
+ "leaked_items_text": "이름, 계좌번호, 주소, 연락처, 운전면허번호 등 13개 항목이 포함됐으며 유출 항목은 고객마다 다르다 (기사 기재).",
+ "notices": [],
+ "org_name": "삼성증권",
+ "reported_date": "2026-11-23",
+ "response_text": "사고 인지 직후 관련 IP를 차단하고 해당 서비스 운영을 중단했으며, 금융감독원과 한국인터넷진흥원에 신고를 완료했다. 유출이 확인된 고객에게는 모두 개별 연락할 예정이며, 박종문 대표이사 명의의 사과문으로 법정손해배상, 민사상 손해배상, 개인정보분쟁조정 신청 등 피해구제 절차를 안내했다. 실제 피해가 확인되면 관련 법령과 내부 기준에 따라 배상하겠다고 밝혔으며, 금전적 피해 입증 여부와 관계없이 유출 고객 전체를 지원할지는 결정되지 않았다 (기사 기재).",
+ "scale_short": "고객 8241명",
+ "scale_text": "고객 8241명의 개인정보가 유출됐다 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-23-x033863ef",
+ "sources": [
+  {
+   "publisher": "www.breaknews.com",
+   "title": "삼성증권 해킹…고객 8241명 개인정보 유출",
+   "url": "http://www.breaknews.com/1253001"
+  },
+  {
+   "publisher": "news.sbs.co.kr",
+   "title": "삼성증권도 해킹 피해…8천여 명 고객 정보 유출",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008858835&plink=ORI"
+  },
+  {
+   "publisher": "www.ppss.kr",
+   "title": "삼성증권 개인정보 8241명 유출 …'일괄 지원' 묻자 \"추후 논의\"",
+   "url": "https://www.ppss.kr/news/articleView.html?idxno=322377"
+  },
+  {
+   "publisher": "news.kbs.co.kr",
+   "title": "삼성증권도 해킹…8천여 명 정보 유출",
+   "url": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8719949"
+  },
+  {
+   "publisher": "www.sisafocus.co.kr",
+   "title": "삼성증권, 고객 8241명 계좌·주소 등 개인정보 유출",
+   "url": "http://www.sisafocus.co.kr/news/articleView.html?idxno=367929"
+  }
+ ],
+ "target_text": "홈페이지 '고객의 소리(VOC)' 시스템에 불만이나 의견을 접수하며 첨부파일·캡처 화면을 올린 고객이다. VOC를 이용하지 않은 고객과는 무관하다고 회사 관계자가 설명했다 (기사 기재).",
+ "title": "삼성증권 홈페이지 고객의 소리(VOC) 시스템 해킹, 고객 8241명 개인정보 유출",
+ "updated_at": "2026-11-23T11:07:33Z"
+}
