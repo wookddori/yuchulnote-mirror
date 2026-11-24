@@ -1,0 +1,74 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "웰컴페이먼츠는 11월 4일 오전 11시부터 6일 오전 8시 사이 가맹점 관리자 페이지에 비정상 접근이 있었고, 17일 오후 7시 52분 해당 페이지를 통해 결제서비스 이용자의 개인(신용)정보가 유출된 사실을 확인했다고 밝혔다. 20일 유출 사실을 공지했고 24일 2차 안내를 냈다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-04",
+   "date_text": "11.04",
+   "label": "가맹점 관리자 페이지 비정상 접근 시작(오전 11시)"
+  },
+  {
+   "date_iso": "2026-11-06",
+   "date_text": "11.06",
+   "label": "비정상 접근 종료(오전 8시)"
+  },
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17",
+   "label": "개인정보 유출 사실 확인(오후 7시 52분)"
+  },
+  {
+   "date_iso": "2026-11-20",
+   "date_text": "11.20",
+   "label": "개인정보 유출 사실 공지(1,388건)"
+  },
+  {
+   "date_iso": "2026-11-24",
+   "date_text": "11.24",
+   "label": "2차 안내로 유출 규모를 1,326건으로 정정"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·연락처·이메일·결제내역·빌링키 등",
+ "leaked_items_text": "성명, 휴대전화번호, 이메일, 가맹점명, 주문번호, 거래식별번호(TID), 빌링키, 결제금액, 상품명, 거래일시, 거래상태, 결제방법, 취소사유 등이 유출됐다. 회사는 카드번호, 비밀번호, 카드 유효기간, 카드보안코드(CVC)는 유출되지 않았다고 밝혔다. (기사 기재)",
+ "notices": [],
+ "org_name": "웰컴페이먼츠",
+ "reported_date": "2026-11-24",
+ "response_text": "웰컴페이먼츠는 접근 경로를 차단하고 관련 계정과 접근 권한을 회수했으며, 관련 취약점 전수점검과 보완 조치를 실시했다. 금융위원회, 금융감독원, 개인정보보호위원회에 신고했고 비정상 로그인과 의심 거래에 대한 집중 감시 체계를 운영 중이라고 밝혔다. (기사 기재)",
+ "scale_short": "1,326건(기존 1,388건에서 정정)",
+ "scale_text": "유출 규모는 1,326건(일부 기사에는 1,326명으로 표기)이다. 11월 20일 공지의 1,388건에서 24일 2차 안내로 1,326건으로 정정됐다. (기사 기재)",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-24-x87421a73",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "웰컴페이먼츠·KIS정보통신서도 개인정보 유출",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147490"
+  },
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "국내 PG사 잇단 해킹 사고…웰컴페이먼츠와 NHN KCP·KIS정보통신 등 개인정보 유출",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209682"
+  },
+  {
+   "publisher": "biz.sbs.co.kr",
+   "title": "NHN KCP·KIS정보통신·웰컴페이먼츠 개인정보 유출",
+   "url": "https://biz.sbs.co.kr/article_hub/20000348417?division=NAVER"
+  },
+  {
+   "publisher": "www.etnews.com",
+   "title": "[단독]NHN KCP·KIS 정보 통신·웰컴페이먼츠도 뚫렸다…금융위, PG사 긴급...",
+   "url": "https://www.etnews.com/20261124000100"
+  },
+  {
+   "publisher": "biz.newdaily.co.kr",
+   "title": "웰컴페이먼츠도 뚫렸다 … 고객 1326명 개인정보 ·결제내역 유출",
+   "url": "https://biz.newdaily.co.kr/site/data/html/2026/11/24/2026112450078.html"
+  }
+ ],
+ "target_text": "웰컴페이먼츠 결제서비스 이용자 (기사 기재)",
+ "title": "웰컴페이먼츠 가맹점 관리자 페이지 비정상 접근, 결제서비스 이용자 1,326건 개인정보 유출",
+ "updated_at": "2026-11-24T12:04:26Z"
+}
