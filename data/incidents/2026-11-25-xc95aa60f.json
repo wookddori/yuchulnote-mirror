@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "다크에덴 운영사는 2026년 11월 25일, 21일부터 23일까지 홈페이지 취약점을 이용한 외부 해킹 공격으로 일부 데이터가 유출됐다고 밝혔다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-21",
+   "date_text": "11.21",
+   "label": "홈페이지 취약점을 이용한 해킹 공격 시작"
+  },
+  {
+   "date_iso": "2026-11-23",
+   "date_text": "11.23",
+   "label": "해킹 공격 종료"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "운영사 유출 사실 공지, KISA 등 관계 기관 신고 완료"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "아이디·이름·이메일·성별·DI·로그인 기록 등",
+ "leaked_items_text": "아이디, 이름, 이메일, 성별, 중복가입확인정보(DI), 일부 로그인 인증 기록, 암호화된 비밀번호 변경 이력이 유출됐다. 일부 회원은 1:1 문의 내역, 2차 비밀번호·OTP 변경 이력, 비밀번호 찾기 질문 및 답변도 유출된 것으로 확인됐다. (기사 기재)",
+ "notices": [],
+ "org_name": "소프톤엔터테인먼트(다크에덴)",
+ "reported_date": "2026-11-25",
+ "response_text": "운영사는 침입 경로와 취약점을 즉시 차단하고 홈페이지 보안 강화 작업을 진행하고 있다. 한국인터넷진흥원(KISA) 등 관계 기관에 신고를 완료했으며, 정확한 피해 범위와 대상자를 계속 확인하고 있다. (기사 기재)",
+ "scale_short": "일부 회원(구체적 규모 미공개)",
+ "scale_text": "기사에는 '일부 회원'으로만 기재되어 있으며 구체적인 피해 규모와 대상자 수는 기재되지 않았다. (기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-25-xc95aa60f",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "MMORPG ‘다크에덴’서 개인정보 유출... 홈페이지 취약점 악용 공격에 당했다",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147539"
+  }
+ ],
+ "target_text": "소프톤엔터테인먼트가 운영하는 MMORPG '다크에덴' 회원 일부 (기사 기재)",
+ "title": "소프톤엔터테인먼트 MMORPG '다크에덴' 홈페이지 취약점 해킹으로 회원 정보 유출",
+ "updated_at": "2026-11-25T13:27:43Z"
+}

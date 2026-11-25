@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "한국생산성본부는 25일 홈페이지 공지를 통해 22일 오전 1시부터 오후 5시 사이에 에듀테크센터의 첨부파일 기능 보안 취약점을 통한 악성 파일 업로드 및 회원 데이터베이스 대상 외부 공격이 발생했다고 밝혔다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-22",
+   "date_text": "11.22",
+   "label": "에듀테크센터 대상 외부 해킹 공격 발생(오전 1시~오후 5시)"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "한국생산성본부 홈페이지 공지로 유출 가능성 공개, 개인정보보호위원회·KISA 신고"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "성명·전화번호·휴대전화번호·생년월일·성별·주소",
+ "leaked_items_text": "유출 가능성이 있는 항목은 성명, 전화번호, 휴대전화번호, 생년월일, 성별, 주소 등 6개 항목이다. (기사 기재)",
+ "notices": [],
+ "org_name": "한국생산성본부(에듀테크센터)",
+ "reported_date": "2026-11-25",
+ "response_text": "한국생산성본부는 인지 즉시 침해 경로와 악성 파일을 차단하고 보안 취약점을 보완했으며, 개인정보보호위원회와 한국인터넷진흥원에 신고를 마쳤다. 회원에게 동일 비밀번호를 쓰는 다른 사이트의 비밀번호 변경과 스미싱·보이스피싱 주의를 당부했다. (기사 기재)",
+ "scale_short": "조사 중, 규모 미공개",
+ "scale_text": "실제 유출 여부와 피해 범위는 조사 중이며 유출 규모 수치는 기사에 공개되지 않았다. (기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-25-x44a65c34",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "한국생산성본부, 개인정보 유출 가능성... 자체 교육 사이트 ‘에듀테크센터’ 해킹 탓",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147537"
+  },
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "한국생산성본부 온라인 교육사이트 해킹…파일 업로드 취약점 악용, 개인정보 유출 가능성",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209732"
+  },
+  {
+   "publisher": "www.yna.co.kr",
+   "title": "한국생산성본부 온라인교육 사이트 해킹… 개인정보 유출 가능성",
+   "url": "https://www.yna.co.kr/view/AKR20261125120400003?input=1195m"
+  }
+ ],
+ "target_text": "한국생산성본부(KPC)가 운영하는 온라인 교육 웹사이트 '에듀테크센터'의 회원 (기사 기재)",
+ "title": "한국생산성본부 온라인 교육사이트 '에듀테크센터' 해킹, 회원 개인정보 유출 가능성",
+ "updated_at": "2026-11-25T13:27:42Z"
+}

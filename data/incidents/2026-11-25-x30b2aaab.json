@@ -1,0 +1,69 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "한국투자저축은행은 2026년 11월 23일 시스템 점검 중 22일 22시42분부터 23일 03시35분 사이 모바일 홈페이지에 대한 외부 비정상 거래로 고객 개인정보가 유출된 사실을 확인했고, 25일 이를 밝혔다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-22",
+   "date_text": "11.22",
+   "label": "22시42분경 모바일 홈페이지에 외부 비정상 거래 시작"
+  },
+  {
+   "date_iso": "2026-11-23",
+   "date_text": "11.23",
+   "label": "03시35분 비정상 거래 종료, 시스템 점검 중 유출 확인"
+  },
+  {
+   "date_iso": "2026-11-24",
+   "date_text": "11.24",
+   "label": "홈페이지에 개인정보 유출 안내 및 사과문 게시"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "한국투자저축은행이 유출 사실 공식 발표"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "이름·생년월일·성별·휴대폰번호·CI",
+ "leaked_items_text": "고객명, 생년월일, 성별, 휴대폰 번호, CI(연계정보)가 유출되었고, 계좌 비밀번호 등 금융거래정보는 유출되지 않았다고 회사가 밝혔다 (기사 기재).",
+ "notices": [],
+ "org_name": "한국투자저축은행",
+ "reported_date": "2026-11-25",
+ "response_text": "회사는 해당 IP와 불법 접속 경로를 차단하고 관련 서비스 운영을 중단했으며, 보안정책 신규 적용과 시스템 모니터링 강화 등 긴급조치를 완료했다고 밝혔다. 홈페이지에 개인정보 유출 안내 및 사과문을 게시했다 (기사 기재).",
+ "scale_short": "고객 8만6433명",
+ "scale_text": "현재까지 확인된 유출 고객은 8만6433명이다 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-25-x30b2aaab",
+ "sources": [
+  {
+   "publisher": "www.mt.co.kr",
+   "title": "한투저축은행, 8만6433명 정보유출 … 금융권 최대 규모",
+   "url": "https://www.mt.co.kr/finance/2026/11/25/2026112517474212900"
+  },
+  {
+   "publisher": "it.chosun.com",
+   "title": "한투저축銀, 8만명 해킹 유출 … 저축은행 두달 새 13만건 털려",
+   "url": "https://it.chosun.com/news/articleView.html?idxno=3000000001838"
+  },
+  {
+   "publisher": "www.yna.co.kr",
+   "title": "한국투자저축은행 8만6천여명 개인정보 유출 …업권 최대 규모",
+   "url": "https://www.yna.co.kr/view/AKR20261125165600002?input=1195m"
+  },
+  {
+   "publisher": "biz.sbs.co.kr",
+   "title": "저축은행 6번째, 한국투자저축은행 8만6천여명 개인정보 유출",
+   "url": "https://biz.sbs.co.kr/article_hub/20000348904?division=NAVER"
+  },
+  {
+   "publisher": "www.etoday.co.kr",
+   "title": "한국투자저축은행, 고객 8만6433명 개인정보 유출",
+   "url": "https://www.etoday.co.kr/news/view/2652999"
+  }
+ ],
+ "target_text": "한국투자저축은행 모바일 홈페이지 이용 고객 (기사 기재).",
+ "title": "한국투자저축은행 모바일 홈페이지 해킹, 고객 8만6433명 개인정보 유출",
+ "updated_at": "2026-11-25T13:27:42Z"
+}
