@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "국립순천대학교 정보전산원은 24일 구 향림통시스템에 대한 비정상적인 외부 접근 시도를 탐지했고, 조사 결과 일부 이용자의 개인정보가 외부로 유출된 정황을 확인했다고 공지했다 (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-24",
+   "date_text": "11.24",
+   "label": "정보전산원, 개인정보 유출 사고 사과 및 안내 공지 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "세부 유출 항목 미공개",
+ "leaked_items_text": "세부 유출 항목은 공지에 명시되지 않았다 (기사 기재)",
+ "notices": [],
+ "org_name": "국립순천대학교",
+ "reported_date": "2026-11-25",
+ "response_text": "대학은 취약점을 긴급 보완하고 외부 접근 경로를 전면 차단했으며, 개인정보보호위원회와 한국인터넷진흥원(KISA) 등 관계기관에 신고하고 조사에 협조 중이다. 성명, 학번 또는 사번, 생년월일 6자리로 유출 대상 여부를 확인하는 조회 페이지를 마련했고, 학내 계정과 동일 비밀번호를 쓰는 외부 사이트의 비밀번호 변경 및 스미싱·보이스피싱 주의를 권고했다 (기사 기재)",
+ "scale_short": "유출 규모 미공개",
+ "scale_text": "유출 규모는 공지에 명시되지 않았다 (기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-25-x017e35b8",
+ "sources": [
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "국립순천대학교 해킹…구 향림통시스템 개인정보 유출 정황 확인",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209706"
+  }
+ ],
+ "target_text": "구 향림통시스템 일부 이용자 (기사 기재)",
+ "title": "국립순천대학교 구 향림통시스템 외부 침입으로 개인정보 유출 정황 확인",
+ "updated_at": "2026-11-25T00:36:22Z"
+}
