@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "한국정보통신(KICC)은 지난 20일 오후 5시 31분경 비정상적인 사용자로부터 접근 시도를 받았고, 이로 인해 일부 가맹점의 정보가 유출됐으며 공격자 IP를 차단 조치했다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-20",
+   "date_text": "11.20",
+   "label": "비정상적인 사용자의 접근 시도 발생(오후 5시 31분경), 공격자 IP 차단"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "가맹점·판매자정보, 제휴간편결제 거래내역",
+ "leaked_items_text": "가맹점 및 판매자정보와 제휴간편결제 거래내역이 유출됐으며, 상호명, 사업자번호, 대표자명, 주소, MID, 거래번호 등이 포함된다. (기사 기재)",
+ "notices": [],
+ "org_name": "한국정보통신(KICC)",
+ "reported_date": "2026-11-25",
+ "response_text": "KICC는 공격자 IP를 차단 조치했다. (기사 기재)",
+ "scale_short": null,
+ "scale_text": null,
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-25-x6471cd8c",
+ "sources": [
+  {
+   "publisher": "www.etnews.com",
+   "title": "[단독]PG사에 이어 VAN사도…한국 정보 통신도 털렸다",
+   "url": "https://www.etnews.com/20261125000064"
+  }
+ ],
+ "target_text": "신용카드 부가통신사업자(VAN) 한국정보통신(KICC)의 일부 가맹점 및 판매자 정보 (기사 기재)",
+ "title": "한국정보통신(KICC) 가맹점·판매자 정보 및 제휴간편결제 거래내역 유출",
+ "updated_at": "2026-11-25T05:30:53Z"
+}

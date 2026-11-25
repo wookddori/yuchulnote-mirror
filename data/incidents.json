@@ -3,6 +3,68 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "글로벌머니익스프레스(GME)가 최근 해킹 공격으로 20억원의 자금 피해를 입은 것으로 금융권을 통해 확인됐다. (기사 기재)",
+   "events": [],
+   "investigating": true,
+   "leaked_items_short": "법인 자금 20억원 탈취",
+   "leaked_items_text": "회사의 법인 자금 20억원이 탈취됐다. 개인정보 유출 여부는 기사에 기재되지 않았다. (기사 기재)",
+   "notices": [],
+   "org_name": "글로벌머니익스프레스(GME)",
+   "reported_date": "2026-11-25",
+   "response_text": "금융당국이 피해 규모와 사고 경위를 파악하기 위해 현장 확인에 나섰다. 탈취된 자금은 회사가 자체적으로 충당할 수 있는 것으로 전해졌다. (기사 기재)",
+   "scale_short": "자금 20억원, 고객 자금 손실 없음",
+   "scale_text": "피해 자금은 20억원이다. 고객 자금에는 손실이 발생하지 않은 것으로 파악됐다. (기사 기재)",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-25-xcd2f3939",
+   "sources": [
+    {
+     "publisher": "news.einfomax.co.kr",
+     "title": "해외송금업체, 해킹에 20억 털렸다… 정보유출 넘어 자금 탈취까지",
+     "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446384"
+    }
+   ],
+   "target_text": "탈취된 자금은 고객이 송금을 위해 맡긴 돈이 아니라 회사가 지급·송금 업무를 위해 자체적으로 확보해 둔 법인 자금인 것으로 파악됐다. (기사 기재)",
+   "title": "글로벌머니익스프레스(GME) 해킹으로 법인 자금 20억원 탈취",
+   "updated_at": "2026-11-25T05:30:53Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "한국정보통신(KICC)은 지난 20일 오후 5시 31분경 비정상적인 사용자로부터 접근 시도를 받았고, 이로 인해 일부 가맹점의 정보가 유출됐으며 공격자 IP를 차단 조치했다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-20",
+     "date_text": "11.20",
+     "label": "비정상적인 사용자의 접근 시도 발생(오후 5시 31분경), 공격자 IP 차단"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "가맹점·판매자정보, 제휴간편결제 거래내역",
+   "leaked_items_text": "가맹점 및 판매자정보와 제휴간편결제 거래내역이 유출됐으며, 상호명, 사업자번호, 대표자명, 주소, MID, 거래번호 등이 포함된다. (기사 기재)",
+   "notices": [],
+   "org_name": "한국정보통신(KICC)",
+   "reported_date": "2026-11-25",
+   "response_text": "KICC는 공격자 IP를 차단 조치했다. (기사 기재)",
+   "scale_short": null,
+   "scale_text": null,
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-25-x6471cd8c",
+   "sources": [
+    {
+     "publisher": "www.etnews.com",
+     "title": "[단독]PG사에 이어 VAN사도…한국 정보 통신도 털렸다",
+     "url": "https://www.etnews.com/20261125000064"
+    }
+   ],
+   "target_text": "신용카드 부가통신사업자(VAN) 한국정보통신(KICC)의 일부 가맹점 및 판매자 정보 (기사 기재)",
+   "title": "한국정보통신(KICC) 가맹점·판매자 정보 및 제휴간편결제 거래내역 유출",
+   "updated_at": "2026-11-25T05:30:53Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "국립순천대학교 정보전산원은 24일 구 향림통시스템에 대한 비정상적인 외부 접근 시도를 탐지했고, 조사 결과 일부 이용자의 개인정보가 외부로 유출된 정황을 확인했다고 공지했다 (기사 기재)",
    "events": [
     {
