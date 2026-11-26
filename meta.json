@@ -1,10 +1,10 @@
 {
- "content_hash": "ac161b2211901aab84f2cf22edb133a6039a64d669d955c06ac206e4d0743c29",
- "incident_count": 397,
+ "content_hash": "345a31b2406a2980bca3e5877bef486c9c203759d79720bc256557f98b774743",
+ "incident_count": 398,
  "last_checked_at": "2026-11-26T07:00:00Z",
  "schema_version": 1,
  "sector_counts": {
-  "education": 47,
+  "education": 48,
   "finance": 69,
   "industry": 33,
   "it": 37,

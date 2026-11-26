@@ -1,0 +1,48 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "경남대가 해킹을 당해 교직원·학생 정보 1,202건이 유출됐다고 2026-11-26자 SBS 기사 제목에 보도되었다 (기사 기재)",
+ "events": [],
+ "investigating": false,
+ "leaked_items_short": "교직원·학생 정보",
+ "leaked_items_text": "교직원·학생 정보 (기사 기재)",
+ "notices": [],
+ "org_name": "경남대",
+ "reported_date": "2026-11-26",
+ "response_text": null,
+ "scale_short": "1,202건",
+ "scale_text": "1,202건 (기사 기재)",
+ "sector": "education",
+ "sector_tags": [],
+ "slug": "2026-11-26-x7ec550aa",
+ "sources": [
+  {
+   "publisher": "www.ytn.co.kr",
+   "title": "경남대 1,202건 개인정보 유출 ...\"민감정보는 없어\"",
+   "url": "https://www.ytn.co.kr/_ln/0115_202611261210191342"
+  },
+  {
+   "publisher": "www.newsis.com",
+   "title": "경남대 연구행정시스템 해킹… 개인정보 1202건 유출",
+   "url": "https://www.newsis.com/view/NISX20261126_0003884114"
+  },
+  {
+   "publisher": "news.sbs.co.kr",
+   "title": "경남대도 해킹당했다…교직원·학생 정보 '1,202건' 유출",
+   "url": "https://news.sbs.co.kr/news/endPage.do?cooper=NAVER&news_id=N1008864183&plink=ORI"
+  },
+  {
+   "publisher": "magazine.hankyung.com",
+   "title": "경남대도 해킹 피해…교직원·학생 개인정보 1202건 유출",
+   "url": "https://magazine.hankyung.com/job-joy/article/202611261220d"
+  },
+  {
+   "publisher": "www.yna.co.kr",
+   "title": "경남대도 해킹 피해…교직원·학생 개인정보 1천202건 유출",
+   "url": "https://www.yna.co.kr/view/AKR20261126032500052?input=1195m"
+  }
+ ],
+ "target_text": "경남대 교직원 및 학생 (기사 기재)",
+ "title": "경남대 해킹, 교직원·학생 정보 1,202건 유출",
+ "updated_at": "2026-11-26T07:14:36Z"
+}
