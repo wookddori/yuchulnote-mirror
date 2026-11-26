@@ -3,6 +3,133 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "팸텍은 2026년 11월 23일 외부 공격자가 업무시스템 서버를 대상으로 랜섬웨어 공격을 했고 같은 날 사고를 인지했다고 11월 25일 공지했다. 현재까지 개인정보가 실제로 외부에 유출된 사실은 확인되지 않았다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-23",
+     "date_text": "11.23",
+     "label": "랜섬웨어 공격 발생 및 사고 인지"
+    },
+    {
+     "date_iso": "2026-11-25",
+     "date_text": "11.25",
+     "label": "홈페이지에 개인정보 유출 가능성 안내 및 사과문 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "주주 성명·주소·주식수, 전직 임직원 주민번호 등",
+   "leaked_items_text": "주주는 성명, 주소, 보유 주식 수이며, 과거 임직원은 성명, 사번, 주민등록번호, 주소, 휴대전화번호, 이메일 등이 유출 가능성이 있는 항목이다. (기사 기재)",
+   "notices": [],
+   "org_name": "팸텍",
+   "reported_date": "2026-11-26",
+   "response_text": "팸텍은 사고 인지 직후 공격자의 접속을 차단하고 비밀번호를 변경했으며, 2단계 인증과 접속 모니터링을 강화했다. 개인정보보호위원회와 한국인터넷진흥원(KISA) 등 관계기관에 신고했고 피해 접수 및 상담 창구를 운영하고 있다. 유출 여부가 확정되면 구체적인 내용을 다시 안내하겠다고 밝혔다. (기사 기재)",
+   "scale_short": "전체 피해 인원 미공개",
+   "scale_text": "전체 피해 인원, 침해 서버의 범위, 최초 침입 경로, 랜섬웨어 공격 조직은 공개되지 않았다. (기사 기재)",
+   "sector": "industry",
+   "sector_tags": [],
+   "slug": "2026-11-26-xc7e14eb9",
+   "sources": [
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "코스닥 상장사 팸텍, 랜섬웨어 공격 당해…주주·임직원 개인정보 유출 KISA 신고",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209775"
+    },
+    {
+     "publisher": "www.boannews.com",
+     "title": "반도체 장비 업체 ‘팸텍’ 랜섬웨어 당했다... 개인정보 유출 가능성 제기",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147577"
+    }
+   ],
+   "target_text": "각 분기 말 기준 팸텍 주식을 보유했던 주주와 팸텍 및 계열사에 재직했던 임직원이다. (기사 기재)",
+   "title": "팸텍 랜섬웨어 공격으로 주주·전직 임직원 개인정보 유출 가능성",
+   "updated_at": "2026-11-26T11:22:42Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "공간정보산업진흥원은 11월 24일 비인가된 접근으로 개인정보 유출 의심 정황을 확인했다고 25일 공지했으며, 실제 유출 여부 및 항목은 관계기관 조사 결과에 따라 달라질 수 있다고 밝혔다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-24",
+     "date_text": "11.24",
+     "label": "비인가 접근으로 개인정보 유출 의심 정황 확인"
+    },
+    {
+     "date_iso": "2026-11-25",
+     "date_text": "11.25",
+     "label": "공지사항 게시 및 홈페이지 임시 운영 페이지 전환"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "이름, 휴대전화번호, 이메일",
+   "leaked_items_text": "유출 가능성이 제기된 항목은 이름, 휴대전화번호, 이메일 3개이다. (기사 기재)",
+   "notices": [],
+   "org_name": "공간정보산업진흥원",
+   "reported_date": "2026-11-26",
+   "response_text": "공간정보산업진흥원은 25일 홈페이지를 임시 운영 페이지로 전환해 기관 소개, 사업 안내, 공지사항·채용정보 등 기본 정보만 제공하고 있으며, 관계기관 조사가 완료되는 대로 관계 법령에 따라 상세 내용과 조치사항을 별도 공지할 방침이다. (기사 기재)",
+   "scale_short": null,
+   "scale_text": null,
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-26-xab18cd03",
+   "sources": [
+    {
+     "publisher": "www.boannews.com",
+     "title": "국토부 산하 공간정보산업진흥원 개인정보 유출 가능성",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147573"
+    }
+   ],
+   "target_text": "국토교통부 산하 공공기관 공간정보산업진흥원 홈페이지의 교육신청, 컨설팅 접수 이용자 (기사 기재)",
+   "title": "공간정보산업진흥원 홈페이지 비인가 접근, 개인정보 유출 의심",
+   "updated_at": "2026-11-26T11:22:43Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "토큰포스트는 2026년 11월 25일 오후 5시 15분 홈페이지에 개인정보 유출 안내를 게시했으며, 11월 21일 외부 공격자가 관리자 계정을 탈취해 관리자 화면에서 일부 회원의 개인정보를 조회했다고 밝혔다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-21",
+     "date_text": "11.21",
+     "label": "외부 공격자가 관리자 계정을 탈취하고 회원 정보 조회, 공통 스크립트 변조"
+    },
+    {
+     "date_iso": "2026-11-24",
+     "date_text": "11.24",
+     "label": "피해 회원에게 이메일로 개별 통지"
+    },
+    {
+     "date_iso": "2026-11-25",
+     "date_text": "11.25",
+     "label": "홈페이지에 개인정보 유출 안내 및 사과문 게시, 개인정보위·KISA 신고"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "닉네임·이메일·연락처·IP·지갑 주소·거래 내역 등",
+   "leaked_items_text": "닉네임, 이메일, 휴대전화번호 뒷자리 4자리(일부 회원은 전체 번호), 접속 IP 주소, 가상자산 지갑 주소, 실명(일부 회원), 고객 문의 제목·유형·처리 상태, 포인트 전환 신청 내역, NEWS 토큰 거래 내역이 유출됐다. 로그인 토큰, 세션 정보, 회원번호, 접속 주소는 외부로 전송됐을 가능성이 있다. 비밀번호는 암호화되어 저장되어 있으며 유출 정황은 확인되지 않았다. (기사 기재)",
+   "notices": [],
+   "org_name": "토큰포스트",
+   "reported_date": "2026-11-26",
+   "response_text": "토큰포스트는 공격 경로와 공격 IP를 차단하고, 관리자 로그인 2단계 인증 의무화 및 로그인 실패 횟수 제한을 시행했다. 전체 회원의 기존 로그인 정보를 무효화하고 변조 내용을 원상 복구했으며 기록과 증거를 보존했다. 11월 24일 피해 회원에게 이메일로 개별 통지했고, 개인정보보호위원회와 한국인터넷진흥원(KISA)에 신고했다. (기사 기재)",
+   "scale_short": "피해 회원 수 미공개",
+   "scale_text": "전체 피해 회원 수는 공개되지 않았다. (기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-26-x8d71745f",
+   "sources": [
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "[단독] 가상자산 전문매체 토큰포스트 해킹…회원정보·지갑 주소·토큰 거래 내역까지 유출 정황",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209769"
+    }
+   ],
+   "target_text": "토큰포스트 회원. 회원별 유출 항목은 서로 다르며, 21일 오후 4시 50분부터 56분까지 약 6분간 로그인 상태로 접속한 회원은 로그인 토큰, 세션 정보 등이 외부로 전송됐을 가능성이 있다. (기사 기재)",
+   "title": "토큰포스트 관리자 계정 탈취 및 회원 개인정보 유출",
+   "updated_at": "2026-11-26T11:22:43Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "경남대가 해킹을 당해 교직원·학생 정보 1,202건이 유출됐다고 2026-11-26자 SBS 기사 제목에 보도되었다 (기사 기재)",
    "events": [],
    "investigating": false,
@@ -47,6 +174,99 @@
    "target_text": "경남대 교직원 및 학생 (기사 기재)",
    "title": "경남대 해킹, 교직원·학생 정보 1,202건 유출",
    "updated_at": "2026-11-26T07:15:31Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "다나와 운영사 커넥트웨이브는 11월 26일 외부 침해로 추정되는 보안 사고를 확인하고 이날 오전 2시부터 서비스 이용을 중단했다. 서비스 중단은 같은 날 오후까지 13시간 이상 이어졌다(기사 기재).",
+   "events": [
+    {
+     "date_iso": "2026-11-26",
+     "date_text": "11.26",
+     "label": "오전 2시부터 다나와 서비스 이용 중단, 외부 침해 추정 보안 사고 확인 및 공지"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "유출 여부 조사 중, 항목 미확인",
+   "leaked_items_text": "개인정보 유출 여부는 조사 중이며, 유출 항목은 확인되지 않았다. 구체적인 공격 수법, 최초 침입 경로, 랜섬웨어 여부도 공개되지 않았다(기사 기재).",
+   "notices": [],
+   "org_name": "다나와(커넥트웨이브)",
+   "reported_date": "2026-11-26",
+   "response_text": "커넥트웨이브는 이용자 정보와 서비스를 보호하기 위해 서비스를 일시 중단하고 사고 원인과 영향 범위를 조사 중이다. 관계기관 신고 절차를 진행하고 있으며 외부 보안 전문기관이 조사에 참여할 예정이다. 안전이 확인된 서버부터 순차적으로 서비스를 재개할 계획이며, 유출이 확인되면 공지와 개별 안내를 하겠다고 밝혔다. 다른 사이트에서 동일한 비밀번호를 사용하는 고객에게는 비밀번호 변경을 권고했다(기사 기재).",
+   "scale_short": null,
+   "scale_text": null,
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-26-x7bb5bbf7",
+   "sources": [
+    {
+     "publisher": "www.boannews.com",
+     "title": "가격 비교 플랫폼 ‘다나와’ 해킹 추정 사고... 서비스 일시 중단",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147585"
+    },
+    {
+     "publisher": "www.newsis.com",
+     "title": "가격비교 사이트 다나와, 외부 침해 추정사고로 서비스 중단",
+     "url": "https://www.newsis.com/view/NISX20261126_0003885067"
+    },
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "다나와, 해킹 사고로 서비스 중단…회원 개인정보 유출 여부 촉각",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209761"
+    },
+    {
+     "publisher": "zdnet.co.kr",
+     "title": "다나와, 외부 침해 추정 사고로 서비스 중단",
+     "url": "https://zdnet.co.kr/view/?no=20261126153610"
+    },
+    {
+     "publisher": "www.etnews.com",
+     "title": "[단독] 다나와, 보안 사고로 서비스 이용 중단…“ 개인정보 유출 여부 ...",
+     "url": "https://www.etnews.com/20261126000392"
+    }
+   ],
+   "target_text": "가격 비교 플랫폼 '다나와'(운영사 커넥트웨이브)의 서비스(기사 기재)",
+   "title": "다나와 외부 침해 추정 보안 사고, 서비스 중단",
+   "updated_at": "2026-11-26T11:22:43Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "이머니는 11월 20일 회사를 사칭한 '결제금액 환불' 연락을 통해 일부 고객의 개인정보가 유출된 사실을 확인했으며, 같은 날 엑스원 홈페이지의 전문가 계정 도용과 서버 파일 접근 정황을 발견했다. 11월 24일 엑스원 홈페이지에 '개인정보 유출 가능성 안내' 공지를 게시했다 (기사 기재).",
+   "events": [
+    {
+     "date_iso": "2026-11-20",
+     "date_text": "11.20",
+     "label": "환불 사칭 연락을 통해 유출 확인, 전문가 계정 도용·서버 파일 접근 정황 발견"
+    },
+    {
+     "date_iso": "2026-11-24",
+     "date_text": "11.24",
+     "label": "엑스원 홈페이지에 '개인정보 유출 가능성 안내' 공지 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "성명·휴대전화번호·아이디·결제내역 등 8개 항목",
+   "leaked_items_text": "유출 가능성이 있는 항목은 성명, 휴대전화번호, 아이디, 비밀번호(일방향 암호화된 저장값), 연령대, 이용·결제한 서비스명, 결제 일시, 결제 금액 등 8개 항목이다 (기사 기재).",
+   "notices": [],
+   "org_name": "이머니(엑스원)",
+   "reported_date": "2026-11-26",
+   "response_text": "이머니는 도용된 계정을 차단하고 보안취약점 수정과 접근 경로 폐쇄 등의 조치를 시행했다. 사고 관련 기록을 보존하고 외부 전문기관을 통해 조사 중이며 한국인터넷진흥원(KISA)에 신고했다. 환불·보상 사칭 연락에 응대하지 말 것과 동일 비밀번호를 쓰는 다른 사이트의 비밀번호 변경을 안내했다 (기사 기재).",
+   "scale_short": "전체 유출 규모 조사 중",
+   "scale_text": "개인정보가 유출된 고객을 모두 특정하기 어려워 해당 시스템을 통해 결제한 고객을 대상으로 안내했으며, 최초 침해 시점과 전체 유출 규모는 조사 중이다 (기사 기재).",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-26-x7547c7f8",
+   "sources": [
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "[단독] 다우키움그룹 계열사 이머니 ‘엑스원’ 해킹 정황…고객 개인정보 유출, 환불 사칭 연락으로 정보유출 인지",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209765"
+    }
+   ],
+   "target_text": "다우키움그룹 계열사 이머니가 운영하는 주식투자 정보 플랫폼 엑스원(X1)에서 해당 시스템을 통해 결제한 고객이 안내 대상이다 (기사 기재).",
+   "title": "다우키움그룹 계열 이머니, 주식투자 정보 플랫폼 엑스원 전문가 계정 도용·서버 파일 접근으로 고객 개인정보 유출",
+   "updated_at": "2026-11-26T11:22:43Z"
   },
   {
    "category": "hacking",

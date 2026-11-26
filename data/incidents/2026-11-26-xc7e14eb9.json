@@ -1,0 +1,44 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "팸텍은 2026년 11월 23일 외부 공격자가 업무시스템 서버를 대상으로 랜섬웨어 공격을 했고 같은 날 사고를 인지했다고 11월 25일 공지했다. 현재까지 개인정보가 실제로 외부에 유출된 사실은 확인되지 않았다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-23",
+   "date_text": "11.23",
+   "label": "랜섬웨어 공격 발생 및 사고 인지"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "홈페이지에 개인정보 유출 가능성 안내 및 사과문 게시"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "주주 성명·주소·주식수, 전직 임직원 주민번호 등",
+ "leaked_items_text": "주주는 성명, 주소, 보유 주식 수이며, 과거 임직원은 성명, 사번, 주민등록번호, 주소, 휴대전화번호, 이메일 등이 유출 가능성이 있는 항목이다. (기사 기재)",
+ "notices": [],
+ "org_name": "팸텍",
+ "reported_date": "2026-11-26",
+ "response_text": "팸텍은 사고 인지 직후 공격자의 접속을 차단하고 비밀번호를 변경했으며, 2단계 인증과 접속 모니터링을 강화했다. 개인정보보호위원회와 한국인터넷진흥원(KISA) 등 관계기관에 신고했고 피해 접수 및 상담 창구를 운영하고 있다. 유출 여부가 확정되면 구체적인 내용을 다시 안내하겠다고 밝혔다. (기사 기재)",
+ "scale_short": "전체 피해 인원 미공개",
+ "scale_text": "전체 피해 인원, 침해 서버의 범위, 최초 침입 경로, 랜섬웨어 공격 조직은 공개되지 않았다. (기사 기재)",
+ "sector": "industry",
+ "sector_tags": [],
+ "slug": "2026-11-26-xc7e14eb9",
+ "sources": [
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "코스닥 상장사 팸텍, 랜섬웨어 공격 당해…주주·임직원 개인정보 유출 KISA 신고",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209775"
+  },
+  {
+   "publisher": "www.boannews.com",
+   "title": "반도체 장비 업체 ‘팸텍’ 랜섬웨어 당했다... 개인정보 유출 가능성 제기",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147577"
+  }
+ ],
+ "target_text": "각 분기 말 기준 팸텍 주식을 보유했던 주주와 팸텍 및 계열사에 재직했던 임직원이다. (기사 기재)",
+ "title": "팸텍 랜섬웨어 공격으로 주주·전직 임직원 개인정보 유출 가능성",
+ "updated_at": "2026-11-26T11:22:42Z"
+}

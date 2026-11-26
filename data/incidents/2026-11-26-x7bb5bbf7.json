@@ -1,0 +1,54 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "다나와 운영사 커넥트웨이브는 11월 26일 외부 침해로 추정되는 보안 사고를 확인하고 이날 오전 2시부터 서비스 이용을 중단했다. 서비스 중단은 같은 날 오후까지 13시간 이상 이어졌다(기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-26",
+   "date_text": "11.26",
+   "label": "오전 2시부터 다나와 서비스 이용 중단, 외부 침해 추정 보안 사고 확인 및 공지"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "유출 여부 조사 중, 항목 미확인",
+ "leaked_items_text": "개인정보 유출 여부는 조사 중이며, 유출 항목은 확인되지 않았다. 구체적인 공격 수법, 최초 침입 경로, 랜섬웨어 여부도 공개되지 않았다(기사 기재).",
+ "notices": [],
+ "org_name": "다나와(커넥트웨이브)",
+ "reported_date": "2026-11-26",
+ "response_text": "커넥트웨이브는 이용자 정보와 서비스를 보호하기 위해 서비스를 일시 중단하고 사고 원인과 영향 범위를 조사 중이다. 관계기관 신고 절차를 진행하고 있으며 외부 보안 전문기관이 조사에 참여할 예정이다. 안전이 확인된 서버부터 순차적으로 서비스를 재개할 계획이며, 유출이 확인되면 공지와 개별 안내를 하겠다고 밝혔다. 다른 사이트에서 동일한 비밀번호를 사용하는 고객에게는 비밀번호 변경을 권고했다(기사 기재).",
+ "scale_short": null,
+ "scale_text": null,
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-26-x7bb5bbf7",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "가격 비교 플랫폼 ‘다나와’ 해킹 추정 사고... 서비스 일시 중단",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147585"
+  },
+  {
+   "publisher": "www.newsis.com",
+   "title": "가격비교 사이트 다나와, 외부 침해 추정사고로 서비스 중단",
+   "url": "https://www.newsis.com/view/NISX20261126_0003885067"
+  },
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "다나와, 해킹 사고로 서비스 중단…회원 개인정보 유출 여부 촉각",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209761"
+  },
+  {
+   "publisher": "zdnet.co.kr",
+   "title": "다나와, 외부 침해 추정 사고로 서비스 중단",
+   "url": "https://zdnet.co.kr/view/?no=20261126153610"
+  },
+  {
+   "publisher": "www.etnews.com",
+   "title": "[단독] 다나와, 보안 사고로 서비스 이용 중단…“ 개인정보 유출 여부 ...",
+   "url": "https://www.etnews.com/20261126000392"
+  }
+ ],
+ "target_text": "가격 비교 플랫폼 '다나와'(운영사 커넥트웨이브)의 서비스(기사 기재)",
+ "title": "다나와 외부 침해 추정 보안 사고, 서비스 중단",
+ "updated_at": "2026-11-26T11:22:43Z"
+}

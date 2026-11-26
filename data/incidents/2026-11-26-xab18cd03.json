@@ -1,0 +1,39 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "공간정보산업진흥원은 11월 24일 비인가된 접근으로 개인정보 유출 의심 정황을 확인했다고 25일 공지했으며, 실제 유출 여부 및 항목은 관계기관 조사 결과에 따라 달라질 수 있다고 밝혔다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-24",
+   "date_text": "11.24",
+   "label": "비인가 접근으로 개인정보 유출 의심 정황 확인"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "공지사항 게시 및 홈페이지 임시 운영 페이지 전환"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "이름, 휴대전화번호, 이메일",
+ "leaked_items_text": "유출 가능성이 제기된 항목은 이름, 휴대전화번호, 이메일 3개이다. (기사 기재)",
+ "notices": [],
+ "org_name": "공간정보산업진흥원",
+ "reported_date": "2026-11-26",
+ "response_text": "공간정보산업진흥원은 25일 홈페이지를 임시 운영 페이지로 전환해 기관 소개, 사업 안내, 공지사항·채용정보 등 기본 정보만 제공하고 있으며, 관계기관 조사가 완료되는 대로 관계 법령에 따라 상세 내용과 조치사항을 별도 공지할 방침이다. (기사 기재)",
+ "scale_short": null,
+ "scale_text": null,
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-26-xab18cd03",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "국토부 산하 공간정보산업진흥원 개인정보 유출 가능성",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147573"
+  }
+ ],
+ "target_text": "국토교통부 산하 공공기관 공간정보산업진흥원 홈페이지의 교육신청, 컨설팅 접수 이용자 (기사 기재)",
+ "title": "공간정보산업진흥원 홈페이지 비인가 접근, 개인정보 유출 의심",
+ "updated_at": "2026-11-26T11:22:43Z"
+}

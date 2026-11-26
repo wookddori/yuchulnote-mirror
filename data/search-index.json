@@ -2,12 +2,57 @@
  "items": [
   {
    "keywords": [
+    "팸텍"
+   ],
+   "org_name": "팸텍",
+   "sector": "industry",
+   "slug": "2026-11-26-xc7e14eb9",
+   "title": "팸텍 랜섬웨어 공격으로 주주·전직 임직원 개인정보 유출 가능성"
+  },
+  {
+   "keywords": [
+    "공간정보산업진흥원"
+   ],
+   "org_name": "공간정보산업진흥원",
+   "sector": "public",
+   "slug": "2026-11-26-xab18cd03",
+   "title": "공간정보산업진흥원 홈페이지 비인가 접근, 개인정보 유출 의심"
+  },
+  {
+   "keywords": [
+    "토큰포스트"
+   ],
+   "org_name": "토큰포스트",
+   "sector": "service",
+   "slug": "2026-11-26-x8d71745f",
+   "title": "토큰포스트 관리자 계정 탈취 및 회원 개인정보 유출"
+  },
+  {
+   "keywords": [
     "경남대"
    ],
    "org_name": "경남대",
    "sector": "education",
    "slug": "2026-11-26-x7ec550aa",
    "title": "경남대 해킹, 교직원·학생 정보 1,202건 유출"
+  },
+  {
+   "keywords": [
+    "다나와(커넥트웨이브)"
+   ],
+   "org_name": "다나와(커넥트웨이브)",
+   "sector": "service",
+   "slug": "2026-11-26-x7bb5bbf7",
+   "title": "다나와 외부 침해 추정 보안 사고, 서비스 중단"
+  },
+  {
+   "keywords": [
+    "이머니(엑스원)"
+   ],
+   "org_name": "이머니(엑스원)",
+   "sector": "finance",
+   "slug": "2026-11-26-x7547c7f8",
+   "title": "다우키움그룹 계열 이머니, 주식투자 정보 플랫폼 엑스원 전문가 계정 도용·서버 파일 접근으로 고객 개인정보 유출"
   },
   {
    "keywords": [
