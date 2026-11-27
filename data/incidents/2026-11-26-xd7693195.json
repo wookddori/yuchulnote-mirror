@@ -1,0 +1,49 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "수협은행은 외부 해킹 공격으로 고객 54명의 정보가 유출된 사실을 확인하고 금융감독원에 보고했다. 26일 금융권 보도로 알려졌으며 침해 경로와 원인은 분석 중이다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-26",
+   "date_text": "11.26",
+   "label": "수협은행이 해킹으로 인한 고객 54명 정보 유출을 확인하고 금융감독원에 보고한 사실이 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "대출정보, 신용정보, 주소 등",
+ "leaked_items_text": "고객의 대출정보, 신용정보, 주소 등이 포함된 것으로 파악됐다 (기사 기재).",
+ "notices": [],
+ "org_name": "수협은행",
+ "reported_date": "2026-11-26",
+ "response_text": "금융감독원에 보고했고, 피해 고객에게 개별 통지하고 피해신고센터를 운영할 계획이다. 정보 유출 조회 시스템을 개발해 고객이 직접 확인하도록 하며, 보안관제 인력을 강화하고 주·야간 근무를 편성했다. 사이버보안관제센터 침해사고 분석팀이 로그와 과거 접속 기록을 분석해 침해 경로, 원인, 추가 피해 여부를 조사 중이다 (기사 기재).",
+ "scale_short": "고객 54명",
+ "scale_text": "고객 54명의 개인정보가 유출됐다 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-26-xd7693195",
+ "sources": [
+  {
+   "publisher": "biz.sbs.co.kr",
+   "title": "Sh수협은행도 뚫렸다…연쇄 해킹 피해 은행 5곳으로 늘어",
+   "url": "https://biz.sbs.co.kr/article_hub/20000349207?division=NAVER"
+  },
+  {
+   "publisher": "www.insightkorea.co.kr",
+   "title": "한달 만에 2번 해킹 당한 수협은행…신학기 행장 연임 문턱 앞두고 '악...",
+   "url": "https://www.insightkorea.co.kr/news/articleView.html?idxno=259891"
+  },
+  {
+   "publisher": "news.einfomax.co.kr",
+   "title": "수협은행도 해킹에 뚫렸다…고객 54명 정보 유출",
+   "url": "https://news.einfomax.co.kr/news/articleView.html?idxno=4446848"
+  },
+  {
+   "publisher": "www.mt.co.kr",
+   "title": "AI활용 추정 해킹에 수협은행도 뚫렸다…피해 은행 5곳으로",
+   "url": "https://www.mt.co.kr/finance/2026/11/26/2026112618003425503"
+  }
+ ],
+ "target_text": "수협은행 고객 (기사 기재).",
+ "title": "수협은행 해킹으로 고객 54명 대출·신용정보 유출",
+ "updated_at": "2026-11-27T00:49:53Z"
+}
