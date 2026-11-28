@@ -1,0 +1,69 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "2023년 11월 동행복권이 운영하는 복권통합포털에서 해커가 사전에 확보한 회원 아이디(ID) 목록을 바탕으로 비밀번호 변경 기능의 인증 취약점을 이용해 타인 계정의 비밀번호를 변경한 뒤 로그인에 성공했고, 이 과정에서 회원 약 75만명의 개인정보가 외부로 유출되었다. 서울행정법원은 2026년 11월 19일 동행복권이 개인정보보호위원회를 상대로 낸 과징금 부과 처분 취소 소송에서 원고 패소 판결을 내렸다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": null,
+   "date_text": "2023.11",
+   "label": "복권통합포털 해킹으로 회원 정보 유출 발생"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2025.01",
+   "label": "개인정보보호위원회, 과징금 5억300만원·과태료 480만원 부과"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.11.19",
+   "label": "서울행정법원, 동행복권의 과징금 취소 소송 원고 패소 판결"
+  },
+  {
+   "date_iso": null,
+   "date_text": "2026.11.28",
+   "label": "판결 내용 보도"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "회원 개인정보(세부 항목 기사 미기재)",
+ "leaked_items_text": "기사에 유출 항목은 구체적으로 기재되어 있지 않고 회원 개인정보로만 표기되었다. (기사 기재)",
+ "notices": [],
+ "org_name": "동행복권",
+ "reported_date": "2026-11-28",
+ "response_text": "개인정보보호위원회는 지난해 1월 전체회의에서 비밀번호 변경 기능 설계·구현 시 인증 보안 취약점 점검과 개선 조치, 이상행위 탐지·차단 안전조치가 미흡했다고 보고 과징금 5억300만원과 과태료 480만원을 부과했다. 동행복권은 처분에 불복해 행정소송을 제기했으나 서울행정법원은 2026년 11월 19일 청구를 기각했다. 재판부는 사고 이후에야 방화벽 차단 등 조치가 이루어졌다고 판단했다. (기사 기재)",
+ "scale_short": "회원 약 75만명",
+ "scale_text": "회원 약 75만명의 개인정보가 유출되었다. (기사 기재)",
+ "sector": "service",
+ "sector_tags": [],
+ "slug": "2026-11-28-x1322f671",
+ "sources": [
+  {
+   "publisher": "www.hidomin.com",
+   "title": "동행복권, 75만명 개인정보 유출 5억 과징금 불복소송서 패소",
+   "url": "https://www.hidomin.com/news/articleView.html?idxno=731378"
+  },
+  {
+   "publisher": "news.tvchosun.com",
+   "title": "75만 명 개인정보 를 유출 한 '동행복권'…法 \"5억원 과징금 적법\"",
+   "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/28/2026112890025.html"
+  },
+  {
+   "publisher": "mbnmoney.mbn.co.kr",
+   "title": "75만명 개인정보 유출 '동행복권'…법원 \"5억원 과징금 적법\"",
+   "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005972222"
+  },
+  {
+   "publisher": "www.dailysecu.com",
+   "title": "75만명 개인정보 유출 동행복권, 과징금 취소소송 패소…법원, 보안조치 미흡 판단",
+   "url": "https://www.dailysecu.com/news/articleView.html?idxno=209800"
+  },
+  {
+   "publisher": "www.ikbc.co.kr",
+   "title": "'75만 명 개인정보 유출 ' 동행복권, 과징금 5억원 취소 소송 패소",
+   "url": "https://www.ikbc.co.kr/article/view/kbc202611280006"
+  }
+ ],
+ "target_text": "동행복권이 운영하는 복권통합포털 웹사이트 회원 (기사 기재)",
+ "title": "동행복권 복권통합포털 해킹으로 회원 약 75만명 개인정보 유출, 과징금 처분 취소 소송 1심 패소",
+ "updated_at": "2026-11-28T09:24:00Z"
+}

@@ -1,0 +1,34 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "국내 1호 소액해외송금업체 이나인페이가 해킹으로 고객 자금 약 25억원을 탈취당했다. 기사는 이를 국내 해킹 사고 가운데 가장 큰 자금 탈취 규모라고 보도했다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-27",
+   "date_text": "11.27",
+   "label": "금융감독원이 이나인페이 해킹 경위를 조사 중인 것으로 보도됨"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "고객 자금 약 25억원 탈취(개인정보 항목 미기재)",
+ "leaked_items_text": "개인정보 유출 여부는 기사에 기재되지 않았고, 고객 자금 약 25억원이 탈취된 것으로 보도됐다 (기사 기재).",
+ "notices": [],
+ "org_name": "이나인페이",
+ "reported_date": "2026-11-27",
+ "response_text": "회사는 해킹을 인지한 뒤 금융당국에 신고했다. 금융감독원이 해킹 경위를 조사하고 있으며, 내용은 청와대에도 보고 중인 것으로 파악됐다 (기사 기재).",
+ "scale_short": "자금 약 25억원 탈취, 해킹 공격 90여 차례",
+ "scale_text": "탈취액은 약 25억원이며, 이나인페이는 90여 차례 해킹 공격을 받았다 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-27-x7a9dc547",
+ "sources": [
+  {
+   "publisher": "www.etnews.com",
+   "title": "[단독]이나인페이 해킹, 25억원 탈취 “최대 규모”",
+   "url": "https://www.etnews.com/20261127000169"
+  }
+ ],
+ "target_text": "소액해외송금업체 이나인페이의 고객 자금 (기사 기재).",
+ "title": "이나인페이 해킹으로 고객 자금 약 25억원 탈취",
+ "updated_at": "2026-11-28T09:23:57Z"
+}

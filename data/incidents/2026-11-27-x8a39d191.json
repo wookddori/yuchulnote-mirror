@@ -1,0 +1,64 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "과학기술정보통신부 우정사업본부는 28일 해외 IP를 통한 외부 해킹 공격으로 등기우편 접수 정보가 유출된 사실을 확인했다고 밝혔다. (기사 기재)",
+ "events": [
+  {
+   "date_iso": "2026-11-17",
+   "date_text": "11.17~11.24",
+   "label": "공격자가 수취인 배달장소 변경서비스에서 등기우편 수취인 정보 조회"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "오전 10시30분쯤 유출 의심 정황 파악, 개인정보보호위원회 신고 및 경찰 수사 의뢰"
+  },
+  {
+   "date_iso": "2025-11-28",
+   "date_text": "11.28",
+   "label": "우정사업본부 유출 사실 확인 및 공식 발표"
+  }
+ ],
+ "investigating": true,
+ "leaked_items_short": "수취인 성명·주소·전화번호",
+ "leaked_items_text": "등기우편물 수취인의 성명, 주소, 전화번호이다. (기사 기재)",
+ "notices": [],
+ "org_name": "우정사업본부(인터넷우체국 모바일)",
+ "reported_date": "2026-11-27",
+ "response_text": "우본은 25일 오전 10시30분쯤 유출 의심 정황을 파악해 개인정보보호위원회에 신고하고 경찰에 수사를 의뢰했다. 수취인 배달장소 변경서비스와 비회원 로그인 기능을 일시 중단하고 우체국 모바일 웹에 접속하는 해외 IP를 차단했다. 규모가 확정되면 고객에게 개별 안내할 계획이다. (기사 기재)",
+ "scale_short": "하루치 기준 11만3855명(법인 포함), 조사 중",
+ "scale_text": "분석이 완료된 하루치 자료 기준으로 법인을 포함해 11만3855명이 확인됐으며, 전체 피해 규모는 조사 중이다. (기사 기재)",
+ "sector": "public",
+ "sector_tags": [],
+ "slug": "2026-11-27-x8a39d191",
+ "sources": [
+  {
+   "publisher": "www.dt.co.kr",
+   "title": "인터넷우체국, 해외IP로 해킹 당해… 유출 피해 하루치만 11만여명",
+   "url": "https://www.dt.co.kr/article/12097685"
+  },
+  {
+   "publisher": "www.chosun.com",
+   "title": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출",
+   "url": "https://www.chosun.com/economy/tech_it/2026/11/28/J7A5Z5JYZFG5HNDDF6GB7N3EMQ/"
+  },
+  {
+   "publisher": "www.hankookilbo.com",
+   "title": "인터넷우체국도 해킹당했다… 최소 11만3855명 개인정보 유출",
+   "url": "https://www.hankookilbo.com/news/article/A2026112801210001124?did=NA"
+  },
+  {
+   "publisher": "news-s.kr",
+   "title": "인터넷우체국 해킹에 개인정보 유출 …하루 치 분석만 11만3855명 확인",
+   "url": "https://news-s.kr/view.html?id=L261128000103a3cd"
+  },
+  {
+   "publisher": "www.yna.co.kr",
+   "title": "인터넷우체국 해킹으로 개인정보 유출 …하루치만 11만3천여명",
+   "url": "https://www.yna.co.kr/view/AKR20261128000900017?input=1195m"
+  }
+ ],
+ "target_text": "인터넷우체국 모바일의 '수취인 배달장소 변경서비스'를 이용하는 등기우편 수취인 고객이다. (기사 기재)",
+ "title": "우정사업본부 인터넷우체국 모바일 해외 IP 해킹으로 등기우편 수취인 정보 유출",
+ "updated_at": "2026-11-28T09:23:59Z"
+}

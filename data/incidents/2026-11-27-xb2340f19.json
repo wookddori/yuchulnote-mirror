@@ -1,0 +1,74 @@
+{
+ "category": "hacking",
+ "confirmed_date": null,
+ "confirmed_text": "과학기술인공제회는 11월 8일 오전 4시 10분경 외부 공격자가 서버의 보안 취약점을 악용해 비인가 접근 후 회원 개인정보를 조회했으며, 같은 날 오후 9시 32분경 사고를 인지하고, 외부 보안 전문기관의 정밀조사를 거쳐 11월 25일 회원정보 유출 사실을 확인했다고 밝혔다 (기사 기재).",
+ "events": [
+  {
+   "date_iso": "2026-11-08",
+   "date_text": "11.8",
+   "label": "외부 공격자가 서버 취약점을 악용해 비인가 접근(오전 4시 10분경)"
+  },
+  {
+   "date_iso": "2026-11-08",
+   "date_text": "11.8",
+   "label": "과학기술인공제회가 사고 인지(오후 9시 32분경), 접근 차단 및 관계기관 신고"
+  },
+  {
+   "date_iso": "2026-11-25",
+   "date_text": "11.25",
+   "label": "외부 보안 전문기관 정밀조사로 회원정보 유출 사실 확인"
+  },
+  {
+   "date_iso": "2026-11-26",
+   "date_text": "11.26",
+   "label": "홈페이지에 유출 사실 공지(오후 7시)"
+  },
+  {
+   "date_iso": "2026-11-27",
+   "date_text": "11.27",
+   "label": "피해 회원에게 안내 문자 발송(오전 9시 이후)"
+  }
+ ],
+ "investigating": false,
+ "leaked_items_short": "주민번호(암호화)·연락처·주소·소속 등 16종",
+ "leaked_items_text": "회원번호, 내부 식별코드 13종, 국·영문 회원명, 주민등록번호(암호화), 출생일자, 로그인 ID, 비밀번호(암호화), 휴대전화번호, 이메일, 직장전화번호, 직장주소, 자택주소, 직장명, 부서명, 직급·직책, 가입·탈퇴일자 등 총 16종 (기사 기재).",
+ "notices": [],
+ "org_name": "과학기술인공제회",
+ "reported_date": "2026-11-27",
+ "response_text": "과학기술인공제회는 비인가 접근을 차단하고 보안 취약점을 보완했으며 관계기관에 신고했다. 11월 26일 오후 7시 홈페이지에 공지를 게시하고 11월 27일 오전 9시 이후 회원에게 안내 문자를 발송했으며, 회원에게 비밀번호 변경과 사칭 전화·문자·이메일 주의를 안내했다 (기사 기재).",
+ "scale_short": "회원정보 약 21만 건",
+ "scale_text": "회원정보 약 21만 건이 유출된 것으로 보도되었으며, 지난해 기준 공제회 가입자는 20만1385명이라고 보도되었다. 나머지 기사에는 건수 기재가 없다 (기사 기재).",
+ "sector": "finance",
+ "sector_tags": [],
+ "slug": "2026-11-27-xb2340f19",
+ "sources": [
+  {
+   "publisher": "www.boannews.com",
+   "title": "과학기술인공제회, 서버 보안 취약점 악용 해킹으로 회원 개인정보 유출",
+   "url": "https://www.boannews.com/news/articleView.html?idxno=147598"
+  },
+  {
+   "publisher": "www.munhwa.com",
+   "title": "과기공제회 21만명 해킹 유출 … 사실상 전체회원 피해",
+   "url": "https://www.munhwa.com/article/11634664"
+  },
+  {
+   "publisher": "www.cwn.kr",
+   "title": "과기공제회, 개인정보 16종 유출 '회원 피해 우려'...사칭 주의 당부",
+   "url": "https://www.cwn.kr/news/articleView.html?idxno=62782"
+  },
+  {
+   "publisher": "www.sedaily.com",
+   "title": "과기공, 해킹공격에 회원 정보 21만 건 유출 [시그널]",
+   "url": "https://www.sedaily.com/article/20119766"
+  },
+  {
+   "publisher": "www.4th.kr",
+   "title": "과학기술인 개인정보 21만건 유출 ..2차 피해 우려",
+   "url": "http://www.4th.kr/news/articleView.html?idxno=2122829"
+  }
+ ],
+ "target_text": "과학기술인공제회 현직 회원 및 과거 탈퇴 회원 (기사 기재).",
+ "title": "과학기술인공제회 서버 해킹으로 회원 개인정보 16종 유출",
+ "updated_at": "2026-11-28T09:23:56Z"
+}

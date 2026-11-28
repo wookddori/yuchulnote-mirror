@@ -3,6 +3,355 @@
   {
    "category": "hacking",
    "confirmed_date": null,
+   "confirmed_text": "2023년 11월 동행복권이 운영하는 복권통합포털에서 해커가 사전에 확보한 회원 아이디(ID) 목록을 바탕으로 비밀번호 변경 기능의 인증 취약점을 이용해 타인 계정의 비밀번호를 변경한 뒤 로그인에 성공했고, 이 과정에서 회원 약 75만명의 개인정보가 외부로 유출되었다. 서울행정법원은 2026년 11월 19일 동행복권이 개인정보보호위원회를 상대로 낸 과징금 부과 처분 취소 소송에서 원고 패소 판결을 내렸다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": null,
+     "date_text": "2023.11",
+     "label": "복권통합포털 해킹으로 회원 정보 유출 발생"
+    },
+    {
+     "date_iso": null,
+     "date_text": "2025.01",
+     "label": "개인정보보호위원회, 과징금 5억300만원·과태료 480만원 부과"
+    },
+    {
+     "date_iso": null,
+     "date_text": "2026.11.19",
+     "label": "서울행정법원, 동행복권의 과징금 취소 소송 원고 패소 판결"
+    },
+    {
+     "date_iso": null,
+     "date_text": "2026.11.28",
+     "label": "판결 내용 보도"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "회원 개인정보(세부 항목 기사 미기재)",
+   "leaked_items_text": "기사에 유출 항목은 구체적으로 기재되어 있지 않고 회원 개인정보로만 표기되었다. (기사 기재)",
+   "notices": [],
+   "org_name": "동행복권",
+   "reported_date": "2026-11-28",
+   "response_text": "개인정보보호위원회는 지난해 1월 전체회의에서 비밀번호 변경 기능 설계·구현 시 인증 보안 취약점 점검과 개선 조치, 이상행위 탐지·차단 안전조치가 미흡했다고 보고 과징금 5억300만원과 과태료 480만원을 부과했다. 동행복권은 처분에 불복해 행정소송을 제기했으나 서울행정법원은 2026년 11월 19일 청구를 기각했다. 재판부는 사고 이후에야 방화벽 차단 등 조치가 이루어졌다고 판단했다. (기사 기재)",
+   "scale_short": "회원 약 75만명",
+   "scale_text": "회원 약 75만명의 개인정보가 유출되었다. (기사 기재)",
+   "sector": "service",
+   "sector_tags": [],
+   "slug": "2026-11-28-x1322f671",
+   "sources": [
+    {
+     "publisher": "www.hidomin.com",
+     "title": "동행복권, 75만명 개인정보 유출 5억 과징금 불복소송서 패소",
+     "url": "https://www.hidomin.com/news/articleView.html?idxno=731378"
+    },
+    {
+     "publisher": "news.tvchosun.com",
+     "title": "75만 명 개인정보 를 유출 한 '동행복권'…法 \"5억원 과징금 적법\"",
+     "url": "https://news.tvchosun.com/site/data/html_dir/2026/11/28/2026112890025.html"
+    },
+    {
+     "publisher": "mbnmoney.mbn.co.kr",
+     "title": "75만명 개인정보 유출 '동행복권'…법원 \"5억원 과징금 적법\"",
+     "url": "http://mbnmoney.mbn.co.kr/news/view?news_no=MM1005972222"
+    },
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "75만명 개인정보 유출 동행복권, 과징금 취소소송 패소…법원, 보안조치 미흡 판단",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209800"
+    },
+    {
+     "publisher": "www.ikbc.co.kr",
+     "title": "'75만 명 개인정보 유출 ' 동행복권, 과징금 5억원 취소 소송 패소",
+     "url": "https://www.ikbc.co.kr/article/view/kbc202611280006"
+    }
+   ],
+   "target_text": "동행복권이 운영하는 복권통합포털 웹사이트 회원 (기사 기재)",
+   "title": "동행복권 복권통합포털 해킹으로 회원 약 75만명 개인정보 유출, 과징금 처분 취소 소송 1심 패소",
+   "updated_at": "2026-11-28T09:24:00Z"
+  },
+  {
+   "category": "misconfig",
+   "confirmed_date": null,
+   "confirmed_text": "국토안전관리원이 2019년 7월부터 지난해 6월까지 신고된 건설사고 사례 자료를 공공데이터포털에 공개하는 과정에서 신고인과 재해자의 개인정보를 삭제하지 않은 사실이 확인됐다. 해당 자료는 이달 초부터 19일까지 누구나 내려받을 수 있는 상태였다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-18",
+     "date_text": "11.18",
+     "label": "국토안전관리원, 개인정보 유출 사실 파악"
+    },
+    {
+     "date_iso": "2026-11-19",
+     "date_text": "11.19",
+     "label": "공공데이터포털에서 해당 파일 삭제"
+    },
+    {
+     "date_iso": "2026-11-20",
+     "date_text": "11.20",
+     "label": "개인정보보호위원회에 신고"
+    },
+    {
+     "date_iso": "2026-11-27",
+     "date_text": "11.27",
+     "label": "SBS 비즈 단독 보도, 더퍼블릭 보도"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "이름·생년월일·휴대전화번호·주민번호·외국인등록번호",
+   "leaked_items_text": "이름, 생년월일, 휴대전화번호, 주민등록번호, 외국인등록번호 (기사 기재)",
+   "notices": [],
+   "org_name": "국토안전관리원",
+   "reported_date": "2026-11-27",
+   "response_text": "국토안전관리원은 18일 유출 사실을 파악하고 19일 공공데이터포털에서 해당 파일을 삭제했으며, 20일 개인정보보호위원회에 신고했다. 구글 등 인터넷상에 남아 있을 수 있는 노출 정보의 삭제를 요청하고, 향후 자료 공개 전 검수 절차를 강화하겠다는 입장을 밝혔다. (기사 기재)",
+   "scale_short": "개인정보 노출 23건(주민번호 9건)",
+   "scale_text": "총 23건의 개인정보 노출 사례가 확인됐으며, 이 중 주민등록번호 포함 9건, 외국인등록번호 포함 2건이다. (기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-27-xfd7e028b",
+   "sources": [
+    {
+     "publisher": "www.thepublic.kr",
+     "title": "국토안전관리원, 주민번호 등 개인정보 유출 …공공기관 개인정보 관리 ...",
+     "url": "https://www.thepublic.kr/news/articleView.html?idxno=328854"
+    }
+   ],
+   "target_text": "2019년 7월부터 지난해 6월까지 건설사고를 신고한 신고인과 재해자 (기사 기재)",
+   "title": "국토안전관리원, 공공데이터포털 공개 자료에 신고인·재해자 개인정보 노출",
+   "updated_at": "2026-11-28T09:23:59Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "과학기술인공제회는 11월 8일 오전 4시 10분경 외부 공격자가 서버의 보안 취약점을 악용해 비인가 접근 후 회원 개인정보를 조회했으며, 같은 날 오후 9시 32분경 사고를 인지하고, 외부 보안 전문기관의 정밀조사를 거쳐 11월 25일 회원정보 유출 사실을 확인했다고 밝혔다 (기사 기재).",
+   "events": [
+    {
+     "date_iso": "2026-11-08",
+     "date_text": "11.8",
+     "label": "외부 공격자가 서버 취약점을 악용해 비인가 접근(오전 4시 10분경)"
+    },
+    {
+     "date_iso": "2026-11-08",
+     "date_text": "11.8",
+     "label": "과학기술인공제회가 사고 인지(오후 9시 32분경), 접근 차단 및 관계기관 신고"
+    },
+    {
+     "date_iso": "2026-11-25",
+     "date_text": "11.25",
+     "label": "외부 보안 전문기관 정밀조사로 회원정보 유출 사실 확인"
+    },
+    {
+     "date_iso": "2026-11-26",
+     "date_text": "11.26",
+     "label": "홈페이지에 유출 사실 공지(오후 7시)"
+    },
+    {
+     "date_iso": "2026-11-27",
+     "date_text": "11.27",
+     "label": "피해 회원에게 안내 문자 발송(오전 9시 이후)"
+    }
+   ],
+   "investigating": false,
+   "leaked_items_short": "주민번호(암호화)·연락처·주소·소속 등 16종",
+   "leaked_items_text": "회원번호, 내부 식별코드 13종, 국·영문 회원명, 주민등록번호(암호화), 출생일자, 로그인 ID, 비밀번호(암호화), 휴대전화번호, 이메일, 직장전화번호, 직장주소, 자택주소, 직장명, 부서명, 직급·직책, 가입·탈퇴일자 등 총 16종 (기사 기재).",
+   "notices": [],
+   "org_name": "과학기술인공제회",
+   "reported_date": "2026-11-27",
+   "response_text": "과학기술인공제회는 비인가 접근을 차단하고 보안 취약점을 보완했으며 관계기관에 신고했다. 11월 26일 오후 7시 홈페이지에 공지를 게시하고 11월 27일 오전 9시 이후 회원에게 안내 문자를 발송했으며, 회원에게 비밀번호 변경과 사칭 전화·문자·이메일 주의를 안내했다 (기사 기재).",
+   "scale_short": "회원정보 약 21만 건",
+   "scale_text": "회원정보 약 21만 건이 유출된 것으로 보도되었으며, 지난해 기준 공제회 가입자는 20만1385명이라고 보도되었다. 나머지 기사에는 건수 기재가 없다 (기사 기재).",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-27-xb2340f19",
+   "sources": [
+    {
+     "publisher": "www.boannews.com",
+     "title": "과학기술인공제회, 서버 보안 취약점 악용 해킹으로 회원 개인정보 유출",
+     "url": "https://www.boannews.com/news/articleView.html?idxno=147598"
+    },
+    {
+     "publisher": "www.munhwa.com",
+     "title": "과기공제회 21만명 해킹 유출 … 사실상 전체회원 피해",
+     "url": "https://www.munhwa.com/article/11634664"
+    },
+    {
+     "publisher": "www.cwn.kr",
+     "title": "과기공제회, 개인정보 16종 유출 '회원 피해 우려'...사칭 주의 당부",
+     "url": "https://www.cwn.kr/news/articleView.html?idxno=62782"
+    },
+    {
+     "publisher": "www.sedaily.com",
+     "title": "과기공, 해킹공격에 회원 정보 21만 건 유출 [시그널]",
+     "url": "https://www.sedaily.com/article/20119766"
+    },
+    {
+     "publisher": "www.4th.kr",
+     "title": "과학기술인 개인정보 21만건 유출 ..2차 피해 우려",
+     "url": "http://www.4th.kr/news/articleView.html?idxno=2122829"
+    }
+   ],
+   "target_text": "과학기술인공제회 현직 회원 및 과거 탈퇴 회원 (기사 기재).",
+   "title": "과학기술인공제회 서버 해킹으로 회원 개인정보 16종 유출",
+   "updated_at": "2026-11-28T09:23:56Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "과학기술정보통신부 우정사업본부는 28일 해외 IP를 통한 외부 해킹 공격으로 등기우편 접수 정보가 유출된 사실을 확인했다고 밝혔다. (기사 기재)",
+   "events": [
+    {
+     "date_iso": "2026-11-17",
+     "date_text": "11.17~11.24",
+     "label": "공격자가 수취인 배달장소 변경서비스에서 등기우편 수취인 정보 조회"
+    },
+    {
+     "date_iso": "2026-11-25",
+     "date_text": "11.25",
+     "label": "오전 10시30분쯤 유출 의심 정황 파악, 개인정보보호위원회 신고 및 경찰 수사 의뢰"
+    },
+    {
+     "date_iso": "2025-11-28",
+     "date_text": "11.28",
+     "label": "우정사업본부 유출 사실 확인 및 공식 발표"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "수취인 성명·주소·전화번호",
+   "leaked_items_text": "등기우편물 수취인의 성명, 주소, 전화번호이다. (기사 기재)",
+   "notices": [],
+   "org_name": "우정사업본부(인터넷우체국 모바일)",
+   "reported_date": "2026-11-27",
+   "response_text": "우본은 25일 오전 10시30분쯤 유출 의심 정황을 파악해 개인정보보호위원회에 신고하고 경찰에 수사를 의뢰했다. 수취인 배달장소 변경서비스와 비회원 로그인 기능을 일시 중단하고 우체국 모바일 웹에 접속하는 해외 IP를 차단했다. 규모가 확정되면 고객에게 개별 안내할 계획이다. (기사 기재)",
+   "scale_short": "하루치 기준 11만3855명(법인 포함), 조사 중",
+   "scale_text": "분석이 완료된 하루치 자료 기준으로 법인을 포함해 11만3855명이 확인됐으며, 전체 피해 규모는 조사 중이다. (기사 기재)",
+   "sector": "public",
+   "sector_tags": [],
+   "slug": "2026-11-27-x8a39d191",
+   "sources": [
+    {
+     "publisher": "www.dt.co.kr",
+     "title": "인터넷우체국, 해외IP로 해킹 당해… 유출 피해 하루치만 11만여명",
+     "url": "https://www.dt.co.kr/article/12097685"
+    },
+    {
+     "publisher": "www.chosun.com",
+     "title": "인터넷우체국 개인정보 털렸다...하루치만 11만명 넘게 유출",
+     "url": "https://www.chosun.com/economy/tech_it/2026/11/28/J7A5Z5JYZFG5HNDDF6GB7N3EMQ/"
+    },
+    {
+     "publisher": "www.hankookilbo.com",
+     "title": "인터넷우체국도 해킹당했다… 최소 11만3855명 개인정보 유출",
+     "url": "https://www.hankookilbo.com/news/article/A2026112801210001124?did=NA"
+    },
+    {
+     "publisher": "news-s.kr",
+     "title": "인터넷우체국 해킹에 개인정보 유출 …하루 치 분석만 11만3855명 확인",
+     "url": "https://news-s.kr/view.html?id=L261128000103a3cd"
+    },
+    {
+     "publisher": "www.yna.co.kr",
+     "title": "인터넷우체국 해킹으로 개인정보 유출 …하루치만 11만3천여명",
+     "url": "https://www.yna.co.kr/view/AKR20261128000900017?input=1195m"
+    }
+   ],
+   "target_text": "인터넷우체국 모바일의 '수취인 배달장소 변경서비스'를 이용하는 등기우편 수취인 고객이다. (기사 기재)",
+   "title": "우정사업본부 인터넷우체국 모바일 해외 IP 해킹으로 등기우편 수취인 정보 유출",
+   "updated_at": "2026-11-28T09:23:59Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
+   "confirmed_text": "국내 1호 소액해외송금업체 이나인페이가 해킹으로 고객 자금 약 25억원을 탈취당했다. 기사는 이를 국내 해킹 사고 가운데 가장 큰 자금 탈취 규모라고 보도했다 (기사 기재).",
+   "events": [
+    {
+     "date_iso": "2026-11-27",
+     "date_text": "11.27",
+     "label": "금융감독원이 이나인페이 해킹 경위를 조사 중인 것으로 보도됨"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "고객 자금 약 25억원 탈취(개인정보 항목 미기재)",
+   "leaked_items_text": "개인정보 유출 여부는 기사에 기재되지 않았고, 고객 자금 약 25억원이 탈취된 것으로 보도됐다 (기사 기재).",
+   "notices": [],
+   "org_name": "이나인페이",
+   "reported_date": "2026-11-27",
+   "response_text": "회사는 해킹을 인지한 뒤 금융당국에 신고했다. 금융감독원이 해킹 경위를 조사하고 있으며, 내용은 청와대에도 보고 중인 것으로 파악됐다 (기사 기재).",
+   "scale_short": "자금 약 25억원 탈취, 해킹 공격 90여 차례",
+   "scale_text": "탈취액은 약 25억원이며, 이나인페이는 90여 차례 해킹 공격을 받았다 (기사 기재).",
+   "sector": "finance",
+   "sector_tags": [],
+   "slug": "2026-11-27-x7a9dc547",
+   "sources": [
+    {
+     "publisher": "www.etnews.com",
+     "title": "[단독]이나인페이 해킹, 25억원 탈취 “최대 규모”",
+     "url": "https://www.etnews.com/20261127000169"
+    }
+   ],
+   "target_text": "소액해외송금업체 이나인페이의 고객 자금 (기사 기재).",
+   "title": "이나인페이 해킹으로 고객 자금 약 25억원 탈취",
+   "updated_at": "2026-11-28T09:23:57Z"
+  },
+  {
+   "category": "vendor",
+   "confirmed_date": null,
+   "confirmed_text": "에어프레미아는 11월 26일 홈페이지 공지로 고객센터 위탁업체 메타엠의 침해사고에 따른 고객정보 유출 가능성을 알렸다. 메타엠은 11월 4일부터 고객상담 시스템에 외부의 불법 접근이 시작된 것으로 추정했고, 11월 12일 불법 접근을 인지해 차단 조치를 했다. 메일 중계 서버와 전화상담 시스템 등 서버 2대의 공격 전후 접속기록이 남아 있지 않아 데이터 접근 여부를 확인할 수 없다. 고객 개인정보가 실제 외부로 유출됐는지는 확인되지 않았다(기사 기재).",
+   "events": [
+    {
+     "date_iso": "2026-11-04",
+     "date_text": "11.04",
+     "label": "메타엠 고객상담 시스템에 외부 불법 접근 시작 추정"
+    },
+    {
+     "date_iso": "2026-11-12",
+     "date_text": "11.12",
+     "label": "메타엠이 고객상담 서비스 장애를 계기로 침해사고 인지 및 차단 조치"
+    },
+    {
+     "date_iso": "2026-11-13",
+     "date_text": "11.13",
+     "label": "메타엠이 한국인터넷진흥원(KISA)에 사고 신고 접수"
+    },
+    {
+     "date_iso": "2026-11-14",
+     "date_text": "11.14",
+     "label": "안내 대상 상담 고객 기간의 종료일"
+    },
+    {
+     "date_iso": "2026-11-23",
+     "date_text": "11.23",
+     "label": "에어프레미아가 메타엠으로부터 서버 2대 접속기록 부재 및 유출 가능성 통보 수신"
+    },
+    {
+     "date_iso": "2026-11-26",
+     "date_text": "11.26",
+     "label": "에어프레미아가 홈페이지에 고객정보 유출 가능성 긴급 공지 게시"
+    }
+   ],
+   "investigating": true,
+   "leaked_items_short": "이름, 전화번호, 상담 내용, 통화 녹음(가능성)",
+   "leaked_items_text": "유출 가능성이 있는 개인정보는 고객 이름, 전화번호, 상담 내용 및 통화 녹음이다(기사 기재).",
+   "notices": [],
+   "org_name": "에어프레미아(고객상담 수탁사 메타엠)",
+   "reported_date": "2026-11-27",
+   "response_text": "에어프레미아는 메타엠 직원이 사용하는 자사 시스템 계정의 비밀번호를 일괄 초기화하고 접속을 차단했으며 시스템 연동 키를 재발급했다. 메타엠 직원의 내부 시스템 접속기록을 전수 점검하고, 접속기록이 보존되지 않은 원인과 서버별 개인정보 보관 현황, 정밀 조사 결과를 서면으로 제출하도록 메타엠에 요구했다. 메타엠과 관계기관의 조사가 진행 중이다(기사 기재).",
+   "scale_short": "피해 가능 고객 수 미공개",
+   "scale_text": "구체적인 위탁계약 개시일과 전체 피해 가능 고객 수는 공개되지 않았다(기사 기재).",
+   "sector": "leisure",
+   "sector_tags": [],
+   "slug": "2026-11-27-x6bd328bd",
+   "sources": [
+    {
+     "publisher": "www.dailysecu.com",
+     "title": "에어프레미아 고객상담 위탁업체 해킹…고객 개인정보·통화 녹음 유출 가능성",
+     "url": "https://www.dailysecu.com/news/articleView.html?idxno=209785"
+    }
+   ],
+   "target_text": "에어프레미아와 메타엠의 위탁계약 개시일부터 11월 14일까지 에어프레미아 예약센터에 전화로 상담한 고객이 안내 대상이다(기사 기재).",
+   "title": "에어프레미아 고객상담 위탁업체 메타엠 침해사고로 고객정보 유출 가능성",
+   "updated_at": "2026-11-28T09:23:58Z"
+  },
+  {
+   "category": "hacking",
+   "confirmed_date": null,
    "confirmed_text": "수협은행은 외부 해킹 공격으로 고객 54명의 정보가 유출된 사실을 확인하고 금융감독원에 보고했다. 26일 금융권 보도로 알려졌으며 침해 경로와 원인은 분석 중이다 (기사 기재).",
    "events": [
     {
